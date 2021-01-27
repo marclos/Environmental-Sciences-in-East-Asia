@@ -1,9 +1,17 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Environmental Sciences in East Asia"
+author: "EA30E Spring 2021"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Preface
+
+## Context and Positionality
+
+## Revision History and Process
+
+## Acknowledgements
+
+
 
