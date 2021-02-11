@@ -4,3 +4,12 @@ revision-history-and-process
 acknowledgements
 guide-to-co-authors-and-editors
 the-earth-system
+project-guide
+rationale
+stages-of-work-and-milestones
+proposed-schedule
+grading
+using-rmarkdown
+publication-dates
+using-r-markdown
+using-r-to-create-figures
