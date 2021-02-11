@@ -13,3 +13,4 @@ using-rmarkdown
 publication-dates
 using-r-markdown
 using-r-to-create-figures
+fig:maunaloa
