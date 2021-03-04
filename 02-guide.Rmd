@@ -1,2 +1,109 @@
 # Guide to Co-Authors and Editors
 
+
+### Stages of Work and Milestones
+
+
+#### Proposed Schedule
+
+- Feb 12 Assign Authors and Contributors
+- Feb 17 Draft Outline
+- Feb 24 Research Report
+- March 2 Draft Text
+- March 9 Peer Reviews
+- March 20 Revised Text for Grading
+- March 31 Final Revision
+- April 3 Gap Identification
+- April 10 Scoping Research
+- April 17 Draft Outline
+- April 24 Draft Text
+- April 30 Peer Review
+- May X 5, Submission for Grading
+
+
+## Revision History and Process
+
+### Publication Dates
+
+I will regularly push and publish the results of the text based on submissions. 
+
+
+
+### Using R Markdown
+
+In the past, I used \LaTeX to make publication quality text, but because we will to make this into a on-line resource, creating HTML code is a better option. 
+
+R Markdown is a relatively simple language to use and will allow us to integrate text and data science into the web text. 
+
+I have provided some basic resources for R Markdown, but there are numerous electronic resources available for free that can also be consulted.
+
+- [Marc's Video Description](www.tbd.com)
+- [R Studio Tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
+- [R Studio's Cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083)
+
+### Using R to Create Figures
+
+R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it. 
+
+- Axis Labels -- 
+- Axis Text -- Size, Orientation 
+- Captions (usually better than titles)
+- References connecting labels to references
+- ADA accessible (e.g. color impairment mitigation)
+
+```{r, label=updatedata, echo=TRUE, results='hide', eval=FALSE}
+address <- "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
+download.file(address, "maunaloa", quiet = F, mode = "w", cacheOK = T)
+
+maunaloa <- read.table("maunaloa", skip=70)
+names(maunaloa) <- c("year", "month", "decimal.date", "average", "interpolated", "trend", "days")
+maunaloa$average[maunaloa$average==-99.99] <- NA
+maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
+head(maunaloa)
+str(maunaloa)
+write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+```
+
+```{r, label=analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
+maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
+library(tidyverse)
+library(caret)
+library(mgcv)
+
+# Split the data into training and test set
+set.seed(123)
+training.samples <- maunaloa$average %>%
+  createDataPartition(p = 0.8, list = FALSE)
+train.data  <- maunaloa[training.samples, ]
+test.data <- maunaloa[-training.samples, ]
+future.data = max(maunaloa$decimal.date)+1:36/12
+
+# Build the model
+model <- gam(average ~ s(decimal.date), data = maunaloa)
+summary(model)
+# Make predictions
+predictions <- model %>% predict(test.data)
+# Model performance
+data.frame(
+  RMSE = RMSE(predictions, test.data$average),
+  R2 = R2(predictions, test.data$average)
+)
+```
+
+In the case of Figure \@ref(maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
+
+```{r, label=maunaloa, echo=FALSE, fig.cap='Carbon Dioxide Measure on Mauna Loa, HI'}
+theme_set(theme_classic())
+ggplot(train.data, aes(decimal.date, average) ) + 
+#  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
+  geom_line() + xlab("Year") + ylab("Carbon Dioxide (ppm)") +
+  stat_smooth(method = gam, formula = y ~ s(x), color = "red") +
+  theme(axis.text.x = element_text(size=14),
+          axis.text.y = element_text(size=14), 
+          axis.title=element_text(size=14))
+
+```
+
+
+
+## Acknowledgements

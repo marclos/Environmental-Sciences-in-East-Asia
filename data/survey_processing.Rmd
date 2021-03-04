@@ -1,0 +1,20 @@
+---
+title: "Survey_Results"
+author: "Marc Los Huertos"
+date: "2/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+survey.csv <- "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/Matrix_February 12, 2021_13.04.csv"
+survey <- read.csv(survey.csv)
+```
+
+## Survey Proccessing
+
+```{r}
+summary(survey)
+```
+
+
