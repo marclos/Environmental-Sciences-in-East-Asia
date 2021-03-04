@@ -1,1 +1,37 @@
 # The Earth System
+
+## The Sun's Energy and the Earth's Temperature
+
+### The Spectrum of Light Entering and Exiting the Earth's Surface
+
+### The Atmosphere and Greenhouse Effect
+
+## Carbon Biogeochemistry
+
+### Long and Short Time Scales
+
+### Rock Cycle and Geologic Carbon
+
+#### Mountains and Erosion
+
+#### Sea Floor Burial and Carbon Recycling
+
+### Photosynthesis, Respiration, and Biosphere Carbon
+
+## Fossil Fuels and Carbon Dioxide Trends
+
+```{r, label='maunaloa2', echo=FALSE, fig.cap='Carbon Dioxide Measure on Mauna Loa, HI'}
+theme_set(theme_classic())
+ggplot(train.data, aes(decimal.date, average) ) + 
+#  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
+  geom_line() + xlab("Year") + ylab("Carbon Dioxide (ppm)") +
+  stat_smooth(method = gam, formula = y ~ s(x), color = "red") +
+  theme(axis.text.x = element_text(size=14),
+          axis.text.y = element_text(size=14), 
+          axis.title=element_text(size=14))
+
+```
+
+
+
+

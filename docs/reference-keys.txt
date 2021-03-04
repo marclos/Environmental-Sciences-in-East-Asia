@@ -1,4 +1,5 @@
 fig:maunaloa
+fig:maunaloa2
 preface
 context-and-positionality
 project-guide
@@ -12,3 +13,15 @@ using-r-markdown
 using-r-to-create-figures
 acknowledgements
 the-earth-system
+the-suns-energy-and-the-earths-temperature
+the-spectrum-of-light-entering-and-exiting-the-earths-surface
+the-atmosphere-and-greenhouse-effect
+carbon-biogeochemistry
+long-and-short-time-scales
+rock-cycle-and-geologic-carbon
+mountains-and-erosion
+sea-floor-burial-and-carbon-recycling
+photosynthesis-respiration-and-biosphere-carbon
+fossil-fuels-and-carbon-dioxide-trends
+weather-and-climate
+temperature-gradients-and-latitude
