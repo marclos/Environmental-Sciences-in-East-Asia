@@ -2,7 +2,6 @@ fig:maunaloa
 fig:maunaloa2
 preface
 context-and-positionality
-project-guide
 rationale
 guide-to-co-authors-and-editors
 stages-of-work-and-milestones
@@ -12,6 +11,7 @@ publication-dates
 using-r-markdown
 using-r-to-create-figures
 acknowledgements
+critical-zone
 the-earth-system
 the-suns-energy-and-the-earths-temperature
 the-spectrum-of-light-entering-and-exiting-the-earths-surface
@@ -22,6 +22,6 @@ rock-cycle-and-geologic-carbon
 mountains-and-erosion
 sea-floor-burial-and-carbon-recycling
 photosynthesis-respiration-and-biosphere-carbon
-fossil-fuels-and-carbon-dioxide-trends
-weather-and-climate
+id
+monsoons-and-climate-change
 temperature-gradients-and-latitude

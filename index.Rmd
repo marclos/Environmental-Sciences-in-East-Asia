@@ -9,7 +9,6 @@ site: bookdown::bookdown_site
 
 ## Context and Positionality
 
-## Project Guide
 
 ### Rationale
 

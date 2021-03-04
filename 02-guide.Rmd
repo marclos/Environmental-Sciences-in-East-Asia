@@ -90,9 +90,9 @@ data.frame(
 )
 ```
 
-In the case of Figure \@ref(maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
+In the case of Figure \@ref(fig:maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
 
-```{r, label=maunaloa, echo=FALSE, fig.cap='Carbon Dioxide Measure on Mauna Loa, HI'}
+```{r, maunaloa, echo=FALSE, fig.cap='Carbon Dioxide Measure on Mauna Loa, HI'}
 theme_set(theme_classic())
 ggplot(train.data, aes(decimal.date, average) ) + 
 #  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
