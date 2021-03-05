@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 2 Guide to Co-Authors and Editors | Environmental Sciences in East Asia</title>
-  <meta name="description" content="Chapter 2 Guide to Co-Authors and Editors | Environmental Sciences in East Asia" />
+  <title>Chapter 6 Air Pollution in East Asia | Environmental Sciences in East Asia</title>
+  <meta name="description" content="Chapter 6 Air Pollution in East Asia | Environmental Sciences in East Asia" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 2 Guide to Co-Authors and Editors | Environmental Sciences in East Asia" />
+  <meta property="og:title" content="Chapter 6 Air Pollution in East Asia | Environmental Sciences in East Asia" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 2 Guide to Co-Authors and Editors | Environmental Sciences in East Asia" />
+  <meta name="twitter:title" content="Chapter 6 Air Pollution in East Asia | Environmental Sciences in East Asia" />
   
   
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="critical-zone.html"/>
+<link rel="prev" href="monsoons-and-climate-change.html"/>
+<link rel="next" href="air-pollution.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -314,77 +314,119 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="guide-to-co-authors-and-editors" class="section level1">
-<h1><span class="header-section-number">Chapter 2</span> Guide to Co-Authors and Editors</h1>
-<div id="stages-of-work-and-milestones" class="section level3">
-<h3><span class="header-section-number">2.0.1</span> Stages of Work and Milestones</h3>
-<div id="proposed-schedule" class="section level4">
-<h4><span class="header-section-number">2.0.1.1</span> Proposed Schedule</h4>
-<ul>
-<li>March 4 Updated Outline</li>
-<li>March 5 Writing Partners</li>
-<li>March 20 Draft Text</li>
-<li>March XX Peer Review</li>
-<li>April XX Revision</li>
-<li>May X 5, Submission for Grading</li>
-</ul>
+<div id="air-pollution-in-east-asia" class="section level1">
+<h1><span class="header-section-number">Chapter 6</span> Air Pollution in East Asia</h1>
+<div id="science-of-air-pollution" class="section level3">
+<h3><span class="header-section-number">6.0.1</span> Science of Air Pollution</h3>
+<div id="overview-of-the-layers-of-the-atmosphereatmospheric-gases" class="section level4">
+<h4><span class="header-section-number">6.0.1.1</span> Overview of the layers of the atmosphere/atmospheric gases</h4>
 </div>
 </div>
-<div id="revision-history-and-process" class="section level2">
-<h2><span class="header-section-number">2.1</span> Revision History and Process</h2>
-<div id="publication-dates" class="section level3">
-<h3><span class="header-section-number">2.1.1</span> Publication Dates</h3>
-<p>I will regularly push and publish the results of the text based on submissions.</p>
+<div id="what-part-of-the-atmosphere-does-air-pollution-affect" class="section level3">
+<h3><span class="header-section-number">6.0.2</span> What part of the atmosphere does air pollution affect?</h3>
 </div>
-<div id="using-r-markdown" class="section level3">
-<h3><span class="header-section-number">2.1.2</span> Using R Markdown</h3>
-<p>In the past, I used to make publication quality text, but because we will to make this into a on-line resource, creating HTML code is a better option.</p>
-<p>R Markdown is a relatively simple language to use and will allow us to integrate text and data science into the web text.</p>
-<p>I have provided some basic resources for R Markdown, but there are numerous electronic resources available for free that can also be consulted.</p>
-<ul>
-<li><a href="www.tbd.com">Marc’s Video Description</a></li>
-<li><a href="https://rmd4sci.njtierney.com/">RMarkdown for Scientists (super helpful!)</a></li>
-<li><a href="https://rmarkdown.rstudio.com/lesson-1.html">R Studio Tutorial</a></li>
-<li><a href="https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083">R Studio’s Cheatsheet</a></li>
-<li><a href="https://bookdown.org/yihui/rmarkdown-cookbook">R Markdown Cookbook – Robust Source</a></li>
-</ul>
-</div>
-<div id="using-r-to-create-figures" class="section level3">
-<h3><span class="header-section-number">2.1.3</span> Using R to Create Figures</h3>
-<p>R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it.</p>
-<ul>
-<li>Axis Labels –</li>
-<li>Axis Text – Size, Orientation</li>
-<li>Captions (usually better than titles)</li>
-<li>References connecting labels to references</li>
-<li>ADA accessible (e.g. color impairment mitigation)</li>
-</ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1">address &lt;-<span class="st"> &quot;ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt&quot;</span></a>
-<a class="sourceLine" id="cb1-2" data-line-number="2"><span class="kw">download.file</span>(address, <span class="st">&quot;maunaloa&quot;</span>, <span class="dt">quiet =</span> F, <span class="dt">mode =</span> <span class="st">&quot;w&quot;</span>, <span class="dt">cacheOK =</span> T)</a>
-<a class="sourceLine" id="cb1-3" data-line-number="3"></a>
-<a class="sourceLine" id="cb1-4" data-line-number="4">maunaloa &lt;-<span class="st"> </span><span class="kw">read.table</span>(<span class="st">&quot;maunaloa&quot;</span>, <span class="dt">skip=</span><span class="dv">70</span>)</a>
-<a class="sourceLine" id="cb1-5" data-line-number="5"><span class="kw">names</span>(maunaloa) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;year&quot;</span>, <span class="st">&quot;month&quot;</span>, <span class="st">&quot;decimal.date&quot;</span>, <span class="st">&quot;average&quot;</span>, <span class="st">&quot;interpolated&quot;</span>, <span class="st">&quot;trend&quot;</span>, <span class="st">&quot;days&quot;</span>)</a>
-<a class="sourceLine" id="cb1-6" data-line-number="6">maunaloa<span class="op">$</span>average[maunaloa<span class="op">$</span>average<span class="op">==-</span><span class="fl">99.99</span>] &lt;-<span class="st"> </span><span class="ot">NA</span></a>
-<a class="sourceLine" id="cb1-7" data-line-number="7">maunaloa &lt;-<span class="st"> </span><span class="kw">data.frame</span>(<span class="dt">year=</span>maunaloa<span class="op">$</span>year, <span class="dt">month=</span>maunaloa<span class="op">$</span>month, <span class="dt">decimal.date=</span>maunaloa<span class="op">$</span>decimal.date, <span class="dt">average=</span>maunaloa<span class="op">$</span>average)</a>
-<a class="sourceLine" id="cb1-8" data-line-number="8"><span class="kw">head</span>(maunaloa)</a>
-<a class="sourceLine" id="cb1-9" data-line-number="9"><span class="kw">str</span>(maunaloa)</a>
-<a class="sourceLine" id="cb1-10" data-line-number="10"><span class="kw">write.csv</span>(maunaloa, <span class="dt">file =</span> <span class="st">&quot;/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv&quot;</span>, <span class="dt">eol =</span> <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>, <span class="dt">row.names =</span> F)</a></code></pre></div>
-<p>In the case of Figure <a href="guide-to-co-authors-and-editors.html#fig:maunaloa">2.1</a>, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a “alt text” for the figure is something we might want to consider.</p>
-<div class="figure"><span id="fig:maunaloa"></span>
-<img src="bookdownproj_files/figure-html/maunaloa-1.png" alt="Carbon Dioxide Measure on Mauna Loa, HI" width="672" />
-<p class="caption">
-Figure 2.1: Carbon Dioxide Measure on Mauna Loa, HI
-</p>
+<div id="what-is-air-pollution" class="section level3">
+<h3><span class="header-section-number">6.0.3</span> What is air pollution?</h3>
+<div id="overview-of-different-types-of-air-pollution" class="section level4">
+<h4><span class="header-section-number">6.0.3.1</span> Overview of different types of air pollution</h4>
 </div>
 </div>
-<div id="references" class="section level3">
-<h3><span class="header-section-number">2.1.4</span> References</h3>
-<p><span class="citation">(Wickham 2016)</span></p>
+<div id="major-sources-use-as-geographical-overview" class="section level3">
+<h3><span class="header-section-number">6.0.4</span> Major Sources → Use as geographical overview</h3>
+<div id="general-common-sources-of-air-pollution-all-over-the-world" class="section level4">
+<h4><span class="header-section-number">6.0.4.1</span> General common sources of air pollution all over the world</h4>
+</div>
+<div id="east-asian-countriescommunities-and-their-prominent-air-pollution-sources" class="section level4">
+<h4><span class="header-section-number">6.0.4.2</span> East Asian countries/communities and their prominent air pollution sources</h4>
+<div id="shipping" class="section level5">
+<h5><span class="header-section-number">6.0.4.2.1</span> Shipping</h5>
+</div>
+<div id="traffic-emissions" class="section level5">
+<h5><span class="header-section-number">6.0.4.2.2</span> Traffic Emissions</h5>
 </div>
 </div>
-<div id="acknowledgements" class="section level2">
-<h2><span class="header-section-number">2.2</span> Acknowledgements</h2>
+</div>
+<div id="commercial-and-otherwise" class="section level3">
+<h3><span class="header-section-number">6.0.5</span> Commercial and otherwise</h3>
+<div id="coal" class="section level4">
+<h4><span class="header-section-number">6.0.5.1</span> Coal</h4>
+</div>
+<div id="urban-development" class="section level4">
+<h4><span class="header-section-number">6.0.5.2</span> Urban Development</h4>
+</div>
+<div id="manufacturing" class="section level4">
+<h4><span class="header-section-number">6.0.5.3</span> Manufacturing</h4>
+</div>
+<div id="other" class="section level4">
+<h4><span class="header-section-number">6.0.5.4</span> Other</h4>
+</div>
+</div>
+<div id="the-transboundary-issue-and-its-implications-in-regulation-and-politics" class="section level2">
+<h2><span class="header-section-number">6.1</span> The transboundary issue and its implications in regulation and politics</h2>
+<div id="impacts" class="section level3">
+<h3><span class="header-section-number">6.1.1</span> Impacts</h3>
+<div id="human-health" class="section level4">
+<h4><span class="header-section-number">6.1.1.1</span> Human health</h4>
+<div id="environmental-health" class="section level5">
+<h5><span class="header-section-number">6.1.1.1.1</span> Environmental Health</h5>
+</div>
+</div>
+<div id="greenhouse-gas-emissions-and-global-warming" class="section level4">
+<h4><span class="header-section-number">6.1.1.2</span> Greenhouse gas emissions and global warming</h4>
+</div>
+<div id="both" class="section level4">
+<h4><span class="header-section-number">6.1.1.3</span> Both</h4>
+</div>
+</div>
+<div id="visibility" class="section level3">
+<h3><span class="header-section-number">6.1.2</span> Visibility</h3>
+<div id="environmental-justice" class="section level4">
+<h4><span class="header-section-number">6.1.2.1</span> Environmental Justice</h4>
+</div>
+</div>
+</div>
+<div id="case-study-hong-kong" class="section level2">
+<h2><span class="header-section-number">6.2</span> Case Study: Hong Kong</h2>
+<div id="the-intersection-of-air-pollution-and-other-environmental-issues" class="section level3">
+<h3><span class="header-section-number">6.2.1</span> The Intersection of Air Pollution and Other Environmental Issues</h3>
+<div id="many-environmental-issues-are-interconnected" class="section level4">
+<h4><span class="header-section-number">6.2.1.1</span> Many environmental issues are interconnected</h4>
+</div>
+<div id="air-pollution-and-deforestation" class="section level4">
+<h4><span class="header-section-number">6.2.1.2</span> Air pollution and deforestation</h4>
+</div>
+</div>
+<div id="air-pollution-and-urbanizationindustrialization" class="section level3">
+<h3><span class="header-section-number">6.2.2</span> Air pollution and urbanization/industrialization</h3>
+</div>
+<div id="other-issues-to-explore" class="section level3">
+<h3><span class="header-section-number">6.2.3</span> Other Issues (To Explore)</h3>
+</div>
+</div>
+<div id="goalsother-ideasquestions" class="section level2">
+<h2><span class="header-section-number">6.3</span> Goals/Other Ideas/Questions</h2>
+<div id="ground-information-in-geography-and-relevant-examples" class="section level3">
+<h3><span class="header-section-number">6.3.1</span> Ground information in geography and relevant examples</h3>
+</div>
+<div id="incorporate-stories-and-person-accounts" class="section level3">
+<h3><span class="header-section-number">6.3.2</span> Incorporate stories and person accounts</h3>
+</div>
+<div id="slow-violence-environmental-justice-issues" class="section level3">
+<h3><span class="header-section-number">6.3.3</span> slow violence → environmental justice issues</h3>
+</div>
+<div id="maybe-activist-or-someone-who-has-suffered-the-issues-firsthand" class="section level3">
+<h3><span class="header-section-number">6.3.4</span> Maybe activist or someone who has suffered the issues firsthand</h3>
+<div id="draw-people-into-the-empathy" class="section level4">
+<h4><span class="header-section-number">6.3.4.1</span> Draw people into the empathy</h4>
+</div>
+<div id="use-stories-and-descriptions-to-describe-places" class="section level4">
+<h4><span class="header-section-number">6.3.4.2</span> Use stories and descriptions to describe places</h4>
+</div>
+<div id="what-is-the-best-way-to-section-the-chapter" class="section level4">
+<h4><span class="header-section-number">6.3.4.3</span> What is the best way to section the chapter?</h4>
 
+</div>
+</div>
 </div>
 </div>
             </section>
@@ -392,8 +434,8 @@ Figure 2.1: Carbon Dioxide Measure on Mauna Loa, HI
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="critical-zone.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="monsoons-and-climate-change.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="air-pollution.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -424,7 +466,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/marclos/Environmental-Sciences-in-East-Asia/edit/master/01-guide.Rmd",
+"link": "https://github.com/marclos/Environmental-Sciences-in-East-Asia/edit/master/07-Air-Pollution.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -432,7 +474,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/marclos/Environmental-Sciences-in-East-Asia/blob/master/01-guide.Rmd",
+"link": "https://github.com/marclos/Environmental-Sciences-in-East-Asia/blob/master/07-Air-Pollution.Rmd",
 "text": null
 },
 "download": null,

@@ -1,0 +1,24 @@
+# Critical Zone
+
+The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
+
+The critical zone includes the following:
+
+\begin{itemize}
+  \item A permeable layer from the tops of the trees to the bottom of the groundwater.
+
+  \item An environment where rock, soil, water, air, and living organisms interact and shape the Earth's surface.
+
+  \item Water and atmospheric gases move through the porous Critical Zone, and living systems thrive in its surface and subsurface environments, shaped over time by biota, geology, and climate.
+  
+\end{itemize}
+
+All this activity transforms rock and biomass into the central component of the Critical Zone - soil; it also creates one of the most heterogenous and complex regions on Earth.
+
+Its complex interactions regulate the natural habitat and determine the availability of life-sustaining resources, such as food production and water quality.
+
+These are but two of the many benefits or services provided by the Critical Zone. Such `Critical-Zone Services' expand upon the benefits provided by ecosystems to also include the coupled hydrologic, geochemical, and geomorphic processes that underpin those ecosystems.
+
+```{r criticalzone, echo=FALSE, fig.align = 'full', out.width = "150%", fig.cap = "The Critical Zone is an interdisciplinary field of research exploring the interactions among the land surface, vegetation, and water bodies, and extends through the pedosphere, unsaturated vadose zone, and saturated groundwater zone. Critical Zone science is the integration of Earth surface processes (such as landscape evolution, weathering, hydrology, geochemistry, and ecology) at multiple spatial and temporal scales and across anthropogenic gradients. These processes impact mass and energy exchange necessary for biomass productivity, chemical cycling, and water storage."}
+knitr::include_graphics(here::here("images/Chap02", "criticalzone.jpg"))
+```

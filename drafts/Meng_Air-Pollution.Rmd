@@ -1,0 +1,29 @@
+---
+title: "Air Pollution"
+author: "Fia Meng"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Air pollution is a particularly pronounced issue within East Asia. It has been acknowledged to be a health crisis by organizations such as UNICEF.
+
+Many countries rely on less efficient methods of fuel, especially in less developed countries such as Mongolia, which leans heavily on coal usage during the winter. Coal makes up ninety percent of fuel usage and resultant emissions within East Asia.
+
+Air pollution affects more than the obvious organ, lungs, it has been proven to be harmful to developing fetuses and the female reproductive system.
+
+While the population understands (and suffers) under the effects of low-efficiency fuel, there is no easily attained replacement or solution. 
+
+More expensive options cannot be afforded by those
+who only use coal.
+
+While the past year of COVID quarantine has been detrimental in many ways, the cessation of the majority of human movement has led to some noticeable improvements in various ways regarding the environment.
+
+During the lunar new year period of 2020, air pollution, measured by way of PM 2.5 particles, in China decreased in comparison to previous years by fifty percent.
+
+China, in past years, has implemented legislation seeking to limit the number of cars legally allowed to be driven on any given day. This plan has been successful in some ways.
+
+There have also been other solutions, broader and much slower to implement such as population growth restriction. However, many countries cannot afford to do this. In Japan’s case, already, their declining birth rate dictates an extreme generational imbalance.

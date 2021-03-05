@@ -6,18 +6,11 @@
 
 #### Proposed Schedule
 
-- Feb 12 Assign Authors and Contributors
-- Feb 17 Draft Outline
-- Feb 24 Research Report
-- March 2 Draft Text
-- March 9 Peer Reviews
-- March 20 Revised Text for Grading
-- March 31 Final Revision
-- April 3 Gap Identification
-- April 10 Scoping Research
-- April 17 Draft Outline
-- April 24 Draft Text
-- April 30 Peer Review
+- March 4 Updated Outline
+- March 5 Writing Partners
+- March 20 Draft Text
+- March XX Peer Review
+- April XX Revision
 - May X 5, Submission for Grading
 
 
@@ -38,8 +31,10 @@ R Markdown is a relatively simple language to use and will allow us to integrate
 I have provided some basic resources for R Markdown, but there are numerous electronic resources available for free that can also be consulted.
 
 - [Marc's Video Description](www.tbd.com)
+- [RMarkdown for Scientists (super helpful!)](https://rmd4sci.njtierney.com/)
 - [R Studio Tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
 - [R Studio's Cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083)
+- [R Markdown Cookbook -- Robust Source](https://bookdown.org/yihui/rmarkdown-cookbook)
 
 ### Using R to Create Figures
 
@@ -104,6 +99,8 @@ ggplot(train.data, aes(decimal.date, average) ) +
 
 ```
 
+### References
 
+[@ggplot2]
 
 ## Acknowledgements

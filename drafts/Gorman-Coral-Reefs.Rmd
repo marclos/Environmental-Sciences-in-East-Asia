@@ -1,0 +1,81 @@
+---
+title: "Coral Reefs"
+author: "David Gorman"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Coral Reef Overview
+
+### Coral Reef Ecosystem
+
+### Coral and How it Works
+
+### Coral Reef Creatures and Food Web
+
+### Coral Reef Climate and Necessary Nutrients (What it needs to survive)
+
+### Coral Reef Locations
+
+## Examination of Specific Countries Coral Reef (Lead into issues)
+### Philippines
+
+### Indonesia
+
+## Climate Change and Coral Reefs
+
+### Rising Sea Level ? - Human Displacement? - will it effect reefs
+
+### Ocean Acidification - Rstudio pH data? 
+
+### Warming Ocean - “Cooking” of Coral - Rstudio water temp data?
+
+### Coral Bleaching 
+
+## Unsustainable Fishing 
+
+### Live Reef Fish Trade - Philippines
+
+### Blast/Cyanide Fishing - Indonesia
+
+### Nursery Fishing/Spawning Aggregation Fishing
+
+### Indiscriminate Fishing - Bottom Trawling 
+
+## Pollution to Reefs
+
+### Marine Debris
+
+### Oil Spills and Ocean Contaminants
+
+### Urban Development and Industrialization
+
+### Deforestation and Agriculture
+
+### Coral Diseases
+
+## Human Benefits of Coral Reefs
+
+### Medicine and BioMed
+
+### Food Source
+
+### Tourism (Positive and Negative)
+
+## Native People Group and Their Reliance?(Bring Back to X.2 - show why important)
+
+### Philippines Case Study
+
+### Indonesia Case Study
+
+## What is Being Done
+
+### Grassroots and Community Movements
+
+## Nationwide Movements
+
+## International Organizations - NGOs and Relief Agencies

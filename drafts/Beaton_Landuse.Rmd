@@ -1,0 +1,107 @@
+---
+title: 'Land Use in East Asia'
+author: "Samantha Beaton"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# What is Land Use Change?
+
+Simply, the ways in which land is converted or transformed by humans to serve another purpose than its previous. In a largely industrial, capitalist society, land conversion is most often described by its function in regional economics.
+
+<span style="color: red;">Yes, certainly a good textbook definition. let's see if we can really engage the reader with this. I don't have a suggestion, but here is an example....[https://en.wikipedia.org/wiki/Land_reclamation_in_Singapore](Land Reclamation in Singapore). 
+</span>
+
+## What Factors Drive Land Use Change?
+
+- Influenced by both proximite (direct changes to environment from proximate sources) and underlying forces (indicative of larger social/biophysical processes that drive change) that set certain conditions specific to the place 
+
+- Underlying forces are largely considered to include economic, policy and institutional, technological, sociopolitical and cultural, demographic factors
+
+- As used in a study analyzing land-use change across 8 regions in SE Asia over 10 years, proximite causes focused on agricultural expansion, wood extraction, and infrastructural development as the main factors, with space for others in a miscellaneous category (Fox and Vogler)
+
+- In corroboration with previous research, this study found that multiple causes contributed to land use change, with agriculture being a common thread. On the underlying level, state policies (especially in relation to climate and property rights) influenced these motivations the strongest → market pressures (establishment of commercial agriculture) + impact of national land tenure systems that determine land ownership
+
+<span style="color: red;">You might put this in context of a 300 year history!  Pretty cool:  [https://www.worldscientific.com/doi/10.1142/9789814651783_0001?utm_source=TrendMD&utm_medium=cpc&utm_campaign=World_Scientific_TrendMD_0](Land-Use Changes in China During the Past 300 Years). I also wonder if you might create some contrasting changes as Fox and Volger does -- that study sounds really good, so I look foward to see you manage this.
+</span>
+
+# How Land Use Change is Measured and Quantified
+
+- Integration of sociology: (semi)formal interviews to understand local socioeconomic and institutional factors, as well as to gain an understanding of land change through recent history
+
+- ...with data science: spatial data compiled from aerial photos, Landsat satellite images,
+topographic maps, GPS data, etc.
+
+- Requires classification and division of land-space types
+https://www.tandfonline.com/doi/abs/10.1080/15481603.2018.1533680
+
+- Ecological Effects of Land Use Change on Soil, Air, and Water
+Land use change is associated with deforestation and the general destruction of land (at least the land that
+existed upon conversion), and is thus the biggest driver in terrestrial biodiversity loss. What other
+long-term impacts does land use change have on the environment?
+
+<span style="color: red;">These are really good questions -- but I think we need to link these to concrete environmental outcomes that we can relate to. I don't know if anyone can relate to "land use" by itself -- usually it's associated with other environmental values. I wonder why that is?? I wonder if you can use this chapter to reframe that into a innate reason to care about land use??  Let's brainstorm some ideas.
+</span>
+
+<span style="color: red;">
+
+</span>
+### Impacts on Soil
+
+- Deforestation and soil degradation → lack of stability (erosion) and loss of carbon sequestration
+potential
+
+<span style="color: red;">
+This is good -- connects to many themes in the class, but could be a chapter by itself!  Let's see which of these is most interesting to you and maybe we can swing the chapter focus on one or more of these.
+</span>
+- Forests, by far, hold the lowest soil erosion value, certainly in comparison to semi-natural
+and cropland vegetations (Bonelli, et al.)
+
+<span style="color: red;">
+This sounds super compelling!  
+</span>
+- Estimated that approximately 12.5% up to 17% of carbon emissions have originated from loss during land use and land cover changes (Houghton, et al., Paustian, et al.)
+
+<span style="color: red;">
+Is this globally and or recent?  12-17 / year? or all the emmisons since 1750? This could be a really important number!
+</span>
+
+
+- Often coupled with monoculture agriculture → further hinders soil health
+Figure 2. Global land use change and soil erosion estimates, measured on a scale of severity. As denoted
+by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other
+regions in the world (Borelli, et al.).
+Example Case Study: representative of monoculture agriculture—rice paddies in SE Asia (potentially…)
+
+<span style="color: red;">
+You could focus on the ag-landuse conversion to be more focused if you'd like.
+</span>
+
+### Impacts on Local Watersheds
+
+- Land-use changes can alter hydrology of land i.e. infiltration/pollution, groundwater recharge, flow of river basins, runoff
+
+- Higher risk of flooding and droughts
+
+<span style="color: red;">
+Really important topic! Now I think you have several chapters -- or you could focus on all these impacts in one region... let's see what you are thinking in a few days!
+
+</span>
+
+# Conclusion & Prospect of Sustainable Urbanization/Land Use Change
+
+- Linking back to the beginning, how has Shenzhen adapted to a more sustainable urbanization campaign?
+
+<span style="color: red;">
+Yes, and the structured economic changes that have accompanied it. Super interesting story here!
+</span>
+
+- Why and how are those developments more sustainable (i.e. certain kinds of agriculture, methods of converting land, etc.)?
+
+<span style="color: red;">
+I wonder if this forces a question: "can land use conversions be sustainable?" There must be a way of addressing this without just throwing our hands up and saying -- all land use is bad. Since it's a process that we can't really control, which is weird (but only partially true), we have to come to terms with it and/or develop a better understanding how how we can manage it...
+</span>

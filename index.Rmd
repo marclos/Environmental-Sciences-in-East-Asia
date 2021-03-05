@@ -3,6 +3,7 @@ title: "Environmental Sciences in East Asia"
 author: "EA30E Spring 2021"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+bibliography: bib/references.bib
 ---
 
 # Preface
