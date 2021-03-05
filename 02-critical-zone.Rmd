@@ -1,4 +1,6 @@
-# Critical Zone
+# Critical Zone^[Acknowledgements -- The chapter was first drafted by Marc Los Huertos (2021) and revised by XXX (2022)]
+
+-- Marc Los Huertos
 
 The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
 

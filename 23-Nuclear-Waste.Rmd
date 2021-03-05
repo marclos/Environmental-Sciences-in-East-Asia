@@ -1,2 +1,7 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Nuclear Power and Nuclear Waste
 

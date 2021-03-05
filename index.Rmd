@@ -2,6 +2,13 @@
 title: "Environmental Sciences in East Asia"
 author: "EA30E Spring 2021"
 date: "`r Sys.Date()`"
+description: "This book introduces ..."
+url: 'https\://marclos.github.io/Environmental-Sciences-in-East-Asia/'
+github-repo: "/marclos/Environmental-Sciences-in-East-Asia"
+cover-image: "images/cover.png"
+output:
+  html_document:
+    df_print: paged
 site: bookdown::bookdown_site
 bibliography: bib/references.bib
 ---
