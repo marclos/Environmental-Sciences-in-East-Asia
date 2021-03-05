@@ -13,11 +13,18 @@ site: bookdown::bookdown_site
 bibliography: bib/references.bib
 ---
 
-# Preface
+# Preface {-}
 
-## Context and Positionality
+Environmental issues in East Asia are not unique or particularly more prevasive than other parts of the world. However, the issues are born from particular histories that may contrast with other parts of the world and other parts of the world may be able to learn from. 
 
+## Rationale {-}
 
-### Rationale
+We hope to learn more about the how environmental issues are expressed in different parts of the world and to what extent can we learn from this work. 
+
+## Context and Positionality {-}
+
+As students in a college course located in Southern California, we approach the project with...
+
+We are not experts, but learning... if there are errors please let us know... We recommend that suggestions be submitted via a github pull request. 
 
 

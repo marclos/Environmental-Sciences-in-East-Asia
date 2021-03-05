@@ -1,10 +1,10 @@
-# Guide to Co-Authors and Editors
+# Guide to Co-Authors and Editors {-}
 
 
-### Stages of Work and Milestones
+### Stages of Work and Milestones {-}
 
 
-#### Proposed Schedule
+#### Proposed Schedule {-}
 
 - March 4 Updated Outline
 - March 5 Writing Partners
@@ -14,15 +14,15 @@
 - May X 5, Submission for Grading
 
 
-## Revision History and Process
+## Revision History and Process {-}
 
-### Publication Dates
+### Publication Dates {-}
 
 I will regularly push and publish the results of the text based on submissions. 
 
 
 
-### Using R Markdown
+### Using R Markdown {-}
 
 In the past, I used \LaTeX to make publication quality text, but because we will to make this into a on-line resource, creating HTML code is a better option. 
 
@@ -36,17 +36,25 @@ I have provided some basic resources for R Markdown, but there are numerous elec
 - [R Studio's Cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083)
 - [R Markdown Cookbook -- Robust Source](https://bookdown.org/yihui/rmarkdown-cookbook)
 
-### Using R to Create Figures
+
+### Basic Text Options
+
+The most often used text options are for superscripts (which have ^) used on both sides of scripted. And for subscripts, we use ~ on both sides of the text to be scripted.
+
+For example, NH~4~^+^ has both!
+
+
+### Using R to Create Figures {-}{#createfigure}
 
 R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it. 
 
-- Axis Labels -- 
+- Axis Labels -- Labelled with clarity 
 - Axis Text -- Size, Orientation 
 - Captions (usually better than titles)
 - References connecting labels to references
 - ADA accessible (e.g. color impairment mitigation)
 
-```{r, label=updatedata, echo=TRUE, results='hide', eval=FALSE}
+```{r, updatedmaunaloa, echo=FALSE, results='hide', eval=FALSE}
 address <- "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
 download.file(address, "maunaloa", quiet = F, mode = "w", cacheOK = T)
 
@@ -59,7 +67,7 @@ str(maunaloa)
 write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
 ```
 
-```{r, label=analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
+```{r, analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
 maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
 library(tidyverse)
 library(caret)
@@ -87,7 +95,7 @@ data.frame(
 
 In the case of Figure \@ref(fig:maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
 
-```{r, maunaloa, echo=FALSE, fig.cap='Carbon Dioxide Measure on Mauna Loa, HI'}
+```{r, maunaloa, echo=FALSE, fig.cap='Carbon Dioxide Concentrations (Mauna Loa, HI). Source: Scripps/NOAA.'}
 theme_set(theme_classic())
 ggplot(train.data, aes(decimal.date, average) ) + 
 #  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
@@ -99,8 +107,12 @@ ggplot(train.data, aes(decimal.date, average) ) +
 
 ```
 
-### References
+### Citations and Cross-References {-}
 
-[@ggplot2]
+We can cross-reference sections (e.g. Section \@ref(earthsystem))  or figures (Figure \@ref(fig:maunaloa)) using several methods. I suggest you look at the this Rmd file to see how I did it in these examples.
 
-## Acknowledgements
+There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'references.bib' and is located in the bib folder in our respository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
+
+Second, we'll need to place in-line citations, using ```[@ggplot2]```, which produces [@ggplot2], by using a key, which is ggplot2 in this case. 
+
+## Acknowledgements {-}

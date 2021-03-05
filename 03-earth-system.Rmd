@@ -1,4 +1,4 @@
-# The Earth System
+# The Earth System {#earthsystem}
 
 ## The Sun's Energy and the Earth's Temperature
 
@@ -30,13 +30,13 @@ The carbon cycle processes occur at wide range of temporal scales from hundreds 
 
 ### Rock Cycle and Geologic Carbon
 
-The carbon cycle describes changes in the fluxes and reservoirs of carbon in the Earth system. On very long time-scales, millions of years, the primary reservoirs of carbon are the atmosphere, ocean, and rocks (limestone). Carbon moves between these reservoirs through volcanic outgassing, silicate weathering, and limestone sedimentation. The carbon cycle is linked to Earth's energy balance through atmospheric carbon in the form of CO2, a greenhouse gas.
+The carbon cycle describes changes in the fluxes and reservoirs of carbon in the Earth system. On very long time-scales, millions of years, the primary reservoirs of carbon are the atmosphere, ocean, and rocks (limestone). Carbon moves between these reservoirs through volcanic outgassing, silicate weathering, and limestone sedimentation. The carbon cycle is linked to Earth's energy balance through atmospheric carbon in the form of CO~2~, a greenhouse gas.
 
 #### Mountains and Erosion
 
 \@ref(fig:carbonpools)
 
-```{r carbonpools, fig.align = 'full', out.width = "150%", fig.cap = "Carbon reservoirs and cycles in the Earth. The figure shows short-and long-term cycles; biosphere and geologic carbon reservoirs and fluxes, and the relative sizes and residence times (y axis) of respective carbon. Numbers in brackets refer to the total mass of carbon in a given reservoir, in Pg C (1Pg C = 10 15 g carbon). All reservoirs are pre-industrial. Abbreviations: C org = organic carbon; DIC = dissolved inorganic carbon; MOR = mid ocean ridge; seds = sedimentary rocks. Adapted from Lee et al. (2019 And references therein)."}
+```{r carbonpools, fig.align = 'full', out.width = "150%", fig.cap = "Carbon reservoirs and cycles in the Earth. The figure shows short-and long-term cycles; biosphere and geologic carbon reservoirs and fluxes, and the relative sizes and residence times (y axis) of respective carbon. Numbers in brackets refer to the total mass of carbon in a given reservoir, in Pg C (1Pg C = 10^15^ g carbon). All reservoirs are pre-industrial. Abbreviations: C org = organic carbon; DIC = dissolved inorganic carbon; MOR = mid ocean ridge; seds = sedimentary rocks. Adapted from Lee et al. (2019 And references therein)."}
 knitr::include_graphics(here::here("images/C03", "Carbon-reservoirs-and-cycles-in-the-Earth.jpg"))
 ```
 
