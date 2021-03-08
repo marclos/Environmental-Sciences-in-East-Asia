@@ -27,7 +27,7 @@ The critical zone as a concept and as a material space pushes us to think of the
 
 ### The Vadose Zone
 
-Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...
+Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...[@lee2017fifty].
 
 ```{r vadose, echo=FALSE, fig.align = 'center', out.width = "100%", fig.cap = "... (Source: [@lee2017fifty])."}
 knitr::include_graphics(here::here("images/Chap02", "Lee_Vadose.png"))
