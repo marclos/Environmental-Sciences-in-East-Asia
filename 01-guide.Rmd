@@ -1,10 +1,10 @@
 # Guide to Co-Authors and Editors {-}
 
 
-### Stages of Work and Milestones {-}
+## Stages of Work and Milestones {-}
 
 
-#### Proposed Schedule {-}
+### Proposed Schedule {-}
 
 - March 4 Updated Outline
 - March 5 Writing Partners
