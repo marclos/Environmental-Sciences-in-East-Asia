@@ -1,5 +1,5 @@
 --- 
-title: "Environmental Sciences in East Asia" - Nora is making a test edit to see if I can make a pull request
+title: "Environmental Sciences in East Asia"
 author: "EA30E Spring 2021"
 date: "`r Sys.Date()`"
 description: "This book introduces ..."
