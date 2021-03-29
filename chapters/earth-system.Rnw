@@ -7,7 +7,7 @@
 The temperture of the Earth's surface is the result of a balance -- the energy entering the atmosphere and the leaving the atmosphere. Most of this energy is in the form of light or electromagnetic radiation (Figure~\ref{fig:earthbudget}). 
 
 \begin{figure}
-\includegraphics{images/earth-system/earth-rad-budget-nasa-erbe.png}
+\includegraphics[width=\linewidth]{images/earth-system/earth-rad-budget-nasa-erbe.png}
 \caption{caption}
 \label{fig:earthbudget}
 \end{figure}

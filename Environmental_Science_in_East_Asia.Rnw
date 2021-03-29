@@ -103,6 +103,9 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-template.Rnw'>>=
 @
  
+<<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
+@
+
 \mainmatter
 
 <<chapterchild, child='chapters/earth-system.Rnw'>>=
