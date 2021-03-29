@@ -1,0 +1,100 @@
+\documentclass{book}
+
+% Preamble
+
+%%%%%%%%%%%%%%%%%%%%%%
+%% PACKAGES
+%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[twoside,letterpaper,width=6in,height=8in]{geometry}
+\usepackage{siunitx} % format units properly
+\usepackage{wrapfig}
+\usepackage[margin=10pt,font=small,labelfont=bf]{caption} % format captions
+\usepackage{booktabs} % nicer tables
+\usepackage{subcaption} 
+\usepackage{csquotes} % block quotes
+\usepackage{tikz}
+\usepackage[inline, shortlabels]{enumitem} % inline enumeration
+%\usepackage[version=4]{mhchem}
+\usepackage{graphicx} % packages are used to modify the text and create bling.
+%\includegraphics{{Home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/images/}}
+\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{natbib}
+\usepackage{glossaries}
+\usepackage{amsmath}%
+\usepackage{amsfonts}%
+\usepackage{amssymb}%
+
+%\usepackage[super,square,comma]{natbib}
+%\usepackage{float}
+%\usepackage{appendix}
+%\usepackage{chngcntr}
+%\usepackage{etoolbox}
+%\usepackage[usenames]{xcolor}% for commenting in color!
+
+
+\RequirePackage{hyperref} % For hyperlinked cross-references
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+
+%----------------------------------------------------------
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgement}[theorem]{Acknowledgement}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+%----------------------------------------------------------
+
+\AtBeginEnvironment{subappendices}{%
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendices}
+%\counterwithin{figure}{section}
+%\counterwithin{table}{section}
+}
+
+\makeatletter
+\newcommand{\chapterauthor}[1]{%
+  {\parindent0pt\vspace*{-25pt}%
+  \linespread{1.1}\large\scshape#1%
+  \par\nobreak\vspace*{35pt}}
+  \@afterheading%
+}
+\makeatother
+
+\renewcommand{\glstextformat}[1]{\textbf{\color{blue}\em #1}}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\CO}{CO$_2$~}
+
+\bibliographystyle{ecology}
+
+<<setup, echo=FALSE>>=
+opts_knit$set(self.contained=FALSE)
+@
+
+\title{Environmental Issues in East Asia}
+\author{EA30e Spring 2021}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+<<chapterchild, child='chapters/01Guide.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/01Template.Rnw'>>=
+@
+\end{document}
