@@ -1,22 +1,34 @@
 \chapter{Author Guide}\label{ch:guide}
 
-\subsection{Why Learn \LaTeX?}
+\subsection*{Why Learn \LaTeX?}
 
-\subsection{How to Learn \LaTeX?}
+\subsection*{How to Learn \LaTeX?}
 
 
+\subsubsection{R Chunks}
 
-\subsection{Noting Your Contribution}
+To create effective graphics, each chapter will have a rchunk that creates a graphic for the chapter. To review and learn R, here are some resources: 
+
+\begin{itemize}
+  \item \href{www.tbd.com}{Marc's Video Description}
+  \item \href{https://rmd4sci.njtierney.com/}{RMarkdown for Scientists (super helpful!)}
+  \item \href{https://rmarkdown.rstudio.com/lesson-1.html}{R Studio Tutorial}
+  \item \href{https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083}{R Studio's Cheatsheet}
+  \item \href{https://bookdown.org/yihui/rmarkdown-cookbook}{R Markdown Cookbook -- Robust Source}
+\end{itemize}
+
+
+\subsection*{Noting Your Contribution}
 
 Because this is an ongoing project, you should record your contribution to each chapter -- but also let go of these contributions at some point; Others might revise and their authorship might take some precedence, so you should both invest in the product but also be willing to detach from the final outcome as others contribute. This will feel uncomfortable at times, but please note from the beginning this is a social process and as such subject to negotiation. Please be generous to the authors that laid the foundation and be respectful of those that follow. 
 
 \section{Setting Up Book Project--Type Setting w/ \LaTeX}
 
-\subsection{The Standard Latex Book Class}
+\subsection*{Latex Book Class}
 
-Currently, the text is written using the standard book class. However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
+Currently, the text is written using the standard book class. %However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
 
-\subsection{Structuring the Text with Nested Hierarchies}
+\subsection*{Structuring the Text with Nested Hierarchies}
 
 Contributors divide their contributions into sections and subsections. This format allows a consistent approach to structuring the text and forcing themes to be organized in blocks that can be used to organize the overall text. We use section, subsection, and subsubsection to break up the topic into bite sizes. 
 
@@ -26,22 +38,15 @@ NOTE: for each nested level, it MUST be followed by the lowest level in the sect
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
 
-\subsection{Font Changes}
+\subsection*{Font Changes}
 
 We can use various methods to alter the typeset: \emph{Emphasize}, \textbf{Bold}, \textit{Italics}, and \textsl{Slanted}. We can also typeset \textrm{Roman}, \textsf{Sans Serif}, \textsc{Small Caps}, and \texttt{Typewriter} texts.  Look online to see the commands to accomplish these changes. 
 
-You can also apply the special, mathematics only commands $\mathbb{BLACKBOARD}$
-$\mathbb{BOLD}$, $\mathcal{CALLIGRAPHIC}$, and $\mathfrak{fraktur}$. Note that
-blackboard bold and calligraphic are correct only when applied to uppercase letters A
-through Z.
+You can also apply the special, mathematics only commands $\mathbb{BLACKBOARD}$, $\mathbb{BOLD}$, $\mathcal{CALLIGRAPHIC}$, and $\mathfrak{fraktur}$. Note that blackboard bold and calligraphic are correct only when applied to uppercase letters A through Z.
 
-You can apply the size tags -- Format menu, Font size submenu -- {\tiny tiny},
-{\scriptsize scriptsize}, {\footnotesize footnotesize}, {\small small}, {\normalsize
-normalsize}, {\large large}, {\Large Large}, {\LARGE LARGE}, {\huge huge} and {\Huge
-Huge}.
+You can apply the size tags -- Format menu, Font size submenu -- {\tiny tiny}, {\scriptsize scriptsize}, {\footnotesize footnotesize}, {\small small}, {\normalsize normalsize}, {\large large}, {\Large Large}, {\LARGE LARGE}, {\huge huge} and {\Huge Huge}.
 
-You can use the \verb"\begin{quote} etc. \end{quote}" environment for typesetting
-short quotations. Select the text then click on Insert, Quotations, Short Quotations:
+You can use the \verb"\begin{quote} etc. \end{quote}" environment for typesetting short quotations. Select the text then click on Insert, Quotations, Short Quotations:
 
 \begin{quote}
 The buck stops here. \emph{Harry Truman}
@@ -54,16 +59,12 @@ I am not a crook. \emph{Richard Nixon}
 I did not have sexual relations with that woman, Miss Lewinsky. \emph{Bill Clinton}
 \end{quote}
 
-The Quotation environment is used for quotations of more than one paragraph. Following
-is the beginning of \emph{The Jungle Books} by Rudyard Kipling. (You should select
-the text first then click on Insert, Quotations, Quotation):
+The Quotation environment is used for quotations of more than one paragraph. Following is the beginning of description of \LaTeX from \emph{Wikipedia}:
 
 \begin{quotation}
-It was seven o'clock of a very warm evening in the Seeonee Hills when Father Wolf woke
-up from his day's rest, scratched himself, yawned  and spread out his paws one after
-the other to get rid of sleepy feeling in their tips. 
+LaTeX (/ˈlɑːtɛx/ LAH-tekh or /ˈleɪtɛx/ LAY-tekh, often stylized as \LaTeX) is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in ``What You See Is What You Get'' word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, and letter), to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A \TeX distribution such as \TeX Live or MiK\TeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.
 
-Mother Wolf lay with her big gray nose dropped across her four tumbling, squealing cubs, and the moon shone into the mouth of the cave where they all lived. ``\emph{Augrh}'' said Father Wolf, ``it is time to hunt again.'' And he was going to spring down hill when a little shadow with a bushy tail crossed the threshold and whined: ``Good luck go with you, O Chief of the Wolves; and good luck and strong white teeth go with the noble children, that they may never forget the hungry in this world.''
+LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, statistics, computer science, engineering, physics, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. \LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.''
 \end{quotation}
 
 Use the Verbatim environment if you want \LaTeX\ to preserve spacing, perhaps when
@@ -79,7 +80,7 @@ void main(void)             // ''main'' method always called first.
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection{Mathematics and Text}
+\subsection*{Mathematics and Text}
 
 \subsubsection{Warning: Special Characters}
 
@@ -230,11 +231,13 @@ You can put your comments in square brackets and in color for things that need h
 
 \subsection{Adding Figures, etc}
 
-\subsection{Using Rnw Files -- Deprecated}
+\subsubsection{Using Rnw Files}
 
-Originally, I used R and Rnw files that were converted to tex files, in Rstudio. However, this step was too complicated for students, so I now recommend the use of tex files and use Rstudio to create figure files as a separate process. Thus, I will no longer explain the process in this document. 
+To generate R figures, we use R chunks in and Rnw file, where the text is integreated. When we compile into a PDF, the program converts the files into TeX files and then combineds them into a single pdf. 
 
-\subsection{Creating a floating figure}
+For each chapter, we create a ``child'' document and Marc will help you create that text when you begin. 
+
+\subsubsection{Creating a floating figure}
 
 This is my floating figure (Figure \ref{fig:plot}).
 
@@ -242,6 +245,77 @@ This is my floating figure (Figure \ref{fig:plot}).
 
 \caption{My plot's caption is here!}
 \label{fig:plot}
+\end{figure}
+
+\subsubsection{Using R to Create Effective Figures}
+
+R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it. 
+
+\begin{itemize}
+  \item Axis Labels -- Labelled with clarity 
+  \item Axis Text -- Size, Orientation 
+  \item Captions (usually better than titles)
+  \item References connecting labels to references
+  \item ADA accessible (e.g. color impairment mitigation)
+\end{itemize}
+
+For example, here's code to generate a pretty good figure: 
+
+<<updatedmaunaloa, echo=FALSE, results='hide', eval=FALSE>>=
+address <- "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
+download.file(address, "maunaloa", quiet = F, mode = "w", cacheOK = T)
+
+maunaloa <- read.table("maunaloa", skip=70)
+names(maunaloa) <- c("year", "month", "decimal.date", "average", "interpolated", "trend", "days")
+maunaloa$average[maunaloa$average==-99.99] <- NA
+maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
+head(maunaloa)
+str(maunaloa)
+write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+@
+
+<<analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE>>=
+maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
+library(dplyr)
+library(tidyverse)
+library(caret)
+library(mgcv)
+
+# Split the data into training and test set
+set.seed(123)
+training.samples <- maunaloa$average %>%
+  createDataPartition(p = 0.8, list = FALSE)
+train.data  <- maunaloa[training.samples, ]
+test.data <- maunaloa[-training.samples, ]
+future.data = max(maunaloa$decimal.date)+1:36/12
+
+# Build the model
+model <- gam(average ~ s(decimal.date), data = maunaloa)
+summary(model)
+# Make predictions
+predictions <- model %>% predict(test.data)
+# Model performance
+data.frame(
+  RMSE = RMSE(predictions, test.data$average),
+  R2 = R2(predictions, test.data$average)
+)
+@
+
+In the case of Figure \ref(fig:maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
+
+\begin{figure}
+<<maunaloa, echo=FALSE>>=
+theme_set(theme_classic())
+ggplot(train.data, aes(decimal.date, average) ) + 
+#  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
+  geom_line() + xlab("Year") + ylab("Carbon Dioxide (ppm)") +
+  stat_smooth(method = gam, formula = y ~ s(x), color = "red") +
+  theme(axis.text.x = element_text(size=14),
+          axis.text.y = element_text(size=14), 
+          axis.title=element_text(size=14))
+@
+\caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Source: Scripps/NOAA.}
+\label{fig:co2-graphic}
 \end{figure}
 
 \subsection{Using Boxes}
@@ -254,20 +328,30 @@ Some text
 \end{minipage}
 }
 
-\subsection{Creating References, Indicies, and Glossaries}
+\subsection{ Cross-References, Citations, and Glossaries}
+
+\subsubsection{Cross-References}
+
+We can cross-reference sections (e.g. Section~\ref{ch:critical-zone}  or figures (Figure~\ref{fig:maunaloa}) using several methods. I suggest you look at the this Rmd file to see how I did it in these examples.
+
+You can also create links to URLs or hyperlinks, e.g. \url{http://texblog.org}. However, if these addresses change, then the link will break, so I suggest you only link to internal references.
 
 \subsubsection{Bibliography generation}
 
-This document was produced in RStudio using the knitr package \citep{knitr2013} by \url{http://texblog.org}. 
+There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our respository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
 
-Also try \citet{fenner2018} to create an author title. 
+Second, we'll need to place in-line citations, using \verb"\citep{knitr}", which produces \citep{knitr}, by using a key, which is knitr in this case. 
 
-Currently, we are using the ecology.bst, but it has trouble with misc type of references, so I will changing this in 2019. 
+For example, you might write, ``This document was produced in RStudio using the knitr package (\citep{knitr}). Also try \verb"\citet{LosHuertos2017OverviewR}" to create use the author name as the subject: \citet{LosHuertos2017OverviewR} wrote an guide to help students learn R. 
+
+Note: You will see these citations automatically put in alphabetic order in the Bibliography at the end of the PDF. 
+
+%Currently, we are using the ecology.bst, but it has trouble with misc type of references, so I will changing this in 2019. 
 
 \subsubsection{Creating glossary words}
  
 \newglossaryentry{peat}{
-	name=Peat, 
+	name=peat, 
 	description={is cool.}
 }
 

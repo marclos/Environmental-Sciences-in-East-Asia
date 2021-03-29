@@ -1,0 +1,105 @@
+\chapter{The Earth System}\label{earthsystem}
+
+\chapterauthor{Marc Los Huertos}
+
+\section{The Sun's Energy and the Earth's Temperature}
+
+The temperture of the Earth's surface is the result of a balance -- the energy entering the atmosphere and the leaving the atmosphere. Most of this energy is in the form of light or electromagnetic radiation \ref{fig:earthbudget}. 
+
+\begin{figure}
+includegraphics{images/earth-system/earth-rad-budget-nasa-erbe.gif}
+\caption{caption}
+\label{fig:earthbudget}
+\end{figure}
+
+Light enters the atmosphere, where some is absorbed and some is reflected. Light interacts in different ways with land, oceans, and vegetation, which is beyond the scope of our project. The ``quality'' of light changes through these processes. 
+
+\subsection{The Spectrum of Light Entering and Exiting the Earth's Surface}
+
+As the sun's electromagnetic radiation interacts with the Earth's Atmosphere, certain wavelengths are absorbed and filtered out \ref{fig:em-entering}.
+
+begin{figure}
+\includegraphics[]{images/earth-system/em-radiation-atmosph-depth-stsci.jpg}
+\caption{Various wavelengths of solar electromagnetic radiation penetrate Earth's atmosphere to various depths. Fortunately for us, all of the high energy X-rays and most UV is filtered out long before it reaches the ground. Much of the infrared radiation is also absorbed by our atmosphere far above our heads. Most radio waves do make it to the ground, along with a narrow `window' of IR, UV, and visible light frequencies. Source: STCI/JHU/NASA.}
+\label{fig:em-entering}
+\end{figure}
+
+\subsection{The Atmosphere and Greenhouse Effect}
+
+
+
+\section{Carbon Biogeochemistry}
+
+\subsection{Long and Short Time Scales}
+
+The carbon cycle processes occur at wide range of temporal scales from hundreds of millions of years to seasons of the year. These have been referred to as long and short carbon cycles. However, for our purposes, I will call them ``geologic carbon'' and ''biosphere carbon'' processes. 
+
+\subsection{Rock Cycle and Geologic Carbon}
+
+The carbon cycle describes changes in the fluxes and reservoirs of carbon in the Earth system. On very long time-scales, millions of years, the primary reservoirs of carbon are the atmosphere, ocean, and rocks (limestone). Carbon moves between these reservoirs through volcanic outgassing, silicate weathering, and limestone sedimentation. The carbon cycle is linked to Earth's energy balance through atmospheric carbon in the form of \carbondioxide, a greenhouse gas.
+
+\subsubsection{Mountains and Erosion}
+
+\ref{fig:carbonpools}
+
+\begin{figure}
+\includegraphics{images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg}
+\caption{Carbon reservoirs and cycles in the Earth. The figure shows short-and long-term cycles; biosphere and geologic carbon reservoirs and fluxes, and the relative sizes and residence times (y axis) of respective carbon. Numbers in brackets refer to the total mass of carbon in a given reservoir, in Pg C (1Pg C = 10^15^ g carbon). All reservoirs are pre-industrial. Abbreviations: C org = organic carbon; DIC = dissolved inorganic carbon; MOR = mid ocean ridge; seds = sedimentary rocks. Adapted from Lee et al. (2019 And references therein).}
+\label{fig:carbonpools}
+\end{figure}
+
+\subsubsection{Subduction Burial and Carbon Recycling}
+
+\ref{(}fig:longtermcarbon}
+
+\begin{figure}
+\includegraphics{images/earth-system/long-term-carbon.gif}
+\caption{Schematic of the long-term carbon cycle (from Bice, 2001)}
+\label{longtermcarbon}
+\end{figure}
+
+\subsection{Photosynthesis, Respiration, and Biosphere Carbon}
+
+\subsubsection{Soil Respiration and the Soil Profile}
+
+Carbon in soils is respired -- but different pools might have different rates of respiration. Sometimes these pools are distinquished as an active soil organic carbon pool and slow soil organic carbon pool. Although the reference of ``slow'' causes confusion with long-term, geologic carbon, but soil organic carbon remains a component of what we are refering to as biosphere carbon. 
+
+The surface of the soil tends to have more SOC and microbes that can use that carbon for respiration. Lower down in the soil profile, we tend to see lower amounts of SOC and lower microbial biomass \ref{fig:soilcarbon}. In addition, soils in the lower part of the profile tend to have more aggregation that protects SOC from microbial attack, thus a key area that soil carbon can seqeustor carbon. 
+
+In addition to these microbial biomass and aggregate patterns, the microbes aree more senstive to temperature changes near the surface as measured by Q10 -- the rate of biochemical processes with a 10 degree C increase in temperature. Thus, soil processes, such as respiration, is likely to increase more near the surface with global warming that the lower part of the soil profile.  
+
+\begin{figure}
+\includegraphics{images/earth-system/Q10-SOC-Regulation.jpg}
+\caption{Regulatory Mechanisms of the Temperature Sensitivity of Soil Organic Matter Decomposition in Alpine Grasslands (Source: \citet{Qineaau1218, CAS2021researchers}).}
+\label{fig:Q10-SOC}
+\end{figure}
+
+
+\section{Fossil Fuels and Carbon Dioxide Trends}\label{sec:fossilfuels}
+
+As part if the industrial revolution, our energy sources have put more \carbondioxide from the biosphere (soils and forests) and geologic carbon (coal, petroleum. 
+
+\subsection{The Signal of Geologic and Biosphere Carbon in Atmosphere}
+
+The combined contribution from geologic and biosphere carbon in the atmosphere is clearly documented from numerous sources. First, look at data collected at the Mauna Loa where \carbondioxide measurements have been taken continuously since the late 1950s. 
+
+Figure \ref{fig:maunaloa2}
+
+\begin{figure}
+<<maunaloa3, echo=FALSE>>=
+theme_set(theme_classic())
+ggplot(train.data, aes(decimal.date, average) ) + 
+#  stat_smooth(method = lm, formula = y ~ poly(x, 3, raw = TRUE), fullrange=T) +
+  geom_line() + xlab("Year") + ylab("Carbon Dioxide (ppm)") +
+  stat_smooth(method = gam, formula = y ~ s(x), color = "red") +
+  theme(axis.text.x = element_text(size=14),
+          axis.text.y = element_text(size=14), 
+          axis.title=element_text(size=14))
+@
+\caption{Carbon Dioxide Measure on Mauna Loa, HI}
+\label{maunaloa2}
+\end{figure}
+
+
+
+

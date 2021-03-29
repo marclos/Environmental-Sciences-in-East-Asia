@@ -1,4 +1,4 @@
-\chapter{Title}
+\chapter{Chapter Title}
 
 \chapterauthor{Chapter Author Name}\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
@@ -42,9 +42,9 @@ All figures and images that are imported should be put into the "images" sudirec
 Figure \ref{fig:vadose} is a good example of this.
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Lee_Vadose}
-\caption{Vadose zone is neato}
+\includegraphics[width=\linewidth]{images/Lee-Vadose}
+\caption{Vadose zone is neato (Source: \citet{lee2017fifty}).}
 \label{fig:vadose}
 \end{figure}
 
-In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to "reference" the figure in the text.
+In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to ``reference'' the figure in the text.

@@ -76,9 +76,7 @@
 \renewcommand{\glstextformat}[1]{\textbf{\color{blue}\em #1}}
 
 \newcommand{\R}{\mathbb{R}}
-\newcommand{\CO}{CO$_2$~}
-
-\bibliographystyle{ecology}
+\newcommand{\carbondioxide}{CO$_2$~}
 
 <<setup, echo=FALSE>>=
 opts_knit$set(self.contained=FALSE)
@@ -91,6 +89,7 @@ opts_knit$set(self.contained=FALSE)
 \begin{document}
 
 \maketitle
+\makeglossaries
 
 \frontmatter
 \tableofcontents
@@ -106,25 +105,54 @@ opts_knit$set(self.contained=FALSE)
  
 \mainmatter
 
+%% chapterchild, child='chapters/earth-system.Rnw'>>=@
+
+<<chapterchild, child='chapters/weather-climate.Rnw'>>=
+@
+
 <<chapterchild, child='chapters/critical-zone.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/land-use.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/air-pollution.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/flood-pulse.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/hydroelectric-dams.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/Myanmar-rice.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/SBE-Vietnam.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/circular-economy.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
+@
+
+
 \backmatter
 
 \part{Backmatter}
 
-The back matter often includes one or more of an index, an afterword,
-acknowledgments, a bibliography, a colophon, or any other similar item. In
-the back matter, chapters do not produce a chapter number, but they are
-entered in the table of contents. If you are not using anything in the back
-matter, you can delete the back matter TeX field and everything that follows it.
+The back matter often includes one or more of an index, an afterword, acknowledgments, a bibliography, a colophon, or any other similar item. In the back matter, chapters do not produce a chapter number, but they are entered in the table of contents. If you are not using anything in the back matter, you can delete the back matter TeX field and everything that follows it.
+
+\printglossary
 
 \renewcommand\bibname{References}
 \setlength{\bibsep}{2\baselineskip}
 \setlength\bibindent{.5in}
+\bibliographystyle{plainnat}
 \bibliography{References}
 
 \end{document}

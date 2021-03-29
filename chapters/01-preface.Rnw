@@ -2,17 +2,28 @@
 
 \section{Guiding Principles}
 
-In this project, the EA030 class in 2021 has written a textbook that highlights examples of environmental processes.
+Environmental issues in East Asia are not unique or particularly more prevasive than other parts of the world. However, the issues are born from particular histories that may contrast with other parts of the world and other parts of the world may be able to learn from. 
 
-Each student contributes to one theme, composed of two examples that highlight environmental issues of East Asia. However, our goal is not to call out environmental issues in East Asia, but to point to linkages of how a range of globalized economy contribute to these environmental problems. 
+In this project, the students in EA030e (Spring 2021) have written a textbook that highlights examples of environmental processes. Each student contributed to one theme, composed of two examples that highlight environmental issues of East Asia. 
 
-In the end, it would be useful for us to acknowledge we have some capacity to address these how these global linkages could be modified to reduce these environmental issues. 
+\subsection{Context and Positionality}
+
+As students in a college course located in Southern California, we approach the project with...
+
+
+Our goal is not to call out environmental issues in East Asia, but to point to linkages of how a range of globalized economy contribute to these environmental problems. 
+
+In the end, it would be useful for us to acknowledge we have some capacity to address these how these global linkages could be modified to reduce these environmental issues.
+
+We are not experts, but learning... if there are errors please let us know... We recommend that suggestions be submitted via a github pull request.
 
 \subsection{Goals}
 
 Processes across horizontal boundaries define many environmental patterns that frame human interactions with the environment. How do humans impact processes that cross these boundaries and how do humans influence these ecosystem interface?
 
 \subsection{Rationale}
+
+We hope to learn more about the how environmental issues are expressed in different parts of the world and to what extent can we learn from this work. 
 
 \subsection{Activity}
 

@@ -1,0 +1,47 @@
+\chapter{Waste Management for a Circular Economy}
+
+\section{Life-Cycle}
+
+\subsection{Collection}
+
+\subsection{Transport}
+
+Treatment
+
+Disposal
+
+Sectors:
+
+Industrial
+
+Household
+
+Biological 
+
+Types of Waste:
+
+Solid:
+
+Liquid
+
+Gaseous waste
+
+\section{Biomimicry}
+
+\subsection{Circularity}
+
+Examples in Nature
+
+Education:
+
+Teach people to be mindful and live sustainably
+
+Social PsychologyProblems and New Approaches: 
+
+Sustainability
+
+Incineration \& Dumping
+
+Recycle \& Reuse
+
+Resource Recovery

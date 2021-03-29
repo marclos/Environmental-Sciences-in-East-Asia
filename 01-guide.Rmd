@@ -30,11 +30,6 @@ R Markdown is a relatively simple language to use and will allow us to integrate
 
 I have provided some basic resources for R Markdown, but there are numerous electronic resources available for free that can also be consulted.
 
-- [Marc's Video Description](www.tbd.com)
-- [RMarkdown for Scientists (super helpful!)](https://rmd4sci.njtierney.com/)
-- [R Studio Tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
-- [R Studio's Cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.107420162.161662097.1613074083-214354297.1613074083)
-- [R Markdown Cookbook -- Robust Source](https://bookdown.org/yihui/rmarkdown-cookbook)
 
 
 ### Basic Text Options
@@ -69,6 +64,7 @@ write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences
 
 ```{r, analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE}
 maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
+library(dplyr)
 library(tidyverse)
 library(caret)
 library(mgcv)
