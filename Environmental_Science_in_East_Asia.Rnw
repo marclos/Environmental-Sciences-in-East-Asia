@@ -92,9 +92,39 @@ opts_knit$set(self.contained=FALSE)
 
 \maketitle
 
-<<chapterchild, child='chapters/01Guide.Rnw'>>=
+\frontmatter
+\tableofcontents
+
+<<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/01Template.Rnw'>>=
+<<chapterchild, child='chapters/01-guide.Rnw'>>=
 @
+
+<<chapterchild, child='chapters/01-template.Rnw'>>=
+@
+ 
+\mainmatter
+
+<<chapterchild, child='chapters/critical-zone.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/air-pollution.Rnw'>>=
+@
+
+\backmatter
+
+\part{Backmatter}
+
+The back matter often includes one or more of an index, an afterword,
+acknowledgments, a bibliography, a colophon, or any other similar item. In
+the back matter, chapters do not produce a chapter number, but they are
+entered in the table of contents. If you are not using anything in the back
+matter, you can delete the back matter TeX field and everything that follows it.
+
+\renewcommand\bibname{References}
+\setlength{\bibsep}{2\baselineskip}
+\setlength\bibindent{.5in}
+\bibliography{References}
+
 \end{document}

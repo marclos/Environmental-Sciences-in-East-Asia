@@ -1,6 +1,8 @@
 \chapter{Critical Zone}
 
-%^[Acknowledgements -- The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from Joey and Chloe to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.]
+\chapterauthor{Marc Los Huertos}
+
+\acknowledgement{The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.}
 
 The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
 
@@ -23,11 +25,11 @@ These are but two of the many benefits or services provided by the Critical Zone
 %knitr::include_graphics(here::here("images/Chap02", "criticalzone.jpg"))
 %```
 
-## What are the environmental implications of the Critical Zone?
+\subsection{What are the environmental implications of the Critical Zone?}
 
 The critical zone as a concept and as a material space pushes us to think of the porousity of the Earth's surface --- the gas and fluid flows through rocks, soils, and plants. We can begin to appreciate the complexity of the transport and fate of chemical pollutants as they enter the soil and become part of the vadose zone and perhaps the ground water table -- moving with water and diffusing through the water, simultaneously. 
 
-### The Vadose Zone
+\section{The Vadose Zone}
 
 Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...[@lee2017fifty].
 

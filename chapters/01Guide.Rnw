@@ -1,2 +1,0 @@
-\chapter{Author Guide}\label{ch:guide}
-\section{this is a test}

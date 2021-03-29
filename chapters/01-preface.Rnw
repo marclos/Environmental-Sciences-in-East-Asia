@@ -1,0 +1,33 @@
+\chapter*{Preface}
+
+\section{Guiding Principles}
+
+In this project, the EA030 class in 2021 has written a textbook that highlights examples of environmental processes.
+
+Each student contributes to one theme, composed of two examples that highlight environmental issues of East Asia. However, our goal is not to call out environmental issues in East Asia, but to point to linkages of how a range of globalized economy contribute to these environmental problems. 
+
+In the end, it would be useful for us to acknowledge we have some capacity to address these how these global linkages could be modified to reduce these environmental issues. 
+
+\subsection{Goals}
+
+Processes across horizontal boundaries define many environmental patterns that frame human interactions with the environment. How do humans impact processes that cross these boundaries and how do humans influence these ecosystem interface?
+
+\subsection{Rationale}
+
+\subsection{Activity}
+
+Each group will be composed of two students, that will become experts and teach their classmates on the topic. 
+
+\section{East Asia and the World}
+
+
+
+
+
+
+
+\section{Acknowledgments}
+
+Everyone in the world!
+
+
