@@ -105,7 +105,8 @@ opts_knit$set(self.contained=FALSE)
  
 \mainmatter
 
-%% chapterchild, child='chapters/earth-system.Rnw'>>=@
+<<chapterchild, child='chapters/earth-system.Rnw'>>=
+@
 
 <<chapterchild, child='chapters/weather-climate.Rnw'>>=
 @
