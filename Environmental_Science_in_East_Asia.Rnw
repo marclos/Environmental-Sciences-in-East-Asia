@@ -32,7 +32,6 @@
 %\usepackage{etoolbox}
 %\usepackage[usenames]{xcolor}% for commenting in color!
 
-
 \RequirePackage{hyperref} % For hyperlinked cross-references
 \hypersetup{
     colorlinks,
