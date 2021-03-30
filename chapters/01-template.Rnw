@@ -1,6 +1,8 @@
 \chapter{Chapter Title}
 
-\chapterauthor{Chapter Author Name}\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
+\chapterauthor{Chapter Author Name}
+
+\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
 \section{Section Heading}% Avoid putting text between section and subsection headings.
 
@@ -35,11 +37,11 @@ plot(pressure)
 
 \end{figure}
 
-\subsection{Imported Figures}
+\subsection{Floating Figures from External Sources}
 
 All figures and images that are imported should be put into the "images" sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
-Figure \ref{fig:vadose} is a good example of this.
+Figure \ref{fig:vadose} is a good example of inserting an image from an external source.
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/Lee-Vadose}

@@ -31,6 +31,9 @@
 \contentsline {section}{\numberline {0.6}Goals of this template}{xiii}{section.0.6}
 \contentsline {section}{\numberline {0.7}Here's figure}{xiii}{section.0.7}
 \contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xiii}{subsection.0.7.1}
+<<<<<<< HEAD
+\contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xv}{subsection.0.7.2}
+=======
 \contentsline {subsection}{\numberline {0.7.2}Imported Figures}{xv}{subsection.0.7.2}
 <<<<<<< HEAD
 \contentsline {section}{\numberline {0.8}Adding Citations}{xv}{section.0.8}
@@ -38,6 +41,7 @@
 \contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xvii}{section.0.9}
 \contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xvii}{subsection.0.9.1}
 =======
+>>>>>>> master
 \contentsline {chapter}{Title...}{xvii}{chapter*.27}
 \contentsline {section}{\numberline {0.8}What the Polar Vortex and why do we care?}{xvii}{section.0.8}
 \contentsline {subsection}{\numberline {0.8.1}What Factors Drive Land Use Change?}{xvii}{subsection.0.8.1}
