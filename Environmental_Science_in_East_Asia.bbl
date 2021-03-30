@@ -1,9 +1,15 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
+Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
+\newblock Urban environmental issues and trends in asia-an overview.
+\newblock \emph{International review for environmental strategies}, 5\penalty0
+  (2):\penalty0 357, 2005.
 
 \bibitem[Institute~of Botany(2021)]{CAS2021researchers}
 Chinese Academy of~Sciences Institute~of Botany.
