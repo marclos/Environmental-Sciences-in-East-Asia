@@ -50,3 +50,12 @@ Figure \ref{fig:vadose} is a good example of inserting an image from an external
 \end{figure}
 
 In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to ``reference'' the figure in the text.
+
+\section{Adding Citations}
+
+See the Guide, as well, but my video is probably the most helpful.
+
+
+Generally, there are many environmental trends in Asia \citep{imura2005urban}.
+
+\citet{imura2005urban} describes the how urbanization has affected the hydrology of East Asia. 
