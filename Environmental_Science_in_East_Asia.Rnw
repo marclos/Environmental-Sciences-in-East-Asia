@@ -122,7 +122,7 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/air-pollution.Rnw'>>=
+<<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/flood-pulse.Rnw'>>=
@@ -132,6 +132,9 @@ opts_knit$set(self.contained=FALSE)
 @
 
 <<chapterchild, child='chapters/Myanmar-rice.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/typhoon-disasters.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/SBE-Vietnam.Rnw'>>=

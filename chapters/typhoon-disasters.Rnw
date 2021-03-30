@@ -1,0 +1,6 @@
+\chapter{Disasters, Typhoons and Phillipines}
+
+\chapterauthor{Ian Horsburgh}
+
+\section{What are Typhoons?}
+
