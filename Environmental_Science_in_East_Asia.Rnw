@@ -119,6 +119,9 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/coral-reefs.Rnw'>>=
+@
+
 <<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
 @
 
