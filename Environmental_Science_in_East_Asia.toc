@@ -7,19 +7,19 @@
 \contentsline {section}{\numberline {0.3}Acknowledgments}{vi}{section.0.3}
 \contentsline {chapter}{Author Guide}{vii}{chapter*.3}
 \contentsline {subsubsection}{R Chunks}{vii}{section*.6}
-\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{vii}{section.0.4}
+\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{viii}{section.0.4}
 \contentsline {subsubsection}{Warning: Special Characters}{ix}{section*.12}
 \contentsline {subsubsection}{Creating equations}{ix}{section*.13}
 \contentsline {subsubsection}{Theorems, etc}{ix}{section*.14}
 \contentsline {subsection}{\numberline {0.4.1}Lists Environments: Making bulletted, numbered, description lists}{x}{subsection.0.4.1}
 \contentsline {subsection}{\numberline {0.4.2}Theorem-Like Environments}{x}{subsection.0.4.2}
 \contentsline {subsection}{\numberline {0.4.3}Peer Review Commenting}{x}{subsection.0.4.3}
-\contentsline {subsection}{\numberline {0.4.4}Adding Figures, etc}{x}{subsection.0.4.4}
-\contentsline {subsubsection}{Using Rnw Files}{x}{section*.15}
+\contentsline {subsection}{\numberline {0.4.4}Adding Figures, etc}{xi}{subsection.0.4.4}
+\contentsline {subsubsection}{Using Rnw Files}{xi}{section*.15}
 \contentsline {subsubsection}{Creating a floating figure}{xi}{section*.16}
 \contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.18}
-\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xi}{subsection.0.4.5}
-\contentsline {subsection}{\numberline {0.4.6}minibox X}{xi}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xii}{subsection.0.4.5}
+\contentsline {subsection}{\numberline {0.4.6}minibox X}{xii}{subsection.0.4.6}
 \contentsline {subsection}{\numberline {0.4.7} Cross-References, Citations, and Glossaries}{xii}{subsection.0.4.7}
 \contentsline {subsubsection}{Cross-References}{xii}{section*.20}
 \contentsline {subsubsection}{Bibliography generation}{xii}{section*.21}
@@ -31,21 +31,11 @@
 \contentsline {section}{\numberline {0.6}Goals of this template}{xiii}{section.0.6}
 \contentsline {section}{\numberline {0.7}Here's figure}{xiii}{section.0.7}
 \contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xiii}{subsection.0.7.1}
-<<<<<<< HEAD
 \contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xv}{subsection.0.7.2}
-=======
-\contentsline {subsection}{\numberline {0.7.2}Imported Figures}{xv}{subsection.0.7.2}
-<<<<<<< HEAD
 \contentsline {section}{\numberline {0.8}Adding Citations}{xv}{section.0.8}
 \contentsline {chapter}{Title...}{xvii}{chapter*.27}
 \contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xvii}{section.0.9}
 \contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xvii}{subsection.0.9.1}
-=======
->>>>>>> master
-\contentsline {chapter}{Title...}{xvii}{chapter*.27}
-\contentsline {section}{\numberline {0.8}What the Polar Vortex and why do we care?}{xvii}{section.0.8}
-\contentsline {subsection}{\numberline {0.8.1}What Factors Drive Land Use Change?}{xvii}{subsection.0.8.1}
->>>>>>> 196f1148446609fb51d9ef93e805ecc4f363b6ba
 \contentsline {chapter}{\numberline {1}The Earth System}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Sun's Energy and the Earth's Temperature}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}The Spectrum of Light Entering and Exiting the Earth's Surface}{1}{subsection.1.1.1}
@@ -71,11 +61,7 @@
 \contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{13}{section.4.2}
 \contentsline {chapter}{\numberline {5}Nuclear Power and Nuclear Waste}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Current and Future Energy Needs}{15}{section.5.1}
-<<<<<<< HEAD
 \contentsline {chapter}{\numberline {6}Air Pollution \& Social Justice in Hong Kong}{17}{chapter.6}
-=======
-\contentsline {chapter}{\numberline {6}Air Pollution in East Asia}{17}{chapter.6}
->>>>>>> 196f1148446609fb51d9ef93e805ecc4f363b6ba
 \contentsline {section}{\numberline {6.1}Science of Air Pollution}{17}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Overview of the layers of the atmosphere/atmospheric gases}{17}{subsection.6.1.1}
 \contentsline {section}{\numberline {6.2}Major Sources → Use as geographical overview}{17}{section.6.2}
@@ -89,7 +75,6 @@
 \contentsline {chapter}{\numberline {9}Climate Change and Food Security in Myanmar}{23}{chapter.9}
 \contentsline {section}{\numberline {9.1}Climate Change, Climate Change Response in Myanmar}{23}{section.9.1}
 \contentsline {section}{\numberline {9.2}Conclusion}{23}{section.9.2}
-<<<<<<< HEAD
 \contentsline {chapter}{\numberline {10}Disasters, Typhoons and Phillipines}{25}{chapter.10}
 \contentsline {section}{\numberline {10.1}What are Typhoons?}{25}{section.10.1}
 \contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{27}{chapter.11}
@@ -109,22 +94,3 @@
 \contentsline {subsubsection}{Are specific companies/industries responsible responsible}{31}{section*.39}
 \contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{31}{section*.40}
 \contentsline {part}{I\hspace {1em}Backmatter}{33}{part.1}
-=======
-\contentsline {chapter}{\numberline {10}Climate Infrastructure in Vietnam}{25}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introductory}{25}{section.10.1}
-\contentsline {section}{\numberline {10.2}Conclusion}{25}{section.10.2}
-\contentsline {chapter}{\numberline {11}Waste Management for a Circular Economy}{27}{chapter.11}
-\contentsline {section}{\numberline {11.1}Life-Cycle}{27}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}Collection}{27}{subsection.11.1.1}
-\contentsline {subsection}{\numberline {11.1.2}Transport}{27}{subsection.11.1.2}
-\contentsline {section}{\numberline {11.2}Biomimicry}{27}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}Circularity}{27}{subsection.11.2.1}
-\contentsline {chapter}{\numberline {12}Plastic and Packaging in Japan}{29}{chapter.12}
-\contentsline {section}{\numberline {12.1}Introductiona and Goals?}{29}{section.12.1}
-\contentsline {section}{\numberline {12.2}Plastic Pollution and Waste Management in East Asia}{29}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Statistics/comparisons}{29}{subsection.12.2.1}
-\contentsline {subsection}{\numberline {12.2.2}History of plastic waste issues in East Asia}{29}{subsection.12.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{29}{section*.39}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{29}{section*.40}
-\contentsline {part}{I\hspace {1em}Backmatter}{31}{part.1}
->>>>>>> 196f1148446609fb51d9ef93e805ecc4f363b6ba
