@@ -409,6 +409,14 @@ For example, here's code to generate a pretty good figure:
 
 {\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error: package or namespace load failed for 'tidyverse' in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):\\\#\#\ \ namespace 'dplyr' 0.8.5 is already loaded, but >= 1.0.0 is required}}
+
+=======
+>>>>>>> 196f1148446609fb51d9ef93e805ecc4f363b6ba
+>>>>>>> 3d247b6552fc0a20de4ede55f59859062fe2310c
 {\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
 
 {\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
@@ -483,7 +491,9 @@ This is a definition and the word is use in an glossary, e.g. \gls{peat}. \Gls{p
 
 \chapter{Chapter Title}
 
-\chapterauthor{Chapter Author Name}\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
+\chapterauthor{Chapter Author Name}
+
+\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
 \section{Section Heading}% Avoid putting text between section and subsection headings.
 
@@ -524,11 +534,11 @@ First we create an R chunk and add some code. In this case, I created a floating
 
 \end{figure}
 
-\subsection{Imported Figures}
+\subsection{Floating Figures from External Sources}
 
 All figures and images that are imported should be put into the "images" sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
-Figure \ref{fig:vadose} is a good example of this.
+Figure \ref{fig:vadose} is a good example of inserting an image from an external source.
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/Lee-Vadose}
@@ -537,6 +547,15 @@ Figure \ref{fig:vadose} is a good example of this.
 \end{figure}
 
 In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to ``reference'' the figure in the text.
+
+\section{Adding Citations}
+
+See the Guide, as well, but my video is probably the most helpful.
+
+
+Generally, there are many environmental trends in Asia \citep{imura2005urban}.
+
+\citet{imura2005urban} describes the how urbanization has affected the hydrology of East Asia. 
  
 
 \chapter{Title...}
@@ -651,8 +670,18 @@ Figure~\ref{fig:maunaloa2}
 \begin{figure}
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+
+
+=======
+
+
+>>>>>>> 196f1148446609fb51d9ef93e805ecc4f363b6ba
+>>>>>>> 3d247b6552fc0a20de4ede55f59859062fe2310c
 {\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
@@ -720,6 +749,8 @@ Jeji is a volcanic island is located some XX km south of the Korean Penisula. Wa
 
 \chapter{Land Use in East Asia}
 
+chapterauthor{Samantha Beaton}
+
 What is Land Use Change?
 
 What Factors Drive Land Use Change?
@@ -765,7 +796,9 @@ Higher risk of flooding and droughts
 
 
 
-\chapter{Air Pollution in East Asia}
+\chapter{Air Pollution \& Social Justice in Hong Kong}
+
+\chapterauthor{Neenah Vittum}
 
 \section{Science of Air Pollution}
 
@@ -843,6 +876,8 @@ What is the best way to section the chapter?
 
 
 \chapter{Flood Pulse System in East Asia}
+
+\chapterauthor{Kristin Gabriel}
 
 \section{Introduction}
 
@@ -971,6 +1006,14 @@ Roles of the Burmese government
 
 Reminders/Areas of Focus
 
+
+
+
+\chapter{Disasters, Typhoons and Phillipines}
+
+\chapterauthor{Ian Horsburgh}
+
+\section{What are Typhoons?}
 
 
 

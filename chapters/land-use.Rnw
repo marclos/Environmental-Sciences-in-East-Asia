@@ -1,5 +1,7 @@
 \chapter{Land Use in East Asia}
 
+chapterauthor{Samantha Beaton}
+
 What is Land Use Change?
 
 What Factors Drive Land Use Change?
