@@ -18,8 +18,8 @@
 \contentsline {subsubsection}{Using Rnw Files}{xi}{section*.15}
 \contentsline {subsubsection}{Creating a floating figure}{xi}{section*.16}
 \contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.18}
-\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xii}{subsection.0.4.5}
-\contentsline {subsection}{\numberline {0.4.6}minibox X}{xii}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xi}{subsection.0.4.5}
+\contentsline {subsection}{\numberline {0.4.6}minibox X}{xi}{subsection.0.4.6}
 \contentsline {subsection}{\numberline {0.4.7} Cross-References, Citations, and Glossaries}{xii}{subsection.0.4.7}
 \contentsline {subsubsection}{Cross-References}{xii}{section*.20}
 \contentsline {subsubsection}{Bibliography generation}{xii}{section*.21}
