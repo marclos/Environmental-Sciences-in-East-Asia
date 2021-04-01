@@ -3,13 +3,11 @@
 .Rproj.user
 *.Rproj
 /feedback/*.*
-Environmental-Sciences-in-East-Asia
+
 Environmental_Science_in_East_Asia-concordance.tex
-Environmental_Science_in_East_Asia.log
 Environmental_Science_in_East_Asia.pdf
 Environmental_Science_in_East_Asia.synctex.gz
-Environmental_Science_in_East_Asia.tex
 Environmental_Science_in_East_Asia.toc
 figure/fig:pressure-1.pdf
-01-Noras-Guides.log
-01-Noras-Guides.tex
+*.log
+*.tex
