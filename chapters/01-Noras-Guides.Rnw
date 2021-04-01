@@ -5,7 +5,8 @@
 $\rightarrow$
 
 \section{What the Polar Vortex and why do we care?}
-nora is making changes for the video 
+
+test commit and pull request 
 
 
 \subsection{What Factors Drive Land Use Change?}
