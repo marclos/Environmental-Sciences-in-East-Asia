@@ -3,3 +3,9 @@
 .Rproj.user
 *.Rproj
 /feedback/*.*
+.log
+.tex
+.gz
+.pdf
+.toc
+.
