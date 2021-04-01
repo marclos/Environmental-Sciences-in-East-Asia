@@ -3,9 +3,10 @@
 .Rproj.user
 *.Rproj
 /feedback/*.*
-.log
-.tex
-.gz
-.pdf
-.toc
-.
+Environmental_Science_in_East_Asia-concordance.tex
+Environmental_Science_in_East_Asia.log
+Environmental_Science_in_East_Asia.pdf
+Environmental_Science_in_East_Asia.synctex.gz
+Environmental_Science_in_East_Asia.tex
+Environmental_Science_in_East_Asia.toc
+figure/fig:pressure-1.pdf
