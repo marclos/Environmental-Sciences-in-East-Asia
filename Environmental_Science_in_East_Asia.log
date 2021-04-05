@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  1 APR 2021 14:54
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  31 MAR 2021 15:38
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  5 APR 2021 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1477,13 +1473,19 @@ Package xcolor Warning: Incompatible color definition on input line 421.
 Package xcolor Warning: Incompatible color definition on input line 423.
 
 
-Overfull \hbox (17.87607pt too wide) in paragraph at lines 423--424
-[]\OT1/cmtt/m/n/10 ## Error in createDataPartition(., p = 0.8, list = FALSE): o
-bject 'maunaloa' not found[] 
+Overfull \hbox (38.87589pt too wide) in paragraph at lines 423--424
+[]\OT1/cmtt/m/n/10 ## Error: package or namespace load failed for 'tidyverse' i
+n loadNamespace(i, c(lib.loc,
  []
 
 
 Package xcolor Warning: Incompatible color definition on input line 425.
+
+
+Overfull \hbox (17.87607pt too wide) in paragraph at lines 425--426
+[]\OT1/cmtt/m/n/10 ## Error in createDataPartition(., p = 0.8, list = FALSE): o
+bject 'maunaloa' not found[] 
+ []
 
 
 Package xcolor Warning: Incompatible color definition on input line 427.
@@ -1504,42 +1506,46 @@ Package xcolor Warning: Incompatible color definition on input line 435.
 Package xcolor Warning: Incompatible color definition on input line 437.
 
 
-LaTeX Warning: Reference `(' on page xi undefined on input line 440.
+Package xcolor Warning: Incompatible color definition on input line 439.
 
 
-Package xcolor Warning: Incompatible color definition on input line 444.
+LaTeX Warning: Reference `(' on page xi undefined on input line 442.
 
 
-Package xcolor Warning: Incompatible color definition on input line 447.
+Package xcolor Warning: Incompatible color definition on input line 446.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--447
+Package xcolor Warning: Incompatible color definition on input line 449.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
 []\OT1/cmtt/m/n/10 ## Error in ggplot(train.data, aes(decimal.date, average)): 
 object 'train.data'
  []
 
+[11]
 
-LaTeX Warning: Reference `fig:maunaloa' on page xi undefined on input line 467.
+LaTeX Warning: Reference `fig:maunaloa' on page xii undefined on input line 469
+.
 
+[12]
 
-[11] [12]
+Package xcolor Warning: Incompatible color definition on input line 529.
 
-Package xcolor Warning: Incompatible color definition on input line 527.
-
-<figure/fig:pressure-1.pdf, id=556, 505.89pt x 505.89pt>
+<figure/fig:pressure-1.pdf, id=566, 505.89pt x 505.89pt>
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
-Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 532.
+Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 534.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
  [13
 
 ] [14 <./figure/fig:pressure-1.pdf>]
-<images/Lee-Vadose.png, id=575, 949.5475pt x 411.5375pt>
+<images/Lee-Vadose.png, id=585, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
-Package pdftex.def Info: images/Lee-Vadose.png used on input line 547.
+Package pdftex.def Info: images/Lee-Vadose.png used on input line 549.
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [15 <./images/Lee-Vadose.png>] [16
 
@@ -1548,126 +1554,80 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 547.
 ]
 Chapter 1.
 
-<images/earth-system/earth-rad-budget-nasa-erbe.png, id=607, 746.79pt x 558.085
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=617, 746.79pt x 558.085
 pt>
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
  <use images/earth-system/earth-rad-budget-nasa-erbe.png>
 Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
-<<<<<<< HEAD
-d on input line 596.
-=======
-d on input line 590.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+d on input line 606.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
-<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=610, 476.78125pt 
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=620, 476.78125pt 
 x 421.575pt>
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
  <use images/earth-system/em-radiation-atmosph-depth-stsci.jpg>
 Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
-<<<<<<< HEAD
-pg used on input line 608.
-=======
-pg used on input line 602.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+pg used on input line 618.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
-<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=612, 215
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=622, 215
 .1293pt x 140.50633pt>
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
 
 <use images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>
 Package pdftex.def Info: images/earth-system/Carbon-reservoirs-and-cycles-in-th
-<<<<<<< HEAD
-e-Earth.jpg used on input line 632.
-=======
-e-Earth.jpg used on input line 626.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+e-Earth.jpg used on input line 642.
 (pdftex.def)             Requested size: 433.62pt x 283.21162pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.635 \end{figure}
-=======
-l.629 \end{figure}
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+l.645 \end{figure}
                    [1
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.635 \end{figure}
-=======
-l.629 \end{figure}
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+l.645 \end{figure}
                    [2 <./images/earth-system/earth-rad-budget-nasa-erbe.png>]
 [3 <./images/earth-system/em-radiation-atmosph-depth-stsci.jpg>]
 
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
-<<<<<<< HEAD
- 639.
-=======
- 633.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+ 649.
 
-<images/earth-system/long-term-carbon.png, id=626, 436.63126pt x 252.945pt>
+<images/earth-system/long-term-carbon.png, id=636, 436.63126pt x 252.945pt>
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
 Package pdftex.def Info: images/earth-system/long-term-carbon.png used on input
-<<<<<<< HEAD
- line 642.
+ line 652.
 (pdftex.def)             Requested size: 433.62pt x 251.19983pt.
 
 
-LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 653
-=======
- line 636.
-(pdftex.def)             Requested size: 433.62pt x 251.19983pt.
-
-
-LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 647
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 663
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
-<images/earth-system/Q10-SOC-Regulation.jpg, id=635, 367.3725pt x 243.15843pt>
+<images/earth-system/Q10-SOC-Regulation.jpg, id=645, 367.3725pt x 243.15843pt>
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
 
 <use images/earth-system/Q10-SOC-Regulation.jpg>
 Package pdftex.def Info: images/earth-system/Q10-SOC-Regulation.jpg used on inp
-<<<<<<< HEAD
-ut line 658.
+ut line 668.
 (pdftex.def)             Requested size: 433.62pt x 287.02835pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 676.
+Package xcolor Warning: Incompatible color definition on input line 686.
 
 
-Package xcolor Warning: Incompatible color definition on input line 679.
+Package xcolor Warning: Incompatible color definition on input line 689.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--679
-=======
-ut line 652.
-(pdftex.def)             Requested size: 433.62pt x 287.02835pt.
-
-
-Package xcolor Warning: Incompatible color definition on input line 670.
-
-
-Package xcolor Warning: Incompatible color definition on input line 673.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 673--673
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+Underfull \hbox (badness 10000) in paragraph at lines 689--689
 []\OT1/cmtt/m/n/10 ## Error in ggplot(train.data, aes(decimal.date, average)): 
 object 'train.data'
  []
@@ -1681,28 +1641,20 @@ Chapter 2.
 
 ]
 Chapter 3.
-<images/critical-zone/criticalzone.jpg, id=669, 411.5375pt x 301.125pt>
+<images/critical-zone/criticalzone.jpg, id=679, 411.5375pt x 301.125pt>
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
 Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
-<<<<<<< HEAD
-ne 721.
-=======
-ne 715.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+ne 731.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
 
-<images/critical-zone/Lee-Vadose.png, id=672, 949.5475pt x 411.5375pt>
+<images/critical-zone/Lee-Vadose.png, id=682, 949.5475pt x 411.5375pt>
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
 Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
-<<<<<<< HEAD
- 737.
-=======
- 731.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+ 747.
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [9] [10 <./images/critical-zone/criticalzone.jpg>] [11 <./images/critical-zone
 /Lee-Vadose.png>] [12
@@ -1710,11 +1662,7 @@ Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
 ]
 Chapter 4.
 
-<<<<<<< HEAD
-Overfull \hbox (3.89119pt too wide) in paragraph at lines 784--784
-=======
-Overfull \hbox (3.89119pt too wide) in paragraph at lines 778--778
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 794--794
 []\OT1/cmr/bx/n/14.4 Conclusion & Prospect of Sus-tain-able Ur-ban-iza-tion/Lan
 d
  []
@@ -1727,22 +1675,22 @@ Chapter 5.
 
 ]
 Chapter 6.
+[17] [18
+
+]
+Chapter 7.
 Missing character: There is no â in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no ’ in font cmbx12!
-[17]
+[19]
 Missing character: There is no â in font cmr10!
 Missing character: There is no † in font cmr10!
 Missing character: There is no ’ in font cmr10!
- [18]
-Chapter 7.
-[19
-
-] [20
-
-]
+ [20]
 Chapter 8.
-[21] [22
+[21
+
+] [22
 
 ]
 Chapter 9.
@@ -1762,65 +1710,51 @@ Chapter 12.
 
 ]
 Chapter 13.
+[31] [32
 
-<<<<<<< HEAD
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 1136--1137
-=======
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 1130--1131
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+]
+Chapter 14.
+
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1156--1157
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
-[31]
-<<<<<<< HEAD
-Overfull \hbox (54.87589pt too wide) in paragraph at lines 1160--1161
-=======
-Overfull \hbox (54.87589pt too wide) in paragraph at lines 1154--1155
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+[33]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1180--1181
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
-[32] [33
+[34] [35
 
 
-] [34]
+] [36]
 No file Environmental_Science_in_East_Asia.gls.
-(./Environmental_Science_in_East_Asia.bbl [35] [36
+(./Environmental_Science_in_East_Asia.bbl [37] [38
 
 ])
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1181.
- [37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1181.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1201.
+ [39]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1201.
 
 (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1181.
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1175.
- [37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1175.
-
-(./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1175.
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1201.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1201.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
-(rerunfilecheck)             Checksum: 7E14BF00F92B2F8474D938063754510A;6019.
+(rerunfilecheck)             Checksum: D89C962B84BE09F0701E6E1F10155272;6138.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 29451 strings out of 494820
- 555245 string characters out of 3178050
+ 29458 strings out of 494820
+ 555320 string characters out of 3178050
  615775 words of memory out of 3000000
- 31867 multiletter control sequences out of 15000+200000
+ 31869 multiletter control sequences out of 15000+200000
  26376 words of font info for 99 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  56i,9n,73p,1490b,840s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1852,15 +1786,11 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-<<<<<<< HEAD
-Output written on Environmental_Science_in_East_Asia.pdf (57 pages, 908489 byte
-=======
-Output written on Environmental_Science_in_East_Asia.pdf (57 pages, 909004 byte
->>>>>>> d078daed0b34e658d2fb8295b7bfc3797d21a2b8
+Output written on Environmental_Science_in_East_Asia.pdf (59 pages, 910777 byte
 s).
 PDF statistics:
- 956 PDF objects out of 1000 (max. 8388607)
- 837 compressed objects within 9 object streams
- 196 named destinations out of 1000 (max. 500000)
- 698 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 977 PDF objects out of 1000 (max. 8388607)
+ 856 compressed objects within 9 object streams
+ 201 named destinations out of 1000 (max. 500000)
+ 714 words of extra memory for PDF output out of 10000 (max. 10000000)
 
