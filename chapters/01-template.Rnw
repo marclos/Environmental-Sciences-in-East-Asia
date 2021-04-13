@@ -13,9 +13,9 @@ Some text here...The hierarchy structure is described in the Author Guide, Secti
 if you cut and paste, be sure to make sure you don't include formatted characters outside the ASCII values. See Author Guide, Section~\ref{sub:mathchar}. NOTE: This is a subsection cross reference.
 
 
-\subsubsection{Optional Subsubsection Headings} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
+\subsubsection{Optional Subsubsection Headings}\label{subsub:optionalsubsub} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
 
-some text here....
+some text here.... and a subsubsection cross reference (See Section \ref{subsub:optionalsubsub}).
 
 \section{Goals of this template}
 
