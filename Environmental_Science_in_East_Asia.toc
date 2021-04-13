@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {0.1.4}Activity}{v}{subsection.0.1.4}
 \contentsline {section}{\numberline {0.2}East Asia and the World}{vi}{section.0.2}
 \contentsline {section}{\numberline {0.3}Acknowledgments}{vi}{section.0.3}
-\contentsline {chapter}{Author Guide}{vii}{chapter*.3}
+\contentsline {chapter}{\LaTeX Guide}{vii}{chapter*.3}
 \contentsline {subsubsection}{R Chunks}{vii}{section*.6}
 \contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{viii}{section.0.4}
 \contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{viii}{subsection.0.4.1}
@@ -27,7 +27,7 @@
 \contentsline {subsubsection}{Cross-References}{xiii}{section*.16}
 \contentsline {subsubsection}{Bibliography generation}{xiii}{section*.17}
 \contentsline {subsubsection}{Creating glossary words}{xiii}{section*.18}
-\contentsline {chapter}{Chapter Title}{xv}{chapter*.19}
+\contentsline {chapter}{Template Chapter Title}{xv}{chapter*.19}
 \contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
 \contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xv}{subsection.0.5.1}
 \contentsline {subsubsection}{Optional Subsubsection Headings}{xv}{section*.20}

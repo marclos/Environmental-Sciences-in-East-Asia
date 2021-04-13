@@ -1,4 +1,4 @@
-\chapter{Author Guide}\label{ch:guide}
+\chapter{\LaTeX Guide}\label{ch:guide}
 
 \subsection*{Why Learn \LaTeX?}
 
@@ -33,7 +33,7 @@ To create effective graphics, each chapter will have a rchunk that creates a gra
 
 Because this is an ongoing project, you should record your contribution to each chapter -- but also let go of these contributions at some point; Others might revise and their authorship might take some precedence, so you should both invest in the product but also be willing to detach from the final outcome as others contribute. This will feel uncomfortable at times, but please note from the beginning this is a social process and as such subject to negotiation. Please be generous to the authors that laid the foundation and be respectful of those that follow. 
 
-\section{Setting Up Book Project--Type Setting w/ \LaTeX}
+\section{Setting Up Book Project--Type Setting w/ \LaTeX}\label{sec:settingup}
 
 \subsection{Latex Book Class}
 
@@ -48,8 +48,6 @@ To accomplish this, contributors use the \verb"\section{Section}" command for ma
 NOTE: for each nested level, it MUST be followed by the lowest level in the section before a paragraph is started -- in contrast to what is shown above!
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
-
-
 
 \subsection{Font Changes}
 
@@ -92,7 +90,7 @@ str(my.dataframe) // display data structure
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection{Mathematics and Specialized Characters}
+\subsection{Mathematics and Specialized Characters}\label{sub:mathchar}
 
 \subsubsection*{Warning: Special Characters}
 
@@ -107,7 +105,7 @@ If you want to a superscript (raised to 3nd power), we can create text in math m
 \begin{table}[h]
 \caption{Table of Symbols in \LaTeX}
 \label{tab:tableofsymbols}
-\begin{tabular}{ll|ll} \hline
+\begin{tabular}{|ll|ll|} \hline
 Symbol  & \LaTeX code & Symbol & \LaTeX code \\ \hline\hline
 \&  & \textbackslash\&  & 
 \$  & \textbackslash\$ \\
