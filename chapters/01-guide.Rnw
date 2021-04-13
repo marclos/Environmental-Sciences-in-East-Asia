@@ -35,11 +35,11 @@ Because this is an ongoing project, you should record your contribution to each 
 
 \section{Setting Up Book Project--Type Setting w/ \LaTeX}
 
-\subsection*{Latex Book Class}
+\subsection{Latex Book Class}
 
 Currently, the text is written using the standard book class. %However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
 
-\subsection*{Structuring the Text with Nested Hierarchies}
+\subsection{Structuring the Text with Nested Hierarchies}
 
 Contributors divide their contributions into sections and subsections. This format allows a consistent approach to structuring the text and forcing themes to be organized in blocks that can be used to organize the overall text. We use section, subsection, and subsubsection to break up the topic into bite sizes. 
 
@@ -49,7 +49,9 @@ NOTE: for each nested level, it MUST be followed by the lowest level in the sect
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
 
-\subsection*{Font Changes}
+
+
+\subsection{Font Changes}
 
 We can use various methods to alter the typeset: \emph{Emphasize}, \textbf{Bold}, \textit{Italics}, and \textsl{Slanted}. We can also typeset \textrm{Roman}, \textsf{Sans Serif}, \textsc{Small Caps}, and \texttt{Typewriter} texts.  Look online to see the commands to accomplish these changes. 
 
@@ -81,27 +83,44 @@ LaTeX is widely used in academia for the communication and publication of scient
 Use the Verbatim environment if you want \LaTeX\ to preserve spacing, perhaps when
 including a fragment from a program such as:
 \begin{verbatim}
-#include <iostream>         // < > is used for standard libraries.
-void main(void)             // ''main'' method always called first.
-{
- cout << ''This is a message.'';
-                            // Send to output stream.
-}
+#read csv data  // read data into R
+my.dataframe <- read.csv(file.choose())   // read data from a popup window.
+
+str(my.dataframe) // display data structure
+
 \end{verbatim}
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection*{Mathematics and Text}
+\subsection{Mathematics and Specialized Characters}
 
-\subsubsection{Warning: Special Characters}
+\subsubsection*{Warning: Special Characters}
 
-When you use percent and ampersand symbols, hash tags, and other non-standard ASCII characters, \LaTeX will be very uncooperative. So, do yourself a favor and make sure you understand that these are used for special typesetting functions. To use them you have to ``escape'' and use commands to get them to do what you might usually expect!  \% \# \& \`e \~n `` and '' to show a few that do not reflect the key stroke you might expect. 
+When you use percent and ampersand symbols, hash tags, and other non-standard ASCII characters, \LaTeX will be very uncooperative. \LaTeX~doesn't like a range of characters or they reserved for special behavior. So, do yourself a favor and make sure you understand that these are used for special typesetting functions. To use them you have to ``escape'' and use commands to get them to do what you might usually expect!  
 
-\LaTeX doesn't like a range of characters or they reserved for special behavior...
+The following symbols \$, \%, \#, \&, \`e, \~n, `` and '' do not reflect the key stroke you might expect. 
 
-For example, the \# is used for tabs in a table environment. \% is used to make comments, thus stuff behind a \% is ignored. There are lots of others, but these come up the most.
+For example, the \& is used for tabs in a table environment. \% is used to make comments, thus stuff behind a \% is ignored. There are lots of others, but these come up the most. If you want to show use the ampersand or one of these characters, put a backslash in front of the dollar sybmol, e.g. \textbackslash\$. See Table \ref{tab:tableofsymbols}.
 
-\subsubsection{Creating equations}
+If you want to a superscript (raised to 3nd power), we can create text in math mode, with \$ to start and end the text in math mode, e.g. m$^3$ is written in \LaTeX as m\$\^{}3\$. A subscript uses an underscore, x\$\_1\$ creates x$_1$. If you need more than one character as a subscript or superscript then enclose the content in curly brakets, e.g. x$^{2c}$ (x\$\^{}\{2c\}\$) and t$_{step}$ (t\$\_\{step\}\$).
+
+\begin{table}[h]
+\caption{Table of Symbols in \LaTeX}
+\label{tab:tableofsymbols}
+\begin{tabular}{ll|ll} \hline
+Symbol  & \LaTeX code & Symbol & \LaTeX code \\ \hline\hline
+\&  & \textbackslash\&  & 
+\$  & \textbackslash\$ \\
+``  & \`{}\`{} & 
+''  & \'{}\'{} \\
+mg~L$^{-1}$ & mg$\sim${}L\$\^{}\{-1\}\$ & 
+    & \\ 
+\hline
+\end{tabular}
+
+\end{table}
+
+\subsection{Creating equations}
 
 One of the most powerful parts of \LaTeX is how it can be used to write complex equations, with all those symbols and Greek letters! This can be done inline $y = mx + b + \epsilon$ for fairly simple equations, or set apart for more complex equations:
 
@@ -282,13 +301,13 @@ maunaloa$average[maunaloa$average==-99.99] <- NA
 maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
 head(maunaloa)
 str(maunaloa)
-write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
 @
 
 <<analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE>>=
-maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/data/maunaloa.csv")
-library(dplyr)
-library(tidyverse)
+maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv")
+library(dplyr, quietly=TRUE)
+#library(tidyverse, quietly=TRUE)
 library(caret)
 library(mgcv)
 
@@ -312,7 +331,7 @@ data.frame(
 )
 @
 
-In the case of Figure \ref(fig:maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
+In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 <<maunaloa, echo=FALSE>>=
@@ -325,7 +344,7 @@ ggplot(train.data, aes(decimal.date, average) ) +
           axis.text.y = element_text(size=14), 
           axis.title=element_text(size=14))
 @
-\caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Source: Scripps/NOAA.}
+\caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
 \end{figure}
 
@@ -339,7 +358,7 @@ Some text
 \end{minipage}
 }
 
-\subsection{ Cross-References, Citations, and Glossaries}
+\subsection{Cross-References, Citations, and Glossaries}
 
 \subsubsection{Cross-References}
 
