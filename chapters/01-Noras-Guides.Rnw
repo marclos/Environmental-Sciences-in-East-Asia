@@ -13,11 +13,7 @@ changes at 3:20 pm, 4-1-21
 
 changes at 3:29 pm 4-1-21
 
-<<<<<<< HEAD
-changes at 3:33 pm
-=======
-changes at 5:15 pm ET 4-16-21
->>>>>>> 9867364b69dcb2c480d196582e379bf35f2d81f4
+
 
 \section{What the Polar Vortex and why do we care?}
 
