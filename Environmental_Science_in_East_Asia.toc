@@ -58,44 +58,49 @@
 \contentsline {section}{\numberline {3.1}What is the Critical Zone}{11}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}What are the environmental implications of the Critical Zone?}{11}{subsection.3.1.1}
 \contentsline {section}{\numberline {3.2}Hydrologic Aspects}{13}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}The Vadose Zone}{13}{subsection.3.2.1}
-\contentsline {chapter}{\numberline {4}Land Use in East Asia}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Impacts on Soil}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{15}{section.4.2}
-\contentsline {chapter}{\numberline {5}Invasive Species}{17}{chapter.5}
-\contentsline {section}{\numberline {5.1}Section Heading}{17}{section.5.1}
-\contentsline {chapter}{\numberline {6}Nuclear Power and Nuclear Waste}{19}{chapter.6}
-\contentsline {section}{\numberline {6.1}Current and Future Energy Needs}{19}{section.6.1}
-\contentsline {chapter}{\numberline {7}Air Pollution \& Social Justice in Hong Kong}{21}{chapter.7}
-\contentsline {section}{\numberline {7.1}Science of Air Pollution}{21}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Overview of the layers of the atmosphere/atmospheric gases}{21}{subsection.7.1.1}
-\contentsline {section}{\numberline {7.2}Major Sources → Use as geographical overview}{21}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}General common sources of air pollution all over the world}{21}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}East Asian countries/communities and their prominent air pollution sources}{21}{subsection.7.2.2}
-\contentsline {chapter}{\numberline {8}Flood Pulse System in East Asia}{23}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduction}{23}{section.8.1}
-\contentsline {chapter}{\numberline {9}Hydroelectric Dams in East Asia}{25}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{25}{section.9.1}
-\contentsline {section}{\numberline {9.2}Conclusion}{25}{section.9.2}
-\contentsline {chapter}{\numberline {10}Climate Change and Food Security in Myanmar}{27}{chapter.10}
-\contentsline {section}{\numberline {10.1}Climate Change, Climate Change Response in Myanmar}{27}{section.10.1}
-\contentsline {section}{\numberline {10.2}Conclusion}{27}{section.10.2}
-\contentsline {chapter}{\numberline {11}Disasters, Typhoons and Phillipines}{29}{chapter.11}
-\contentsline {section}{\numberline {11.1}What are Typhoons?}{29}{section.11.1}
-\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{31}{chapter.12}
-\contentsline {section}{\numberline {12.1}Introductory}{31}{section.12.1}
-\contentsline {section}{\numberline {12.2}Conclusion}{31}{section.12.2}
-\contentsline {chapter}{\numberline {13}Waste Management for a Circular Economy}{33}{chapter.13}
-\contentsline {section}{\numberline {13.1}Life-Cycle}{33}{section.13.1}
-\contentsline {subsection}{\numberline {13.1.1}Collection}{33}{subsection.13.1.1}
-\contentsline {subsection}{\numberline {13.1.2}Transport}{33}{subsection.13.1.2}
-\contentsline {section}{\numberline {13.2}Biomimicry}{33}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Circularity}{33}{subsection.13.2.1}
-\contentsline {chapter}{\numberline {14}Plastic and Packaging in Japan}{35}{chapter.14}
-\contentsline {section}{\numberline {14.1}Introductiona and Goals?}{35}{section.14.1}
-\contentsline {section}{\numberline {14.2}Plastic Pollution and Waste Management in East Asia}{35}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Statistics/comparisons}{35}{subsection.14.2.1}
-\contentsline {subsection}{\numberline {14.2.2}History of plastic waste issues in East Asia}{35}{subsection.14.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{35}{section*.35}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{35}{section*.36}
-\contentsline {part}{I\hspace {1em}Backmatter}{37}{part.1}
+\contentsline {subsection}{\numberline {3.2.1}Subsurface Hydrology}{13}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Saturated Zone}{13}{subsection.3.2.2}
+\contentsline {subsubsection}{Aquifers and Aquitards}{13}{section*.35}
+\contentsline {subsubsection}{Confined and Unconfined Aquifers}{13}{section*.36}
+\contentsline {subsubsection}{Ground Water Flow}{13}{section*.37}
+\contentsline {subsection}{\numberline {3.2.3}The Vadose Zone}{14}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Land Use in East Asia}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Impacts on Soil}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{17}{section.4.2}
+\contentsline {chapter}{\numberline {5}Invasive Species}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Section Heading}{19}{section.5.1}
+\contentsline {chapter}{\numberline {6}Nuclear Power and Nuclear Waste}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}Current and Future Energy Needs}{21}{section.6.1}
+\contentsline {chapter}{\numberline {7}Air Pollution \& Social Justice in Hong Kong}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}Science of Air Pollution}{23}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Overview of the layers of the atmosphere/atmospheric gases}{23}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}Major Sources → Use as geographical overview}{23}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}General common sources of air pollution all over the world}{23}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}East Asian countries/communities and their prominent air pollution sources}{23}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {8}Flood Pulse System in East Asia}{25}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{25}{section.8.1}
+\contentsline {chapter}{\numberline {9}Hydroelectric Dams in East Asia}{27}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{27}{section.9.1}
+\contentsline {section}{\numberline {9.2}Conclusion}{27}{section.9.2}
+\contentsline {chapter}{\numberline {10}Climate Change and Food Security in Myanmar}{29}{chapter.10}
+\contentsline {section}{\numberline {10.1}Climate Change, Climate Change Response in Myanmar}{29}{section.10.1}
+\contentsline {section}{\numberline {10.2}Conclusion}{29}{section.10.2}
+\contentsline {chapter}{\numberline {11}Disasters, Typhoons and Phillipines}{31}{chapter.11}
+\contentsline {section}{\numberline {11.1}What are Typhoons?}{31}{section.11.1}
+\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{33}{chapter.12}
+\contentsline {section}{\numberline {12.1}Introductory}{33}{section.12.1}
+\contentsline {section}{\numberline {12.2}Conclusion}{33}{section.12.2}
+\contentsline {chapter}{\numberline {13}Waste Management for a Circular Economy}{35}{chapter.13}
+\contentsline {section}{\numberline {13.1}Life-Cycle}{35}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Collection}{35}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}Transport}{35}{subsection.13.1.2}
+\contentsline {section}{\numberline {13.2}Biomimicry}{35}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Circularity}{35}{subsection.13.2.1}
+\contentsline {chapter}{\numberline {14}Plastic and Packaging in Japan}{37}{chapter.14}
+\contentsline {section}{\numberline {14.1}Introductiona and Goals?}{37}{section.14.1}
+\contentsline {section}{\numberline {14.2}Plastic Pollution and Waste Management in East Asia}{37}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Statistics/comparisons}{37}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.2}History of plastic waste issues in East Asia}{37}{subsection.14.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{37}{section*.39}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{37}{section*.40}
+\contentsline {part}{I\hspace {1em}Backmatter}{39}{part.1}
