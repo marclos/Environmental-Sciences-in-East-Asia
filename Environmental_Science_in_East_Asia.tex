@@ -138,7 +138,7 @@ Everyone in the world!
 
 
 
-\chapter{Author Guide}\label{ch:guide}
+\chapter{\LaTeX Guide}\label{ch:guide}
 
 \subsection*{Why Learn \LaTeX?}
 
@@ -173,13 +173,13 @@ To create effective graphics, each chapter will have a rchunk that creates a gra
 
 Because this is an ongoing project, you should record your contribution to each chapter -- but also let go of these contributions at some point; Others might revise and their authorship might take some precedence, so you should both invest in the product but also be willing to detach from the final outcome as others contribute. This will feel uncomfortable at times, but please note from the beginning this is a social process and as such subject to negotiation. Please be generous to the authors that laid the foundation and be respectful of those that follow. 
 
-\section{Setting Up Book Project--Type Setting w/ \LaTeX}
+\section{Setting Up Book Project--Type Setting w/ \LaTeX}\label{sec:settingup}
 
-\subsection*{Latex Book Class}
+\subsection{Latex Book Class}
 
 Currently, the text is written using the standard book class. %However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
 
-\subsection*{Structuring the Text with Nested Hierarchies}
+\subsection{Structuring the Text with Nested Hierarchies}
 
 Contributors divide their contributions into sections and subsections. This format allows a consistent approach to structuring the text and forcing themes to be organized in blocks that can be used to organize the overall text. We use section, subsection, and subsubsection to break up the topic into bite sizes. 
 
@@ -189,7 +189,7 @@ NOTE: for each nested level, it MUST be followed by the lowest level in the sect
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
 
-\subsection*{Font Changes}
+\subsection{Font Changes}
 
 We can use various methods to alter the typeset: \emph{Emphasize}, \textbf{Bold}, \textit{Italics}, and \textsl{Slanted}. We can also typeset \textrm{Roman}, \textsf{Sans Serif}, \textsc{Small Caps}, and \texttt{Typewriter} texts.  Look online to see the commands to accomplish these changes. 
 
@@ -221,27 +221,44 @@ LaTeX is widely used in academia for the communication and publication of scient
 Use the Verbatim environment if you want \LaTeX\ to preserve spacing, perhaps when
 including a fragment from a program such as:
 \begin{verbatim}
-#include <iostream>         // < > is used for standard libraries.
-void main(void)             // ''main'' method always called first.
-{
- cout << ''This is a message.'';
-                            // Send to output stream.
-}
+#read csv data  // read data into R
+my.dataframe <- read.csv(file.choose())   // read data from a popup window.
+
+str(my.dataframe) // display data structure
+
 \end{verbatim}
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection*{Mathematics and Text}
+\subsection{Mathematics and Specialized Characters}\label{sub:mathchar}
 
-\subsubsection{Warning: Special Characters}
+\subsubsection*{Warning: Special Characters}
 
-When you use percent and ampersand symbols, hash tags, and other non-standard ASCII characters, \LaTeX will be very uncooperative. So, do yourself a favor and make sure you understand that these are used for special typesetting functions. To use them you have to ``escape'' and use commands to get them to do what you might usually expect!  \% \# \& \`e \~n `` and '' to show a few that do not reflect the key stroke you might expect. 
+When you use percent and ampersand symbols, hash tags, and other non-standard ASCII characters, \LaTeX will be very uncooperative. \LaTeX~doesn't like a range of characters or they reserved for special behavior. So, do yourself a favor and make sure you understand that these are used for special typesetting functions. To use them you have to ``escape'' and use commands to get them to do what you might usually expect!  
 
-\LaTeX doesn't like a range of characters or they reserved for special behavior...
+The following symbols \$, \%, \#, \&, \`e, \~n, `` and '' do not reflect the key stroke you might expect. 
 
-For example, the \# is used for tabs in a table environment. \% is used to make comments, thus stuff behind a \% is ignored. There are lots of others, but these come up the most.
+For example, the \& is used for tabs in a table environment. \% is used to make comments, thus stuff behind a \% is ignored. There are lots of others, but these come up the most. If you want to show use the ampersand or one of these characters, put a backslash in front of the dollar sybmol, e.g. \textbackslash\$. See Table \ref{tab:tableofsymbols}.
 
-\subsubsection{Creating equations}
+If you want to a superscript (raised to 3nd power), we can create text in math mode, with \$ to start and end the text in math mode, e.g. m$^3$ is written in \LaTeX as m\$\^{}3\$. A subscript uses an underscore, x\$\_1\$ creates x$_1$. If you need more than one character as a subscript or superscript then enclose the content in curly brakets, e.g. x$^{2c}$ (x\$\^{}\{2c\}\$) and t$_{step}$ (t\$\_\{step\}\$).
+
+\begin{table}[h]
+\caption{Table of Symbols in \LaTeX}
+\label{tab:tableofsymbols}
+\begin{tabular}{|ll|ll|} \hline
+Symbol  & \LaTeX code & Symbol & \LaTeX code \\ \hline\hline
+\&  & \textbackslash\&  & 
+\$  & \textbackslash\$ \\
+``  & \`{}\`{} & 
+''  & \'{}\'{} \\
+mg~L$^{-1}$ & mg$\sim${}L\$\^{}\{-1\}\$ & 
+    & \\ 
+\hline
+\end{tabular}
+
+\end{table}
+
+\subsection{Creating equations}
 
 One of the most powerful parts of \LaTeX is how it can be used to write complex equations, with all those symbols and Greek letters! This can be done inline $y = mx + b + \epsilon$ for fairly simple equations, or set apart for more complex equations:
 
@@ -414,41 +431,17 @@ For example, here's code to generate a pretty good figure:
 
 
 
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
 
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error: package or namespace load failed for 'tidyverse' in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):\\\#\#\ \ namespace 'dplyr' 0.8.5 is already loaded, but >= 1.0.0 is required}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in is.data.frame(data): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in summary(model): object 'model' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in predict(., test.data): object 'model' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in mean((pred - obs)\textasciicircum{}2, na.rm = na.rm): object 'predictions' not found}}\end{kframe}
-\end{knitrout}
-
-In the case of Figure \ref(fig:maunaloa), we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider. 
+In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\includegraphics[width=\maxwidth]{figure/maunaloa-1} 
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
-\caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Source: Scripps/NOAA.}
+\caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
 \end{figure}
 
@@ -462,7 +455,7 @@ Some text
 \end{minipage}
 }
 
-\subsection{ Cross-References, Citations, and Glossaries}
+\subsection{Cross-References, Citations, and Glossaries}
 
 \subsubsection{Cross-References}
 
@@ -494,9 +487,9 @@ This is a definition and the word is use in an glossary, e.g. \gls{peat}. \Gls{p
 \end{definition}
 
 
-\chapter{Chapter Title}
+\chapter{Template Chapter Title}\label{ch:template}
 
-\chapterauthor{Chapter Author Name}
+\chapterauthor{Marc Los Huertos}
 
 \footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
@@ -504,15 +497,18 @@ This is a definition and the word is use in an glossary, e.g. \gls{peat}. \Gls{p
 
 \subsection{Subsection Headings} % Avoid putting text between subsection and subsubsection headings. Not applicable if you don't have subsections!
 
-Some text here... if you cut and paste, be sure to make sure you don't include formatted characters outside the ASCII values. See Author Guide\ref{ch:guide}.
+Some text here...The hierarchy structure is described in the Author Guide, Section~\ref{sec:settingup} -- NOTE: This is a section cross reference.
 
-\subsubsection{Optional Subsubsection Headings} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
+if you cut and paste, be sure to make sure you don't include formatted characters outside the ASCII values. See Author Guide, Section~\ref{sub:mathchar}. NOTE: This is a subsection cross reference.
 
-some text here....
+
+\subsubsection{Optional Subsubsection Headings}\label{subsub:optionalsubsub} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
+
+some text here.... and a subsubsection cross reference (See Section \ref{subsub:optionalsubsub}).
 
 \section{Goals of this template}
 
-This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter \ref{ch:guide}. 
+This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter~\ref{ch:guide}. 
 
 Instead this section of the document is designed to demonstrate how our textbook will look, feel, and ultimately how we contribute to the project.
 
@@ -563,13 +559,22 @@ Generally, there are many environmental trends in Asia \citep{imura2005urban}.
 \citet{imura2005urban} describes the how urbanization has affected the hydrology of East Asia. 
  
 
-\chapter{Title...}
+\chapter{Plastic}
 
 \chapterauthor{Nora}
 
 $\rightarrow$
 
 chekcing on this today, 4-020-2021
+pull request test 1.2 
+
+changes at 3 pm, 4-1-21
+
+changes at 3:20 pm, 4-1-21
+
+changes at 3:29 pm 4-1-21
+
+changes at 3:33 pm
 
 \section{What the Polar Vortex and why do we care?}
 
@@ -674,10 +679,9 @@ Figure~\ref{fig:maunaloa2}
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\includegraphics[width=\maxwidth]{figure/maunaloa3-1} 
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
 \label{fig:maunaloa2}
@@ -730,7 +734,65 @@ The critical zone as a concept and as a material space pushes us to think of the
 
 \section{Hydrologic Aspects}
 
+\subsection{Subsurface Hydrology}
+
+As water percolates into the soil or flows in the pour space below the surface waters it becomes part of the ground water. The study of this water might be called subsurface hydrology or ground water hydrology or hydrogeology. 
+
+There are two main areas of subsurface waters: saturated zone and unsaturated zone (Figure~\ref{fig:groundwater}).
+
+The saturated zone is the region where all the spaces between the particles are filled by water. The surface of the saturated zone is the water table. 
+
+The unsaturated zone is also called the vadose zone has some percentage of the pour spaces have air. The vadose zone also includes an area called the capillary fringe. Because of the surface tension of water, water is found in between particles above the water table and this zone is referred to as the capillary fringe. 
+
+\begin{figure}
+\includegraphics{images/critical-zone/groundwater}
+\caption{Diagram of Ground Water. }
+\label{fig:groundwater}
+\end{figure}
+
+\subsection{Saturated Zone}
+
+\subsubsection{Aquifers and Aquitards}
+
+\subsubsection{Confined and Unconfined Aquifers}
+
+\subsubsection{Ground Water Flow}
+
+TAKE A LOOK at some flow net sketches that will help clarify the relationships between aquifer matrix, and groundwater movement.
+
+In general, water flow is driven by potential energy, e.g.  where water flows down hill, driven by gravity. If water flows from point A to point B, the the potential energy for the flow is the height of the water at point A minus the height at point B, which can be symbolized as $dl$. The head potential is the heigh difference divided by the distance between the two points.  
+
+DARCY'S LAW
+
+\begin{equation}
+Q = KIA
+\end{equation}
+
+In 1856, Henry Darcy studied the movement of water through porous material. He determined an equation that described groundwater flow. The following description tell how Darcy determined his equation:
+
+A horizontal pipe filled with sand is used to demonstrate Darcy's experiment. Water is applied under pressure through end A, flows through the pipe, and discharges at end B. Water pressure is measured using piezometer tubes (thin vertical pipes installed at each end of the horizontal pipe). The difference in hydraulic head (between points A and B) is dh (change in height). Divide this by the flow length (i.e. the distance between the two tubes), dl, and you get the hydraulic gradient ( I ).
+
+The velocity of groundwater is based on hydraulic conductivity (K), as well as the hydraulic head (I). Therefore, the equation determined by Darcy to describe the basic relationship between subsurface materials and the movement of water through them is Q = KIA where Q is the volumetric flow rate (or discharge) and A is the area that the groundwater is flowing through. This relationship is known as Darcy’s law.
+
+DISCHARGE
+%* symbol-Q * units-volume/time EX. (m^3/day) * volume of water flowing through an aquifer per unit time * FIND WITH DARCY'S LAW Q = KIA
+
+AREA OF FLOW
+%* symbol-A * units-distance squared EX. (m^2) * Cross-sectional area of flow. (i.e. aquifer width x thickness)
+
+Now, rearrange the equation to Q/A = KI, which is known as the flux (v), which is an apparent velocity. Actual groundwater velocity is lower than that determined by Darcy, and is called Darcy Flux (vx)
+
+FLUX
+%* symbol-v * units-distance/time EX. (m/sec) * v=Q/A=KI * this is a velocity measure and gives the IDEAL velocity of groundwater (assumes that the water molecules can flow in a straight line through the subsurface). * this is ideal because it doesn't account for tortuosity of flow paths (this means that the water molecules actually follow a very windy path in an out of the pore spaces and so travel quite a bit slower in reality than the flux would indicate).
+
+DARCY FLUX
+%* symbol - vx * units - distance/time EX. (m/sec) * vx = Q/An = KI/n * This is the ACTUAL velocity of qroundwater and DOES account for tortousity of flow paths by including porosity in its calculation.
+
+Darcy's law is used extensively in groundwater studies. It can help answer important questions such as what direction an aquifer pollution plume is moving in, and how fast it is traveling
+
 \subsection{The Vadose Zone}
+
+The vadose zone is the 
 
 Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...\citet{lee2017fifty}.
 
@@ -783,6 +845,16 @@ infiltration/pollution, groundwater recharge, flow of river basins, runoff
 Higher risk of flooding and droughts
 
 \section{Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}
+
+
+\chapter{Invasive Species}
+
+\chapterauthor{Soliel}
+
+\footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
+
+\section{Section Heading}% Avoid putting text between section and subsection headings.
+
 
 
 \chapter{Nuclear Power and Nuclear Waste}
