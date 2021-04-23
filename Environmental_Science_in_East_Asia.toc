@@ -73,21 +73,22 @@
 \contentsline {section}{\numberline {8.1}Introduction}{21}{section.8.1}
 \contentsline {section}{\numberline {8.2}Dam Function}{22}{section.8.2}
 \contentsline {subsection}{\numberline {8.2.1}Hydroelectric Generators}{22}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Dam Types}{22}{subsection.8.2.2}
-\contentsline {subsubsection}{Embankment Dams}{22}{section*.39}
+\contentsline {subsection}{\numberline {8.2.2}Dam Type}{22}{subsection.8.2.2}
+\contentsline {subsubsection}{Gravity Dams}{22}{section*.39}
+\contentsline {subsubsection}{Embankment Dams}{23}{section*.40}
 \contentsline {subsection}{\numberline {8.2.3}Energy}{23}{subsection.8.2.3}
-\contentsline {subsubsection}{Kinetic Energy}{23}{section*.40}
-\contentsline {subsubsection}{Potential Energy}{23}{section*.41}
-\contentsline {subsubsection}{Total Mechanical Energy}{23}{section*.42}
+\contentsline {subsubsection}{Kinetic Energy}{23}{section*.41}
+\contentsline {subsubsection}{Potential Energy}{23}{section*.42}
+\contentsline {subsubsection}{Total Mechanical Energy}{24}{section*.43}
 \contentsline {subsection}{\numberline {8.2.4}Megawatts and Electricity Usage}{24}{subsection.8.2.4}
 \contentsline {section}{\numberline {8.3}Hazards and Flooding}{24}{section.8.3}
 \contentsline {section}{\numberline {8.4}Three Gorges Dam}{25}{section.8.4}
 \contentsline {subsection}{\numberline {8.4.1}Displacement}{25}{subsection.8.4.1}
 \contentsline {subsection}{\numberline {8.4.2}Schistosomiasis}{26}{subsection.8.4.2}
-\contentsline {subsubsection}{Temperature}{26}{section*.43}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{27}{section*.44}
-\contentsline {subsubsection}{Snail Movement}{27}{section*.45}
-\contentsline {subsubsection}{Health Infrastructure}{27}{section*.46}
+\contentsline {subsubsection}{Temperature}{26}{section*.44}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{27}{section*.45}
+\contentsline {subsubsection}{Snail Movement}{27}{section*.46}
+\contentsline {subsubsection}{Health Infrastructure}{27}{section*.47}
 \contentsline {subsection}{\numberline {8.4.3}Eutrophication}{27}{subsection.8.4.3}
 \contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{28}{section.8.5}
 \contentsline {subsection}{\numberline {8.5.1}Food Security}{29}{subsection.8.5.1}
@@ -114,6 +115,6 @@
 \contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{43}{section.13.2}
 \contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{43}{subsection.13.2.1}
 \contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{43}{subsection.13.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{43}{section*.47}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{43}{section*.48}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{43}{section*.48}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{43}{section*.49}
 \contentsline {part}{I\hspace {1em}Backmatter}{45}{part.1}
