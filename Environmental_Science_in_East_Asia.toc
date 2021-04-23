@@ -67,40 +67,49 @@
 \contentsline {chapter}{\numberline {4}Land Use in East Asia}{17}{chapter.4}
 \contentsline {section}{\numberline {4.1}Impacts on Soil}{17}{section.4.1}
 \contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{17}{section.4.2}
-\contentsline {chapter}{\numberline {5}Invasive Species}{19}{chapter.5}
+\contentsline {chapter}{\numberline {5}Deforestation}{19}{chapter.5}
 \contentsline {section}{\numberline {5.1}Section Heading}{19}{section.5.1}
-\contentsline {chapter}{\numberline {6}Nuclear Power and Nuclear Waste}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Current and Future Energy Needs}{21}{section.6.1}
-\contentsline {chapter}{\numberline {7}Air Pollution \& Social Justice in Hong Kong}{23}{chapter.7}
-\contentsline {section}{\numberline {7.1}Science of Air Pollution}{23}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Overview of the layers of the atmosphere/atmospheric gases}{23}{subsection.7.1.1}
-\contentsline {section}{\numberline {7.2}Major Sources → Use as geographical overview}{23}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}General common sources of air pollution all over the world}{23}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}East Asian countries/communities and their prominent air pollution sources}{23}{subsection.7.2.2}
-\contentsline {chapter}{\numberline {8}Flood Pulse System in East Asia}{25}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduction}{25}{section.8.1}
-\contentsline {chapter}{\numberline {9}Hydroelectric Dams in East Asia}{27}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{27}{section.9.1}
-\contentsline {section}{\numberline {9.2}Conclusion}{27}{section.9.2}
-\contentsline {chapter}{\numberline {10}Climate Change and Food Security in Myanmar}{29}{chapter.10}
-\contentsline {section}{\numberline {10.1}Climate Change, Climate Change Response in Myanmar}{29}{section.10.1}
-\contentsline {section}{\numberline {10.2}Conclusion}{29}{section.10.2}
-\contentsline {chapter}{\numberline {11}Disasters, Typhoons and Phillipines}{31}{chapter.11}
-\contentsline {section}{\numberline {11.1}What are Typhoons?}{31}{section.11.1}
-\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{33}{chapter.12}
-\contentsline {section}{\numberline {12.1}Introductory}{33}{section.12.1}
-\contentsline {section}{\numberline {12.2}Conclusion}{33}{section.12.2}
-\contentsline {chapter}{\numberline {13}Waste Management for a Circular Economy}{35}{chapter.13}
-\contentsline {section}{\numberline {13.1}Life-Cycle}{35}{section.13.1}
-\contentsline {subsection}{\numberline {13.1.1}Collection}{35}{subsection.13.1.1}
-\contentsline {subsection}{\numberline {13.1.2}Transport}{35}{subsection.13.1.2}
-\contentsline {section}{\numberline {13.2}Biomimicry}{35}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Circularity}{35}{subsection.13.2.1}
-\contentsline {chapter}{\numberline {14}Plastic and Packaging in Japan}{37}{chapter.14}
-\contentsline {section}{\numberline {14.1}Introductiona and Goals?}{37}{section.14.1}
-\contentsline {section}{\numberline {14.2}Plastic Pollution and Waste Management in East Asia}{37}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Statistics/comparisons}{37}{subsection.14.2.1}
-\contentsline {subsection}{\numberline {14.2.2}History of plastic waste issues in East Asia}{37}{subsection.14.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{37}{section*.39}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{37}{section*.40}
-\contentsline {part}{I\hspace {1em}Backmatter}{39}{part.1}
+\contentsline {subsection}{\numberline {5.1.1}Subsection Headings}{19}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Overall}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{20}{section.5.4}
+\contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{21}{section.5.5}
+\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{22}{section.5.6}
+\contentsline {section}{\numberline {5.7}Suggestions}{23}{section.5.7}
+\contentsline {chapter}{\numberline {6}Invasive Species}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Section Heading}{25}{section.6.1}
+\contentsline {chapter}{\numberline {7}Nuclear Power and Nuclear Waste}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}Current and Future Energy Needs}{27}{section.7.1}
+\contentsline {chapter}{\numberline {8}Air Pollution \& Social Justice in Hong Kong}{29}{chapter.8}
+\contentsline {section}{\numberline {8.1}Science of Air Pollution}{29}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Overview of the layers of the atmosphere/atmospheric gases}{29}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Major Sources → Use as geographical overview}{29}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}General common sources of air pollution all over the world}{29}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}East Asian countries/communities and their prominent air pollution sources}{29}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {9}Flood Pulse System in East Asia}{31}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{31}{section.9.1}
+\contentsline {chapter}{\numberline {10}Hydroelectric Dams in East Asia}{33}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{33}{section.10.1}
+\contentsline {section}{\numberline {10.2}Conclusion}{33}{section.10.2}
+\contentsline {chapter}{\numberline {11}Climate Change and Food Security in Myanmar}{35}{chapter.11}
+\contentsline {section}{\numberline {11.1}Climate Change, Climate Change Response in Myanmar}{35}{section.11.1}
+\contentsline {section}{\numberline {11.2}Conclusion}{35}{section.11.2}
+\contentsline {chapter}{\numberline {12}Disasters, Typhoons and Phillipines}{37}{chapter.12}
+\contentsline {section}{\numberline {12.1}What are Typhoons?}{37}{section.12.1}
+\contentsline {chapter}{\numberline {13}Climate Infrastructure in Vietnam}{39}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductory}{39}{section.13.1}
+\contentsline {section}{\numberline {13.2}Conclusion}{39}{section.13.2}
+\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{41}{chapter.14}
+\contentsline {section}{\numberline {14.1}Life-Cycle}{41}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Collection}{41}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.2}Transport}{41}{subsection.14.1.2}
+\contentsline {section}{\numberline {14.2}Biomimicry}{41}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Circularity}{41}{subsection.14.2.1}
+\contentsline {chapter}{\numberline {15}Plastic and Packaging in Japan}{43}{chapter.15}
+\contentsline {section}{\numberline {15.1}Introductiona and Goals?}{43}{section.15.1}
+\contentsline {section}{\numberline {15.2}Plastic Pollution and Waste Management in East Asia}{43}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Statistics/comparisons}{43}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.2}History of plastic waste issues in East Asia}{43}{subsection.15.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{43}{section*.39}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{43}{section*.40}
+\contentsline {part}{I\hspace {1em}Backmatter}{45}{part.1}
