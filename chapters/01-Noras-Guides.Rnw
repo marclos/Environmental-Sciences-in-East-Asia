@@ -19,6 +19,7 @@ ____________________________________
 3. no need to use the "git merge origin EA30e21 "code
 4. going to test making a pull request to Marc after saving, committing and pushing to my repo. 
     did it work? 7:45 est
+    YES 7:51 est
 
 \section{What the Polar Vortex and why do we care?}
 
