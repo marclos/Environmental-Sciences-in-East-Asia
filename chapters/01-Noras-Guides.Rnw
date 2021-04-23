@@ -4,15 +4,13 @@
 
 $\rightarrow$
 
-chekcing on this today, 4-020-2021
-pull request test 1.2 
-
-changes at 3 pm, 4-1-21
-
-changes at 3:20 pm, 4-1-21
-
-changes at 3:29 pm 4-1-21
-
+1. made new project titled ERTA2020-NewEA30e21-Project
+2. did the single branch clone for EA30e21
+3. switched the Git brach pull down to EA30e21 in remote: ORIGIN
+4. testing if I can push to my branch only 
+5. save changes
+6. commit - TEST NEW PROJECT PUSH TO BRANCH at 2:04
+      did it work? 2:03 est
 
 
 \section{What the Polar Vortex and why do we care?}
