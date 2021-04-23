@@ -11,6 +11,7 @@ $\rightarrow$
 5. save changes
 6. commit - TEST NEW PROJECT PUSH TO BRANCH at 2:04
       did it work? 2:03 est
+      YES 2:16 est
 
 
 \section{What the Polar Vortex and why do we care?}
