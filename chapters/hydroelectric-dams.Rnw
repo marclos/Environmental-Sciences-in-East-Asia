@@ -1,4 +1,31 @@
 \chapter{Hydroelectric Dams in East Asia}
+\section{Former Residents of Balui}
+The Bakun Dam in Malaysia displaced dozens of Indignous and local communities. A series of case studies was conducted with the community forcibly displaced to government-controlled Sungai Asap in September 2002. The following quotes are pulled from anonymously interviewed Indigenous village members on comparing the conditions of their original home (Balui) and the resettlement in Sungai Asap. They are translated to English as directly as is possible. 
+
+
+\fbox{
+\begin{minipage}[c]{.9\textwidth}
+\subsection{On Survival}
+``Life has been difficult for us since we moved to this area a few years ago. Now we are running out of means to buy our foodstuffs to pay our water and electricity bills. You just look at the electricity meters up there, supplies have been cut off as we have not been able to settle our electricity bill for months.''
+\end{minipage}
+}
+
+\fbox{
+\begin{minipage}[c]{.9\textwidth}
+\subsection{On Social Change and Economic Development}
+``I don’t think the Bakun project has brought us social and economic development as claimed by the government. The environment here is just not suitable for us… Last time we did not have to worry about our daily consumption because we got everything from the forest. Now everything is so different. No money, no food. Just look at the three acres of farmland allocated to me; it takes me about 20 to 25 minutes by land cruiser to get there. Yes, the government built the road for us but where is the means of transport? A return trip from here (Sungai Kojan) to my farmland in Sungai Asap cost me RM4 (US \$1.05). That is very costly for me.''
+\end{minipage}
+}
+
+\fbox{
+\begin{minipage}[c]{.9\textwidth}
+\subsection{On Returning Home}
+ [If given the chance, would you return to your original settlement?] 
+ 
+``Of course! [The] former settlement is better. Furthermore, when we are asked to pay for the house installment amounting to RM52,000 (US 13,684), we are ''habits'' [finished]. Where do we have the means to pay? Makan pun susah [Eating is also a problem]. By then, we have no choice but to go back to the jungle.'' 
+\end{minipage}
+}
+
 
 \section{Introduction}
     There exist over 48,000 hydroelectric dams worldwide (WWF Global, 2015) and have caused the forced displacement of between 40 and 80 million peopled (Hai, 2016). Hydroelectric dams account for 19\% of the world's electricity needs, in and some countries such as Vietnam, hydropower can cover up to 37\% of the country’s energy production. 
@@ -9,7 +36,9 @@
   The World Bank began funding projects such as The Three Gorges Dam (one of the largest and most notorious hydroelectric dams) as well as the Sardar Sarovar Dam in India, the Chonoy in Guatemala, and the Itaparica hydropower project in Brazil as well as countless others. Beginning in the 1970s, criticism arose about the lack of social protection policies for the local and Indigenous communities that dam construction was impacting. Action was called to both assess, and end the harm caused by the World Bank so the World Commission on Dams was released, outlining the human rights abuses by the World Bank and they withdrew official funding from hydropower projects in the 1990s. Despite this, other corporations have filled the gap in funding, namely actors based in China such as the China Three Gorges Corporation and Sinohydro (Cooke, Nordensvard, Saat, Urban, and Siciliano). 
   
   Since the 1990s, there has been a surge in the amount of dams constructed in East Asia specifically, with over 10,000 of them (approximately 28\% of all worldwide dam construction) in Asia. Even within that disproportionate 28\%, a large number of dams lie in Laos which has been devastated by Chinese foreign investment and funders. Many even refer to Laos as the “Battery of [Southeast]Asia.” In cases of water grabbing in hydropower in Laos, energy is exported to other countries or urban cities and the Indigenous or local groups who were impacted by dam development are not granted access to the benefits of the dams that uprooted their lives. Many of these corporate projects have failed international guidelines on human rights and Indigenous rights, as well as ecological harms (which are often tied to subsistence and cultural reciprocity).  
-  In many cases, the current social protection policies that do exist are lacking and can lead to justification for displacement. For example, relocation schemes enable hydropower companies to write off the harm they are causing to communities under the guise of some form of [insufficient] reparation. Furthermore, most relocation schemes force Indigenous communities into unideal cramped living conditions with poor infrastructure, sanitation, education, and without the ability to live with traditional modes of livelihood including but not limited to subsistence/agriculture, as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
+  In many cases, the current social protection policies that do exist are lacking and can lead to justification for displacement. For example, relocation schemes enable hydropower companies to write off the harm they are causing to communities under the guise of some form of [insufficient] reparation. 
+  
+  Furthermore, most relocation schemes force Indigenous communities into unideal cramped living conditions with poor infrastructure, sanitation, education, and without the ability to live with traditional modes of livelihood including but not limited to subsistence/agriculture, as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/Dam-chart.png}
@@ -24,7 +53,7 @@
 \begin{figure}
 \includegraphics[width=\textwidth]{images/diagram.png}
 \caption{USAGE RIGHTS Available TO ALL/public use The reservoir or body of water is often called the headwater. Water travels down to the forebay, then into a sloped area called the penstock where it reaches the turbine then the tailwater is released into the afterbay (which will be lower than the forebay to allow gravity to move the water to generate electricity for the turbine to collect) (Photo and description courtesy of USBR).}
-\label{fig:help}
+\label{fig:helps}
 \end{figure}
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  22 APR 2021 22:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  22 APR 2021 23:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1246,9 +1246,6 @@ Package csquotes Info: ... none found.
 
 LaTeX Warning: Label `fig:help' multiply defined.
 
-
-LaTeX Warning: Label `fig:help' multiply defined.
-
 )
 \openout1 = `Environmental_Science_in_East_Asia.aux'.
 
@@ -1528,7 +1525,7 @@ LaTeX Warning: Reference `fig:maunaloa' on page xi undefined on input line 467.
 
 Package xcolor Warning: Incompatible color definition on input line 527.
 
-<figure/fig:pressure-1.pdf, id=637, 505.89pt x 505.89pt>
+<figure/fig:pressure-1.pdf, id=657, 505.89pt x 505.89pt>
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
@@ -1537,7 +1534,7 @@ Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 532.
  [13
 
 ] [14 <./figure/fig:pressure-1.pdf>]
-<images/Lee-Vadose.png, id=656, 949.5475pt x 411.5375pt>
+<images/Lee-Vadose.png, id=676, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
@@ -1550,7 +1547,7 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 547.
 ]
 Chapter 1.
 
-<images/earth-system/earth-rad-budget-nasa-erbe.png, id=687, 746.79pt x 558.085
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=707, 746.79pt x 558.085
 pt>
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
@@ -1559,7 +1556,7 @@ Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
 d on input line 595.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
-<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=690, 476.78125pt 
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=710, 476.78125pt 
 x 421.575pt>
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
@@ -1568,7 +1565,7 @@ Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
 pg used on input line 607.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
-<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=692, 215
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=712, 215
 .1293pt x 140.50633pt>
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
@@ -1595,7 +1592,7 @@ l.634 \end{figure}
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
  638.
 
-<images/earth-system/long-term-carbon.png, id=706, 436.63126pt x 252.945pt>
+<images/earth-system/long-term-carbon.png, id=726, 436.63126pt x 252.945pt>
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
@@ -1608,7 +1605,7 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 652
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
-<images/earth-system/Q10-SOC-Regulation.jpg, id=715, 367.3725pt x 243.15843pt>
+<images/earth-system/Q10-SOC-Regulation.jpg, id=735, 367.3725pt x 243.15843pt>
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
 
 <use images/earth-system/Q10-SOC-Regulation.jpg>
@@ -1637,7 +1634,7 @@ Chapter 2.
 
 ]
 Chapter 3.
-<images/critical-zone/criticalzone.jpg, id=750, 411.5375pt x 301.125pt>
+<images/critical-zone/criticalzone.jpg, id=770, 411.5375pt x 301.125pt>
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
@@ -1645,7 +1642,7 @@ Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
 ne 720.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
 
-<images/critical-zone/Lee-Vadose.png, id=753, 949.5475pt x 411.5375pt>
+<images/critical-zone/Lee-Vadose.png, id=773, 949.5475pt x 411.5375pt>
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
@@ -1691,15 +1688,26 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[21] <images/Dam-chart.png, id=816, 785.93625pt x 191.71625pt>
+
+<images/Dam-chart.png, id=836, 785.93625pt x 191.71625pt>
 File: images/Dam-chart.png Graphic file (type png)
 
 <use images/Dam-chart.png>
-Package pdftex.def Info: images/Dam-chart.png used on input line 924.
+Package pdftex.def Info: images/Dam-chart.png used on input line 953.
 (pdftex.def)             Requested size: 433.62pt x 105.77774pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1708,44 +1716,47 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-<images/diagram.png, id=817, 469.755pt x 307.1475pt>
+Underfull \vbox (badness 4819) has occurred while \output is active []
+
+ [22]
+<images/diagram.png, id=841, 469.755pt x 307.1475pt>
 File: images/diagram.png Graphic file (type png)
  <use images/diagram.png>
-Package pdftex.def Info: images/diagram.png used on input line 934.
+Package pdftex.def Info: images/diagram.png used on input line 963.
 (pdftex.def)             Requested size: 433.62pt x 283.52115pt.
 
-[22 <./images/Dam-chart.png>] [23 <./images/diagram.png>] [24]
+[23 <./images/Dam-chart.png>] [24 <./images/diagram.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
  [25]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
  [26]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1762,6 +1773,7 @@ Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
+ [27]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1771,14 +1783,14 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
 
-[27]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
+[28]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
@@ -1793,26 +1805,26 @@ Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- <images/schis-life.png, id=856, 845.0772pt x 597.432pt>
+ <images/schis-life.png, id=880, 845.0772pt x 597.432pt>
 File: images/schis-life.png Graphic file (type png)
 
 <use images/schis-life.png>
-Package pdftex.def Info: images/schis-life.png used on input line 1023.
+Package pdftex.def Info: images/schis-life.png used on input line 1052.
 (pdftex.def)             Requested size: 433.62pt x 306.54596pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [28] [29 <./images/schis-life.png>]
-<images/schis-map.png, id=870, 469.755pt x 346.29375pt>
+
+<images/schis-map.png, id=881, 469.755pt x 346.29375pt>
 File: images/schis-map.png Graphic file (type png)
 
 <use images/schis-map.png>
-Package pdftex.def Info: images/schis-map.png used on input line 1033.
+Package pdftex.def Info: images/schis-map.png used on input line 1062.
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [30 <./images/schis-map.png>]
+ [29] [30 <./images/schis-life.png>] [31 <./images/schis-map.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -1829,12 +1841,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Overfull \hbox (8.01985pt too wide) in paragraph at lines 1054--1055
+Overfull \hbox (8.01985pt too wide) in paragraph at lines 1083--1084
 \OT1/cmr/m/n/10 hous-ing, ed-u-ca-tion, health care, san-i-ta-tion, job op-por-
 tu-ni-ties, space for sub-sis-tence farm-ing/traditional
  []
 
-[31]
+[32]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no Ø in font cmr10!
 Missing character: There is no ‚ in font cmr10!
@@ -1846,34 +1858,31 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
- [32]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-Underfull \vbox (badness 2617) has occurred while \output is active []
-
  [33]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+ [34]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1884,8 +1893,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-
-[34]
+ [35]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1916,6 +1924,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
+ [36]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1934,57 +1943,57 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [35] [36]
-Chapter 9.
-[37
-
-] [38
+ [37] [38
 
 ]
-Chapter 10.
+Chapter 9.
 [39] [40
 
 ]
-Chapter 11.
+Chapter 10.
 [41] [42
 
 ]
-Chapter 12.
+Chapter 11.
 [43] [44
+
+]
+Chapter 12.
+[45] [46
 
 ]
 Chapter 13.
 
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 1295--1296
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1324--1325
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
-[45]
-Overfull \hbox (54.87589pt too wide) in paragraph at lines 1319--1320
+[47]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1348--1349
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
-[46] [47
+[48] [49
 
 
-] [48]
+] [50]
 No file Environmental_Science_in_East_Asia.gls.
-(./Environmental_Science_in_East_Asia.bbl [49] [50
+(./Environmental_Science_in_East_Asia.bbl [51] [52
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1340.
- [51]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1340.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1369.
+ [53]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1369.
 
 (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1340.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1340.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1369.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1369.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
-(rerunfilecheck)             Checksum: 8F4710111D07D4FF4D5DEC7B1ECA17E7;7143.
+(rerunfilecheck)             Checksum: DBA5D402A64E48735EED65856A1EB6E1;7447.
 
 
 LaTeX Warning: There were undefined references.
@@ -1994,10 +2003,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29535 strings out of 494820
- 556499 string characters out of 3178050
- 617388 words of memory out of 3000000
- 31901 multiletter control sequences out of 15000+200000
+ 29546 strings out of 494820
+ 556650 string characters out of 3178050
+ 617849 words of memory out of 3000000
+ 31906 multiletter control sequences out of 15000+200000
  26376 words of font info for 99 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  56i,9n,73p,1490b,840s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2029,11 +2038,11 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (71 pages, 2653656 byt
+Output written on Environmental_Science_in_East_Asia.pdf (73 pages, 2657269 byt
 es).
 PDF statistics:
- 1129 PDF objects out of 1200 (max. 8388607)
- 988 compressed objects within 10 object streams
- 242 named destinations out of 1000 (max. 500000)
- 846 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1161 PDF objects out of 1200 (max. 8388607)
+ 1017 compressed objects within 11 object streams
+ 248 named destinations out of 1000 (max. 500000)
+ 878 words of extra memory for PDF output out of 10000 (max. 10000000)
 
