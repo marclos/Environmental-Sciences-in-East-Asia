@@ -73,45 +73,47 @@
 \contentsline {section}{\numberline {8.1}Introduction}{21}{section.8.1}
 \contentsline {section}{\numberline {8.2}Dam Function}{22}{section.8.2}
 \contentsline {subsection}{\numberline {8.2.1}Hydroelectric Generators}{22}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Energy}{22}{subsection.8.2.2}
-\contentsline {subsubsection}{Kinetic Energy}{22}{section*.39}
-\contentsline {subsubsection}{Potential Energy}{23}{section*.40}
-\contentsline {subsubsection}{Total Mechanical Energy}{23}{section*.41}
-\contentsline {subsection}{\numberline {8.2.3}Megawatts and Electricity Usage}{23}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.2}Dam Types}{22}{subsection.8.2.2}
+\contentsline {subsubsection}{Embankment Dams}{22}{section*.39}
+\contentsline {subsection}{\numberline {8.2.3}Energy}{23}{subsection.8.2.3}
+\contentsline {subsubsection}{Kinetic Energy}{23}{section*.40}
+\contentsline {subsubsection}{Potential Energy}{23}{section*.41}
+\contentsline {subsubsection}{Total Mechanical Energy}{23}{section*.42}
+\contentsline {subsection}{\numberline {8.2.4}Megawatts and Electricity Usage}{24}{subsection.8.2.4}
 \contentsline {section}{\numberline {8.3}Hazards and Flooding}{24}{section.8.3}
-\contentsline {section}{\numberline {8.4}Three Gorges Dam}{24}{section.8.4}
+\contentsline {section}{\numberline {8.4}Three Gorges Dam}{25}{section.8.4}
 \contentsline {subsection}{\numberline {8.4.1}Displacement}{25}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}Schistosomiasis}{25}{subsection.8.4.2}
-\contentsline {subsubsection}{Temperature}{26}{section*.42}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{26}{section*.43}
-\contentsline {subsubsection}{Snail Movement}{26}{section*.44}
-\contentsline {subsubsection}{Health Infrastructure}{27}{section*.45}
+\contentsline {subsection}{\numberline {8.4.2}Schistosomiasis}{26}{subsection.8.4.2}
+\contentsline {subsubsection}{Temperature}{26}{section*.43}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{27}{section*.44}
+\contentsline {subsubsection}{Snail Movement}{27}{section*.45}
+\contentsline {subsubsection}{Health Infrastructure}{27}{section*.46}
 \contentsline {subsection}{\numberline {8.4.3}Eutrophication}{27}{subsection.8.4.3}
-\contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{27}{section.8.5}
-\contentsline {subsection}{\numberline {8.5.1}Food Security}{28}{subsection.8.5.1}
+\contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{28}{section.8.5}
+\contentsline {subsection}{\numberline {8.5.1}Food Security}{29}{subsection.8.5.1}
 \contentsline {subsection}{\numberline {8.5.2}Cultural Sites}{29}{subsection.8.5.2}
-\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{29}{section.8.6}
+\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{30}{section.8.6}
 \contentsline {section}{\numberline {8.7}Long Lawen and Long Liam}{30}{section.8.7}
-\contentsline {section}{\numberline {8.8}Conclusion}{32}{section.8.8}
-\contentsline {chapter}{\numberline {9}Climate Change and Food Security in Myanmar}{33}{chapter.9}
-\contentsline {section}{\numberline {9.1}Climate Change, Climate Change Response in Myanmar}{33}{section.9.1}
-\contentsline {section}{\numberline {9.2}Conclusion}{33}{section.9.2}
-\contentsline {chapter}{\numberline {10}Disasters, Typhoons and Phillipines}{35}{chapter.10}
-\contentsline {section}{\numberline {10.1}What are Typhoons?}{35}{section.10.1}
-\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{37}{chapter.11}
-\contentsline {section}{\numberline {11.1}Introductory}{37}{section.11.1}
-\contentsline {section}{\numberline {11.2}Conclusion}{37}{section.11.2}
-\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{39}{chapter.12}
-\contentsline {section}{\numberline {12.1}Life-Cycle}{39}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Collection}{39}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Transport}{39}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Biomimicry}{39}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Circularity}{39}{subsection.12.2.1}
-\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{41}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{41}{section.13.1}
-\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{41}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{41}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{41}{subsection.13.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{41}{section*.46}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{41}{section*.47}
-\contentsline {part}{I\hspace {1em}Backmatter}{43}{part.1}
+\contentsline {section}{\numberline {8.8}Conclusion}{33}{section.8.8}
+\contentsline {chapter}{\numberline {9}Climate Change and Food Security in Myanmar}{35}{chapter.9}
+\contentsline {section}{\numberline {9.1}Climate Change, Climate Change Response in Myanmar}{35}{section.9.1}
+\contentsline {section}{\numberline {9.2}Conclusion}{35}{section.9.2}
+\contentsline {chapter}{\numberline {10}Disasters, Typhoons and Phillipines}{37}{chapter.10}
+\contentsline {section}{\numberline {10.1}What are Typhoons?}{37}{section.10.1}
+\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{39}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introductory}{39}{section.11.1}
+\contentsline {section}{\numberline {11.2}Conclusion}{39}{section.11.2}
+\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{41}{chapter.12}
+\contentsline {section}{\numberline {12.1}Life-Cycle}{41}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Collection}{41}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Transport}{41}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Biomimicry}{41}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Circularity}{41}{subsection.12.2.1}
+\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{43}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{43}{section.13.1}
+\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{43}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{43}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{43}{subsection.13.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{43}{section*.47}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{43}{section*.48}
+\contentsline {part}{I\hspace {1em}Backmatter}{45}{part.1}
