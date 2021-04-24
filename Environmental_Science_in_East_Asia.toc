@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \contentsline {section}{\numberline {0.1}Guiding Principles}{vii}{section.0.1}
 \contentsline {subsection}{\numberline {0.1.1}Context and Positionality}{vii}{subsection.0.1.1}
 \contentsline {subsection}{\numberline {0.1.2}Goals}{vii}{subsection.0.1.2}
@@ -39,6 +40,49 @@
 \contentsline {chapter}{Plastic}{xxi}{chapter*.23}
 \contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xxi}{section.0.9}
 \contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xxi}{subsection.0.9.1}
+=======
+\contentsline {section}{\numberline {0.1}Guiding Principles}{v}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Context and Positionality}{v}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Goals}{v}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}Rationale}{v}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Activity}{v}{subsection.0.1.4}
+\contentsline {section}{\numberline {0.2}East Asia and the World}{vi}{section.0.2}
+\contentsline {section}{\numberline {0.3}Acknowledgments}{vi}{section.0.3}
+\contentsline {chapter}{\LaTeX Guide}{vii}{chapter*.3}
+\contentsline {subsubsection}{R Chunks}{vii}{section*.6}
+\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{viii}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{viii}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {0.4.2}Structuring the Text with Nested Hierarchies}{viii}{subsection.0.4.2}
+\contentsline {subsection}{\numberline {0.4.3}Font Changes}{viii}{subsection.0.4.3}
+\contentsline {subsection}{\numberline {0.4.4}Mathematics and Specialized Characters}{ix}{subsection.0.4.4}
+\contentsline {subsection}{\numberline {0.4.5}Creating equations}{x}{subsection.0.4.5}
+\contentsline {subsubsection}{Theorems, etc}{x}{section*.10}
+\contentsline {subsection}{\numberline {0.4.6}Lists Environments: Making bulletted, numbered, description lists}{x}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.7}Theorem-Like Environments}{xi}{subsection.0.4.7}
+\contentsline {subsection}{\numberline {0.4.8}Peer Review Commenting}{xi}{subsection.0.4.8}
+\contentsline {subsection}{\numberline {0.4.9}Adding Figures, etc}{xi}{subsection.0.4.9}
+\contentsline {subsubsection}{Using Rnw Files}{xi}{section*.11}
+\contentsline {subsubsection}{Creating a floating figure}{xi}{section*.12}
+\contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.14}
+\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xiii}{subsection.0.4.10}
+\contentsline {subsection}{\numberline {0.4.11}minibox X}{xiii}{subsection.0.4.11}
+\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xiii}{subsection.0.4.12}
+\contentsline {subsubsection}{Cross-References}{xiii}{section*.16}
+\contentsline {subsubsection}{Bibliography generation}{xiii}{section*.17}
+\contentsline {subsubsection}{Creating glossary words}{xiii}{section*.18}
+\contentsline {chapter}{Template Chapter Title}{xv}{chapter*.19}
+\contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xv}{subsection.0.5.1}
+\contentsline {subsubsection}{Optional Subsubsection Headings}{xv}{section*.20}
+\contentsline {section}{\numberline {0.6}Goals of this template}{xv}{section.0.6}
+\contentsline {section}{\numberline {0.7}Here's figure}{xv}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xv}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xvii}{subsection.0.7.2}
+\contentsline {section}{\numberline {0.8}Adding Citations}{xvii}{section.0.8}
+\contentsline {chapter}{Plastic}{xix}{chapter*.23}
+\contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xix}{section.0.9}
+\contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xix}{subsection.0.9.1}
+>>>>>>> erta2020-EA30e21
 \contentsline {chapter}{\numberline {1}The Earth System}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Sun's Energy and the Earth's Temperature}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}The Spectrum of Light Entering and Exiting the Earth's Surface}{1}{subsection.1.1.1}
@@ -64,6 +108,7 @@
 \contentsline {subsubsection}{Confined and Unconfined Aquifers}{13}{section*.36}
 \contentsline {subsubsection}{Ground Water Flow}{13}{section*.37}
 \contentsline {subsection}{\numberline {3.2.3}The Vadose Zone}{14}{subsection.3.2.3}
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {4}header short chapter name}{17}{chapter.4}
 \contentsline {section}{\numberline {4.1}Example of a Place: Urbanization and Land Use Change in Shenzhen, China}{17}{section.4.1}
 \contentsline {section}{\numberline {4.2}What is Land Use Change?}{18}{section.4.2}
@@ -211,3 +256,86 @@
 \contentsline {subsubsection}{Are specific companies/industries responsible responsible}{111}{section*.81}
 \contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{111}{section*.82}
 \contentsline {part}{I\hspace {1em}Backmatter}{113}{part.1}
+=======
+\contentsline {chapter}{\numberline {4}Land Use in East Asia}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Impacts on Soil}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{17}{section.4.2}
+\contentsline {chapter}{\numberline {5}Deforestation}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Section Heading}{19}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Subsection Headings}{19}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Overall}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{20}{section.5.4}
+\contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{21}{section.5.5}
+\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{22}{section.5.6}
+\contentsline {section}{\numberline {5.7}Suggestions}{23}{section.5.7}
+\contentsline {chapter}{\numberline {6}Invasive Species}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Section Heading}{25}{section.6.1}
+\contentsline {chapter}{\numberline {7}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}Coral Reef Ecosystem Functioning and Interactions}{27}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Coral Reefs: An Introduction}{27}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Coral Functioning}{28}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Reef Organisms and Trophic Interactions}{29}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Necessary Climate and Nutrients}{29}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}Southeast Asian Reefs by Country}{29}{subsection.7.1.5}
+\contentsline {section}{\numberline {7.2}Climate Change and Its Effects on Coral Reefs}{30}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}The Indigenous Paradox}{30}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Rising Sea Level}{30}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Ocean Warming and Acidification}{31}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Coral Bleaching}{32}{subsection.7.2.4}
+\contentsline {section}{\numberline {7.3}Unsustainable Fishing Practices}{32}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}The Live Reef Fish Trade}{32}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Cyanide and Blast Fishing}{33}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Economic Drivers and Indigenous Contributions}{34}{subsection.7.3.3}
+\contentsline {section}{\numberline {7.4}Reefs Pollutants}{35}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Marine Debris and Ocean Contaminants}{35}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Development, Industrialization, and the Agta}{36}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Deforestation and Agriculture}{37}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Coral Diseases}{38}{subsection.7.4.4}
+\contentsline {section}{\numberline {7.5}Reef Ecosystem Services}{38}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Biomedicine}{38}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Food Sources}{39}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Tourism and the Tagbanua}{40}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Coastline Protection}{41}{subsection.7.5.4}
+\contentsline {subsection}{\numberline {7.5.5}The Sentinelese People}{41}{subsection.7.5.5}
+\contentsline {section}{\numberline {7.6}Reef Restoration, Protection, and Conservation}{42}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Ecosystem Based Adaptations}{42}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Marine Protected Areas}{43}{subsection.7.6.2}
+\contentsline {subsection}{\numberline {7.6.3}Intersectional Efforts}{44}{subsection.7.6.3}
+\contentsline {section}{\numberline {7.7}Coral Reefs: Conclusion}{45}{section.7.7}
+\contentsline {chapter}{\numberline {8}Nuclear Power and Nuclear Waste}{57}{chapter.8}
+\contentsline {section}{\numberline {8.1}Current and Future Energy Needs}{57}{section.8.1}
+\contentsline {chapter}{\numberline {9}Air Pollution \& Social Justice in Hong Kong}{59}{chapter.9}
+\contentsline {section}{\numberline {9.1}Science of Air Pollution}{59}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Overview of the layers of the atmosphere/atmospheric gases}{59}{subsection.9.1.1}
+\contentsline {section}{\numberline {9.2}Major Sources → Use as geographical overview}{59}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}General common sources of air pollution all over the world}{59}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}East Asian countries/communities and their prominent air pollution sources}{59}{subsection.9.2.2}
+\contentsline {chapter}{\numberline {10}Flood Pulse System in East Asia}{61}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{61}{section.10.1}
+\contentsline {chapter}{\numberline {11}Hydroelectric Dams in East Asia}{63}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introduction}{63}{section.11.1}
+\contentsline {section}{\numberline {11.2}Conclusion}{63}{section.11.2}
+\contentsline {chapter}{\numberline {12}Climate Change and Food Security in Myanmar}{65}{chapter.12}
+\contentsline {section}{\numberline {12.1}Climate Change, Climate Change Response in Myanmar}{65}{section.12.1}
+\contentsline {section}{\numberline {12.2}Conclusion}{65}{section.12.2}
+\contentsline {chapter}{\numberline {13}Disasters, Typhoons and Phillipines}{67}{chapter.13}
+\contentsline {section}{\numberline {13.1}What are Typhoons?}{67}{section.13.1}
+\contentsline {chapter}{\numberline {14}Climate Infrastructure in Vietnam}{69}{chapter.14}
+\contentsline {section}{\numberline {14.1}Introductory}{69}{section.14.1}
+\contentsline {section}{\numberline {14.2}Conclusion}{69}{section.14.2}
+\contentsline {chapter}{\numberline {15}Waste Management for a Circular Economy}{71}{chapter.15}
+\contentsline {section}{\numberline {15.1}Life-Cycle}{71}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}Collection}{71}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.2}Transport}{71}{subsection.15.1.2}
+\contentsline {section}{\numberline {15.2}Biomimicry}{71}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Circularity}{71}{subsection.15.2.1}
+\contentsline {chapter}{\numberline {16}Plastic and Packaging in Japan}{73}{chapter.16}
+\contentsline {section}{\numberline {16.1}Introductiona and Goals?}{73}{section.16.1}
+\contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{73}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{73}{subsection.16.2.1}
+\contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{73}{subsection.16.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{73}{section*.50}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{73}{section*.51}
+\contentsline {part}{I\hspace {1em}Backmatter}{75}{part.1}
+>>>>>>> erta2020-EA30e21

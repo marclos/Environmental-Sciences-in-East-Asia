@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  24 APR 2021 13:37
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  23 APR 2021 21:34
+>>>>>>> erta2020-EA30e21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1440,6 +1444,7 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
+<<<<<<< HEAD
  [2] [3] [4])
 \tf@toc=\write7
 \openout7 = `Environmental_Science_in_East_Asia.toc'.
@@ -1448,6 +1453,20 @@ Missing character: There is no “ in font cmr10!
 
 ] [7] [8]
 Overfull \hbox (4.69772pt too wide) in paragraph at lines 148--149
+=======
+ [2]
+Missing character: There is no â in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [3])
+\tf@toc=\write7
+\openout7 = `Environmental_Science_in_East_Asia.toc'.
+
+ [4] [5
+
+] [6]
+Overfull \hbox (4.69772pt too wide) in paragraph at lines 145--146
+>>>>>>> erta2020-EA30e21
 \OT1/cmr/m/n/10 In the past, I used L[]T[]Xto make pub-li-ca-tion qual-ity text
 . In fact, many pre-fer writ-ing in L[]T[]Xbecause
  []
@@ -1478,19 +1497,33 @@ Missing character: There is no É in font cmr10!
 Missing character: There is no ª in font cmr10!
 Missing character: There is no É in font cmr10!
 Missing character: There is no › in font cmr10!
+<<<<<<< HEAD
 [10]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 244.
+=======
+[8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 241.
+>>>>>>> erta2020-EA30e21
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+<<<<<<< HEAD
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 244.
  [11] [12]
 
 Package xcolor Warning: Incompatible color definition on input line 443.
 
 <figure/maunaloa-1.pdf, id=1037, 505.89pt x 505.89pt>
+=======
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 241.
+ [9] [10]
+
+Package xcolor Warning: Incompatible color definition on input line 440.
+
+<figure/maunaloa-1.pdf, id=771, 505.89pt x 505.89pt>
+>>>>>>> erta2020-EA30e21
 File: figure/maunaloa-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa-1.pdf>
@@ -1498,29 +1531,51 @@ Package pdftex.def Info: figure/maunaloa-1.pdf used on input line 444.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
  [13] [14 <./figure/maunaloa-1.pdf>]
 
+<<<<<<< HEAD
 LaTeX Warning: Reference `fig:maunaloa' on page xv undefined on input line 465.
+=======
+LaTeX Warning: Reference `fig:maunaloa' on page xiii undefined on input line 46
+2.
+>>>>>>> erta2020-EA30e21
 
 
+<<<<<<< HEAD
 [15] [16
 
+=======
+>>>>>>> erta2020-EA30e21
 ]
 
 Package xcolor Warning: Incompatible color definition on input line 528.
 
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+<<<<<<< HEAD
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 530.
 <figure/fig:pressure-1.pdf, id=1091, 505.89pt x 505.89pt>
+=======
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 527.
+<figure/fig:pressure-1.pdf, id=827, 505.89pt x 505.89pt>
+>>>>>>> erta2020-EA30e21
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
 Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 533.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
+<<<<<<< HEAD
  [17] [18 <./figure/fig:pressure-1.pdf>]
 <images/Lee-Vadose.png, id=1111, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
 Package pdftex.def Info: images/Lee-Vadose.png used on input line 548.
+=======
+ [15] [16 <./figure/fig:pressure-1.pdf>]
+<images/Lee-Vadose.png, id=845, 949.5475pt x 411.5375pt>
+File: images/Lee-Vadose.png Graphic file (type png)
+
+<use images/Lee-Vadose.png>
+Package pdftex.def Info: images/Lee-Vadose.png used on input line 545.
+>>>>>>> erta2020-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [19 <./images/Lee-Vadose.png>] [20
 
@@ -1529,57 +1584,100 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 548.
 ]
 Chapter 1.
 
+<<<<<<< HEAD
 <images/earth-system/earth-rad-budget-nasa-erbe.png, id=1141, 746.79pt x 558.08
 5pt>
+=======
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=876, 746.79pt x 558.085
+pt>
+>>>>>>> erta2020-EA30e21
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
  <use images/earth-system/earth-rad-budget-nasa-erbe.png>
 Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
+<<<<<<< HEAD
 d on input line 605.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
 <images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=1144, 476.78125pt
  x 421.575pt>
+=======
+d on input line 602.
+(pdftex.def)             Requested size: 433.62pt x 324.0472pt.
+
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=879, 476.78125pt 
+x 421.575pt>
+>>>>>>> erta2020-EA30e21
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
  <use images/earth-system/em-radiation-atmosph-depth-stsci.jpg>
 Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
+<<<<<<< HEAD
 pg used on input line 617.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
 <images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=1146, 21
 5.1293pt x 140.50633pt>
+=======
+pg used on input line 614.
+(pdftex.def)             Requested size: 433.62pt x 383.43442pt.
+
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=881, 215
+.1293pt x 140.50633pt>
+>>>>>>> erta2020-EA30e21
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
 
 <use images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>
 Package pdftex.def Info: images/earth-system/Carbon-reservoirs-and-cycles-in-th
+<<<<<<< HEAD
 e-Earth.jpg used on input line 641.
+=======
+e-Earth.jpg used on input line 638.
+>>>>>>> erta2020-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 283.21162pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.644 \end{figure}
+=======
+l.641 \end{figure}
+>>>>>>> erta2020-EA30e21
                    [1
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.644 \end{figure}
+=======
+l.641 \end{figure}
+>>>>>>> erta2020-EA30e21
                    [2 <./images/earth-system/earth-rad-budget-nasa-erbe.png>]
 [3 <./images/earth-system/em-radiation-atmosph-depth-stsci.jpg>]
 
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
+<<<<<<< HEAD
  648.
 
 <images/earth-system/long-term-carbon.png, id=1161, 436.63126pt x 252.945pt>
+=======
+ 645.
+
+<images/earth-system/long-term-carbon.png, id=896, 436.63126pt x 252.945pt>
+>>>>>>> erta2020-EA30e21
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
 Package pdftex.def Info: images/earth-system/long-term-carbon.png used on input
+<<<<<<< HEAD
  line 651.
+=======
+ line 648.
+>>>>>>> erta2020-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 251.19983pt.
 
 
@@ -1587,17 +1685,29 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 662
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
+<<<<<<< HEAD
 <images/earth-system/Q10-SOC-Regulation.jpg, id=1170, 367.3725pt x 243.15843pt>
+=======
+<images/earth-system/Q10-SOC-Regulation.jpg, id=905, 367.3725pt x 243.15843pt>
+>>>>>>> erta2020-EA30e21
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
 <use images/earth-system/Q10-SOC-Regulation.jpg>
 Package pdftex.def Info: images/earth-system/Q10-SOC-Regulation.jpg used on inp
+<<<<<<< HEAD
 ut line 667.
+=======
+ut line 664.
+>>>>>>> erta2020-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 287.02835pt.
 
 
 Package xcolor Warning: Incompatible color definition on input line 685.
 
+<<<<<<< HEAD
 <figure/maunaloa3-1.pdf, id=1180, 505.89pt x 505.89pt>
+=======
+<figure/maunaloa3-1.pdf, id=915, 505.89pt x 505.89pt>
+>>>>>>> erta2020-EA30e21
 File: figure/maunaloa3-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa3-1.pdf>
@@ -1613,15 +1723,26 @@ Chapter 2.
 
 ]
 Chapter 3.
+<<<<<<< HEAD
 <images/critical-zone/criticalzone.jpg, id=1221, 411.5375pt x 301.125pt>
+=======
+<images/critical-zone/criticalzone.jpg, id=957, 411.5375pt x 301.125pt>
+>>>>>>> erta2020-EA30e21
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
 Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
+<<<<<<< HEAD
 ne 729.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
  [11] [12 <./images/critical-zone/criticalzone.jpg>]
 <images/critical-zone/groundwater.png, id=1234, 285.065pt x 183.68625pt>
+=======
+ne 726.
+(pdftex.def)             Requested size: 433.62pt x 317.28412pt.
+ [11] [12 <./images/critical-zone/criticalzone.jpg>]
+<images/critical-zone/groundwater.png, id=969, 285.065pt x 183.68625pt>
+>>>>>>> erta2020-EA30e21
 File: images/critical-zone/groundwater.png Graphic file (type png)
 
 <use images/critical-zone/groundwater.png>
@@ -1633,18 +1754,27 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
+<<<<<<< HEAD
 <images/critical-zone/Lee-Vadose.png, id=1247, 949.5475pt x 411.5375pt>
+=======
+<images/critical-zone/Lee-Vadose.png, id=981, 949.5475pt x 411.5375pt>
+>>>>>>> erta2020-EA30e21
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
 Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
+<<<<<<< HEAD
  803.
+=======
+ 800.
+>>>>>>> erta2020-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [14] [15 <./images/critical-zone/Lee-Vadose.png>] [16
 
 ]
 Chapter 4.
 
+<<<<<<< HEAD
 LaTeX Warning: Reference `fig:shenzhen' on page 17 undefined on input line 818.
 
 
@@ -1817,6 +1947,9 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 
 Overfull \hbox (3.89119pt too wide) in paragraph at lines 987--987
+=======
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 847--847
+>>>>>>> erta2020-EA30e21
 []\OT1/cmr/bx/n/14.4 Conclusion & Prospect of Sus-tain-able Ur-ban-iza-tion/Lan
 d
  []
@@ -1843,6 +1976,7 @@ Missing character: There is no € in font cmbx12!
 Missing character: There is no “ in font cmbx12!
  [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+<<<<<<< HEAD
 
  [33]
 [34]
@@ -2170,6 +2304,30 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
 
 [82]
+=======
+
+ [21]
+[22]
+Underfull \vbox (badness 3792) has occurred while \output is active []
+
+ [23]
+[24]
+Chapter 6.
+[25
+
+] [26
+
+]
+Chapter 7.
+[27]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [28]
+Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [29]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -2187,6 +2345,7 @@ Missing character: There is no ™ in font cmr10!
  <images/schis-life.png, id=1900, 845.0772pt x 597.432pt>
 File: images/schis-life.png Graphic file (type png)
 
+<<<<<<< HEAD
 <use images/schis-life.png>
 Package pdftex.def Info: images/schis-life.png used on input line 1584.
 (pdftex.def)             Requested size: 433.62pt x 306.54596pt.
@@ -2244,12 +2403,23 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
+=======
+[30]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [31]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+ [32]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
+<<<<<<< HEAD
  [88]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2257,6 +2427,13 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
+=======
+ [33] [34] [35] [36] [37]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [38]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
@@ -2265,7 +2442,12 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
+<<<<<<< HEAD
 Missing character: There is no ™ in font cmr10!
+=======
+Missing character: There is no ” in font cmr10!
+ [39]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -2285,9 +2467,13 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+<<<<<<< HEAD
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
+=======
+ [40]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -2329,34 +2515,80 @@ Chapter 12.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+<<<<<<< HEAD
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
+=======
+ [41] [42]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [43]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+<<<<<<< HEAD
+=======
+ [44]
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [93] <images/myanmar/Image1.jpg, id=1956, 805.0075pt x 722.7pt>
 File: images/myanmar/Image1.jpg Graphic file (type jpg)
 
+<<<<<<< HEAD
 <use images/myanmar/Image1.jpg>
 Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1688.
 (pdftex.def)             Requested size: 433.62pt x 389.28177pt.
 
 <images/myanmar/Image2.jpg, id=1957, 1381.16pt x 817.0525pt>
 File: images/myanmar/Image2.jpg Graphic file (type jpg)
+=======
+<images/reeffoodweb.png, id=1374, 469.755pt x 342.27875pt>
+File: images/reeffoodweb.png Graphic file (type png)
+
+<use images/reeffoodweb.png>
+Package pdftex.def Info: images/reeffoodweb.png used on input line 1153.
+(pdftex.def)             Requested size: 433.62pt x 315.95003pt.
+
+<images/reefcycles.png, id=1379, 292.09125pt x 270.00874pt>
+File: images/reefcycles.png Graphic file (type png)
+
+<use images/reefcycles.png>
+Package pdftex.def Info: images/reefcycles.png used on input line 1159.
+(pdftex.def)             Requested size: 433.62pt x 400.87563pt.
+
+<images/reefmap.png, id=1388, 469.755pt x 346.29375pt>
+File: images/reefmap.png Graphic file (type png)
+
+<use images/reefmap.png>
+Package pdftex.def Info: images/reefmap.png used on input line 1165.
+(pdftex.def)             Requested size: 433.62pt x 319.65619pt.
+
+
+Package caption Warning: \captionsetup{subtype*=...} or \subcaptionof
+(caption)                outside box or environment on input line 1172.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: \subcaption
+(caption)                outside box or environment on input line 1172.
+See the caption package documentation for explanation.
+>>>>>>> erta2020-EA30e21
 
 <use images/myanmar/Image2.jpg>
 Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1693.
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
+<<<<<<< HEAD
 <images/myanmar/Image3.jpg, id=1958, 156.585pt x 324.21124pt>
 File: images/myanmar/Image3.jpg Graphic file (type jpg)
 
@@ -2364,9 +2596,21 @@ File: images/myanmar/Image3.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1700.
 (pdftex.def)             Requested size: 433.62pt x 897.94064pt.
 
+=======
+Overfull \hbox (38.54742pt too wide) in paragraph at lines 1174--1189
+[][] 
+ []
+
+<images/acidification2_med.jpg, id=1397, 820.06375pt x 325.215pt>
+File: images/acidification2_med.jpg Graphic file (type jpg)
+
+<use images/acidification2_med.jpg>
+Package pdftex.def Info: images/acidification2_med.jpg used on input line 1192.
+>>>>>>> erta2020-EA30e21
 
 LaTeX Warning: Float too large for page by 340.78065pt on input line 1702.
 
+<<<<<<< HEAD
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -2477,11 +2721,60 @@ Using draft setting for this image.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+=======
+<images/coralbleach.png, id=1398, 469.755pt x 313.17pt>
+File: images/coralbleach.png Graphic file (type png)
+
+<use images/coralbleach.png>
+Package pdftex.def Info: images/coralbleach.png used on input line 1198.
+(pdftex.def)             Requested size: 433.62pt x 289.08037pt.
+
+<images/cyanidefishing.jpg, id=1399, 1134.2375pt x 756.8275pt>
+File: images/cyanidefishing.jpg Graphic file (type jpg)
+
+<use images/cyanidefishing.jpg>
+Package pdftex.def Info: images/cyanidefishing.jpg used on input line 1204.
+(pdftex.def)             Requested size: 433.62pt x 289.32967pt.
+
+<images/coraldisease.png, id=1400, 469.755pt x 353.32pt>
+File: images/coraldisease.png Graphic file (type png)
+
+<use images/coraldisease.png>
+Package pdftex.def Info: images/coraldisease.png used on input line 1210.
+(pdftex.def)             Requested size: 433.62pt x 326.14198pt.
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+
+<images/sentpeeps.png, id=1401, 469.755pt x 263.98625pt>
+File: images/sentpeeps.png Graphic file (type png)
+
+<use images/sentpeeps.png>
+Package pdftex.def Info: images/sentpeeps.png used on input line 1216.
+(pdftex.def)             Requested size: 433.62pt x 243.67993pt.
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+
+<images/tagfish.png, id=1402, 366.36874pt x 366.36874pt>
+File: images/tagfish.png Graphic file (type png)
+
+<use images/tagfish.png>
+Package pdftex.def Info: images/tagfish.png used on input line 1222.
+(pdftex.def)             Requested size: 433.62pt x 433.64745pt.
+>>>>>>> erta2020-EA30e21
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
+<<<<<<< HEAD
 Missing character: There is no ” in font cmr9!
 [102] [103] [104
 
@@ -2496,27 +2789,99 @@ Chapter 14.
 ]
 Chapter 15.
 [109] [110
+=======
+Missing character: There is no ™ in font cmr9!
+
+<images/reefbigchillin.png, id=1411, 399.4925pt x 209.78375pt>
+File: images/reefbigchillin.png Graphic file (type png)
+
+<use images/reefbigchillin.png>
+Package pdftex.def Info: images/reefbigchillin.png used on input line 1228.
+(pdftex.def)             Requested size: 433.62pt x 227.71542pt.
+ [45] [46 <./images/reeffoodweb.png>] [47 <./images/reefcycles.png>] [48 <./ima
+ges/reefmap.png>] [49 <./images/acidification2_med.jpg>] [50 <./images/coralble
+ach.png>] [51 <./images/cyanidefishing.jpg>]
+[52 <./images/coraldisease.png>] [53 <./images/sentpeeps.png>] [54 <./images/ta
+gfish.png>] [55 <./images/reefbigchillin.png>] [56
+
+]
+Chapter 8.
+[57] [58
+
+]
+Chapter 9.
+Missing character: There is no â in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no ’ in font cmbx12!
+[59]
+Missing character: There is no â in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [60]
+Chapter 10.
+[61
+
+] [62
+
+]
+Chapter 11.
+[63] [64
+
+]
+Chapter 12.
+[65] [66
+
+]
+Chapter 13.
+[67] [68
+
+]
+Chapter 14.
+[69] [70
+
+]
+Chapter 15.
+[71] [72
+>>>>>>> erta2020-EA30e21
 
 ]
 Chapter 16.
 
+<<<<<<< HEAD
 Overfull \hbox (4.71004pt too wide) in paragraph at lines 1896--1897
+=======
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1583--1584
+>>>>>>> erta2020-EA30e21
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
+<<<<<<< HEAD
 [111]
 Overfull \hbox (54.87589pt too wide) in paragraph at lines 1920--1921
+=======
+[73]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1607--1608
+>>>>>>> erta2020-EA30e21
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
+<<<<<<< HEAD
 [112] [113
 
 
 ] [114]
 No file Environmental_Science_in_East_Asia.gls.
 (./Environmental_Science_in_East_Asia.bbl [115] [116
+=======
+[74] [75
+
+
+] [76]
+No file Environmental_Science_in_East_Asia.gls.
+(./Environmental_Science_in_East_Asia.bbl [77] [78
+>>>>>>> erta2020-EA30e21
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 16--22
@@ -2572,7 +2937,11 @@ Missing character: There is no © in font cmr10!
 
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
+<<<<<<< HEAD
  [117]
+=======
+ [79]
+>>>>>>> erta2020-EA30e21
 Underfull \hbox (badness 10000) in paragraph at lines 92--95
 []\OT1/cmr/m/n/10 CORAL.  Coral reef ecol-ogy, 2021.  URL [][]$\OT1/cmtt/m/n/10
  https : / / coral . org / coral-[]reefs-[]101 /
@@ -2590,7 +2959,11 @@ Missing character: There is no ™ in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [118]
+=======
+ [80]
+>>>>>>> erta2020-EA30e21
 Underfull \hbox (badness 4660) in paragraph at lines 165--173
 []\OT1/cmr/m/n/10 Ilisapeci Lyons, Rose-mary Hill, Samarla Deshong, Gary Mooney
 , and Gerry Turpin.
@@ -2629,7 +3002,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--216
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [119]
+=======
+ [81]
+>>>>>>> erta2020-EA30e21
 Underfull \hbox (badness 3271) in paragraph at lines 244--250
 \OT1/cmr/m/n/10 02697491.  URL [][]$\OT1/cmtt/m/n/10 http : / / search . ebscoh
 ost . com . ccl . idm . oclc . org / login . aspx ? direct =
@@ -2695,7 +3072,11 @@ Overfull \hbox (15.15405pt too wide) in paragraph at lines 277--283
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [120]
+=======
+ [82]
+>>>>>>> erta2020-EA30e21
 Underfull \hbox (badness 10000) in paragraph at lines 306--311
 []\OT1/cmr/m/n/10 Andrea Thomp-son.  Where plas-tic goes, coral dis-ease fol-lo
 ws.  \OT1/cmr/m/it/10 Sci-en-tific
@@ -2744,6 +3125,7 @@ ct = true&AuthType = sso&db = 8gh&AN =
  []
 
 )
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1941.
  [121]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1941.
@@ -2754,16 +3136,35 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1941.
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 79CC3B5BCF689D640C242371F16E64F2;14156.
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1628.
+ [83]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1628.
+ (./Environmental_Science_in_East_Asia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1628.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1628.
+
+Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
+not changed.
+(rerunfilecheck)             Checksum: DDA37FDD9BCB0122795A5D17FF645308;9997.
+>>>>>>> erta2020-EA30e21
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  30175 strings out of 494820
  569048 string characters out of 3178050
  643643 words of memory out of 3000000
  32276 multiletter control sequences out of 15000+200000
+=======
+ 29910 strings out of 494820
+ 564375 string characters out of 3178050
+ 640918 words of memory out of 3000000
+ 32155 multiletter control sequences out of 15000+200000
+>>>>>>> erta2020-EA30e21
  32874 words of font info for 124 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  56i,11n,73p,3632b,936s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2796,6 +3197,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/cm-super/sfrm1000.pfb>
+<<<<<<< HEAD
 Output written on Environmental_Science_in_East_Asia.pdf (145 pages, 13549757 b
 ytes).
 PDF statistics:
@@ -2803,4 +3205,13 @@ PDF statistics:
  2086 compressed objects within 21 object streams
  471 named destinations out of 1000 (max. 500000)
  1646 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on Environmental_Science_in_East_Asia.pdf (105 pages, 8761268 by
+tes).
+PDF statistics:
+ 1850 PDF objects out of 2073 (max. 8388607)
+ 1636 compressed objects within 17 object streams
+ 346 named destinations out of 1000 (max. 500000)
+ 1163 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> erta2020-EA30e21
 
