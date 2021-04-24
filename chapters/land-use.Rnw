@@ -1,18 +1,18 @@
+
 \chapter{Land Change and Monitoring: Science of Remote Sensing on Biogeochemical Changes to the Land}
 
-chapterauthor{Samantha Beaton}
+\chapterauthor{Samantha Beaton}
 
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
 Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is a particularly interesting place to begin analyzing land use change. A study analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.). Regardless of potential impacts, it cannot be ignored that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
 
-Figure \ref{fig:shenzhen}
-
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Screen Shot 2021-04-23 at 6.27.38 PM.png}
+\includegraphics[width=\linewidth]{graphics/Shenzhen.jpg}
 \caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014.}
-\label{figure:shenzen}
+\label{figure:Shenzen}
 \end{figure}
+
 
 As most scholars would agree, we are currently situated in the Anthropocene, or at least an age dominated by the systems of humans. The supposed ''age of man,'' as described by environmental artist and engineer Natalie Jeremijenko, asserts how humans are ''major biogeochemical forces in the world.'' By simple definition, humans have a true impact on the land, which then responds. Humans are entangled in the forces of nature. 
 
