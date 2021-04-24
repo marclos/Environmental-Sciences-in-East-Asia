@@ -1,4 +1,3 @@
-
 \chapter{Land Change and Monitoring: Science of Remote Sensing on Biogeochemical Changes to the Land}
 
 \chapterauthor{Samantha Beaton}
@@ -12,7 +11,6 @@ Following the late 20th century reform period, China has embarked on a mass urba
 \caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014.}
 \label{figure:Shenzen}
 \end{figure}
-
 
 As most scholars would agree, we are currently situated in the Anthropocene, or at least an age dominated by the systems of humans. The supposed ''age of man,'' as described by environmental artist and engineer Natalie Jeremijenko, asserts how humans are ''major biogeochemical forces in the world.'' By simple definition, humans have a true impact on the land, which then responds. Humans are entangled in the forces of nature. 
 
@@ -56,10 +54,8 @@ Still, the history of remote sensing cannot be understood without analyzing its 
 
 Additionally, a key component to colonial mapmaking was the arbitrary creation of boundaries. Remote sensing analyses can fall into a similar ''territorial trap'' that disregards how human activities, resources, and environmental change occurs as natural flows that transcend transnational boundaries (Bennett, 2020). By working within discrete state boundaries, data and resulting maps can reproduce certain narratives, particularly ones that suppress developing countries over developed ones. We can see this in the map below (Figure 2) on soil erosion rates and vulnerabilities across the globe, dictated by national boundaries. While developing countries are illustrated in red, indicating high rates of soil erosion and land degradation, developed Western countries look perfectly clean. This example is just one in a long line of historical misrepresentations of local occurrences that are ever-more complex than what can (and molded to) be portrayed in bordered images. Systems of remote sensing must strive to actively dismantle the colonial, militaristic foundation it is so strongly built upon.
 
-Figure \ref{fig:Bonelli Erosion Map}
-
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Bonelli Erosion Map.png}
+\includegraphics[width=\linewidth]{graphics/Bonelli-Erosion-Map.jpg}
 \caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world (Borelli, et al.).}
 \label{fig:Bonelli Erosion Map}
 \end{figure}
@@ -107,10 +103,8 @@ Carbon is the foundation to life on Earth and is an imperative global cycle, esp
 
 Moreover, understanding shifting land uses on carbon cycling is important to understand nutrient stock dynamics. Due to growing socioeconomic pressures, natural vegetation cover has been steadily decreasing. More and more, forest and grasslands are extensively and intensively being converted to agricultural lands or other urban needs, while reforestation projects are also growing in popularity. Poeplau et al., 2011 reviewed shifting carbon stocks in soil following five different types of land use change types across nearly 350 sites in the temperate zone, in which China and much of Eastern Asia resides. Unsurprisingly, complete deforestation resulted in a -32±20\% decrease in equilibrium SOC over 23 years, and grassland to cropland similarly resulted in a -36±5\% equilibrium decrease after 17 years. These numbers in particular reflect the relative vulnerability of topsoil to intensive change.
 
-Figure \ref{fig:LUC SOC Table}
-
 \begin{figure}
-\includegraphics[width=\linewidth]{images/LUC SOC Table}
+\includegraphics[width=\linewidth]{images/LUC SOC Table.jpg}
 \caption{Comparison of land use change types on years to reach equilibrium, predicted change rates of soil organic carbon stock after 20 and 100 years, and average initial stock value (Poeplau et al., 2011). Note the rapid rates of deforestation (values 17 and 23) compared to longer predicted rates of reforestation land use changes.}
 \label{fig:LUC SOC Table}
 \end{figure}
@@ -126,10 +120,8 @@ Sustainable, regenerative, conservation, or permaculture-based land systems are 
 
 ''The art of agriculture is a sacred act of collaboration between heaven, earth, and humanity for the production of life-sustaining food.'' —Torizo Kurosawa
 
-Figure \ref{fig:Climate Smart Soils}
-
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Climate Smart Soils.png}
+\includegraphics[width=\linewidth]{graphics/Climate-Smart-Soils.jpg}
 \caption{Integrated strategy of scientific research, management practices, and widespread implementation of GHG-mitigation-driven agricultural systems (Paustian et al., 2019).}
 \label{fig:Climate Smart Soils}
 \end{figure}
@@ -157,10 +149,8 @@ However, due to intense human activity in the past 2500 years (largely agricultu
 \subsection{Beginnings of Modern-Day Restoration}
 Beginning in the 1960s, mass efforts have been made to restore the Loess Plateau. After all, one must only look to the neighboring provinces with rich environments, such as Sichuan, to realize the potential of such efforts. The primary goal of these endeavors were, and continue to be, increase biomass and biodiversity in all ways within the environment. Methods include terracing of the hills that level out parts of the steep slopes, natural vegetation rehabilitation to restore soil productivity, and additional efforts in check dams for sediment control. A study analyzing the Loess Plateau rehabilitation reflected a trend of increased retention of water in the land, especially since 2000, seen through decreased streamflow and sediment concentration into the Yellow River. (have to regain access to the article—will input figures and explanations of the science here). While restoration is actively being worked upon on a comparatively small area in the big region, the Loess Plateau rehabilitation effort is representative of the true potential to restore massively degraded land from harmful land usage.
 
-Figure \ref{fig:Loess Comparison}
-
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Loess Comparison/png}
+\includegraphics[width=\linewidth]{graphics/Loess-Comparison.jpg}
 \caption{Comparison of Loess Plateau from 1995 to 2009 (Liu).}
 \label{fig:Loess Comparison}
 \end{figure}
