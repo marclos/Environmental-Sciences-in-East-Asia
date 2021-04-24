@@ -431,15 +431,37 @@ For example, here's code to generate a pretty good figure:
 
 
 
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in is.data.frame(data): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in summary(model): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in predict(., test.data): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in mean((pred - obs)\textasciicircum{}2, na.rm = na.rm): object 'predictions' not found}}\end{kframe}
+\end{knitrout}
 
 In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
@@ -537,7 +559,7 @@ First we create an R chunk and add some code. In this case, I created a floating
 
 \subsection{Floating Figures from External Sources}
 
-All figures and images that are imported should be put into the "images" sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
+All figures and images that are imported should be put into the ``images'' sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
 Figure \ref{fig:vadose} is a good example of inserting an image from an external source.
 
@@ -559,22 +581,30 @@ Generally, there are many environmental trends in Asia \citep{imura2005urban}.
 \citet{imura2005urban} describes the how urbanization has affected the hydrology of East Asia. 
  
 
+\documentclass{article}\usepackage{knitr}
+
 \chapter{Plastic}
 
 \chapterauthor{Nora}
 
 $\rightarrow$
 
-chekcing on this today, 4-020-2021
-pull request test 1.2 
-
-changes at 3 pm, 4-1-21
-
-changes at 3:20 pm, 4-1-21
-
-changes at 3:29 pm 4-1-21
-
-
+4/23
+1. made new project titled ERTA2020-NewEA30e21-Project
+2. did the single branch clone for EA30e21
+3. switched the Git brach pull down to EA30e21 in remote: ORIGIN
+4. testing if I can push to my branch only 
+5. save changes
+6. commit - TEST NEW PROJECT PUSH TO BRANCH at 2:04
+      did it work? 2:03 est
+      YES 2:16 est
+____________________________________
+1. added Marc's repo as the "upstream" to be able to pull from his branch when things are changed there
+2. tried to fetch from marc's EA30e21 branch. - SUCCESSFUL
+3. no need to use the "git merge origin EA30e21 "code
+4. going to test making a pull request to Marc after saving, committing and pushing to my repo. 
+    did it work? 7:45 est
+    YES 7:51 est
 
 \section{What the Polar Vortex and why do we care?}
 
@@ -679,9 +709,10 @@ Figure~\ref{fig:maunaloa2}
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa3-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
 \label{fig:maunaloa2}

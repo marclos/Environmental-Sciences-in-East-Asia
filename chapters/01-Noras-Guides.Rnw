@@ -1,3 +1,5 @@
+\documentclass{article}
+
 \chapter{Plastic}
 
 \chapterauthor{Nora}
