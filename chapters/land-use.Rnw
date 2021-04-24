@@ -1,6 +1,6 @@
-\chapter{Land Change and Monitoring: Science of Remote Sensing on Biogeochemical Changes to the Land}
+\chapter[header short chapter name]{Land Change and Monitoring: Science of Remote Sensing on Biogeochemical Changes to the Land}
 
-chapterauthor{Samantha Beaton}
+\chapterauthor{Samantha Beaton}
 
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
@@ -9,7 +9,7 @@ Following the late 20th century reform period, China has embarked on a mass urba
 Figure \ref{fig:shenzhen}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Screen Shot 2021-04-23 at 6.27.38 PM.png}
+\includegraphics[width=\linewidth]{images/land-use/Shenzhen-cityscape.png}
 \caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014.}
 \label{figure:shenzen}
 \end{figure}
@@ -59,7 +59,7 @@ Additionally, a key component to colonial mapmaking was the arbitrary creation o
 Figure \ref{fig:Bonelli Erosion Map}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Bonelli Erosion Map.png}
+\includegraphics[width=\linewidth]{images//land-use/Bonelli_Erosion_Map.png}
 \caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world (Borelli, et al.).}
 \label{fig:Bonelli Erosion Map}
 \end{figure}
@@ -107,12 +107,12 @@ Carbon is the foundation to life on Earth and is an imperative global cycle, esp
 
 Moreover, understanding shifting land uses on carbon cycling is important to understand nutrient stock dynamics. Due to growing socioeconomic pressures, natural vegetation cover has been steadily decreasing. More and more, forest and grasslands are extensively and intensively being converted to agricultural lands or other urban needs, while reforestation projects are also growing in popularity. Poeplau et al., 2011 reviewed shifting carbon stocks in soil following five different types of land use change types across nearly 350 sites in the temperate zone, in which China and much of Eastern Asia resides. Unsurprisingly, complete deforestation resulted in a -32±20\% decrease in equilibrium SOC over 23 years, and grassland to cropland similarly resulted in a -36±5\% equilibrium decrease after 17 years. These numbers in particular reflect the relative vulnerability of topsoil to intensive change.
 
-Figure \ref{fig:LUC SOC Table}
+Figure \ref{fig:LUC-SOC-Table}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/LUC SOC Table}
+\includegraphics[width=\linewidth]{images/land-use/LUC-SOC-Table.png}
 \caption{Comparison of land use change types on years to reach equilibrium, predicted change rates of soil organic carbon stock after 20 and 100 years, and average initial stock value (Poeplau et al., 2011). Note the rapid rates of deforestation (values 17 and 23) compared to longer predicted rates of reforestation land use changes.}
-\label{fig:LUC SOC Table}
+\label{fig:LUC-SOC-Table}
 \end{figure}
 
 In comparison with other land use change transitions, restoration of grasslands has one of the greatest potentials for carbon stock restoration. As displayed in Figure 4, shifting croplands to grasslands can result in a 128±23\% increase in SOC—grasslands in particular are long-lasting nutrient sinks (Poeplau et al., 2011). This is due in part to how grasses form extensive fine root systems. Decomposing roots are considered to be major contributors to organic biomass in soil, further bolstering nutrient loads (Wei et al., 2009). While land degradation and loss of carbon can be a relatively rapid process compared to longer rates of restoration, native grassland restoration at least presents a big potential for successful carbon sequestration, especially in comparison to other land use transitions.
@@ -126,12 +126,12 @@ Sustainable, regenerative, conservation, or permaculture-based land systems are 
 
 ''The art of agriculture is a sacred act of collaboration between heaven, earth, and humanity for the production of life-sustaining food.'' —Torizo Kurosawa
 
-Figure \ref{fig:Climate Smart Soils}
+Figure \ref{fig:Climate-Smart-Soils}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Climate Smart Soils.png}
+\includegraphics[width=\linewidth]{images/land-use/Climate-Smart-Soils.png}
 \caption{Integrated strategy of scientific research, management practices, and widespread implementation of GHG-mitigation-driven agricultural systems (Paustian et al., 2019).}
-\label{fig:Climate Smart Soils}
+\label{fig:Climate-Smart-Soils}
 \end{figure}
 
 Direct impacts on soil: enhances water infiltration/retention, aeration, structure, porosity → these conditions naturally promote robust root growth, easy nutrient cycling, carbon sequestration (specific values of course vary across climates and soil types)
@@ -155,14 +155,12 @@ The Loess Plateau, with agriculture beginning in the region nearly 7000 years ag
 However, due to intense human activity in the past 2500 years (largely agriculture as well as social conflicts), the high flat plain has experienced severe erosion, transforming it into a land marked by steep, barren hills and deep-cutting ravines. Agricultural processes led to the overgrazing of land that, over a very long period of time, damaged the vegetation. Without trees or plants rooted in the earth, water no longer seeped into the soil but rather evaporated immediately or slid off the hillsides, eroding massive amounts of topsoil away with it. The land of the plateau eroded seasonally, both by wind and water (Xiao et al., 2009). Over time, massive amounts of silt swept into the Yellow River (thus giving the river its distinct name), with an estimation of 90\% river sediment originating from Loess Plateau erosion, hence the name of the river. Due to lack of water retention, this phenomenon contributed to increased flooding events: as quickly as water would come, it would just as quickly go away so that the region experienced severe droughts. While this is all true, it must be kept in balance with the knowledge that the Loess Plateau was, for thousands of years, a place that built civilization. Generations of people who lived within the region, a center for traditional pastoral life, gave and received a great deal from the soil. The longstanding history of humanity within the region should not be taken for granted beneath the landscape we may see today.
 
 \subsection{Beginnings of Modern-Day Restoration}
-Beginning in the 1960s, mass efforts have been made to restore the Loess Plateau. After all, one must only look to the neighboring provinces with rich environments, such as Sichuan, to realize the potential of such efforts. The primary goal of these endeavors were, and continue to be, increase biomass and biodiversity in all ways within the environment. Methods include terracing of the hills that level out parts of the steep slopes, natural vegetation rehabilitation to restore soil productivity, and additional efforts in check dams for sediment control. A study analyzing the Loess Plateau rehabilitation reflected a trend of increased retention of water in the land, especially since 2000, seen through decreased streamflow and sediment concentration into the Yellow River. (have to regain access to the article—will input figures and explanations of the science here). While restoration is actively being worked upon on a comparatively small area in the big region, the Loess Plateau rehabilitation effort is representative of the true potential to restore massively degraded land from harmful land usage.
-
-Figure \ref{fig:Loess Comparison}
+Beginning in the 1960s, mass efforts have been made to restore the Loess Plateau. After all, one must only look to the neighboring provinces with rich environments, such as Sichuan, to realize the potential of such efforts. The primary goal of these endeavors were, and continue to be, increase biomass and biodiversity in all ways within the environment. Methods include terracing of the hills that level out parts of the steep slopes, natural vegetation rehabilitation to restore soil productivity, and additional efforts in check dams for sediment control. A study analyzing the Loess Plateau rehabilitation reflected a trend of increased retention of water in the land, especially since 2000, seen through decreased streamflow and sediment concentration into the Yellow River. (have to regain access to the article—will input figures and explanations of the science here). While restoration is actively being worked upon on a comparatively small area in the big region, the Loess Plateau rehabilitation effort is representative of the true potential to restore massively degraded land from harmful land usage (Figure~\ref{fig:Loess-Comparison}).
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/Loess Comparison/png}
+\includegraphics[width=\linewidth]{images/land-use/Loess-Comparison.png}
 \caption{Comparison of Loess Plateau from 1995 to 2009 (Liu).}
-\label{fig:Loess Comparison}
+\label{fig:Loess-Comparison}
 \end{figure}
 
 \subsection{Importance of Grasslands and Cautions Against Afforestation}
