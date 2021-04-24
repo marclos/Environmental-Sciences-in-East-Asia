@@ -223,4 +223,7 @@
 \contentsline {subsubsection}{Are specific companies/industries responsible responsible}{61}{section*.50}
 \contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{61}{section*.51}
 \contentsline {part}{I\hspace {1em}Backmatter}{63}{part.1}
+<<<<<<< HEAD
+>>>>>>> c7721a9fa26cba37f26a45ffeb06dda8aad4c50c
+=======
 >>>>>>> c7721a9fa26cba37f26a45ffeb06dda8aad4c50c

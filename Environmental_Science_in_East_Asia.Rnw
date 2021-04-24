@@ -120,10 +120,14 @@ opts_knit$set(self.contained=FALSE)
 @
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<chapterchild, child='chapters/Deforestation.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/invasive-species.Rnw'>>=
+=======
+<<chapterchild, child='chapters/coral-reefs.Rnw'>>=
+>>>>>>> c7721a9fa26cba37f26a45ffeb06dda8aad4c50c
 =======
 <<chapterchild, child='chapters/coral-reefs.Rnw'>>=
 >>>>>>> c7721a9fa26cba37f26a45ffeb06dda8aad4c50c
