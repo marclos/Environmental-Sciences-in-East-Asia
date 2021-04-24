@@ -1,44 +1,44 @@
-\contentsline {section}{\numberline {0.1}Guiding Principles}{v}{section.0.1}
-\contentsline {subsection}{\numberline {0.1.1}Context and Positionality}{v}{subsection.0.1.1}
-\contentsline {subsection}{\numberline {0.1.2}Goals}{v}{subsection.0.1.2}
-\contentsline {subsection}{\numberline {0.1.3}Rationale}{v}{subsection.0.1.3}
-\contentsline {subsection}{\numberline {0.1.4}Activity}{v}{subsection.0.1.4}
-\contentsline {section}{\numberline {0.2}East Asia and the World}{vi}{section.0.2}
-\contentsline {section}{\numberline {0.3}Acknowledgments}{vi}{section.0.3}
-\contentsline {chapter}{\LaTeX Guide}{vii}{chapter*.3}
-\contentsline {subsubsection}{R Chunks}{vii}{section*.6}
-\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{viii}{section.0.4}
-\contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{viii}{subsection.0.4.1}
-\contentsline {subsection}{\numberline {0.4.2}Structuring the Text with Nested Hierarchies}{viii}{subsection.0.4.2}
-\contentsline {subsection}{\numberline {0.4.3}Font Changes}{viii}{subsection.0.4.3}
-\contentsline {subsection}{\numberline {0.4.4}Mathematics and Specialized Characters}{ix}{subsection.0.4.4}
-\contentsline {subsection}{\numberline {0.4.5}Creating equations}{x}{subsection.0.4.5}
-\contentsline {subsubsection}{Theorems, etc}{x}{section*.10}
-\contentsline {subsection}{\numberline {0.4.6}Lists Environments: Making bulletted, numbered, description lists}{x}{subsection.0.4.6}
-\contentsline {subsection}{\numberline {0.4.7}Theorem-Like Environments}{xi}{subsection.0.4.7}
-\contentsline {subsection}{\numberline {0.4.8}Peer Review Commenting}{xi}{subsection.0.4.8}
-\contentsline {subsection}{\numberline {0.4.9}Adding Figures, etc}{xi}{subsection.0.4.9}
-\contentsline {subsubsection}{Using Rnw Files}{xi}{section*.11}
-\contentsline {subsubsection}{Creating a floating figure}{xi}{section*.12}
-\contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.14}
-\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xiii}{subsection.0.4.10}
-\contentsline {subsection}{\numberline {0.4.11}minibox X}{xiii}{subsection.0.4.11}
-\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xiii}{subsection.0.4.12}
-\contentsline {subsubsection}{Cross-References}{xiii}{section*.16}
-\contentsline {subsubsection}{Bibliography generation}{xiii}{section*.17}
-\contentsline {subsubsection}{Creating glossary words}{xiii}{section*.18}
-\contentsline {chapter}{Template Chapter Title}{xv}{chapter*.19}
-\contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
-\contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xv}{subsection.0.5.1}
-\contentsline {subsubsection}{Optional Subsubsection Headings}{xv}{section*.20}
-\contentsline {section}{\numberline {0.6}Goals of this template}{xv}{section.0.6}
-\contentsline {section}{\numberline {0.7}Here's figure}{xv}{section.0.7}
-\contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xv}{subsection.0.7.1}
-\contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xvii}{subsection.0.7.2}
-\contentsline {section}{\numberline {0.8}Adding Citations}{xvii}{section.0.8}
-\contentsline {chapter}{Plastic}{xix}{chapter*.23}
-\contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xix}{section.0.9}
-\contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xix}{subsection.0.9.1}
+\contentsline {section}{\numberline {0.1}Guiding Principles}{vii}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Context and Positionality}{vii}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Goals}{vii}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}Rationale}{vii}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Activity}{vii}{subsection.0.1.4}
+\contentsline {section}{\numberline {0.2}East Asia and the World}{viii}{section.0.2}
+\contentsline {section}{\numberline {0.3}Acknowledgments}{viii}{section.0.3}
+\contentsline {chapter}{\LaTeX Guide}{ix}{chapter*.3}
+\contentsline {subsubsection}{R Chunks}{ix}{section*.6}
+\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{x}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{x}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {0.4.2}Structuring the Text with Nested Hierarchies}{x}{subsection.0.4.2}
+\contentsline {subsection}{\numberline {0.4.3}Font Changes}{x}{subsection.0.4.3}
+\contentsline {subsection}{\numberline {0.4.4}Mathematics and Specialized Characters}{xi}{subsection.0.4.4}
+\contentsline {subsection}{\numberline {0.4.5}Creating equations}{xii}{subsection.0.4.5}
+\contentsline {subsubsection}{Theorems, etc}{xii}{section*.10}
+\contentsline {subsection}{\numberline {0.4.6}Lists Environments: Making bulletted, numbered, description lists}{xii}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.7}Theorem-Like Environments}{xiii}{subsection.0.4.7}
+\contentsline {subsection}{\numberline {0.4.8}Peer Review Commenting}{xiii}{subsection.0.4.8}
+\contentsline {subsection}{\numberline {0.4.9}Adding Figures, etc}{xiii}{subsection.0.4.9}
+\contentsline {subsubsection}{Using Rnw Files}{xiii}{section*.11}
+\contentsline {subsubsection}{Creating a floating figure}{xiii}{section*.12}
+\contentsline {subsubsection}{Using R to Create Effective Figures}{xiii}{section*.14}
+\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xv}{subsection.0.4.10}
+\contentsline {subsection}{\numberline {0.4.11}minibox X}{xv}{subsection.0.4.11}
+\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xv}{subsection.0.4.12}
+\contentsline {subsubsection}{Cross-References}{xv}{section*.16}
+\contentsline {subsubsection}{Bibliography generation}{xv}{section*.17}
+\contentsline {subsubsection}{Creating glossary words}{xv}{section*.18}
+\contentsline {chapter}{Template Chapter Title}{xvii}{chapter*.19}
+\contentsline {section}{\numberline {0.5}Section Heading}{xvii}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xvii}{subsection.0.5.1}
+\contentsline {subsubsection}{Optional Subsubsection Headings}{xvii}{section*.20}
+\contentsline {section}{\numberline {0.6}Goals of this template}{xvii}{section.0.6}
+\contentsline {section}{\numberline {0.7}Here's figure}{xvii}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xvii}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xix}{subsection.0.7.2}
+\contentsline {section}{\numberline {0.8}Adding Citations}{xix}{section.0.8}
+\contentsline {chapter}{Plastic}{xxi}{chapter*.23}
+\contentsline {section}{\numberline {0.9}What the Polar Vortex and why do we care?}{xxi}{section.0.9}
+\contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xxi}{subsection.0.9.1}
 \contentsline {chapter}{\numberline {1}The Earth System}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Sun's Energy and the Earth's Temperature}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}The Spectrum of Light Entering and Exiting the Earth's Surface}{1}{subsection.1.1.1}
@@ -169,16 +169,16 @@
 \contentsline {subsection}{\numberline {11.3.4}Megawatts and Electricity Usage}{80}{subsection.11.3.4}
 \contentsline {section}{\numberline {11.4}Hazards and Flooding}{80}{section.11.4}
 \contentsline {section}{\numberline {11.5}Three Gorges Dam}{81}{section.11.5}
-\contentsline {subsection}{\numberline {11.5.1}Displacement}{81}{subsection.11.5.1}
+\contentsline {subsection}{\numberline {11.5.1}Displacement}{82}{subsection.11.5.1}
 \contentsline {subsection}{\numberline {11.5.2}Schistosomiasis}{82}{subsection.11.5.2}
 \contentsline {subsubsection}{Temperature}{83}{section*.68}
 \contentsline {subsubsection}{Breeding Patterns and Resettlement}{83}{section*.69}
 \contentsline {subsubsection}{Snail Movement}{83}{section*.71}
-\contentsline {subsubsection}{Health Infrastructure}{83}{section*.73}
+\contentsline {subsubsection}{Health Infrastructure}{86}{section*.73}
 \contentsline {subsection}{\numberline {11.5.3}Eutrophication}{86}{subsection.11.5.3}
 \contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{86}{section.11.6}
 \contentsline {subsection}{\numberline {11.6.1}Food Security}{87}{subsection.11.6.1}
-\contentsline {subsection}{\numberline {11.6.2}Cultural Sites}{87}{subsection.11.6.2}
+\contentsline {subsection}{\numberline {11.6.2}Cultural Sites}{88}{subsection.11.6.2}
 \contentsline {section}{\numberline {11.7}Vietnam and the Hoa Binh Dam}{88}{section.11.7}
 \contentsline {section}{\numberline {11.8}Long Lawen and Long Liam}{89}{section.11.8}
 \contentsline {section}{\numberline {11.9}Conclusion}{91}{section.11.9}
@@ -186,9 +186,28 @@
 \contentsline {section}{\numberline {12.1}Introduction}{93}{section.12.1}
 \contentsline {section}{\numberline {12.2}Climate and Rice Production}{94}{section.12.2}
 \contentsline {section}{\numberline {12.3}Agricultural Production and Food Insecurity}{94}{section.12.3}
-\contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{98}{section.12.4}
+\contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{96}{section.12.4}
 \contentsline {section}{\numberline {12.5}Implications of Climate Change on Rice Production}{98}{section.12.5}
-\contentsline {section}{\numberline {12.6}Increasing Temperatures}{99}{section.12.6}
-\contentsline {section}{\numberline {12.7}Precipitation and flooding}{102}{section.12.7}
-\contentsline {section}{\numberline {12.8}Cyclone Nargis}{105}{section.12.8}
-\contentsline {section}{\numberline {12.9}Conclusion}{105}{section.12.9}
+\contentsline {section}{\numberline {12.6}Increasing Temperatures}{98}{section.12.6}
+\contentsline {section}{\numberline {12.7}Precipitation and flooding}{101}{section.12.7}
+\contentsline {section}{\numberline {12.8}Cyclone Nargis}{102}{section.12.8}
+\contentsline {section}{\numberline {12.9}Conclusion}{102}{section.12.9}
+\contentsline {chapter}{\numberline {13}Disasters, Typhoons and Phillipines}{105}{chapter.13}
+\contentsline {section}{\numberline {13.1}What are Typhoons?}{105}{section.13.1}
+\contentsline {chapter}{\numberline {14}Climate Infrastructure in Vietnam}{107}{chapter.14}
+\contentsline {section}{\numberline {14.1}Introductory}{107}{section.14.1}
+\contentsline {section}{\numberline {14.2}Conclusion}{107}{section.14.2}
+\contentsline {chapter}{\numberline {15}Waste Management for a Circular Economy}{109}{chapter.15}
+\contentsline {section}{\numberline {15.1}Life-Cycle}{109}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}Collection}{109}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.2}Transport}{109}{subsection.15.1.2}
+\contentsline {section}{\numberline {15.2}Biomimicry}{109}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Circularity}{109}{subsection.15.2.1}
+\contentsline {chapter}{\numberline {16}Plastic and Packaging in Japan}{111}{chapter.16}
+\contentsline {section}{\numberline {16.1}Introductiona and Goals?}{111}{section.16.1}
+\contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{111}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{111}{subsection.16.2.1}
+\contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{111}{subsection.16.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{111}{section*.81}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{111}{section*.82}
+\contentsline {part}{I\hspace {1em}Backmatter}{113}{part.1}

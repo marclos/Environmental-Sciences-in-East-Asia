@@ -41,6 +41,9 @@
     urlcolor=blue
 }
 
+% Editorial Environments
+
+\newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
 
 %----------------------------------------------------------
 \newtheorem{theorem}{Theorem}

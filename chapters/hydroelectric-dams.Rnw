@@ -1,4 +1,5 @@
 \chapter{Hydroelectric Dams in East Asia}
+
 \section{Former Residents of Balui}
 The Bakun Dam in Malaysia displaced dozens of Indignous and local communities. A series of case studies was conducted with the community forcibly displaced to government-controlled Sungai Asap in September 2002. The following quotes are pulled from anonymously interviewed Indigenous village members on comparing the conditions of their original home (Balui) and the resettlement in Sungai Asap. They are translated to English as directly as is possible. 
 
@@ -50,10 +51,13 @@ The Bakun Dam in Malaysia displaced dozens of Indignous and local communities. A
 \section{Dam Function}
   Hydroelectric dams hold water in artificially created bodies of water, or reservoirs. To generate electricity, water is released through a turbine which spins a metal shaft (propeller) within the turbine to convert the energy of the flowing water into energy from movement, or mechanical energy (USGS). Because energy cannot be created or destroyed, the hydroelectric dams convert one form of energy (in this case the energy of the moving water), into another (watts to be distributed to a larger electrical grid for purposes such as energy for a household’s lighting) (U.S. Department of the Interior). This type of turbine that turns moving water’s energy into electricity is known as a hydraulic turbine.
 
+
+Figure~\ref{fig:USBR} [I changed the reference name to avoid confusion.
+
 \begin{figure}
 \includegraphics[width=\textwidth]{images/diagram.png}
 \caption{USAGE RIGHTS Available TO ALL/public use The reservoir or body of water is often called the headwater. Water travels down to the forebay, then into a sloped area called the penstock where it reaches the turbine then the tailwater is released into the afterbay (which will be lower than the forebay to allow gravity to move the water to generate electricity for the turbine to collect) (Photo and description courtesy of USBR).}
-\label{fig:helps}
+\label{fig:USBR}
 \end{figure}
 
 
@@ -139,20 +143,24 @@ The Center for Disease Control and Prevention (the CDC) observed that schistosom
 
   As displacement of millions occurred due to the construction of the dam, migrants resettle their homes often as close to their homes as possible away from the reservoir. This means that slopes or hilly areas near the dam are newly inhabited by farmers and the displaced populations, causing soil erosion in the farmed resettled regions, and it causes increased silt deposits in the Hubei region (recall this is a region endemic to the snails). This causes sedimentation and creation of marshlands in areas such as Hubei which are conducive to snail reproduction (Lai 2000).  
   
+Figure~\ref{fig:schis} [I changed the reference name to avoid confusion.]
+
 \begin{figure}
 \includegraphics[width=\textwidth]{images/schis-life.png}
 \caption{USAGE RIGHTS Available TO ALL/public use. This is an image of the lifecylce of schistosomiasis both inside, and outside of the human body. ADD TO THIS CAPTION}
-\label{fig:help}
+\label{fig:schis}
 \end{figure}
 
 \subsubsection{Snail Movement}
 
   Snails are distributed or dispersed throughout regions in two ways—actively and passively (Wu 2005). An example of passive dispersal is snails attaching to ships that move to new areas. Active dispersal can look like snails moving across regions via water currents. Passive dispersal does not necessarily have a limit to potential distance traveled, but through active dispersal, a snail can travel distances of up to 168 kilometers (Zhu 2008). The closest endemic region to the dam itself is 299 kilometers and there have been documented cases of paper-making reeds that snails and snail eggs have lived on which carried the infected snails across large distances into paper factories in the region (Wei 2004). Documented cases such as these imply that the snails could have made their way to the dam from endemic regions through passive dispersal such as the paper-making reeds, or even soil brought into the region that contains snail eggs. Zhu suggests that as the Yangtze River facilitates more merchandise to be brought into the region, there is a greater chance of more infected snails to also enter through passive dispersal. 
 
+\red{I changed the name of the label to avoid duplicates.}
+
 \begin{figure}
 \includegraphics[width=\textwidth]{images/schis-map.png}
 \caption{}
-\label{fig:help}
+\label{fig:schis2}
 \end{figure}
 
 \subsubsection{Health Infrastructure}
