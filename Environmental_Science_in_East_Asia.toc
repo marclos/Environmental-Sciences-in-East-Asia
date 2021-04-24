@@ -135,11 +135,19 @@
 \contentsline {chapter}{\numberline {8}Nuclear Power and Nuclear Waste}{69}{chapter.8}
 \contentsline {section}{\numberline {8.1}Current and Future Energy Needs}{69}{section.8.1}
 \contentsline {chapter}{\numberline {9}Air Pollution \& Social Justice in Hong Kong}{71}{chapter.9}
-\contentsline {section}{\numberline {9.1}Science of Air Pollution}{71}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Overview of the layers of the atmosphere/atmospheric gases}{71}{subsection.9.1.1}
-\contentsline {section}{\numberline {9.2}Major Sources → Use as geographical overview}{71}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}General common sources of air pollution all over the world}{71}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}East Asian countries/communities and their prominent air pollution sources}{71}{subsection.9.2.2}
+\contentsline {section}{\numberline {9.1}Opening}{72}{section.9.1}
+\contentsline {section}{\numberline {9.2}A Brief Overview of Hong Kong}{72}{section.9.2}
+\contentsline {section}{\numberline {9.3}Hong Kong's History}{72}{section.9.3}
+\contentsline {section}{\numberline {9.4}Air Pollution in Hong Kong}{72}{section.9.4}
+\contentsline {section}{\numberline {9.5}Air Pollution and Human Health}{72}{section.9.5}
+\contentsline {section}{\numberline {9.6}Population Density, Income Inequality, and Housing}{72}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}Income Inequality and Zoning Laws}{72}{subsection.9.6.1}
+\contentsline {subsection}{\numberline {9.6.2}Public Housing}{72}{subsection.9.6.2}
+\contentsline {subsection}{\numberline {9.6.3}Economic Mobility}{72}{subsection.9.6.3}
+\contentsline {section}{\numberline {9.7}Indoor Air Pollution}{72}{section.9.7}
+\contentsline {section}{\numberline {9.8}Open Spaces and Other Patterns of Environmental Inequity}{72}{section.9.8}
+\contentsline {section}{\numberline {9.9}Environmental Activism in Hong Kong}{72}{section.9.9}
+\contentsline {section}{\numberline {9.10}Beyond Hong Kong}{72}{section.9.10}
 \contentsline {chapter}{\numberline {10}Flood Pulse System in East Asia}{73}{chapter.10}
 \contentsline {section}{\numberline {10.1}Introduction}{73}{section.10.1}
 \contentsline {chapter}{\numberline {11}Hydroelectric Dams in East Asia}{75}{chapter.11}
