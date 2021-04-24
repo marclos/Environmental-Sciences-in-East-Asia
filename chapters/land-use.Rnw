@@ -59,7 +59,7 @@ Additionally, a key component to colonial mapmaking was the arbitrary creation o
 Figure \ref{fig:Bonelli Erosion Map}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images//land-use/Bonelli_Erosion_Map.png}
+\includegraphics[width=\linewidth]{images/land-use/Bonelli_Erosion_Map.png}
 \caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world (Borelli, et al.).}
 \label{fig:Bonelli Erosion Map}
 \end{figure}
