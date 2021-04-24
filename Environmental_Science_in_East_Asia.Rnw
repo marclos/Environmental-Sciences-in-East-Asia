@@ -96,25 +96,25 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/01-guide.Rnw'>>=
-@
+% <<chapterchild, child='chapters/01-guide.Rnw'>>=
+% @
 
-<<chapterchild, child='chapters/01-template.Rnw'>>=
-@
+% <<chapterchild, child='chapters/01-template.Rnw'>>=
+% @
  
-<<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
-@
+% <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
+% @
 
 \mainmatter
 
-<<chapterchild, child='chapters/earth-system.Rnw'>>=
-@
+% <<chapterchild, child='chapters/earth-system.Rnw'>>=
+% @
 
 <<chapterchild, child='chapters/weather-climate.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/critical-zone.Rnw'>>=
-@
+% <<chapterchild, child='chapters/critical-zone.Rnw'>>=
+% @
 
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
