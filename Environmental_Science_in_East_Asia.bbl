@@ -1,4 +1,4 @@
-\begin{thebibliography}{44}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -120,19 +120,6 @@ Tom~Gunnar Hoogervorst.
 \newblock URL
   \url{https://link.springer.com/article/10.1007%2Fs12685-012-0060-0}.
 
-\bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
-Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
-\newblock Urban environmental issues and trends in asia-an overview.
-\newblock \emph{International review for environmental strategies}, 5\penalty0
-  (2):\penalty0 357, 2005.
-
-\bibitem[Institute~of Botany(2021)]{CAS2021researchers}
-Chinese Academy of~Sciences Institute~of Botany.
-\newblock Researchers reveal regulatory mechanisms of the temperature
-  sensitivity of soil organic matter decomposition in alpine grasslands, 2021.
-\newblock URL
-  \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
-
 \bibitem[Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
   Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
   Steneck]{Keller2009ClimateCC}
@@ -142,23 +129,12 @@ B.~Keller, D.~Gleason, E.~Mcleod, C.~Woodley, S.~Airam{\'e}, B.~Causey,
   marine protected areas.
 \newblock \emph{Environmental Management}, 44:\penalty0 1069 -- 1088, 2009.
 
-\bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
-Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
-\newblock Fifty years of groundwater science in korea: a review and
-  perspective.
-\newblock \emph{Geosciences Journal}, 21\penalty0 (6):\penalty0 951--969, 2017.
-
 \bibitem[Lirman and Schopmeyer(2021)]{cgarden}
 Lirman and Schopmeyer.
 \newblock Coral gardening.
 \newblock \emph{The Nature Conservancy}, 2021.
 \newblock URL
   \url{https://reefresilience.org/restoration/coral-populations/coral-gardening/}.
-
-\bibitem[Los~Huertos(2018)]{LosHuertos2017OverviewR}
-Marc Los~Huertos.
-\newblock \emph{Overview of R}.
-\newblock Pomona College, 2018.
 
 \bibitem[Lyons et~al.(2019)Lyons, Hill, Deshong, Mooney, and
   Turpin]{13772149520190801}
@@ -228,16 +204,6 @@ Gerard~A. Persoon and Tessa Minter.
   2020.
 \newblock URL
   \url{https://ideas.repec.org/a/gam/jsusta/v12y2020i19p7983-d420111.html}.
-
-\bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
-  Yang]{Qineaau1218}
-Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
-  Yu, and Yuanhe Yang.
-\newblock Temperature sensitivity of som decomposition governed by aggregate
-  protection and microbial communities.
-\newblock \emph{Science Advances}, 5\penalty0 (7), 2019.
-\newblock \doi{10.1126/sciadv.aau1218}.
-\newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
 \bibitem[Reichert et~al.(2018)Reichert, Schellenberg, Schubert, and
   Wilke]{12907334620180601}
@@ -339,12 +305,5 @@ R~Westoby, S~Becken, A~Laria, and Prieto.
 \newblock \emph{Regional Environmental Change}, 20\penalty0 (4), 2020.
 \newblock URL
   \url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
-
-\bibitem[Xie(2021)]{knitr}
-Yihui Xie.
-\newblock \emph{knitr: A General-Purpose Package for Dynamic Report Generation
-  in R}, 2021.
-\newblock URL \url{https://yihui.org/knitr/}.
-\newblock R package version 1.31.
 
 \end{thebibliography}
