@@ -41,6 +41,9 @@
     urlcolor=blue
 }
 
+% Editorial Environments
+
+\newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
 
 %----------------------------------------------------------
 \newtheorem{theorem}{Theorem}
@@ -119,7 +122,13 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/Deforestation.Rnw'>>=
+@
+
 <<chapterchild, child='chapters/invasive-species.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/coral-reefs.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
