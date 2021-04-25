@@ -140,10 +140,7 @@ Everyone in the world!
 
 
 
-% <<chapterchild, child='chapters/01-guide.Rnw'>>=
-% @
 
-<<<<<<< HEAD
 \chapter{\LaTeX Guide}\label{ch:guide}
 
 \subsection*{Why Learn \LaTeX?}
@@ -437,37 +434,15 @@ For example, here's code to generate a pretty good figure:
 
 
 
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in is.data.frame(data): object 'maunaloa' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in summary(model): object 'model' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in predict(., test.data): object 'model' not found}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in mean((pred - obs)\textasciicircum{}2, na.rm = na.rm): object 'predictions' not found}}\end{kframe}
-\end{knitrout}
 
 In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\includegraphics[width=\maxwidth]{figure/maunaloa-1} 
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
@@ -715,10 +690,9 @@ Figure~\ref{fig:maunaloa2}
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\includegraphics[width=\maxwidth]{figure/maunaloa3-1} 
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
 \label{fig:maunaloa2}
@@ -727,18 +701,6 @@ Figure~\ref{fig:maunaloa2}
 
 
 
-=======
-% <<chapterchild, child='chapters/01-template.Rnw'>>=
-% @
- 
-% <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
-% @
-
-\mainmatter
-
-% <<chapterchild, child='chapters/earth-system.Rnw'>>=
-% @
->>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 
 
 \chapter{Monsoons and East Asia Climates}
@@ -748,13 +710,116 @@ Figure~\ref{fig:maunaloa2}
 
 
 
-% <<chapterchild, child='chapters/critical-zone.Rnw'>>=
-% @
+
+\chapter{Critical Zone}\label{ch:critical-zone}
+
+\chapterauthor{Marc Los Huertos}\footnote{The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter.}
+
+\section{What is the Critical Zone}
+
+The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
+
+The critical zone includes the following:
+
+\begin{itemize}
+  \item A permeable layer from the tops of the trees to the bottom of the groundwater;
+  \item An environment where rock, soil, water, air, and living organisms interact and shape the Earth's surface;
+  \item Water and atmospheric gases move through the porous Critical Zone, and living systems thrive in its surface and subsurface environments, shaped over time by biota, geology, and climate.
+\end{itemize}
+
+All this activity transforms rock and biomass into the central component of the Critical Zone - soil; it also creates one of the most heterogenous and complex regions on Earth.
+
+Its complex interactions regulate the natural habitat and determine the availability of life-sustaining resources, such as food production and water quality.
+
+These are but two of the many benefits or services provided by the Critical Zone. Such `Critical-Zone Services' expand upon the benefits provided by ecosystems to also include the coupled hydrologic, geochemical, and geomorphic processes that underpin those ecosystems.
+
+\begin{figure}
+\includegraphics[width=\textwidth]{images/critical-zone/criticalzone.jpg}
+\caption{The Critical Zone is an interdisciplinary field of research exploring the interactions among the land surface, vegetation, and water bodies, and extends through the pedosphere, unsaturated vadose zone, and saturated groundwater zone. Critical Zone science is the integration of Earth surface processes (such as landscape evolution, weathering, hydrology, geochemistry, and ecology) at multiple spatial and temporal scales and across anthropogenic gradients. These processes impact mass and energy exchange necessary for biomass productivity, chemical cycling, and water storage.}
+\label{fig:criticalzone}
+\end{figure}
+
+\subsection{What are the environmental implications of the Critical Zone?}
+
+The critical zone as a concept and as a material space pushes us to think of the porousity of the Earth's surface --- the gas and fluid flows through rocks, soils, and plants. We can begin to appreciate the complexity of the transport and fate of chemical pollutants as they enter the soil and become part of the vadose zone and perhaps the ground water table -- moving with water and diffusing through the water, simultaneously.
+
+\section{Hydrologic Aspects}
+
+\subsection{Subsurface Hydrology}
+
+As water percolates into the soil or flows in the pour space below the surface waters it becomes part of the ground water. The study of this water might be called subsurface hydrology or ground water hydrology or hydrogeology. 
+
+There are two main areas of subsurface waters: saturated zone and unsaturated zone (Figure~\ref{fig:groundwater}).
+
+The saturated zone is the region where all the spaces between the particles are filled by water. The surface of the saturated zone is the water table. 
+
+The unsaturated zone is also called the vadose zone has some percentage of the pour spaces have air. The vadose zone also includes an area called the capillary fringe. Because of the surface tension of water, water is found in between particles above the water table and this zone is referred to as the capillary fringe. 
+
+\begin{figure}
+\includegraphics{images/critical-zone/groundwater}
+\caption{Diagram of Ground Water. }
+\label{fig:groundwater}
+\end{figure}
+
+\subsection{Saturated Zone}
+
+\subsubsection{Aquifers and Aquitards}
+
+\subsubsection{Confined and Unconfined Aquifers}
+
+\subsubsection{Ground Water Flow}
+
+TAKE A LOOK at some flow net sketches that will help clarify the relationships between aquifer matrix, and groundwater movement.
+
+In general, water flow is driven by potential energy, e.g.  where water flows down hill, driven by gravity. If water flows from point A to point B, the the potential energy for the flow is the height of the water at point A minus the height at point B, which can be symbolized as $dl$. The head potential is the heigh difference divided by the distance between the two points.  
+
+DARCY'S LAW
+
+\begin{equation}
+Q = KIA
+\end{equation}
+
+In 1856, Henry Darcy studied the movement of water through porous material. He determined an equation that described groundwater flow. The following description tell how Darcy determined his equation:
+
+A horizontal pipe filled with sand is used to demonstrate Darcy's experiment. Water is applied under pressure through end A, flows through the pipe, and discharges at end B. Water pressure is measured using piezometer tubes (thin vertical pipes installed at each end of the horizontal pipe). The difference in hydraulic head (between points A and B) is dh (change in height). Divide this by the flow length (i.e. the distance between the two tubes), dl, and you get the hydraulic gradient ( I ).
+
+The velocity of groundwater is based on hydraulic conductivity (K), as well as the hydraulic head (I). Therefore, the equation determined by Darcy to describe the basic relationship between subsurface materials and the movement of water through them is Q = KIA where Q is the volumetric flow rate (or discharge) and A is the area that the groundwater is flowing through. This relationship is known as Darcy’s law.
+
+DISCHARGE
+%* symbol-Q * units-volume/time EX. (m^3/day) * volume of water flowing through an aquifer per unit time * FIND WITH DARCY'S LAW Q = KIA
+
+AREA OF FLOW
+%* symbol-A * units-distance squared EX. (m^2) * Cross-sectional area of flow. (i.e. aquifer width x thickness)
+
+Now, rearrange the equation to Q/A = KI, which is known as the flux (v), which is an apparent velocity. Actual groundwater velocity is lower than that determined by Darcy, and is called Darcy Flux (vx)
+
+FLUX
+%* symbol-v * units-distance/time EX. (m/sec) * v=Q/A=KI * this is a velocity measure and gives the IDEAL velocity of groundwater (assumes that the water molecules can flow in a straight line through the subsurface). * this is ideal because it doesn't account for tortuosity of flow paths (this means that the water molecules actually follow a very windy path in an out of the pore spaces and so travel quite a bit slower in reality than the flux would indicate).
+
+DARCY FLUX
+%* symbol - vx * units - distance/time EX. (m/sec) * vx = Q/An = KI/n * This is the ACTUAL velocity of qroundwater and DOES account for tortousity of flow paths by including porosity in its calculation.
+
+Darcy's law is used extensively in groundwater studies. It can help answer important questions such as what direction an aquifer pollution plume is moving in, and how fast it is traveling
+
+\subsection{The Vadose Zone}
+
+The vadose zone is the 
+
+Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...\citet{lee2017fifty}.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/critical-zone/Lee-Vadose.png}
+\caption{... (Source: \citep{lee2017fifty}).}
+\label{fig:vadose2}
+\end{figure}
+
 
 
 \chapter[Land Use Change and Monitoring]{Science of Remote Sensing on Biogeochemical Changes to the Land}
 
 \chapterauthor{Samantha Beaton}
+
+hello
 
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
@@ -1336,7 +1401,18 @@ Myanmar     & 27                      & 1,870             & 0.66\%  \\
 \section{Indoor Air Pollution}
 \section{Open Spaces and Other Patterns of Environmental Inequity}
 \section{Environmental Activism in Hong Kong}
+
 \section{Beyond Hong Kong}
+
+\begin{figure}
+\includegraphics[width=\linewidth]{graphics/title}
+\caption{caption}
+\label{title}
+\end{figure}
+
+\section{Beyond Hong Kong}
+
+practicing with Nora
 
 
 \chapter{Flood Pulse System in East Asia}
@@ -1863,7 +1939,6 @@ Potential solutions moving forward rooted in current activist efforts/respect to
 \url{https://www.jstor.org/stable/432317?seq=1}
 
 \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-1522(200003/04)13:2%3C45::AID-PTS496%3E3.0.CO;2-%23}
-
 
 
 
