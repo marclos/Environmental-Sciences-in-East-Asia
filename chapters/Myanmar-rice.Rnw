@@ -77,9 +77,9 @@ Rice is predominantly grown in monsoon season in Myanmar, which lasts from May t
 La Niña, the cold phase of the El Niño-Southern Oscillation (ENSO) cycle, heavily influences flooding in Myanmar. The wettest conditions and most extreme weather are often associated with La Niña years in Myanmar. In addition to La Niña, other large-scale weather circulations, defined as tropical or global changes in atmospheric and oceanic patterns and weather, affect precipitation and flooding in Myanmar. The Madden-Julian Oscillation (MJO) is a 30-90 day weather pattern associated with anomalous and intense rainfall in Myanmar (Brackenridge et al., 2016).  The Indian Ocean Dipole (IOD) has the opposite effect as it causes warm and wet conditions in the Western Indian Ocean but acts as an inhibiter to rainfall during monsoon season in Myanmar (Brackenridge et al., 2016). The Pacific Decadal Oscillation (PDO) is also important to consider as its cold phase induced nearly twice the number of tropical storms as during its warm phases (Brackenridge et al., 2016). Weather patterns and seasonal oscillations greatly influence rainfall, flooding, and agricultural planning. Preparing for and predicating these oscillations and relaying information to farmers throughout Myanmar has proven to be a difficult task. In the case of extreme weather events, lack of communication and infrastructure can prove to be economically detrimental and deadly. 
 
 
-[image file is missing]
+\red{image file is missing, I commented out the line}
 \begin{figure}
-\includegraphics[width=\linewidth]{images/myanmar/Image7.jpg}
+%\includegraphics[width=\linewidth]{images/myanmar/Image7.jpg}
 \caption{Inundation along the upper Ayeyarwady river in the state of Kachin during normal winter flow (top), monsoon season flow (middle), and unusual flooding—usually tied to extreme weather-- bottom}
 \end{figure}
 
