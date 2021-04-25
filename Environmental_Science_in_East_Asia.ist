@@ -1,6 +1,7 @@
 % makeindex style file created by the glossaries package
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 % for document 'Environmental_Science_in_East_Asia' on 2021-4-24
 =======
 % for document 'Environmental_Science_in_East_Asia' on 2021-4-23
@@ -8,6 +9,9 @@
 =======
 % for document 'Environmental_Science_in_East_Asia' on 2021-4-24
 >>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+% for document 'Environmental_Science_in_East_Asia' on 2021-4-24
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 actual '?'
 encap '|'
 level '!'
