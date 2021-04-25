@@ -2,6 +2,8 @@
 
 \chapterauthor{Samantha Beaton}
 
+hello
+
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
 Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is a particularly interesting place to begin analyzing land use change. A study analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.) (Figure \ref{fig:shenzhen}). Regardless of potential impacts, it cannot be ignored that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
