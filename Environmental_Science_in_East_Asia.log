@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  25 APR 2021 13:20
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  24 APR 2021 13:37
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  23 APR 2021 21:34
+>>>>>>> erta2020-EA30e21
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  24 APR 2021 10:10
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  24 APR 2021 10:23
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1407,39 +1423,17 @@ ia.glo on input line 92.
 
 ]
 (./Environmental_Science_in_East_Asia.toc
-Overfull \hbox (0.61113pt too wide) detected at line 31
- []\OT1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61113pt too wide) detected at line 32
- []\OT1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61113pt too wide) detected at line 34
- []\OT1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61113pt too wide) detected at line 35
- []\OT1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61113pt too wide) detected at line 36
- []\OT1/cmr/m/n/10 xvii
- []
-
-[1
-
-]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> sbeaton3-EA30e21
  [2] [3] [4])
 \tf@toc=\write7
 \openout7 = `Environmental_Science_in_East_Asia.toc'.
@@ -1448,6 +1442,29 @@ Missing character: There is no ì in font cmr10!
 
 ] [7] [8]
 Overfull \hbox (4.69772pt too wide) in paragraph at lines 148--149
+<<<<<<< HEAD
+=======
+=======
+ [2]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no í in font cmr10!
+ [3])
+=======
+ [1
+
+] [2] [3])
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+\tf@toc=\write7
+\openout7 = `Environmental_Science_in_East_Asia.toc'.
+
+ [4] [5
+<<<<<<< HEAD
+
+] [6]
+Overfull \hbox (4.69772pt too wide) in paragraph at lines 145--146
+>>>>>>> erta2020-EA30e21
+>>>>>>> sbeaton3-EA30e21
 \OT1/cmr/m/n/10 In the past, I used L[]T[]Xto make pub-li-ca-tion qual-ity text
 . In fact, many pre-fer writ-ing in L[]T[]Xbecause
  []
@@ -1556,18 +1573,55 @@ File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
 Package pdftex.def Info: images/earth-system/Carbon-reservoirs-and-cycles-in-th
 e-Earth.jpg used on input line 648.
 (pdftex.def)             Requested size: 433.62pt x 283.21162pt.
+=======
+
+] [6]
+Chapter 1.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.651 \end{figure}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+l.644 \end{figure}
+=======
+l.641 \end{figure}
+>>>>>>> erta2020-EA30e21
+=======
+l.671 \end{figure}
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+>>>>>>> sbeaton3-EA30e21
                    [1
+=======
+l.166 \chapter
+              [Land Use Change and Monitoring]{Science of Remote Sensing on ...
+[1
+
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.651 \end{figure}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+l.644 \end{figure}
+=======
+l.641 \end{figure}
+>>>>>>> erta2020-EA30e21
+=======
+l.671 \end{figure}
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+>>>>>>> sbeaton3-EA30e21
                    [2 <./images/earth-system/earth-rad-budget-nasa-erbe.png>]
 [3 <./images/earth-system/em-radiation-atmosph-depth-stsci.jpg>]
 
@@ -1606,10 +1660,36 @@ Package pdftex.def Info: figure/maunaloa3-1.pdf used on input line 693.
  [5 <./images/earth-system/long-term-carbon.png>]
 [6 <./images/earth-system/Q10-SOC-Regulation.jpg>] [7 <./figure/maunaloa3-1.pdf
 >] [8
+<<<<<<< HEAD
+=======
+=======
+ut line 694.
+(pdftex.def)             Requested size: 433.62pt x 287.02835pt.
+=======
+l.166 \chapter
+              [Land Use Change and Monitoring]{Science of Remote Sensing on ...
+[2
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+
+
+Package xcolor Warning: Incompatible color definition on input line 712.
+
+
+Package xcolor Warning: Incompatible color definition on input line 715.
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+
+>>>>>>> sbeaton3-EA30e21
 
 ]
 Chapter 2.
+<<<<<<< HEAD
 [9] [10
+=======
+<<<<<<< HEAD
+[7
+
+] [8
+>>>>>>> sbeaton3-EA30e21
 
 ]
 Chapter 3.
@@ -1655,21 +1735,40 @@ put line 823.
 
 LaTeX Warning: Reference `fig:shenzhen' on page 17 undefined on input line 825.
 
+<<<<<<< HEAD
 
 <images/land-use/Shenzhen-cityscape.png, id=1272, 1285.80376pt x 442.65375pt>
+=======
+<images/land-use/Shenzhen-cityscape.png, id=1267, 1285.80376pt x 442.65375pt>
+=======
+<images/land-use/Shenzhen-cityscape.png, id=725, 1285.80376pt x 442.65375pt>
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 File: images/land-use/Shenzhen-cityscape.png Graphic file (type png)
 
 <use images/land-use/Shenzhen-cityscape.png>
 Package pdftex.def Info: images/land-use/Shenzhen-cityscape.png used on input l
+<<<<<<< HEAD
 ine 828.
+=======
+<<<<<<< HEAD
+ine 821.
+=======
+ine 175.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 149.27774pt.
- [17] [18 <./images/land-use/Shenzhen-cityscape.png>]
+ [3] [4 <./images/land-use/Shenzhen-cityscape.png>]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
  [19]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
+=======
+ [5]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1679,13 +1778,27 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
  [20]
 <images//land-use/Bonelli_Erosion_Map.png, id=1293, 731.73375pt x 442.65375pt>
 File: images//land-use/Bonelli_Erosion_Map.png Graphic file (type png)
 
 <use images//land-use/Bonelli_Erosion_Map.png>
 Package pdftex.def Info: images//land-use/Bonelli_Erosion_Map.png used on input
+<<<<<<< HEAD
  line 878.
+=======
+ line 871.
+=======
+ [6]
+<images/land-use/Bonelli_Erosion_Map.png, id=750, 731.73375pt x 442.65375pt>
+File: images/land-use/Bonelli_Erosion_Map.png Graphic file (type png)
+
+<use images/land-use/Bonelli_Erosion_Map.png>
+Package pdftex.def Info: images/land-use/Bonelli_Erosion_Map.png used on input 
+line 225.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 262.31168pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1714,6 +1827,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
  [21 <./images//land-use/Bonelli_Erosion_Map.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1737,6 +1851,16 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
  [22]
+=======
+
+Underfull \vbox (badness 3179) has occurred while \output is active []
+
+ [7 <./images/land-use/Bonelli_Erosion_Map.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+ [8]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -1752,7 +1876,11 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+<<<<<<< HEAD
  [23]
+=======
+ [9]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1760,27 +1888,45 @@ Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ± in font cmr10!
+<<<<<<< HEAD
 
 <images/land-use/LUC-SOC-Table.png, id=1311, 944.52875pt x 226.8475pt>
+=======
+<<<<<<< HEAD
+ <images/land-use/LUC-SOC-Table.png, id=1306, 944.52875pt x 226.8475pt>
+>>>>>>> sbeaton3-EA30e21
 File: images/land-use/LUC-SOC-Table.png Graphic file (type png)
 
 <use images/land-use/LUC-SOC-Table.png>
 Package pdftex.def Info: images/land-use/LUC-SOC-Table.png used on input line 9
+<<<<<<< HEAD
 29.
+=======
+22.
+=======
+
+<images/land-use/LUC-SOC-Table.png, id=771, 944.52875pt x 226.8475pt>
+File: images/land-use/LUC-SOC-Table.png Graphic file (type png)
+
+<use images/land-use/LUC-SOC-Table.png>
+Package pdftex.def Info: images/land-use/LUC-SOC-Table.png used on input line 2
+78.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 104.14342pt.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [24]
+ [10]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [25 <./images/land-use/LUC-SOC-Table.png>]
+ [11 <./images/land-use/LUC-SOC-Table.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -1788,29 +1934,61 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 
+<<<<<<< HEAD
 <images/land-use/Climate-Smart-Soils.png, id=1327, 1010.77625pt x 408.52625pt>
+=======
+<<<<<<< HEAD
+<images/land-use/Climate-Smart-Soils.png, id=1322, 1010.77625pt x 408.52625pt>
+=======
+<images/land-use/Climate-Smart-Soils.png, id=787, 1010.77625pt x 408.52625pt>
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 File: images/land-use/Climate-Smart-Soils.png Graphic file (type png)
 
 <use images/land-use/Climate-Smart-Soils.png>
 Package pdftex.def Info: images/land-use/Climate-Smart-Soils.png used on input 
+<<<<<<< HEAD
 line 948.
+=======
+<<<<<<< HEAD
+line 941.
+=======
+line 297.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 175.25768pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ü in font cmr10!
 Missing character: There is no í in font cmr10!
- [26 <./images/land-use/Climate-Smart-Soils.png>]
+ [12 <./images/land-use/Climate-Smart-Soils.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 
+<<<<<<< HEAD
 <images/land-use/Loess-Comparison.png, id=1336, 1253.68375pt x 346.29375pt>
+=======
+<<<<<<< HEAD
+<images/land-use/Loess-Comparison.png, id=1331, 1253.68375pt x 346.29375pt>
+=======
+<images/land-use/Loess-Comparison.png, id=797, 1253.68375pt x 346.29375pt>
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 File: images/land-use/Loess-Comparison.png Graphic file (type png)
 
 <use images/land-use/Loess-Comparison.png>
 Package pdftex.def Info: images/land-use/Loess-Comparison.png used on input lin
+<<<<<<< HEAD
 e 977.
+=======
+<<<<<<< HEAD
+e 970.
+=======
+e 326.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 119.77264pt.
- [27]
+ [13]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1821,7 +1999,21 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 
+<<<<<<< HEAD
 Overfull \hbox (3.89119pt too wide) in paragraph at lines 994--994
+=======
+<<<<<<< HEAD
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 987--987
+=======
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 847--847
+>>>>>>> erta2020-EA30e21
+=======
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 878--878
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 343--343
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 []\OT1/cmr/bx/n/14.4 Conclusion & Prospect of Sus-tain-able Ur-ban-iza-tion/Lan
 d
  []
@@ -1829,79 +2021,110 @@ d
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <./images/land-use/Loess-Comparison.png>]
+ [14 <./images/land-use/Loess-Comparison.png>]
 Overfull \hbox (7.87886pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 4.7.  CONCLUSION & PROSPECT OF SUSTAINABLE URBANIZATION/LAND U
-SE CHANGE \OT1/cmr/m/n/10 29
+\OT1/cmr/m/sl/10 2.7.  CONCLUSION & PROSPECT OF SUSTAINABLE URBANIZATION/LAND U
+SE CHANGE \OT1/cmr/m/n/10 15
  []
 
+<<<<<<< HEAD
 [29] [30
+<<<<<<< HEAD
+=======
+=======
+[15] [16
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+[15] [16
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 
 ]
-Chapter 5.
+Chapter 3.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ì in font cmbx12!
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> sbeaton3-EA30e21
 [31]
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ì in font cmbx12!
  [32]
+<<<<<<< HEAD
+=======
+=======
+[17]
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ì in font cmbx12!
+ [18]
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+[17]
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ì in font cmbx12!
+ [18]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> sbeaton3-EA30e21
  [33]
 [34]
+=======
+ [19]
+[20]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 Underfull \vbox (badness 3792) has occurred while \output is active []
 
- [35]
-[36]
-Chapter 6.
-[37
+ [21]
+[22]
+Chapter 4.
+[23
 
-] [38
+] [24
 
 ]
-Chapter 7.
-[39]
+Chapter 5.
+[25]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [40]
+ [26]
 Underfull \vbox (badness 3724) has occurred while \output is active []
 
- [41]
+ [27]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ± in font cmr10!
 
-[42]
+[28]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [43]
+ [29]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ± in font cmr10!
- [44]
+ [30]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [45] [46] [47] [48] [49]
+ [31] [32] [33] [34] [35]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [50]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
- [51]
+ [36]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -1910,8 +2133,18 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+ [37]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [52]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [38]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1921,23 +2154,28 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [53] [54]
+ [39] [40]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [55]
+ [41]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [56]
+ [42]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
+<<<<<<< HEAD
 <images/reeffoodweb.png, id=1720, 469.755pt x 342.27875pt>
+=======
+<<<<<<< HEAD
+<images/reeffoodweb.png, id=1715, 469.755pt x 342.27875pt>
+>>>>>>> sbeaton3-EA30e21
 File: images/reeffoodweb.png Graphic file (type png)
 
 <use images/reeffoodweb.png>
@@ -1955,17 +2193,55 @@ Package pdftex.def Info: images/reefcycles.png used on input line 1306.
 File: images/reefmap.png Graphic file (type png)
 
 <use images/reefmap.png>
+<<<<<<< HEAD
 Package pdftex.def Info: images/reefmap.png used on input line 1312.
+=======
+Package pdftex.def Info: images/reefmap.png used on input line 1305.
+=======
+<images/reeffoodweb.png, id=1184, 469.755pt x 342.27875pt>
+File: images/reeffoodweb.png Graphic file (type png)
+
+<use images/reeffoodweb.png>
+Package pdftex.def Info: images/reeffoodweb.png used on input line 649.
+(pdftex.def)             Requested size: 433.62pt x 315.95003pt.
+
+<images/reefcycles.png, id=1189, 292.09125pt x 270.00874pt>
+File: images/reefcycles.png Graphic file (type png)
+
+<use images/reefcycles.png>
+Package pdftex.def Info: images/reefcycles.png used on input line 655.
+(pdftex.def)             Requested size: 433.62pt x 400.87563pt.
+
+<images/reefmap.png, id=1198, 469.755pt x 346.29375pt>
+File: images/reefmap.png Graphic file (type png)
+
+<use images/reefmap.png>
+Package pdftex.def Info: images/reefmap.png used on input line 661.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
 
 
 Package caption Warning: \captionsetup{subtype*=...} or \subcaptionof
+<<<<<<< HEAD
 (caption)                outside box or environment on input line 1319.
+=======
+<<<<<<< HEAD
+(caption)                outside box or environment on input line 1312.
+=======
+(caption)                outside box or environment on input line 668.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 See the caption package documentation for explanation.
 
 
 Package caption Warning: \subcaption
+<<<<<<< HEAD
 (caption)                outside box or environment on input line 1319.
+=======
+<<<<<<< HEAD
+(caption)                outside box or environment on input line 1312.
+>>>>>>> sbeaton3-EA30e21
 See the caption package documentation for explanation.
 
 
@@ -1999,7 +2275,47 @@ Package pdftex.def Info: images/cyanidefishing.jpg used on input line 1351.
 File: images/coraldisease.png Graphic file (type png)
 
 <use images/coraldisease.png>
+<<<<<<< HEAD
 Package pdftex.def Info: images/coraldisease.png used on input line 1357.
+=======
+Package pdftex.def Info: images/coraldisease.png used on input line 1350.
+=======
+(caption)                outside box or environment on input line 668.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (38.54742pt too wide) in paragraph at lines 670--685
+[][] 
+ []
+
+<images/acidification2_med.jpg, id=1207, 820.06375pt x 325.215pt>
+File: images/acidification2_med.jpg Graphic file (type jpg)
+
+<use images/acidification2_med.jpg>
+Package pdftex.def Info: images/acidification2_med.jpg used on input line 688.
+(pdftex.def)             Requested size: 433.62pt x 171.96613pt.
+
+<images/coralbleach.png, id=1208, 469.755pt x 313.17pt>
+File: images/coralbleach.png Graphic file (type png)
+
+<use images/coralbleach.png>
+Package pdftex.def Info: images/coralbleach.png used on input line 694.
+(pdftex.def)             Requested size: 433.62pt x 289.08037pt.
+
+<images/cyanidefishing.jpg, id=1209, 1134.2375pt x 756.8275pt>
+File: images/cyanidefishing.jpg Graphic file (type jpg)
+
+<use images/cyanidefishing.jpg>
+Package pdftex.def Info: images/cyanidefishing.jpg used on input line 700.
+(pdftex.def)             Requested size: 433.62pt x 289.32967pt.
+
+<images/coraldisease.png, id=1210, 469.755pt x 353.32pt>
+File: images/coraldisease.png Graphic file (type png)
+
+<use images/coraldisease.png>
+Package pdftex.def Info: images/coraldisease.png used on input line 706.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 326.14198pt.
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -2008,11 +2324,27 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
+<<<<<<< HEAD
 <images/sentpeeps.png, id=1747, 469.755pt x 263.98625pt>
 File: images/sentpeeps.png Graphic file (type png)
 
 <use images/sentpeeps.png>
 Package pdftex.def Info: images/sentpeeps.png used on input line 1363.
+=======
+<<<<<<< HEAD
+<images/sentpeeps.png, id=1742, 469.755pt x 263.98625pt>
+File: images/sentpeeps.png Graphic file (type png)
+
+<use images/sentpeeps.png>
+Package pdftex.def Info: images/sentpeeps.png used on input line 1356.
+=======
+<images/sentpeeps.png, id=1211, 469.755pt x 263.98625pt>
+File: images/sentpeeps.png Graphic file (type png)
+
+<use images/sentpeeps.png>
+Package pdftex.def Info: images/sentpeeps.png used on input line 712.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 243.67993pt.
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -2021,11 +2353,27 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
+<<<<<<< HEAD
 <images/tagfish.png, id=1748, 366.36874pt x 366.36874pt>
 File: images/tagfish.png Graphic file (type png)
 
 <use images/tagfish.png>
 Package pdftex.def Info: images/tagfish.png used on input line 1369.
+=======
+<<<<<<< HEAD
+<images/tagfish.png, id=1743, 366.36874pt x 366.36874pt>
+File: images/tagfish.png Graphic file (type png)
+
+<use images/tagfish.png>
+Package pdftex.def Info: images/tagfish.png used on input line 1362.
+=======
+<images/tagfish.png, id=1212, 366.36874pt x 366.36874pt>
+File: images/tagfish.png Graphic file (type png)
+
+<use images/tagfish.png>
+Package pdftex.def Info: images/tagfish.png used on input line 718.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 433.64745pt.
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -2034,19 +2382,36 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
+<<<<<<< HEAD
 <images/reefbigchillin.png, id=1757, 399.4925pt x 209.78375pt>
 File: images/reefbigchillin.png Graphic file (type png)
 
 <use images/reefbigchillin.png>
 Package pdftex.def Info: images/reefbigchillin.png used on input line 1375.
+=======
+<<<<<<< HEAD
+<images/reefbigchillin.png, id=1752, 399.4925pt x 209.78375pt>
+File: images/reefbigchillin.png Graphic file (type png)
+
+<use images/reefbigchillin.png>
+Package pdftex.def Info: images/reefbigchillin.png used on input line 1368.
+=======
+<images/reefbigchillin.png, id=1221, 399.4925pt x 209.78375pt>
+File: images/reefbigchillin.png Graphic file (type png)
+
+<use images/reefbigchillin.png>
+Package pdftex.def Info: images/reefbigchillin.png used on input line 724.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 227.71542pt.
- [57] [58 <./images/reeffoodweb.png>] [59 <./images/reefcycles.png>] [60 <./ima
-ges/reefmap.png>] [61 <./images/acidification2_med.jpg>] [62 <./images/coralble
-ach.png>] [63 <./images/cyanidefishing.jpg>]
-[64 <./images/coraldisease.png>] [65 <./images/sentpeeps.png>] [66 <./images/ta
-gfish.png>] [67 <./images/reefbigchillin.png>] [68
+ [43] [44 <./images/reeffoodweb.png>] [45 <./images/reefcycles.png>] [46 <./ima
+ges/reefmap.png>] [47 <./images/acidification2_med.jpg>] [48 <./images/coralble
+ach.png>] [49 <./images/cyanidefishing.jpg>]
+[50 <./images/coraldisease.png>] [51 <./images/sentpeeps.png>] [52 <./images/ta
+gfish.png>] [53 <./images/reefbigchillin.png>] [54
 
 ]
+<<<<<<< HEAD
 Chapter 8.
 [69] [70
 
@@ -2077,10 +2442,36 @@ Overfull \vbox (50.54535pt too high) has occurred while \output is active []
 
 ]
 Chapter 10.
+<<<<<<< HEAD
 [75] [76
+=======
+[73
+
+<<<<<<< HEAD
+] [74
+=======
+Chapter 6.
+[55] [56
+>>>>>>> sbeaton3-EA30e21
 
 ]
-Chapter 11.
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Overfull \vbox (13.44258pt too high) has occurred while \output is active []
+
+
+[58]
+Chapter 8.
+[59
+
+] [60
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+
+]
+Chapter 9.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2093,7 +2484,11 @@ Missing character: There is no ô in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [77]
+=======
+ [61]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -2101,11 +2496,27 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
+<<<<<<< HEAD
 <images/Dam-chart.png, id=1869, 785.93625pt x 191.71625pt>
 File: images/Dam-chart.png Graphic file (type png)
 
 <use images/Dam-chart.png>
 Package pdftex.def Info: images/Dam-chart.png used on input line 1498.
+=======
+<<<<<<< HEAD
+<images/Dam-chart.png, id=1855, 785.93625pt x 191.71625pt>
+File: images/Dam-chart.png Graphic file (type png)
+
+<use images/Dam-chart.png>
+Package pdftex.def Info: images/Dam-chart.png used on input line 1480.
+=======
+<images/Dam-chart.png, id=1324, 785.93625pt x 191.71625pt>
+File: images/Dam-chart.png Graphic file (type png)
+
+<use images/Dam-chart.png>
+Package pdftex.def Info: images/Dam-chart.png used on input line 835.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 105.77774pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2116,6 +2527,7 @@ Missing character: There is no ô in font cmr10!
 
 Underfull \vbox (badness 4819) has occurred while \output is active []
 
+<<<<<<< HEAD
  [78]
 <images/diagram.png, id=1875, 469.755pt x 307.1475pt>
 File: images/diagram.png Graphic file (type png)
@@ -2124,20 +2536,46 @@ Package pdftex.def Info: images/diagram.png used on input line 1511.
 (pdftex.def)             Requested size: 433.62pt x 283.52115pt.
 
 [79 <./images/Dam-chart.png>] [80 <./images/diagram.png>]
+=======
+<<<<<<< HEAD
+ [76]
+<images/diagram.png, id=1861, 469.755pt x 307.1475pt>
+File: images/diagram.png Graphic file (type png)
+ <use images/diagram.png>
+Package pdftex.def Info: images/diagram.png used on input line 1493.
+=======
+ [62]
+<images/diagram.png, id=1329, 469.755pt x 307.1475pt>
+File: images/diagram.png Graphic file (type png)
+ <use images/diagram.png>
+Package pdftex.def Info: images/diagram.png used on input line 845.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+(pdftex.def)             Requested size: 433.62pt x 283.52115pt.
+
+[63 <./images/Dam-chart.png>] [64 <./images/diagram.png>]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+<<<<<<< HEAD
  [81]
+=======
+ [65]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
  [82]
+=======
+ [66]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2171,7 +2609,11 @@ Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
+<<<<<<< HEAD
  [83]
+=======
+ [67]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -2188,7 +2630,39 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
+<<<<<<< HEAD
 [84]
+=======
+<<<<<<< HEAD
+[82]
+=======
+
+ [21]
+[22]
+Underfull \vbox (badness 3792) has occurred while \output is active []
+
+ [23]
+[24]
+Chapter 6.
+[25
+
+] [26
+
+]
+Chapter 7.
+[27]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [28]
+Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [29]
+>>>>>>> erta2020-EA30e21
+=======
+[68]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
@@ -2203,26 +2677,62 @@ Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
  <images/schis-life.png, id=1915, 845.0772pt x 597.432pt>
+=======
+<<<<<<< HEAD
+ <images/schis-life.png, id=1900, 845.0772pt x 597.432pt>
+=======
+ <images/schis-life.png, id=1371, 845.0772pt x 597.432pt>
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 File: images/schis-life.png Graphic file (type png)
 
 <use images/schis-life.png>
+<<<<<<< HEAD
 Package pdftex.def Info: images/schis-life.png used on input line 1602.
+=======
+<<<<<<< HEAD
+Package pdftex.def Info: images/schis-life.png used on input line 1584.
+=======
+Package pdftex.def Info: images/schis-life.png used on input line 934.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 306.54596pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 
+<<<<<<< HEAD
 <images/schis-map.png, id=1916, 469.755pt x 346.29375pt>
 File: images/schis-map.png Graphic file (type png)
 
 <use images/schis-map.png>
 Package pdftex.def Info: images/schis-map.png used on input line 1614.
+=======
+<<<<<<< HEAD
+<images/schis-map.png, id=1901, 469.755pt x 346.29375pt>
+File: images/schis-map.png Graphic file (type png)
+
+<use images/schis-map.png>
+Package pdftex.def Info: images/schis-map.png used on input line 1596.
+=======
+<images/schis-map.png, id=1372, 469.755pt x 346.29375pt>
+File: images/schis-map.png Graphic file (type png)
+
+<use images/schis-map.png>
+Package pdftex.def Info: images/schis-map.png used on input line 944.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
+<<<<<<< HEAD
  [85] [86 <./images/schis-life.png>] [87 <./images/schis-map.png>]
+=======
+ [69] [70 <./images/schis-life.png>] [71 <./images/schis-map.png>]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -2240,11 +2750,23 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
+<<<<<<< HEAD
 Overfull \hbox (8.01985pt too wide) in paragraph at lines 1635--1636
+=======
+<<<<<<< HEAD
+Overfull \hbox (8.01985pt too wide) in paragraph at lines 1617--1618
+=======
+Overfull \hbox (8.01985pt too wide) in paragraph at lines 965--966
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 \OT1/cmr/m/n/10 hous-ing, ed-u-ca-tion, health care, san-i-ta-tion, job op-por-
 tu-ni-ties, space for sub-sis-tence farm-ing/traditional
  []
 
+<<<<<<< HEAD
+=======
+[72]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 Missing character: There is no √ in font cmr10!
 Missing character: There is no Ø in font cmr10!
 Missing character: There is no ‚ in font cmr10!
@@ -2256,7 +2778,15 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
 [89]
+=======
+<<<<<<< HEAD
+[87]
+=======
+ [73]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -2269,7 +2799,16 @@ Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
+<<<<<<< HEAD
  [90]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ [88]
+=======
+ [74]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -2291,7 +2830,11 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+<<<<<<< HEAD
  [91]
+=======
+ [75]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2322,7 +2865,11 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
+<<<<<<< HEAD
  [92]
+=======
+ [76]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -2341,10 +2888,14 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+<<<<<<< HEAD
  [93] [94
+=======
+ [77] [78
+>>>>>>> sbeaton3-EA30e21
 
 ]
-Chapter 12.
+Chapter 10.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2402,14 +2953,24 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
+=======
+[79]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+<<<<<<< HEAD
  [98 <./images/myanmar/Image2.jpg>]
 [99 <./images/myanmar/Image3.jpg>]
+=======
+<<<<<<< HEAD
+ [96 <./images/myanmar/Image2.jpg>]
+[97 <./images/myanmar/Image3.jpg>]
+>>>>>>> sbeaton3-EA30e21
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2499,27 +3060,150 @@ Chapter 14.
 ]
 Chapter 15.
 [109] [110
+<<<<<<< HEAD
+=======
+=======
+Missing character: There is no ô in font cmr9!
+
+<images/reefbigchillin.png, id=1411, 399.4925pt x 209.78375pt>
+File: images/reefbigchillin.png Graphic file (type png)
+
+<use images/reefbigchillin.png>
+Package pdftex.def Info: images/reefbigchillin.png used on input line 1228.
+(pdftex.def)             Requested size: 433.62pt x 227.71542pt.
+ [45] [46 <./images/reeffoodweb.png>] [47 <./images/reefcycles.png>] [48 <./ima
+ges/reefmap.png>] [49 <./images/acidification2_med.jpg>] [50 <./images/coralble
+ach.png>] [51 <./images/cyanidefishing.jpg>]
+[52 <./images/coraldisease.png>] [53 <./images/sentpeeps.png>] [54 <./images/ta
+gfish.png>] [55 <./images/reefbigchillin.png>] [56
 
 ]
-Chapter 16.
+Chapter 8.
+[57] [58
 
+]
+Chapter 9.
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ü in font cmbx12!
+Missing character: There is no í in font cmbx12!
+[59]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no í in font cmr10!
+ [60]
+Chapter 10.
+[61
+
+] [62
+
+]
+Chapter 11.
+[63] [64
+
+]
+Chapter 12.
+[65] [66
+
+]
+Chapter 13.
+[67] [68
+
+]
+Chapter 14.
+[69] [70
+
+]
+Chapter 15.
+[71] [72
+>>>>>>> erta2020-EA30e21
+=======
+ [80]
+Chapter 11.
+[81
+
+] [82
+
+]
+Chapter 12.
+[83] [84
+>>>>>>> sbeaton3-EA30e21
+
+]
+Chapter 13.
+[85] [86
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+
+<<<<<<< HEAD
 Overfull \hbox (4.71004pt too wide) in paragraph at lines 1914--1915
+=======
+]
+Chapter 14.
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1896--1897
+=======
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1583--1584
+>>>>>>> erta2020-EA30e21
+=======
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1171--1172
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
+<<<<<<< HEAD
 [111]
 Overfull \hbox (54.87589pt too wide) in paragraph at lines 1938--1939
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+[111]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1920--1921
+=======
+[73]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1607--1608
+>>>>>>> erta2020-EA30e21
+=======
+[87]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1195--1196
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> sbeaton3-EA30e21
 [112] [113
 
 
 ] [114]
 No file Environmental_Science_in_East_Asia.gls.
 (./Environmental_Science_in_East_Asia.bbl [115] [116
+<<<<<<< HEAD
+=======
+=======
+[74] [75
+
+
+] [76]
+No file Environmental_Science_in_East_Asia.gls.
+(./Environmental_Science_in_East_Asia.bbl [77] [78
+>>>>>>> erta2020-EA30e21
+=======
+[88] [89
+
+
+] [90]
+No file Environmental_Science_in_East_Asia.gls.
+(./Environmental_Science_in_East_Asia.bbl [91] [92
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 16--22
@@ -2575,7 +3259,19 @@ Missing character: There is no © in font cmr10!
 
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
+<<<<<<< HEAD
  [117]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ [117]
+=======
+ [79]
+>>>>>>> erta2020-EA30e21
+=======
+ [93]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Underfull \hbox (badness 10000) in paragraph at lines 92--95
 []\OT1/cmr/m/n/10 CORAL.  Coral reef ecol-ogy, 2021.  URL [][]$\OT1/cmtt/m/n/10
  https : / / coral . org / coral-[]reefs-[]101 /
@@ -2593,7 +3289,19 @@ Missing character: There is no ô in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [118]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ [118]
+=======
+ [80]
+>>>>>>> erta2020-EA30e21
+=======
+ [94]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Underfull \hbox (badness 4660) in paragraph at lines 165--173
 []\OT1/cmr/m/n/10 Ilisapeci Lyons, Rose-mary Hill, Samarla Deshong, Gary Mooney
 , and Gerry Turpin.
@@ -2632,7 +3340,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--216
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [119]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ [119]
+=======
+ [81]
+>>>>>>> erta2020-EA30e21
+=======
+ [95]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Underfull \hbox (badness 3271) in paragraph at lines 244--250
 \OT1/cmr/m/n/10 02697491.  URL [][]$\OT1/cmtt/m/n/10 http : / / search . ebscoh
 ost . com . ccl . idm . oclc . org / login . aspx ? direct =
@@ -2698,7 +3418,19 @@ Overfull \hbox (15.15405pt too wide) in paragraph at lines 277--283
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [120]
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ [120]
+=======
+ [82]
+>>>>>>> erta2020-EA30e21
+=======
+ [96]
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 Underfull \hbox (badness 10000) in paragraph at lines 306--311
 []\OT1/cmr/m/n/10 Andrea Thomp-son.  Where plas-tic goes, coral dis-ease fol-lo
 ws.  \OT1/cmr/m/it/10 Sci-en-tific
@@ -2747,7 +3479,13 @@ ct = true&AuthType = sso&db = 8gh&AN =
  []
 
 )
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1958.
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1941.
+>>>>>>> sbeaton3-EA30e21
  [121]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1958.
  (./Environmental_Science_in_East_Asia.aux)
@@ -2756,17 +3494,60 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1958.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 6FF22EDAD09E29C779ABFC8DEB500224;14234.
+=======
+(rerunfilecheck)             Checksum: 79CC3B5BCF689D640C242371F16E64F2;14156.
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1628.
+ [83]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1628.
+ (./Environmental_Science_in_East_Asia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1628.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1628.
+
+Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
+not changed.
+(rerunfilecheck)             Checksum: DDA37FDD9BCB0122795A5D17FF645308;9997.
+>>>>>>> erta2020-EA30e21
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1216.
+ [97]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1216.
+ (./Environmental_Science_in_East_Asia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1216.
+
+Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
+not changed.
+(rerunfilecheck)             Checksum: 2801E2DE755543DB4DC088873C8117B7;10311.
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  30192 strings out of 494820
  569193 string characters out of 3178050
  644685 words of memory out of 3000000
  32280 multiletter control sequences out of 15000+200000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ 30175 strings out of 494820
+ 569048 string characters out of 3178050
+ 643643 words of memory out of 3000000
+ 32276 multiletter control sequences out of 15000+200000
+=======
+ 29910 strings out of 494820
+ 564375 string characters out of 3178050
+ 640918 words of memory out of 3000000
+ 32155 multiletter control sequences out of 15000+200000
+>>>>>>> erta2020-EA30e21
+>>>>>>> sbeaton3-EA30e21
  32874 words of font info for 124 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  56i,11n,73p,3632b,936s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2802,8 +3583,67 @@ nts/type1/public/cm-super/sfrm1000.pfb>
 Output written on Environmental_Science_in_East_Asia.pdf (145 pages, 13729516 b
 ytes).
 PDF statistics:
+<<<<<<< HEAD
  2374 PDF objects out of 2487 (max. 8388607)
  2092 compressed objects within 21 object streams
  473 named destinations out of 1000 (max. 500000)
  1654 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 2368 PDF objects out of 2487 (max. 8388607)
+ 2086 compressed objects within 21 object streams
+ 471 named destinations out of 1000 (max. 500000)
+ 1646 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on Environmental_Science_in_East_Asia.pdf (105 pages, 8761268 by
+tes).
+PDF statistics:
+ 1850 PDF objects out of 2073 (max. 8388607)
+ 1636 compressed objects within 17 object streams
+ 346 named destinations out of 1000 (max. 500000)
+ 1163 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> erta2020-EA30e21
+=======
+Output written on Environmental_Science_in_East_Asia.pdf (69 pages, 960765 byte
+s).
+PDF statistics:
+ 1122 PDF objects out of 1200 (max. 8388607)
+ 987 compressed objects within 10 object streams
+ 229 named destinations out of 1000 (max. 500000)
+ 847 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
+=======
+ 29724 strings out of 494820
+ 560878 string characters out of 3178050
+ 638843 words of memory out of 3000000
+ 32009 multiletter control sequences out of 15000+200000
+ 21226 words of font info for 80 fonts, out of 3000000 for 9000
+ 198 hyphenation exceptions out of 8191
+ 56i,8n,73p,3632b,936s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb>
+Output written on Environmental_Science_in_East_Asia.pdf (105 pages, 12703967 b
+ytes).
+PDF statistics:
+ 1722 PDF objects out of 1728 (max. 8388607)
+ 1532 compressed objects within 16 object streams
+ 329 named destinations out of 1000 (max. 500000)
+ 1172 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
+>>>>>>> sbeaton3-EA30e21
 

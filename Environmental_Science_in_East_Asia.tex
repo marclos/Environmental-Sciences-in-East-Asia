@@ -140,7 +140,10 @@ Everyone in the world!
 
 
 
+% <<chapterchild, child='chapters/01-guide.Rnw'>>=
+% @
 
+<<<<<<< HEAD
 \chapter{\LaTeX Guide}\label{ch:guide}
 
 \subsection*{Why Learn \LaTeX?}
@@ -700,6 +703,18 @@ Figure~\ref{fig:maunaloa2}
 
 
 
+=======
+% <<chapterchild, child='chapters/01-template.Rnw'>>=
+% @
+ 
+% <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
+% @
+
+\mainmatter
+
+% <<chapterchild, child='chapters/earth-system.Rnw'>>=
+% @
+>>>>>>> eef0f3e3f04cfde939d8a8137f38fb43eba52d23
 
 
 \chapter{Monsoons and East Asia Climates}
@@ -709,125 +724,28 @@ Figure~\ref{fig:maunaloa2}
 
 
 
-
-\chapter{Critical Zone}\label{ch:critical-zone}
-
-\chapterauthor{Marc Los Huertos}\footnote{The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter.}
-
-\section{What is the Critical Zone}
-
-The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
-
-The critical zone includes the following:
-
-\begin{itemize}
-  \item A permeable layer from the tops of the trees to the bottom of the groundwater;
-  \item An environment where rock, soil, water, air, and living organisms interact and shape the Earth's surface;
-  \item Water and atmospheric gases move through the porous Critical Zone, and living systems thrive in its surface and subsurface environments, shaped over time by biota, geology, and climate.
-\end{itemize}
-
-All this activity transforms rock and biomass into the central component of the Critical Zone - soil; it also creates one of the most heterogenous and complex regions on Earth.
-
-Its complex interactions regulate the natural habitat and determine the availability of life-sustaining resources, such as food production and water quality.
-
-These are but two of the many benefits or services provided by the Critical Zone. Such `Critical-Zone Services' expand upon the benefits provided by ecosystems to also include the coupled hydrologic, geochemical, and geomorphic processes that underpin those ecosystems.
-
-\begin{figure}
-\includegraphics[width=\textwidth]{images/critical-zone/criticalzone.jpg}
-\caption{The Critical Zone is an interdisciplinary field of research exploring the interactions among the land surface, vegetation, and water bodies, and extends through the pedosphere, unsaturated vadose zone, and saturated groundwater zone. Critical Zone science is the integration of Earth surface processes (such as landscape evolution, weathering, hydrology, geochemistry, and ecology) at multiple spatial and temporal scales and across anthropogenic gradients. These processes impact mass and energy exchange necessary for biomass productivity, chemical cycling, and water storage.}
-\label{fig:criticalzone}
-\end{figure}
-
-\subsection{What are the environmental implications of the Critical Zone?}
-
-The critical zone as a concept and as a material space pushes us to think of the porousity of the Earth's surface --- the gas and fluid flows through rocks, soils, and plants. We can begin to appreciate the complexity of the transport and fate of chemical pollutants as they enter the soil and become part of the vadose zone and perhaps the ground water table -- moving with water and diffusing through the water, simultaneously.
-
-\section{Hydrologic Aspects}
-
-\subsection{Subsurface Hydrology}
-
-As water percolates into the soil or flows in the pour space below the surface waters it becomes part of the ground water. The study of this water might be called subsurface hydrology or ground water hydrology or hydrogeology. 
-
-There are two main areas of subsurface waters: saturated zone and unsaturated zone (Figure~\ref{fig:groundwater}).
-
-The saturated zone is the region where all the spaces between the particles are filled by water. The surface of the saturated zone is the water table. 
-
-The unsaturated zone is also called the vadose zone has some percentage of the pour spaces have air. The vadose zone also includes an area called the capillary fringe. Because of the surface tension of water, water is found in between particles above the water table and this zone is referred to as the capillary fringe. 
-
-\begin{figure}
-\includegraphics{images/critical-zone/groundwater}
-\caption{Diagram of Ground Water. }
-\label{fig:groundwater}
-\end{figure}
-
-\subsection{Saturated Zone}
-
-\subsubsection{Aquifers and Aquitards}
-
-\subsubsection{Confined and Unconfined Aquifers}
-
-\subsubsection{Ground Water Flow}
-
-TAKE A LOOK at some flow net sketches that will help clarify the relationships between aquifer matrix, and groundwater movement.
-
-In general, water flow is driven by potential energy, e.g.  where water flows down hill, driven by gravity. If water flows from point A to point B, the the potential energy for the flow is the height of the water at point A minus the height at point B, which can be symbolized as $dl$. The head potential is the heigh difference divided by the distance between the two points.  
-
-DARCY'S LAW
-
-\begin{equation}
-Q = KIA
-\end{equation}
-
-In 1856, Henry Darcy studied the movement of water through porous material. He determined an equation that described groundwater flow. The following description tell how Darcy determined his equation:
-
-A horizontal pipe filled with sand is used to demonstrate Darcy's experiment. Water is applied under pressure through end A, flows through the pipe, and discharges at end B. Water pressure is measured using piezometer tubes (thin vertical pipes installed at each end of the horizontal pipe). The difference in hydraulic head (between points A and B) is dh (change in height). Divide this by the flow length (i.e. the distance between the two tubes), dl, and you get the hydraulic gradient ( I ).
-
-The velocity of groundwater is based on hydraulic conductivity (K), as well as the hydraulic head (I). Therefore, the equation determined by Darcy to describe the basic relationship between subsurface materials and the movement of water through them is Q = KIA where Q is the volumetric flow rate (or discharge) and A is the area that the groundwater is flowing through. This relationship is known as Darcy’s law.
-
-DISCHARGE
-%* symbol-Q * units-volume/time EX. (m^3/day) * volume of water flowing through an aquifer per unit time * FIND WITH DARCY'S LAW Q = KIA
-
-AREA OF FLOW
-%* symbol-A * units-distance squared EX. (m^2) * Cross-sectional area of flow. (i.e. aquifer width x thickness)
-
-Now, rearrange the equation to Q/A = KI, which is known as the flux (v), which is an apparent velocity. Actual groundwater velocity is lower than that determined by Darcy, and is called Darcy Flux (vx)
-
-FLUX
-%* symbol-v * units-distance/time EX. (m/sec) * v=Q/A=KI * this is a velocity measure and gives the IDEAL velocity of groundwater (assumes that the water molecules can flow in a straight line through the subsurface). * this is ideal because it doesn't account for tortuosity of flow paths (this means that the water molecules actually follow a very windy path in an out of the pore spaces and so travel quite a bit slower in reality than the flux would indicate).
-
-DARCY FLUX
-%* symbol - vx * units - distance/time EX. (m/sec) * vx = Q/An = KI/n * This is the ACTUAL velocity of qroundwater and DOES account for tortousity of flow paths by including porosity in its calculation.
-
-Darcy's law is used extensively in groundwater studies. It can help answer important questions such as what direction an aquifer pollution plume is moving in, and how fast it is traveling
-
-\subsection{The Vadose Zone}
-
-The vadose zone is the 
-
-Jeji is a volcanic island is located some XX km south of the Korean Penisula. Water runs off the steep slopes quickly and water supplies are limited on the island. To adddress this...\citet{lee2017fifty}.
-
-\begin{figure}
-\includegraphics[width=\linewidth]{images/critical-zone/Lee-Vadose.png}
-\caption{... (Source: \citep{lee2017fifty}).}
-\label{fig:vadose2}
-\end{figure}
+% <<chapterchild, child='chapters/critical-zone.Rnw'>>=
+% @
 
 
-
-\chapter[header short chapter name]{Land Change and Monitoring: Science of Remote Sensing on Biogeochemical Changes to the Land}
+\chapter[Land Use Change and Monitoring]{Science of Remote Sensing on Biogeochemical Changes to the Land}
 
 \chapterauthor{Samantha Beaton}
 
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
+<<<<<<< HEAD
 Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is\red{passive voice} a particularly interesting place to begin analyzing land use change. A study\red{is the study itself important or the results? It can be both, but in the intro, I would avoid jumping into studies per se} analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.). Regardless of potential impacts, it cannot be ignored \ref{passive voice} that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1\ref{put figure reference here}, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
 
 Figure \ref{fig:shenzhen}
+=======
+Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is a particularly interesting place to begin analyzing land use change. A study analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.) (Figure \ref{fig:shenzhen}). Regardless of potential impacts, it cannot be ignored that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
+>>>>>>> sbeaton3-EA30e21
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/Shenzhen-cityscape.png}
 \caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014.}
-\label{figure:shenzen}
+\label{fig:shenzhen}
 \end{figure}
 
 As most scholars would agree, we are currently situated in the Anthropocene, or at least an age dominated by the systems of humans. The supposed ''age of man,'' as described by environmental artist and engineer Natalie Jeremijenko, asserts how humans are ''major biogeochemical forces in the world.'' By simple definition, humans have a true impact on the land, which then responds. Humans are entangled in the forces of nature. 
@@ -875,7 +793,7 @@ Additionally, a key component to colonial mapmaking was the arbitrary creation o
 Figure \ref{fig:Bonelli Erosion Map}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images//land-use/Bonelli_Erosion_Map.png}
+\includegraphics[width=\linewidth]{images/land-use/Bonelli_Erosion_Map.png}
 \caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world (Borelli, et al.).}
 \label{fig:Bonelli Erosion Map}
 \end{figure}
@@ -883,9 +801,11 @@ Figure \ref{fig:Bonelli Erosion Map}
 In an analysis of China’s ''One Belt, One Road'' policy (aka the Belt and Road Initiative or BRI), which as of 2019 lacked an official map shifting the focus to governmental remote sensing illustrations for accountability of the policy’s efficacy, Bennet importantly points out an illusory distinction between traditional maps and those obtained through remote sensing: ''Whereas maps are considered malleable representations, satellite imagery is imagined as objective, neutral, and importantly, rational—a key word in Chinese narratives of development and modernization.'' In other words, while remote sensing may easily be seen as perfectly objective, it in fact requires interpretation and representation, so it too is inherently political. While the goal of remote sensing is to accurately capture reality, the ''processing of billions of pixels'' can just as easily be edited or reframed to “help turn policies into self-fulfilling prophecies” (Bennett, 2020). Remote sensing produces entire analyses of landscape that may look ‘rational’ or ‘self-evident’; the challenge thus requires a critical look into each trillion pixels and the spaces left unattended within its representation.
 
 Bennett thus presents a methodology of three main principles to foster critical remote sensing:
-1. Any analysis must “be sensitive to the (geo)politics involved in the production and analysis of satellite imagery” by looking closely at the motivations of goals of the controlling state
-2. Analysis should not conform but rather act to contest “dominant social meta-narratives and discourses about modernization and development” that often use sensing to sustain development and paint a ‘pretty’ picture of modernization. Critical remote sensing includings the encouragement of political debate.
-3. Sensing should include mixed methods of qualitative and quantitative analysis at various research scales and levels throughout its production.
+\begin{enumerate}
+\item Any analysis must ``be sensitive to the (geo)politics involved in the production and analysis of satellite imagery'' by looking closely at the motivations of goals of the controlling state
+\item Analysis should not conform but rather act to contest ``dominant social meta-narratives and discourses about modernization and development'' that often use sensing to sustain development and paint a `pretty' picture of modernization. Critical remote sensing includings the encouragement of political debate.
+\item Sensing should include mixed methods of qualitative and quantitative analysis at various research scales and levels throughout its production.
+\end{enumerate}
 
 Ultimately, the increased use of remote sensing systems within government agendas and policy initiatives requires the need for active critique on the politics and positionalities ingrained in satellite imagery, especially due to how ''images present the guise of the entire truth in a way that can dissuade debate'' (Bennet, 2020). Data must be transparent, management must be accessible, and analysis must be critical to rightly expose the complexities of the (sociopolitical) environment. Lastly, while remote sensing is without a doubt an advantageous to our modern society, it cannot entirely replace local observation and place-based understanding, but rather is best kept in balance.
 
