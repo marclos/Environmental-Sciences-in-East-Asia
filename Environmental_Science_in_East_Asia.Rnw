@@ -24,6 +24,7 @@
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
+\usepackage{soul}
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -99,25 +100,25 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
-% <<chapterchild, child='chapters/01-guide.Rnw'>>=
-% @
+<<chapterchild, child='chapters/01-guide.Rnw'>>=
+@
 
-% <<chapterchild, child='chapters/01-template.Rnw'>>=
-% @
+<<chapterchild, child='chapters/01-template.Rnw'>>=
+@
  
-% <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
-% @
+<<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
+@
 
 \mainmatter
 
-% <<chapterchild, child='chapters/earth-system.Rnw'>>=
-% @
+<<chapterchild, child='chapters/earth-system.Rnw'>>=
+@
 
 <<chapterchild, child='chapters/weather-climate.Rnw'>>=
 @
 
-% <<chapterchild, child='chapters/critical-zone.Rnw'>>=
-% @
+<<chapterchild, child='chapters/critical-zone.Rnw'>>=
+@
 
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
@@ -169,7 +170,8 @@ The back matter often includes one or more of an index, an afterword, acknowledg
 \renewcommand\bibname{References}
 \setlength{\bibsep}{2\baselineskip}
 \setlength\bibindent{.5in}
-\bibliographystyle{plainnat}
+%\bibliographystyle{plainnat}
+\bibliographystyle{ecology}
 \bibliography{References}
 
 \end{document}
