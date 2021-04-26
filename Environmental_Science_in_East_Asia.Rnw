@@ -21,6 +21,7 @@
 \usepackage{gensymb}
 \usepackage{natbib}
 %\usepackage{wasysym} %\smiley{}
+% \usepackage{siunitx}
 \usepackage{glossaries}
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
@@ -47,7 +48,8 @@
 
 \newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
 
-%----------------------------------------------------------
+
+%-----------------------------------------------------
 \newtheorem{theorem}{Theorem}
 \newtheorem{acknowledgement}[theorem]{Acknowledgement}
 \newtheorem{definition}[theorem]{Definition}
@@ -81,6 +83,8 @@
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\carbondioxide}{CO$_2$~}
+
+\newcommand{\Mypm}{\mathbin{\tikz [x=1.4ex,y=1.4ex,line width=.1ex] \draw (0.0,0) -- (1.0,0) (0.5,0.08) -- (0.5,0.92) (0.0,0.5) -- (1.0,0.5);}}%
 
 <<setup, echo=FALSE>>=
 opts_knit$set(self.contained=FALSE)
