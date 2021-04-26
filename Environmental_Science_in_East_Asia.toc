@@ -191,9 +191,9 @@
 \contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{102}{section.12.4}
 \contentsline {section}{\numberline {12.5}Implications of Climate Change on Rice Production}{102}{section.12.5}
 \contentsline {section}{\numberline {12.6}Increasing Temperatures}{103}{section.12.6}
-\contentsline {section}{\numberline {12.7}Precipitation and flooding}{105}{section.12.7}
+\contentsline {section}{\numberline {12.7}Precipitation and flooding}{107}{section.12.7}
 \contentsline {section}{\numberline {12.8}Cyclone Nargis}{107}{section.12.8}
-\contentsline {section}{\numberline {12.9}Conclusion}{107}{section.12.9}
+\contentsline {section}{\numberline {12.9}Conclusion}{108}{section.12.9}
 \contentsline {chapter}{\numberline {13}Disasters, Typhoons and Phillipines}{109}{chapter.13}
 \contentsline {section}{\numberline {13.1}What are Typhoons?}{109}{section.13.1}
 \contentsline {chapter}{\numberline {14}Climate Infrastructure in Vietnam}{111}{chapter.14}

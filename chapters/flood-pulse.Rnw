@@ -1,4 +1,4 @@
-\chapter{Flood Pulse System in East Asia}{ch:floodpulse}
+\chapter{Flood Pulse System in East Asia}\label{ch:floodpulse}
 
 \chapterauthor{Kristin Gabriel}
 
