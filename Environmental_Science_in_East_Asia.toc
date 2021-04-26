@@ -187,29 +187,29 @@
 \contentsline {chapter}{\numberline {12}The Political Ecology and Economy of Rice in Myanmar}{97}{chapter.12}
 \contentsline {section}{\numberline {12.1}Introduction}{97}{section.12.1}
 \contentsline {section}{\numberline {12.2}Climate and Rice Production}{98}{section.12.2}
-\contentsline {section}{\numberline {12.3}Agricultural Production and Food Insecurity}{98}{section.12.3}
-\contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{100}{section.12.4}
+\contentsline {section}{\numberline {12.3}Agricultural Production and Food Insecurity}{100}{section.12.3}
+\contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{102}{section.12.4}
 \contentsline {section}{\numberline {12.5}Implications of Climate Change on Rice Production}{102}{section.12.5}
-\contentsline {section}{\numberline {12.6}Increasing Temperatures}{102}{section.12.6}
+\contentsline {section}{\numberline {12.6}Increasing Temperatures}{103}{section.12.6}
 \contentsline {section}{\numberline {12.7}Precipitation and flooding}{105}{section.12.7}
-\contentsline {section}{\numberline {12.8}Cyclone Nargis}{106}{section.12.8}
-\contentsline {section}{\numberline {12.9}Conclusion}{106}{section.12.9}
-\contentsline {chapter}{\numberline {13}Disasters, Typhoons and Phillipines}{107}{chapter.13}
-\contentsline {section}{\numberline {13.1}What are Typhoons?}{107}{section.13.1}
-\contentsline {chapter}{\numberline {14}Climate Infrastructure in Vietnam}{109}{chapter.14}
-\contentsline {section}{\numberline {14.1}Introductory}{109}{section.14.1}
-\contentsline {section}{\numberline {14.2}Conclusion}{109}{section.14.2}
-\contentsline {chapter}{\numberline {15}Waste Management for a Circular Economy}{111}{chapter.15}
-\contentsline {section}{\numberline {15.1}Life-Cycle}{111}{section.15.1}
-\contentsline {subsection}{\numberline {15.1.1}Collection}{111}{subsection.15.1.1}
-\contentsline {subsection}{\numberline {15.1.2}Transport}{111}{subsection.15.1.2}
-\contentsline {section}{\numberline {15.2}Biomimicry}{111}{section.15.2}
-\contentsline {subsection}{\numberline {15.2.1}Circularity}{111}{subsection.15.2.1}
-\contentsline {chapter}{\numberline {16}Plastic and Packaging in Japan}{113}{chapter.16}
-\contentsline {section}{\numberline {16.1}Introductiona and Goals?}{113}{section.16.1}
-\contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{113}{section.16.2}
-\contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{113}{subsection.16.2.1}
-\contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{113}{subsection.16.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{113}{section*.83}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{113}{section*.84}
-\contentsline {part}{I\hspace {1em}Backmatter}{115}{part.1}
+\contentsline {section}{\numberline {12.8}Cyclone Nargis}{107}{section.12.8}
+\contentsline {section}{\numberline {12.9}Conclusion}{107}{section.12.9}
+\contentsline {chapter}{\numberline {13}Disasters, Typhoons and Phillipines}{109}{chapter.13}
+\contentsline {section}{\numberline {13.1}What are Typhoons?}{109}{section.13.1}
+\contentsline {chapter}{\numberline {14}Climate Infrastructure in Vietnam}{111}{chapter.14}
+\contentsline {section}{\numberline {14.1}Introductory}{111}{section.14.1}
+\contentsline {section}{\numberline {14.2}Conclusion}{111}{section.14.2}
+\contentsline {chapter}{\numberline {15}Waste Management for a Circular Economy}{113}{chapter.15}
+\contentsline {section}{\numberline {15.1}Life-Cycle}{113}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}Collection}{113}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.2}Transport}{113}{subsection.15.1.2}
+\contentsline {section}{\numberline {15.2}Biomimicry}{113}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Circularity}{113}{subsection.15.2.1}
+\contentsline {chapter}{\numberline {16}Plastic and Packaging in Japan}{115}{chapter.16}
+\contentsline {section}{\numberline {16.1}Introductiona and Goals?}{115}{section.16.1}
+\contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{115}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{115}{subsection.16.2.1}
+\contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{115}{subsection.16.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{115}{section*.83}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{115}{section*.84}
+\contentsline {part}{I\hspace {1em}Backmatter}{117}{part.1}

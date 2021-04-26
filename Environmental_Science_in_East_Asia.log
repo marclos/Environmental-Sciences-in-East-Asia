@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  25 APR 2021 22:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  25 APR 2021 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2340,38 +2340,24 @@ Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1723.
 File: images/myanmar/Image2.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image2.jpg>
-Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1728.
+Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1730.
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
 <images/myanmar/Image3.jpg, id=1988, 156.585pt x 324.21124pt>
 File: images/myanmar/Image3.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image3.jpg>
-Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1735.
-(pdftex.def)             Requested size: 433.62pt x 897.94064pt.
-
-
-LaTeX Warning: Float too large for page by 340.78065pt on input line 1737.
-
+Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1737.
+(pdftex.def)             Requested size: 216.81pt x 448.9258pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
+
+
+LaTeX Warning: Reference `ch:floodpulse' on page 98 undefined on input line 174
+1.
+
 [98] [99 <./images/myanmar/Image1.jpg>]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -2383,8 +2369,32 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ° in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+! Undefined control sequence.
+l.1752 ...of the gross yield (Kurosaki, 2008).\rec
+                                                  {sounds like a stiffling e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[102]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -2396,31 +2406,30 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
- [102]
-<images/myanmar/Image4.jpg, id=2012, 284.06125pt x 178.6675pt>
+ <images/myanmar/Image4.jpg, id=2012, 284.06125pt x 178.6675pt>
 File: images/myanmar/Image4.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image4.jpg>
-Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1758.
+Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1763.
 (pdftex.def)             Requested size: 433.62pt x 272.76332pt.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
- [103 <./images/myanmar/Image4.jpg>]
-<images/myanmar/Image5.jpg, id=2019, 301.125pt x 168.63pt>
+
+<images/myanmar/Image5.jpg, id=2013, 301.125pt x 168.63pt>
 File: images/myanmar/Image5.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image5.jpg>
-Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1765.
+Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1770.
 (pdftex.def)             Requested size: 433.62pt x 242.85016pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-<images/myanmar/Image6.jpg, id=2020, 568.1225pt x 324.21124pt>
+ [103] [104 <./images/myanmar/Image4.jpg>]
+<images/myanmar/Image6.jpg, id=2024, 568.1225pt x 324.21124pt>
 File: images/myanmar/Image6.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image6.jpg>
-Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1773.
+Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1778.
 (pdftex.def)             Requested size: 433.62pt x 247.46178pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -2434,10 +2443,7 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [104 <./images/myanmar/Image5.jpg>]
+ [105 <./images/myanmar/Image5.jpg>]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -2446,47 +2452,47 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ± in font cmr10!
- [105 <./images/myanmar/Image6.jpg>]
+ [106 <./images/myanmar/Image6.jpg>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
- [106]
-Chapter 13.
-[107
-
-] [108
+ [107] [108
 
 ]
-Chapter 14.
+Chapter 13.
 [109] [110
 
 ]
-Chapter 15.
+Chapter 14.
 [111] [112
+
+]
+Chapter 15.
+[113] [114
 
 ]
 Chapter 16.
 
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 1931--1932
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1936--1937
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
-[113]
-Overfull \hbox (54.87589pt too wide) in paragraph at lines 1955--1956
+[115]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1960--1961
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
-[114] [115
+[116] [117
 
 
-] [116]
+] [118]
 No file Environmental_Science_in_East_Asia.gls.
-(./Environmental_Science_in_East_Asia.bbl [117] [118
+(./Environmental_Science_in_East_Asia.bbl [119] [120
 
 ]
 Underfull \hbox (badness 1077) in paragraph at lines 8--13
@@ -2529,7 +2535,7 @@ Missing character: There is no © in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119]
+ [121]
 Underfull \hbox (badness 10000) in paragraph at lines 87--91
 []\OT1/cmr/m/n/10 CORAL. 2021.  Coral reef ecol-ogy.  URL [][]$\OT1/cmtt/m/n/10
  https : / / coral . org / coral-[]reefs-[]101 /
@@ -2541,7 +2547,7 @@ Missing character: There is no ™ in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [120]
+ [122]
 Underfull \hbox (badness 10000) in paragraph at lines 199--204
 []\OT1/cmr/m/n/10 Pearce, F. 2003.  Cyanide: an easy but deadly way to catch fi
 sh.
@@ -2556,7 +2562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121]
+ [123]
 Underfull \hbox (badness 1688) in paragraph at lines 229--234
 \OT1/cmr/m/n/10 ing corals to mi-croplas-tic ex-po-sure.  En-vi-ron-men-tal Pol
 -lu-tion, \OT1/cmr/bx/n/10 237\OT1/cmr/m/n/10 :955 -- 960.  URL
@@ -2622,7 +2628,7 @@ org / login . aspx ? direct = true&AuthType =
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
+ [124]
 Underfull \hbox (badness 1721) in paragraph at lines 302--305
 []\OT1/cmr/m/n/10 US EPA, O. 2017.  Threats to coral reefs.  URL [][]$\OT1/cmtt
 /m/n/10 https : / / www . epa . gov / coral-[]reefs /
@@ -2635,12 +2641,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 315--320
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1976.
- [123]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1976.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1981.
+ [125]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1981.
  (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1976.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1976.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1981.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1981.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
@@ -2655,13 +2661,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 981 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 30377 strings out of 494820
- 571886 string characters out of 3178050
+ 30380 strings out of 494820
+ 571917 string characters out of 3178050
  646165 words of memory out of 3000000
- 32467 multiletter control sequences out of 15000+200000
+ 32468 multiletter control sequences out of 15000+200000
  33187 words of font info for 125 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 56i,11n,73p,3632b,1013s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,73p,3632b,1023s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
 r-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
@@ -2691,11 +2697,11 @@ re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (147 pages, 13681843 b
+Output written on Environmental_Science_in_East_Asia.pdf (149 pages, 13685673 b
 ytes).
 PDF statistics:
- 2394 PDF objects out of 2487 (max. 8388607)
- 2109 compressed objects within 22 object streams
- 479 named destinations out of 1000 (max. 500000)
+ 2403 PDF objects out of 2487 (max. 8388607)
+ 2116 compressed objects within 22 object streams
+ 481 named destinations out of 1000 (max. 500000)
  1654 words of extra memory for PDF output out of 10000 (max. 10000000)
 
