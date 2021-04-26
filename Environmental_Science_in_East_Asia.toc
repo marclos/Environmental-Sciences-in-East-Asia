@@ -83,20 +83,20 @@
 \contentsline {subsection}{\numberline {10.1.4}Philippine Disaster Mitigation}{27}{subsection.10.1.4}
 \contentsline {subsection}{\numberline {10.1.5}A Changing Game}{31}{subsection.10.1.5}
 \contentsline {subsection}{\numberline {10.1.6}Tropical Cyclones and Climate Change}{31}{subsection.10.1.6}
-\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{37}{chapter.11}
-\contentsline {section}{\numberline {11.1}Introductory}{37}{section.11.1}
-\contentsline {section}{\numberline {11.2}Conclusion}{37}{section.11.2}
-\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{39}{chapter.12}
-\contentsline {section}{\numberline {12.1}Life-Cycle}{39}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Collection}{39}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Transport}{39}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Biomimicry}{39}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Circularity}{39}{subsection.12.2.1}
-\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{41}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{41}{section.13.1}
-\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{41}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{41}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{41}{subsection.13.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{41}{section*.46}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{41}{section*.47}
-\contentsline {part}{I\hspace {1em}Backmatter}{43}{part.1}
+\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{35}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introductory}{35}{section.11.1}
+\contentsline {section}{\numberline {11.2}Conclusion}{35}{section.11.2}
+\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{37}{chapter.12}
+\contentsline {section}{\numberline {12.1}Life-Cycle}{37}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Collection}{37}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Transport}{37}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Biomimicry}{37}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Circularity}{37}{subsection.12.2.1}
+\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{39}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{39}{section.13.1}
+\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{39}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{39}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{39}{subsection.13.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{39}{section*.46}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{39}{section*.47}
+\contentsline {part}{I\hspace {1em}Backmatter}{41}{part.1}

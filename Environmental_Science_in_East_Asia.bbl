@@ -1,9 +1,51 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bowen(2015)]{bowen2015social}
+Thomas Bowen.
+\newblock \emph{Social protection and disaster risk management in the
+  Philippines: the case of typhoon Yolanda (Haiyan)}.
+\newblock The World Bank, 2015.
+
+\bibitem[Chen et~al.(2021)Chen, Duan, Yang, Deng, Wu, and Ou]{chen2021typhoons}
+Yu~Chen, Zhongdong Duan, Jian Yang, Yi~Deng, Tiantian Wu, and Jinping Ou.
+\newblock Typhoons of western north pacific basin under warming climate and
+  implications for future wind hazard of east asia.
+\newblock \emph{Journal of Wind Engineering and Industrial Aerodynamics},
+  208:\penalty0 104415, 2021.
+
+\bibitem[Davis(2002)]{davis2002late}
+Mike Davis.
+\newblock \emph{Late Victorian holocausts: El Nino famines and the making of
+  the third world}.
+\newblock Verso Books, 2002.
+
+\bibitem[Emanuel(2005)]{emanuel2005increasing}
+Kerry Emanuel.
+\newblock Increasing destructiveness of tropical cyclones over the past 30
+  years.
+\newblock \emph{Nature}, 436\penalty0 (7051):\penalty0 686--688, 2005.
+
+\bibitem[Emanuel(2006)]{emanuel2006hurricanes}
+Kerry Emanuel.
+\newblock Hurricanes: Tempests in a greenhouse.
+\newblock \emph{Physics Today}, 59\penalty0 (8):\penalty0 74--75, 2006.
+
+\bibitem[Emanuel(1987)]{emanuel1987dependence}
+Kerry~A Emanuel.
+\newblock The dependence of hurricane intensity on climate.
+\newblock \emph{Nature}, 326\penalty0 (6112):\penalty0 483--485, 1987.
+
+\bibitem[Emanuel(2013)]{emanuel2013downscaling}
+Kerry~A Emanuel.
+\newblock Downscaling cmip5 climate models shows increased tropical cyclone
+  activity over the 21st century.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 110\penalty0
+  (30):\penalty0 12219--12224, 2013.
 
 \bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
 Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
@@ -18,6 +60,19 @@ Chinese Academy of~Sciences Institute~of Botany.
 \newblock URL
   \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
+\bibitem[King et~al.(2010)King, Davidson, and Anderson-Berry]{king2010disaster}
+David King, Jim Davidson, and Linda Anderson-Berry.
+\newblock Disaster mitigation and societal impacts.
+\newblock In \emph{Global perspectives on tropical cyclones: From science to
+  mitigation}, pages 409--436. World Scientific, 2010.
+
+\bibitem[Klock(1995)]{klock1995agricultural}
+John~S Klock.
+\newblock Agricultural and forest policies of the american colonial regime in
+  ifugao territory, luzon, philippines, 1901-1945.
+\newblock \emph{Philippine quarterly of culture and society}, 23\penalty0
+  (1):\penalty0 3--19, 1995.
+
 \bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
 Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
 \newblock Fifty years of groundwater science in korea: a review and
@@ -29,6 +84,9 @@ Marc Los~Huertos.
 \newblock \emph{Overview of R}.
 \newblock Pomona College, 2018.
 
+\bibitem[NOAA()]{noaaclimate.gov}
+NOAA.
+
 \bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
   Yang]{Qineaau1218}
 Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
@@ -39,11 +97,41 @@ Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
 \newblock \doi{10.1126/sciadv.aau1218}.
 \newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
+\bibitem[Ventura(2016)]{ventura2016small}
+Theresa Ventura.
+\newblock From small farms to progressive plantations: the trajectory of land
+  reform in the american colonial philippines, 1900--1916.
+\newblock \emph{Agricultural History}, 90\penalty0 (4):\penalty0 459--483,
+  2016.
+
+\bibitem[Warren(2018)]{warren2018typhoons}
+James~F Warren.
+\newblock Typhoons and droughts: Food shortages and famine in the philippines
+  since the seventeenth century.
+\newblock \emph{International Review of Environmental History}, 4\penalty0
+  (2):\penalty0 27--44, 2018.
+
+\bibitem[Williams et~al.(2007)Williams, Coles, and
+  Primavera]{williams2007lesson}
+Meryl~J Williams, Robert Coles, and Jurgenne~H Primavera.
+\newblock A lesson from cyclone larry: An untold story of the success of good
+  coastal planning.
+\newblock \emph{Estuarine, Coastal and Shelf Science}, 71\penalty0
+  (3-4):\penalty0 364--367, 2007.
+
 \bibitem[Xie(2021)]{knitr}
 Yihui Xie.
 \newblock \emph{knitr: A General-Purpose Package for Dynamic Report Generation
   in R}, 2021.
 \newblock URL \url{https://yihui.org/knitr/}.
 \newblock R package version 1.31.
+
+\bibitem[Zhang et~al.(2017)Zhang, Karnauskas, Donnelly, and
+  Emanuel]{zhang2017response}
+Lei Zhang, Kristopher~B Karnauskas, Jeffrey~P Donnelly, and Kerry Emanuel.
+\newblock Response of the north pacific tropical cyclone climatology to global
+  warming: Application of dynamical downscaling to cmip5 models.
+\newblock \emph{Journal of Climate}, 30\penalty0 (4):\penalty0 1233--1243,
+  2017.
 
 \end{thebibliography}
