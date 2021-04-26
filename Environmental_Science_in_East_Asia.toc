@@ -18,8 +18,8 @@
 \contentsline {subsubsection}{Using Rnw Files}{xi}{section*.15}
 \contentsline {subsubsection}{Creating a floating figure}{xi}{section*.16}
 \contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.18}
-\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xii}{subsection.0.4.5}
-\contentsline {subsection}{\numberline {0.4.6}minibox X}{xii}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xi}{subsection.0.4.5}
+\contentsline {subsection}{\numberline {0.4.6}minibox X}{xi}{subsection.0.4.6}
 \contentsline {subsection}{\numberline {0.4.7} Cross-References, Citations, and Glossaries}{xii}{subsection.0.4.7}
 \contentsline {subsubsection}{Cross-References}{xii}{section*.20}
 \contentsline {subsubsection}{Bibliography generation}{xii}{section*.21}
@@ -75,22 +75,28 @@
 \contentsline {chapter}{\numberline {9}Climate Change and Food Security in Myanmar}{23}{chapter.9}
 \contentsline {section}{\numberline {9.1}Climate Change, Climate Change Response in Myanmar}{23}{section.9.1}
 \contentsline {section}{\numberline {9.2}Conclusion}{23}{section.9.2}
-\contentsline {chapter}{\numberline {10}Disasters, Typhoons and Phillipines}{25}{chapter.10}
-\contentsline {section}{\numberline {10.1}What are Typhoons?}{25}{section.10.1}
-\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{27}{chapter.11}
-\contentsline {section}{\numberline {11.1}Introductory}{27}{section.11.1}
-\contentsline {section}{\numberline {11.2}Conclusion}{27}{section.11.2}
-\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{29}{chapter.12}
-\contentsline {section}{\numberline {12.1}Life-Cycle}{29}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Collection}{29}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Transport}{29}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Biomimicry}{29}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Circularity}{29}{subsection.12.2.1}
-\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{31}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{31}{section.13.1}
-\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{31}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{31}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{31}{subsection.13.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{31}{section*.39}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{31}{section*.40}
-\contentsline {part}{I\hspace {1em}Backmatter}{33}{part.1}
+\contentsline {chapter}{\numberline {10}Tropical Cyclones in the Philippines}{25}{chapter.10}
+\contentsline {section}{\numberline {10.1}Tropical Cyclones in the Philippines}{25}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}A Storm is Coming}{25}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Agriculture and Cyclone Vulnerability?}{25}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.3}Ready or Not}{27}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {10.1.4}Philippine Disaster Mitigation}{27}{subsection.10.1.4}
+\contentsline {subsection}{\numberline {10.1.5}A Changing Game}{31}{subsection.10.1.5}
+\contentsline {subsection}{\numberline {10.1.6}Tropical Cyclones and Climate Change}{31}{subsection.10.1.6}
+\contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{37}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introductory}{37}{section.11.1}
+\contentsline {section}{\numberline {11.2}Conclusion}{37}{section.11.2}
+\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{39}{chapter.12}
+\contentsline {section}{\numberline {12.1}Life-Cycle}{39}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Collection}{39}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Transport}{39}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Biomimicry}{39}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Circularity}{39}{subsection.12.2.1}
+\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{41}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{41}{section.13.1}
+\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{41}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{41}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{41}{subsection.13.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{41}{section*.46}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{41}{section*.47}
+\contentsline {part}{I\hspace {1em}Backmatter}{43}{part.1}

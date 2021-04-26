@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  1 APR 2021 13:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  23 APR 2021 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -100,7 +100,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.7 c
-     hekcing on this today, 4/1/2021
+     hekcing on this today, 4-020-2021
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -125,9 +125,11 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 4 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no / in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 2 in font nullfont!
