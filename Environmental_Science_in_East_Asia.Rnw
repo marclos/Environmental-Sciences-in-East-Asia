@@ -20,10 +20,13 @@
 \usepackage{textcomp}
 \usepackage{gensymb}
 \usepackage{natbib}
+%\usepackage{wasysym} %\smiley{}
+% \usepackage{siunitx}
 \usepackage{glossaries}
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
+\usepackage{soul}
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -41,8 +44,12 @@
     urlcolor=blue
 }
 
+% Editorial Environments
 
-%----------------------------------------------------------
+\newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
+
+
+%-----------------------------------------------------
 \newtheorem{theorem}{Theorem}
 \newtheorem{acknowledgement}[theorem]{Acknowledgement}
 \newtheorem{definition}[theorem]{Definition}
@@ -76,6 +83,8 @@
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\carbondioxide}{CO$_2$~}
+
+\newcommand{\Mypm}{\mathbin{\tikz [x=1.4ex,y=1.4ex,line width=.1ex] \draw (0.0,0) -- (1.0,0) (0.5,0.08) -- (0.5,0.92) (0.0,0.5) -- (1.0,0.5);}}%
 
 <<setup, echo=FALSE>>=
 opts_knit$set(self.contained=FALSE)
@@ -119,6 +128,15 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/Deforestation.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/invasive-species.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/coral-reefs.Rnw'>>=
+@
+
 <<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
 @
 
@@ -146,7 +164,6 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
 @
 
-
 \backmatter
 
 \part{Backmatter}
@@ -158,7 +175,8 @@ The back matter often includes one or more of an index, an afterword, acknowledg
 \renewcommand\bibname{References}
 \setlength{\bibsep}{2\baselineskip}
 \setlength\bibindent{.5in}
-\bibliographystyle{plainnat}
+%\bibliographystyle{plainnat}
+\bibliographystyle{ecology}
 \bibliography{References}
 
 \end{document}

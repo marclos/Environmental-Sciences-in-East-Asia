@@ -1,10 +1,31 @@
-\chapter{Title...}
+\chapter{Nora's Practice Sessions}
 
 \chapterauthor{Nora}
 
 $\rightarrow$
 
-\section{What the Polar Vortex and why do we care?}
+4/23
+1. made new project titled ERTA2020-NewEA30e21-Project
+2. did the single branch clone for EA30e21
+3. switched the Git brach pull down to EA30e21 in remote: ORIGIN
+4. testing if I can push to my branch only 
+5. save changes
+6. commit - TEST NEW PROJECT PUSH TO BRANCH at 2:04
+      did it work? 2:03 est
+      YES 2:16 est
+
+
+1. added Marc's repo as the "upstream" to be able to pull from his branch when things are changed there
+2. tried to fetch from marc's EA30e21 branch. - SUCCESSFUL
+3. no need to use the "git merge origin EA30e21 "code
+4. going to test making a pull request to Marc after saving, committing and pushing to my repo. 
+    did it work? 7:45 est
+    YES 7:51 est
+
+\section{Testing Various Push and Pull Options}
+
+test commit and pull request 
+
 
 \subsection{What Factors Drive Land Use Change?}
 

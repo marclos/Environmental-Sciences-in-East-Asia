@@ -3,3 +3,8 @@
 .Rproj.user
 *.Rproj
 /feedback/*.*
+Environmental_Science_in_East_Asia.synctex.gz
+Environmental_Science_in_East_Asia.toc
+figure/fig:pressure-1.pdf
+*.log
+*.tex

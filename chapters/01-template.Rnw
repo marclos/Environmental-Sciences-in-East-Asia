@@ -1,6 +1,6 @@
-\chapter{Chapter Title}
+\chapter{Template Chapter Title}\label{ch:template}
 
-\chapterauthor{Chapter Author Name}
+\chapterauthor{Chapter Author}
 
 \footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
@@ -8,15 +8,18 @@
 
 \subsection{Subsection Headings} % Avoid putting text between subsection and subsubsection headings. Not applicable if you don't have subsections!
 
-Some text here... if you cut and paste, be sure to make sure you don't include formatted characters outside the ASCII values. See Author Guide\ref{ch:guide}.
+Some text here...The hierarchy structure is described in the Author Guide, Section~\ref{sec:settingup} -- NOTE: This is a section cross reference.
 
-\subsubsection{Optional Subsubsection Headings} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
+if you cut and paste, be sure to make sure you don't include formatted characters outside the ASCII values. See Author Guide, Section~\ref{sub:mathchar}. NOTE: This is a subsection cross reference.
 
-some text here....
+
+\subsubsection{Optional Subsubsection Headings}\label{subsub:optionalsubsub} % Again try to avoid putting text between the subheadig and the subsubheading to main a structural consistency.
+
+some text here.... and a subsubsection cross reference (See Section \ref{subsub:optionalsubsub}).
 
 \section{Goals of this template}
 
-This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter \ref{ch:guide}. 
+This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter~\ref{ch:guide}. 
 
 Instead this section of the document is designed to demonstrate how our textbook will look, feel, and ultimately how we contribute to the project.
 
@@ -39,7 +42,7 @@ plot(pressure)
 
 \subsection{Floating Figures from External Sources}
 
-All figures and images that are imported should be put into the "images" sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
+All figures and images that are imported should be put into the ``images'' sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
 Figure \ref{fig:vadose} is a good example of inserting an image from an external source.
 

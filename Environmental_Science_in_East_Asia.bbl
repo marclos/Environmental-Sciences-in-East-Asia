@@ -1,49 +1,327 @@
-\begin{thebibliography}{6}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{44}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
-Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
+\bibitem[{Almond and Petersen(2020)}]{wwfindex}
+Almond, G.~M., R.E.A. and T.~Petersen. 2020.
+\newblock Living planet report 2020 bending the curve of biodiversity loss.
+\newblock World Wildlife Foundation, pages 453--460.
+\newblock
+  \urlprefix\url{https://f.hubspotusercontent20.net/hubfs/4783129/LPR/PDFs/ENGLISH-FULL.pdf}.
+
+\bibitem[{Aquino and Kaczan(2019)}]{Marinescienceresilientcommunities}
+Aquino, A. and D.~Kaczan. 2019.
+\newblock Marine science for healthy reefs and resilient communities 21 years
+  of coremap in indonesia.
+\newblock World Bank.
+\newblock
+  \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
+
+\bibitem[{Ayala(2009)}]{Ayala_2009}
+Ayala, C. 2009.
+\newblock Effects of ocean acidification on corals.
+\newblock Oceana USA.
+\newblock
+  \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Beck(2019)}]{Beck}
+Beck, M. 2019.
+\newblock Coral reefs provide flood protection worth \$1.8 billion every
+  year-it’s time to protect them.
+\newblock The Conversation.
+\newblock
+  \urlprefix\url{http://theconversation.com/coral-reefs-provide-flood-protection-worth-1-8-billion-every-year-its-time-to-protect-them-116636}.
+
+\bibitem[{Brandl et~al.(2019)Brandl, Rasher, Côté, Casey, Darling, Lefcheck,
+  and Duffy}]{https://doi.org/10.1002/fee.2088}
+Brandl, S.~J., D.~B. Rasher, I.~M. Côté, J.~M. Casey, E.~S. Darling, J.~S.
+  Lefcheck, and J.~E. Duffy. 2019.
+\newblock Coral reef ecosystem functioning: eight core processes and the role
+  of biodiversity.
+\newblock Frontiers in Ecology and the Environment, {\bf 17}:445--454.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.2088}.
+
+\bibitem[{Bruckner(2002)}]{AndrewWBruckner_1970}
+Bruckner, A.~W. 2002.
+\newblock Life-saving products from coral reefs.
+\newblock Issues in Science and Technology.
+\newblock
+  \urlprefix\url{https://issues.org/p_bruckner-coral-reefs-importance/}.
+
+\bibitem[{Burke et~al.(2002)Burke, Selig, and Spanlding}]{RAR}
+Burke, L., E.~Selig, and M.~Spanlding. 2002.
+\newblock Reefs at Risk in Southeast Asia.
+
+\bibitem[{Campbell et~al.(2020)Campbell, Darling, Pardede, Ahmadia, Mangubhai,
+  Amkieltiela, Estradivari, and Maire}]{https://doi.org/10.1111/conl.12698}
+Campbell, S.~J., E.~S. Darling, S.~Pardede, G.~Ahmadia, S.~Mangubhai,
+  Amkieltiela, Estradivari, and E.~Maire. 2020.
+\newblock Fishing restrictions and remoteness deliver conservation outcomes for
+  indonesia's coral reef fisheries.
+\newblock Conservation Letters, {\bf 13}:e12698.
+\newblock
+  \urlprefix\url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/conl.12698}.
+
+\bibitem[{Capistrano(2010)}]{4826000120100501}
+Capistrano, R. C.~G. 2010.
+\newblock Reclaiming the ancestral waters of indigenous peoples in the
+  philippines the tagbanua experience with fishing rights and indigenous
+  rights.
+\newblock Marine Policy, {\bf 34}:453--460.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48260001&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and
+  Li}]{https://doi.org/10.1029/2018JC014534}
+Chen, T., G.~Roff, L.~McCook, J.~Zhao, and S.~Li. 2018.
+\newblock Recolonization of marginal coral reef flats in response to recent
+  sea-level rise.
+\newblock Journal of Geophysical Research: Oceans, {\bf 123}:7618--7628.
+\newblock
+  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014534}.
+
+\bibitem[{CORAL(2021)}]{coralreefalliance_2021}
+CORAL. 2021.
+\newblock Coral reef ecology.
+\newblock
+  \urlprefix\url{https://coral.org/coral-reefs-101/coral-reef-ecology/}.
+
+\bibitem[{Fabinyi(2010)}]{10.2307/40603032}
+Fabinyi, M. 2010.
+\newblock The intensification of fishing and the rise of tourism: Competing
+  coastal livelihoods in the calamianes islands, philippines.
+\newblock Human Ecology, {\bf 38}:415--427.
+\newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
+
+\bibitem[{Fox and
+  Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
+Fox, H.~E. and R.~L. Caldwell. 2006.
+\newblock Recovery from blast fishing on coral reefs : a tale of two scales.
+\newblock Ecological Applications, {\bf 16}:1631--1635.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
+
+\bibitem[{Hoogervorst(2012)}]{boatpeople}
+Hoogervorst, T.~G. 2012.
+\newblock Ethnicity and aquatic lifestyles: exploring southeast asia’s past
+  and present seascapes.
+\newblock Water History, {\bf 4}:245--265.
+\newblock
+  \urlprefix\url{https://link.springer.com/article/10.1007%2Fs12685-012-0060-0}.
+
+\bibitem[{Imura et~al.(2005)Imura, Yedla, Shirakawa, and
+  Memon}]{imura2005urban}
+Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. 2005.
 \newblock Urban environmental issues and trends in asia-an overview.
-\newblock \emph{International review for environmental strategies}, 5\penalty0
-  (2):\penalty0 357, 2005.
+\newblock International review for environmental strategies, {\bf 5}:357.
 
-\bibitem[Institute~of Botany(2021)]{CAS2021researchers}
-Chinese Academy of~Sciences Institute~of Botany.
+\bibitem[{Institute~of Botany(2021)}]{CAS2021researchers}
+Institute~of Botany, C. A. o.~S. 2021.
 \newblock Researchers reveal regulatory mechanisms of the temperature
-  sensitivity of soil organic matter decomposition in alpine grasslands, 2021.
-\newblock URL
-  \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
+  sensitivity of soil organic matter decomposition in alpine grasslands.
+\newblock
+  \urlprefix\url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
-\bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
-Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
+\bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
+  Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
+  Steneck}]{Keller2009ClimateCC}
+Keller, B., D.~Gleason, E.~Mcleod, C.~Woodley, S.~Airam{\'e}, B.~Causey,
+  A.~Friedlander, R.~Grober-Dunsmore, J.~Johnson, S.~L. Miller, and R.~Steneck.
+  2009.
+\newblock Climate change, coral reef ecosystems, and management options for
+  marine protected areas.
+\newblock Environmental Management, {\bf 44}:1069 -- 1088.
+
+\bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
+Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
 \newblock Fifty years of groundwater science in korea: a review and
   perspective.
-\newblock \emph{Geosciences Journal}, 21\penalty0 (6):\penalty0 951--969, 2017.
+\newblock Geosciences Journal, {\bf 21}:951--969.
 
-\bibitem[Los~Huertos(2018)]{LosHuertos2017OverviewR}
-Marc Los~Huertos.
-\newblock \emph{Overview of R}.
-\newblock Pomona College, 2018.
+\bibitem[{Lirman and Schopmeyer(2021)}]{cgarden}
+Lirman and Schopmeyer. 2021.
+\newblock Coral gardening.
+\newblock The Nature Conservancy.
+\newblock
+  \urlprefix\url{https://reefresilience.org/restoration/coral-populations/coral-gardening/}.
 
-\bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
-  Yang]{Qineaau1218}
-Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
-  Yu, and Yuanhe Yang.
+\bibitem[{Los~Huertos(2018)}]{LosHuertos2017OverviewR}
+Los~Huertos, M. 2018.
+\newblock Overview of R.
+\newblock Pomona College.
+
+\bibitem[{Lyons et~al.(2019)Lyons, Hill, Deshong, Mooney, and
+  Turpin}]{13772149520190801}
+Lyons, I., R.~Hill, S.~Deshong, G.~Mooney, and G.~Turpin. 2019.
+\newblock Putting uncertainty under the cultural lens of traditional owners
+  from the great barrier reef catchments.
+\newblock Regional Environmental Change, {\bf 19}:1597 -- 1610.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=137721495&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{McClanahan and Muthiga(2016)}]{https://doi.org/10.1890/15-1492.1}
+McClanahan, T.~R. and N.~A. Muthiga. 2016.
+\newblock Geographic extent and variation of a coral reef trophic cascade.
+\newblock Ecology, {\bf 97}:1862--1872.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/15-1492.1}.
+
+\bibitem[{Morin(2014)}]{Morin_2014}
+Morin, R. 2014.
+\newblock A lifesaving transplant for coral reefs.
+\newblock The New York Times.
+\newblock
+  \urlprefix\url{https://www.nytimes.com/2014/11/25/science/a-lifesaving-transplant-for-coral-reefs.html}.
+
+\bibitem[{NOAA(2019{\natexlab{{\em a\/}}})}]{coraldiseasenoaa}
+NOAA. 2019{\natexlab{{\em a\/}}}.
+\newblock Coral diseases: Corals tutorial.
+\newblock
+  \urlprefix\url{https://oceanservice.noaa.gov/education/tutorial_corals/coral10_disease.html}.
+
+\bibitem[{NOAA(2019{\natexlab{{\em b\/}}})}]{noaa}
+NOAA. 2019{\natexlab{{\em b\/}}}.
+\newblock Marine life: Coral reef ecosystems.
+\newblock US Department of Commerce, National Oceanic and Atmospheric
+  Administration.
+\newblock
+  \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
+
+\bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
+  Matillano}]{coraltriangle}
+Palma, J., J.~Manula, J.~P. Gaudiano, and M.~Matillano. 2014.
+\newblock Economies of Fisherues and Aquaculture in the Coral Triangle.
+
+\bibitem[{Pearce(2003)}]{wwfcyanide}
+Pearce, F. 2003.
+\newblock Cyanide: an easy but deadly way to catch fish.
+\newblock World Wildlife Foundation.
+\newblock
+  \urlprefix\url{https://wwf.panda.org/wwf_news/?5563/Cyanide-an-easy-but-deadly-way-to-catch-fish}.
+
+\bibitem[{Pelton(2017)}]{Pelton_2017}
+Pelton, B. 2017.
+\newblock Why reefs matter.
+\newblock \urlprefix\url{https://marine.unc.edu/reefs-matter/}.
+
+\bibitem[{Persoon and
+  Minter(2020)}]{RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:420111}
+Persoon, G.~A. and T.~Minter. 2020.
+\newblock Knowledge and practices of indigenous peoples in the context of
+  resource management in relation to climate change in southeast asia.
+\newblock Sustainability, {\bf 12}:1--23.
+\newblock
+  \urlprefix\url{https://ideas.repec.org/a/gam/jsusta/v12y2020i19p7983-d420111.html}.
+
+\bibitem[{Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
+  Yang}]{Qineaau1218}
+Qin, S., L.~Chen, K.~Fang, Q.~Zhang, J.~Wang, F.~Liu, J.~Yu, and Y.~Yang. 2019.
 \newblock Temperature sensitivity of som decomposition governed by aggregate
   protection and microbial communities.
-\newblock \emph{Science Advances}, 5\penalty0 (7), 2019.
-\newblock \doi{10.1126/sciadv.aau1218}.
-\newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
+\newblock Science Advances, {\bf 5}.
+\newblock \urlprefix\url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
-\bibitem[Xie(2021)]{knitr}
-Yihui Xie.
-\newblock \emph{knitr: A General-Purpose Package for Dynamic Report Generation
-  in R}, 2021.
-\newblock URL \url{https://yihui.org/knitr/}.
+\bibitem[{Reichert et~al.(2018)Reichert, Schellenberg, Schubert, and
+  Wilke}]{12907334620180601}
+Reichert, J., J.~Schellenberg, P.~Schubert, and T.~Wilke. 2018.
+\newblock Responses of reef building corals to microplastic exposure.
+\newblock Environmental Pollution, {\bf 237}:955 -- 960.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=129073346&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Renaud(1997)}]{970313024119970301}
+Renaud, C. 1997.
+\newblock Coral calamity.
+\newblock Environment, {\bf 39}:23.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Scott(2018)}]{areef}
+Scott, C. 2018.
+\newblock Artificial reefs: What works and what doesn’t.
+\newblock New Heaven Reef Conservation Program.
+\newblock
+  \urlprefix\url{https://newheavenreefconservation.org/marine-blog/147-artificial-reefs-what-works-and-what-doesn-t}.
+
+\bibitem[{Shafir et~al.(2007)Shafir, Van~Rijn, and
+  Rinkevich}]{2615280620070801}
+Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
+\newblock Short and long term toxicity of crude oil and oil dispersants to two
+  representative coral species.
+\newblock Environmental Science \& Technology, {\bf 41}:5571 -- 5574.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=26152806&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Smith(2018)}]{Smith}
+Smith, K.~N. 2018.
+\newblock Everything we know about the isolated sentinelese people of north
+  sentinel island.
+\newblock Forbes.
+\newblock
+  \urlprefix\url{https://www.forbes.com/sites/kionasmith/2018/11/30/everything-we-know-about-the-isolated-sentinelese-people-of-north-sentinel-island/}.
+
+\bibitem[{Spaldin et~al.(2001)Spaldin, Ravilious, and Green}]{Watlas}
+Spaldin, M., C.~Ravilious, and E.~Green. 2001.
+\newblock World Atlas of Coral Reefs, volume~3.
+\newblock
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Spalding et~al.(2017)Spalding, Burke, A.Wood, Ashpole, Hutchisone,
+  and Ermgassen}]{reeftourism}
+Spalding, M., L.~Burke, S.~A.Wood, J.~Ashpole, J.~Hutchisone, and P.~Ermgassen.
+  2017.
+\newblock Mapping the global value and distribution of coral reef tourism.
+\newblock Marine Policy, {\bf 82}:104--113.
+
+\bibitem[{Suggett and Smith(2020)}]{https://doi.org/10.1111/gcb.14871}
+Suggett, D.~J. and D.~J. Smith. 2020.
+\newblock Coral bleaching patterns are the outcome of complex biological and
+  environmental networking.
+\newblock Global Change Biology, {\bf 26}:68--79.
+\newblock
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Thompson(2018)}]{Thompson}
+Thompson, A. 2018.
+\newblock Where plastic goes, coral disease follows.
+\newblock Scientific American.
+\newblock
+  \urlprefix\url{https://www.scientificamerican.com/article/where-plastic-goes-coral-disease-follows/}.
+
+\bibitem[{Todd et~al.(2010)Todd, Xueyuan, and Loke~Ming}]{4884777420100401}
+Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
+\newblock Impacts of pollution on marine life in southeast asia.
+\newblock Biodiversity \& Conservation, {\bf 19}:1063 -- 1082.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48847774&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{US~EPA(2017)}]{USEPA_2017}
+US~EPA, O. 2017.
+\newblock Threats to coral reefs.
+\newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
+
+\bibitem[{Weeks et~al.(2010)Weeks, Russ, Alcala, and White}]{10.2307/40603378}
+Weeks, R., G.~R. Russ, A.~C. Alcala, and A.~T. White. 2010.
+\newblock Effectiveness of marine protected areas in the philippines for
+  biodiversity conservation.
+\newblock Conservation Biology, {\bf 24}:531--540.
+\newblock \urlprefix\url{http://www.jstor.org/stable/40603378}.
+
+\bibitem[{Westoby et~al.(2020)Westoby, Becken, Laria, and
+  Prieto}]{14551496520201201}
+Westoby, R., S.~Becken, A.~Laria, and Prieto. 2020.
+\newblock Perspectives on the human dimensions of coral restoration.
+\newblock Regional Environmental Change, {\bf 20}.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Xie(2021)}]{knitr}
+Xie, Y. 2021.
+\newblock knitr: A General-Purpose Package for Dynamic Report Generation in R.
+\newblock \urlprefix\url{https://yihui.org/knitr/}.
 \newblock R package version 1.31.
 
 \end{thebibliography}

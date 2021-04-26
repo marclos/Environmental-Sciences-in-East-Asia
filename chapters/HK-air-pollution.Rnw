@@ -1,6 +1,6 @@
 \chapter{Air Pollution \& Social Justice in Hong Kong}
-
 \chapterauthor{Neenah Vittum}
+<<<<<<< HEAD
 
 \section{Science of Air Pollution}
 
@@ -77,3 +77,29 @@ Draw people into the empathy
 Use stories and descriptions to describe places
 
 What is the best way to section the chapter?
+=======
+\section{Opening}
+\section{A Brief Overview of Hong Kong}
+\section{Hong Kong's History}
+\section{Air Pollution in Hong Kong}
+\section{Air Pollution and Human Health}
+\section{Population Density, Income Inequality, and Housing}
+\subsection{Income Inequality and Zoning Laws}
+\subsection{Public Housing}
+\subsection{Economic Mobility}
+\section{Indoor Air Pollution}
+\section{Open Spaces and Other Patterns of Environmental Inequity}
+\section{Environmental Activism in Hong Kong}
+
+\section{Beyond Hong Kong}
+
+\begin{figure}
+%\includegraphics[width=\linewidth]{graphics/title}
+\caption{caption}
+\label{title}
+\end{figure}
+
+\section{Beyond Hong Kong}
+
+practicing with Nora
+>>>>>>> be41c24e80529faa7fe0ca3e8da8522beb539373
