@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  26 APR 2021 13:57
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  26 APR 2021 16:35
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1490,8 +1494,58 @@ Missing character: There is no … in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no õ in font cmr10!
+<<<<<<< HEAD
 [10]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 250.
+=======
+[8] [9] [10]
+
+Package xcolor Warning: Incompatible color definition on input line 418.
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 421.
+
+Package xcolor Warning: Incompatible color definition on input line 421.
+
+
+Package xcolor Warning: Incompatible color definition on input line 423.
+
+
+Overfull \hbox (17.87607pt too wide) in paragraph at lines 423--424
+[]\OT1/cmtt/m/n/10 ## Error in createDataPartition(., p = 0.8, list = FALSE): o
+bject 'maunaloa' not found[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 425.
+
+
+Package xcolor Warning: Incompatible color definition on input line 427.
+
+
+Package xcolor Warning: Incompatible color definition on input line 429.
+
+
+Package xcolor Warning: Incompatible color definition on input line 431.
+
+
+Package xcolor Warning: Incompatible color definition on input line 433.
+
+
+Package xcolor Warning: Incompatible color definition on input line 435.
+
+
+Package xcolor Warning: Incompatible color definition on input line 437.
+
+
+LaTeX Warning: Reference `(' on page xi undefined on input line 440.
+
+
+Package xcolor Warning: Incompatible color definition on input line 444.
+
+
+Package xcolor Warning: Incompatible color definition on input line 447.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1500,6 +1554,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 250.
  [11] [12]
 
+<<<<<<< HEAD
 Package xcolor Warning: Incompatible color definition on input line 449.
 
 <figure/maunaloa-1.pdf, id=1042, 505.89pt x 505.89pt>
@@ -1533,6 +1588,35 @@ File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
 Package pdftex.def Info: images/Lee-Vadose.png used on input line 554.
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
+[]\OT1/cmtt/m/n/10 ## Error in ggplot(train.data, aes(decimal.date, average)): 
+object 'train.data'
+ []
+
+
+LaTeX Warning: Reference `fig:maunaloa' on page xi undefined on input line 467.
+
+
+[11] [12]
+
+Package xcolor Warning: Incompatible color definition on input line 527.
+
+<figure/fig:pressure-1.pdf, id=586, 505.89pt x 505.89pt>
+File: figure/fig:pressure-1.pdf Graphic file (type pdf)
+
+<use figure/fig:pressure-1.pdf>
+Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 532.
+(pdftex.def)             Requested size: 433.62pt x 433.62885pt.
+ [13
+
+] [14 <./figure/fig:pressure-1.pdf>]
+<images/Lee-Vadose.png, id=605, 949.5475pt x 411.5375pt>
+File: images/Lee-Vadose.png Graphic file (type png)
+
+<use images/Lee-Vadose.png>
+Package pdftex.def Info: images/Lee-Vadose.png used on input line 547.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [19 <./images/Lee-Vadose.png>] [20
 
@@ -1541,56 +1625,96 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 554.
 ]
 Chapter 1.
 
+<<<<<<< HEAD
 <images/earth-system/earth-rad-budget-nasa-erbe.png, id=1146, 746.79pt x 558.08
 5pt>
+=======
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=637, 746.79pt x 558.085
+pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
  <use images/earth-system/earth-rad-budget-nasa-erbe.png>
 Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
+<<<<<<< HEAD
 d on input line 618.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
 <images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=1149, 476.78125pt
  x 421.575pt>
+=======
+d on input line 595.
+(pdftex.def)             Requested size: 433.62pt x 324.0472pt.
+
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=640, 476.78125pt 
+x 421.575pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
  <use images/earth-system/em-radiation-atmosph-depth-stsci.jpg>
 Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
+<<<<<<< HEAD
 pg used on input line 630.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
 <images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=1151, 21
 5.1293pt x 140.50633pt>
+=======
+pg used on input line 607.
+(pdftex.def)             Requested size: 433.62pt x 383.43442pt.
+
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=642, 215
+.1293pt x 140.50633pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
 
 <use images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>
 Package pdftex.def Info: images/earth-system/Carbon-reservoirs-and-cycles-in-th
+<<<<<<< HEAD
 e-Earth.jpg used on input line 654.
+=======
+e-Earth.jpg used on input line 631.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 (pdftex.def)             Requested size: 433.62pt x 283.21162pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.657 \end{figure}
+=======
+l.634 \end{figure}
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
                    [1
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.657 \end{figure}
+=======
+l.634 \end{figure}
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
                    [2 <./images/earth-system/earth-rad-budget-nasa-erbe.png>]
 [3 <./images/earth-system/em-radiation-atmosph-depth-stsci.jpg>]
 
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
+<<<<<<< HEAD
  661.
 
 <images/earth-system/long-term-carbon.png, id=1166, 436.63126pt x 252.945pt>
+=======
+ 638.
+
+<images/earth-system/long-term-carbon.png, id=656, 436.63126pt x 252.945pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
 Package pdftex.def Info: images/earth-system/long-term-carbon.png used on input
+<<<<<<< HEAD
  line 664.
 (pdftex.def)             Requested size: 433.62pt x 251.19983pt.
 
@@ -1600,9 +1724,21 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 675
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
 <images/earth-system/Q10-SOC-Regulation.jpg, id=1175, 367.3725pt x 243.15843pt>
+=======
+ line 641.
+(pdftex.def)             Requested size: 433.62pt x 251.19983pt.
+
+
+LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 652
+.
+
+[4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
+<images/earth-system/Q10-SOC-Regulation.jpg, id=665, 367.3725pt x 243.15843pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
 <use images/earth-system/Q10-SOC-Regulation.jpg>
 Package pdftex.def Info: images/earth-system/Q10-SOC-Regulation.jpg used on inp
+<<<<<<< HEAD
 ut line 680.
 (pdftex.def)             Requested size: 433.62pt x 287.02835pt.
 
@@ -1611,6 +1747,16 @@ Package xcolor Warning: Incompatible color definition on input line 698.
 
 <figure/maunaloa3-1.pdf, id=1185, 505.89pt x 505.89pt>
 File: figure/maunaloa3-1.pdf Graphic file (type pdf)
+=======
+ut line 657.
+(pdftex.def)             Requested size: 433.62pt x 287.02835pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 675.
+
+
+Package xcolor Warning: Incompatible color definition on input line 678.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
 <use figure/maunaloa3-1.pdf>
 Package pdftex.def Info: figure/maunaloa3-1.pdf used on input line 699.
@@ -1619,18 +1765,36 @@ Package pdftex.def Info: figure/maunaloa3-1.pdf used on input line 699.
 [6 <./images/earth-system/Q10-SOC-Regulation.jpg>] [7 <./figure/maunaloa3-1.pdf
 >] [8
 
+<<<<<<< HEAD
 ]
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 678--678
+[]\OT1/cmtt/m/n/10 ## Error in ggplot(train.data, aes(decimal.date, average)): 
+object 'train.data'
+ []
+
+[5 <./images/earth-system/long-term-carbon.png>] [6 <./images/earth-system/Q10-
+SOC-Regulation.jpg>]
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 Chapter 2.
 [9] [10
 
 ]
 Chapter 3.
+<<<<<<< HEAD
 <images/critical-zone/criticalzone.jpg, id=1226, 411.5375pt x 301.125pt>
+=======
+<images/critical-zone/criticalzone.jpg, id=699, 411.5375pt x 301.125pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
 Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
+<<<<<<< HEAD
 ne 742.
+=======
+ne 720.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
  [11] [12 <./images/critical-zone/criticalzone.jpg>]
 <images/critical-zone/groundwater.png, id=1239, 285.065pt x 183.68625pt>
@@ -1645,12 +1809,20 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
+<<<<<<< HEAD
 <images/critical-zone/Lee-Vadose.png, id=1252, 949.5475pt x 411.5375pt>
+=======
+<images/critical-zone/Lee-Vadose.png, id=702, 949.5475pt x 411.5375pt>
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
 Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
+<<<<<<< HEAD
  816.
+=======
+ 736.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
  [14] [15 <./images/critical-zone/Lee-Vadose.png>] [16
 
@@ -1780,6 +1952,7 @@ Missing character: There is no î in font cmr10!
 <images/land-use/Climate-Smart-Soils.png, id=1336, 1010.77625pt x 408.52625pt>
 File: images/land-use/Climate-Smart-Soils.png Graphic file (type png)
 
+<<<<<<< HEAD
 <use images/land-use/Climate-Smart-Soils.png>
 Package pdftex.def Info: images/land-use/Climate-Smart-Soils.png used on input 
 line 958.
@@ -1813,6 +1986,9 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
  [29 <./images/land-use/Loess-Comparison.png>]
 Overfull \hbox (3.89119pt too wide) in paragraph at lines 1005--1005
+=======
+Overfull \hbox (3.89119pt too wide) in paragraph at lines 783--783
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 []\OT1/cmr/bx/n/14.4 Conclusion & Prospect of Sus-tain-able Ur-ban-iza-tion/Lan
 d
  []
@@ -2044,10 +2220,165 @@ Overfull \vbox (50.54535pt too high) has occurred while \output is active []
 
 ]
 Chapter 10.
+<<<<<<< HEAD
 [77] [78
+=======
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
-]
+ [26]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<images/tropical-cyclones/boat.jpg, id=815, 938.00438pt x 301.8778pt>
+File: images/tropical-cyclones/boat.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/boat.jpg>
+Package pdftex.def Info: images/tropical-cyclones/boat.jpg used on input line 1
+028.
+(pdftex.def)             Requested size: 433.62pt x 139.5518pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [27 <./images/tropical-cyclones/boat.jpg>]
+<images/tropical-cyclones/reliefchart.jpg, id=823, 551.05875pt x 345.54094pt>
+File: images/tropical-cyclones/reliefchart.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/reliefchart.jpg>
+Package pdftex.def Info: images/tropical-cyclones/reliefchart.jpg used on input
+ line 1040.
+(pdftex.def)             Requested size: 433.62pt x 271.90929pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [28 <./images/tropical-cyclones/reliefchart.jpg>]
+<images/tropical-cyclones/povertystatus.jpg, id=849, 620.3175pt x 533.74406pt>
+File: images/tropical-cyclones/povertystatus.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/povertystatus.jpg>
+Package pdftex.def Info: images/tropical-cyclones/povertystatus.jpg used on inp
+ut line 1054.
+(pdftex.def)             Requested size: 227.62083pt x 195.85335pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \vbox (badness 7186) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 4872) has occurred while \output is active []
+
+ [30 <./images/tropical-cyclones/povertystatus.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<images/tropical-cyclones/cycloneanatomy.jpg, id=883, 602.25pt x 409.53pt>
+File: images/tropical-cyclones/cycloneanatomy.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/cycloneanatomy.jpg>
+Package pdftex.def Info: images/tropical-cyclones/cycloneanatomy.jpg used on in
+put line 1074.
+(pdftex.def)             Requested size: 227.62596pt x 154.78566pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [31]
+<images/tropical-cyclones/carnotcycle.jpg, id=896, 771.63281pt x 523.9575pt>
+File: images/tropical-cyclones/carnotcycle.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/carnotcycle.jpg>
+Package pdftex.def Info: images/tropical-cyclones/carnotcycle.jpg used on input
+ line 1088.
+(pdftex.def)             Requested size: 341.4269pt x 231.83719pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [32 <./images/tropical-cyclones/cycloneanatomy.jpg>]
+<images/tropical-cyclones/climatemodel.jpg, id=918, 457.71pt x 435.87843pt>
+File: images/tropical-cyclones/climatemodel.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/climatemodel.jpg>
+Package pdftex.def Info: images/tropical-cyclones/climatemodel.jpg used on inpu
+t line 1100.
+(pdftex.def)             Requested size: 227.61826pt x 216.76146pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+<images/tropical-cyclones/pdigraph.jpg, id=932, 532.23843pt x 424.58624pt>
+File: images/tropical-cyclones/pdigraph.jpg Graphic file (type jpg)
+
+<use images/tropical-cyclones/pdigraph.jpg>
+Package pdftex.def Info: images/tropical-cyclones/pdigraph.jpg used on input li
+ne 1109.
+(pdftex.def)             Requested size: 227.6155pt x 181.57729pt.
+ [33 <./images/tropical-cyclones/carnotcycle.jpg>] [34 <./images/tropical-cyclo
+nes/climatemodel.jpg> <./images/tropical-cyclones/pdigraph.jpg>]
 Chapter 11.
+<<<<<<< HEAD
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -2331,6 +2662,15 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 [97] <images/myanmar/Image1.jpg, id=1986, 805.0075pt x 722.7pt>
 File: images/myanmar/Image1.jpg Graphic file (type jpg)
+=======
+[35
+
+] [36
+
+]
+Chapter 12.
+[37] [38
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
 <use images/myanmar/Image1.jpg>
 Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1723.
@@ -2457,6 +2797,7 @@ Chapter 13.
 Chapter 14.
 [111] [112
 
+<<<<<<< HEAD
 ]
 Chapter 15.
 [113] [114
@@ -2465,16 +2806,25 @@ Chapter 15.
 Chapter 16.
 
 Overfull \hbox (4.71004pt too wide) in paragraph at lines 1938--1939
+=======
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1237--1238
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
+<<<<<<< HEAD
 [115]
 Overfull \hbox (54.87589pt too wide) in paragraph at lines 1962--1963
+=======
+[39]
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1261--1262
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
+<<<<<<< HEAD
 [116] [117
 
 
@@ -2639,6 +2989,30 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1983.
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 11B301D81806DFEAE6F0AD23913B0D4E;14239.
+=======
+[40] [41
+
+
+] [42]
+No file Environmental_Science_in_East_Asia.gls.
+(./Environmental_Science_in_East_Asia.bbl [43] [44
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1282.
+
+[46]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1282.
+ (./Environmental_Science_in_East_Asia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1282.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1282.
+
+Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
+not changed.
+(rerunfilecheck)             Checksum: 2258929A6006ABDC5E759C3B6461B09B;6522.
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
 
 LaTeX Warning: There were undefined references.
@@ -2649,6 +3023,7 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 981 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  30380 strings out of 494820
  571917 string characters out of 3178050
  646222 words of memory out of 3000000
@@ -2692,4 +3067,49 @@ PDF statistics:
  2117 compressed objects within 22 object streams
  481 named destinations out of 1000 (max. 500000)
  1654 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 29579 strings out of 494820
+ 558526 string characters out of 3178050
+ 625669 words of memory out of 3000000
+ 31951 multiletter control sequences out of 15000+200000
+ 26376 words of font info for 99 fonts, out of 3000000 for 9000
+ 198 hyphenation exceptions out of 8191
+ 56i,9n,73p,2864b,882s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsl8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1000.pfb>
+Output written on Environmental_Science_in_East_Asia.pdf (66 pages, 2878513 byt
+es).
+PDF statistics:
+ 1163 PDF objects out of 1200 (max. 8388607)
+ 1025 compressed objects within 11 object streams
+ 232 named destinations out of 1000 (max. 500000)
+ 781 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> a2366d032bdda1d9f496b527e0bad75483968ec6
 
