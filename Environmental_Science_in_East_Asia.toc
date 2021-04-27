@@ -6,39 +6,25 @@
 \contentsline {section}{\numberline {0.2}East Asia and the World}{viii}{section.0.2}
 \contentsline {section}{\numberline {0.3}Acknowledgments}{viii}{section.0.3}
 \contentsline {chapter}{\LaTeX Guide}{ix}{chapter*.3}
-\contentsline {subsubsection}{R Chunks}{ix}{section*.6}
+\contentsline {subsubsection}{R Chunks}{ix}{section*.7}
 \contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{x}{section.0.4}
 \contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{x}{subsection.0.4.1}
-\contentsline {subsection}{\numberline {0.4.2}Structuring the Text with Nested Hierarchies}{x}{subsection.0.4.2}
-\contentsline {subsection}{\numberline {0.4.3}Font Changes}{x}{subsection.0.4.3}
-\contentsline {subsection}{\numberline {0.4.4}Mathematics and Specialized Characters}{xi}{subsection.0.4.4}
-\contentsline {subsection}{\numberline {0.4.5}Creating equations}{xii}{subsection.0.4.5}
-\contentsline {subsubsection}{Theorems, etc}{xii}{section*.10}
-\contentsline {subsection}{\numberline {0.4.6}Lists Environments: Making bulletted, numbered, description lists}{xii}{subsection.0.4.6}
-\contentsline {subsection}{\numberline {0.4.7}Theorem-Like Environments}{xiii}{subsection.0.4.7}
-\contentsline {subsection}{\numberline {0.4.8}Peer Review Commenting}{xiii}{subsection.0.4.8}
-\contentsline {subsection}{\numberline {0.4.9}Adding Figures, etc}{xiii}{subsection.0.4.9}
-\contentsline {subsubsection}{Using Rnw Files}{xiii}{section*.11}
-\contentsline {subsubsection}{Creating a floating figure}{xiii}{section*.12}
-\contentsline {subsubsection}{Using R to Create Effective Figures}{xiii}{section*.14}
-\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xv}{subsection.0.4.10}
-\contentsline {subsection}{\numberline {0.4.11}minibox X}{xv}{subsection.0.4.11}
-\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xv}{subsection.0.4.12}
-\contentsline {subsubsection}{Cross-References}{xv}{section*.16}
-\contentsline {subsubsection}{Bibliography generation}{xv}{section*.17}
-\contentsline {subsubsection}{Creating glossary words}{xv}{section*.18}
-\contentsline {chapter}{Template Chapter Title}{xvii}{chapter*.19}
+\contentsline {subsection}{\numberline {0.4.2}Creating equations}{xii}{subsection.0.4.2}
+\contentsline {subsubsection}{Theorems, etc}{xii}{section*.14}
+\contentsline {subsection}{\numberline {0.4.3}minibox X}{xiv}{subsection.0.4.3}
+\contentsline {chapter}{Template Chapter Title}{xvii}{chapter*.31}
 \contentsline {section}{\numberline {0.5}Section Heading}{xvii}{section.0.5}
 \contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xvii}{subsection.0.5.1}
-\contentsline {subsubsection}{Optional Subsubsection Headings}{xvii}{section*.20}
+\contentsline {subsubsection}{Optional Subsubsection Headings}{xvii}{section*.32}
 \contentsline {section}{\numberline {0.6}Goals of this template}{xvii}{section.0.6}
-\contentsline {section}{\numberline {0.7}Here's figure}{xvii}{section.0.7}
-\contentsline {subsection}{\numberline {0.7.1}R Created Figures}{xvii}{subsection.0.7.1}
-\contentsline {subsection}{\numberline {0.7.2}Floating Figures from External Sources}{xix}{subsection.0.7.2}
-\contentsline {section}{\numberline {0.8}Adding Citations}{xix}{section.0.8}
-\contentsline {chapter}{Nora's Practice Sessions}{xxi}{chapter*.23}
-\contentsline {section}{\numberline {0.9}Testing Various Push and Pull Options}{xxi}{section.0.9}
-\contentsline {subsection}{\numberline {0.9.1}What Factors Drive Land Use Change?}{xxi}{subsection.0.9.1}
+\contentsline {subsection}{\numberline {0.6.1}Learning \LaTeX }{xvii}{subsection.0.6.1}
+\contentsline {subsection}{\numberline {0.6.2}Placing figure}{xvii}{subsection.0.6.2}
+\contentsline {subsubsection}{R Created Figures}{xvii}{section*.33}
+\contentsline {subsubsection}{Floating Figures from External Sources}{xix}{section*.35}
+\contentsline {subsection}{\numberline {0.6.3}Adding Citations}{xix}{subsection.0.6.3}
+\contentsline {chapter}{Nora's Practice Sessions}{xxi}{chapter*.37}
+\contentsline {section}{\numberline {0.7}Testing Various Push and Pull Options}{xxi}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}What Factors Drive Land Use Change?}{xxi}{subsection.0.7.1}
 \contentsline {chapter}{\numberline {1}The Earth System}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Sun's Energy and the Earth's Temperature}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}The Spectrum of Light Entering and Exiting the Earth's Surface}{1}{subsection.1.1.1}
@@ -46,10 +32,10 @@
 \contentsline {section}{\numberline {1.2}Carbon Biogeochemistry}{1}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Long and Short Time Scales}{1}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Rock Cycle and Geologic Carbon}{1}{subsection.1.2.2}
-\contentsline {subsubsection}{Mountains and Erosion}{4}{section*.26}
-\contentsline {subsubsection}{Subduction Burial and Carbon Recycling}{4}{section*.28}
+\contentsline {subsubsection}{Mountains and Erosion}{4}{section*.40}
+\contentsline {subsubsection}{Subduction Burial and Carbon Recycling}{4}{section*.42}
 \contentsline {subsection}{\numberline {1.2.3}Photosynthesis, Respiration, and Biosphere Carbon}{4}{subsection.1.2.3}
-\contentsline {subsubsection}{Soil Respiration and the Soil Profile}{4}{section*.30}
+\contentsline {subsubsection}{Soil Respiration and the Soil Profile}{4}{section*.44}
 \contentsline {section}{\numberline {1.3}Fossil Fuels and Carbon Dioxide Trends}{5}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}The Signal of Geologic and Biosphere Carbon in Atmosphere}{5}{subsection.1.3.1}
 \contentsline {chapter}{\numberline {2}Monsoons and East Asia Climates}{9}{chapter.2}
@@ -60,9 +46,9 @@
 \contentsline {section}{\numberline {3.2}Hydrologic Aspects}{13}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Subsurface Hydrology}{13}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Saturated Zone}{13}{subsection.3.2.2}
-\contentsline {subsubsection}{Aquifers and Aquitards}{13}{section*.35}
-\contentsline {subsubsection}{Confined and Unconfined Aquifers}{13}{section*.36}
-\contentsline {subsubsection}{Ground Water Flow}{13}{section*.37}
+\contentsline {subsubsection}{Aquifers and Aquitards}{13}{section*.49}
+\contentsline {subsubsection}{Confined and Unconfined Aquifers}{13}{section*.50}
+\contentsline {subsubsection}{Ground Water Flow}{13}{section*.51}
 \contentsline {subsection}{\numberline {3.2.3}The Vadose Zone}{14}{subsection.3.2.3}
 \contentsline {chapter}{\numberline {4}Land Use Change and Monitoring}{17}{chapter.4}
 \contentsline {section}{\numberline {4.1}Example of a Place: Urbanization and Land Use Change in Shenzhen, China}{17}{section.4.1}
@@ -76,14 +62,14 @@
 \contentsline {subsection}{\numberline {4.3.4}Critical Remote Sensing}{20}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Ecological Effects of Land Use Change on Soil, Air, and Water}{23}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}An Introduction to Land Use Change}{23}{subsection.4.4.1}
-\contentsline {subsubsection}{types of data source??}{23}{section*.41}
-\contentsline {subsubsection}{Soil Classification}{23}{section*.42}
-\contentsline {subsubsection}{Weathering, Soil Formation, and Erosion}{24}{section*.43}
+\contentsline {subsubsection}{types of data source??}{23}{section*.55}
+\contentsline {subsubsection}{Soil Classification}{23}{section*.56}
+\contentsline {subsubsection}{Weathering, Soil Formation, and Erosion}{24}{section*.57}
 \contentsline {subsection}{\numberline {4.4.2}Impacts of Agriculture on Soil, Air, and Hydrological Cycles}{25}{subsection.4.4.2}
-\contentsline {subsubsection}{Industrialized Monoculture in the 20th Century}{25}{section*.44}
-\contentsline {subsubsection}{Soil and Carbon Nutrient Cycling}{25}{section*.45}
-\contentsline {subsubsection}{Shifting Practices}{26}{section*.47}
-\contentsline {subsubsection}{Impacts on Local Watersheds}{28}{section*.49}
+\contentsline {subsubsection}{Industrialized Monoculture in the 20th Century}{25}{section*.58}
+\contentsline {subsubsection}{Soil and Carbon Nutrient Cycling}{25}{section*.59}
+\contentsline {subsubsection}{Shifting Practices}{26}{section*.61}
+\contentsline {subsubsection}{Impacts on Local Watersheds}{28}{section*.63}
 \contentsline {section}{\numberline {4.5}Regeneration Efforts in the Loess Plateau, China}{28}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}The Cradle of Eastern Civilization}{28}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Beginnings of Modern-Day Restoration}{28}{subsection.4.5.2}
@@ -162,38 +148,38 @@
 \contentsline {section}{\numberline {11.3}Dam Function}{81}{section.11.3}
 \contentsline {subsection}{\numberline {11.3.1}Hydroelectric Generators}{82}{subsection.11.3.1}
 \contentsline {subsection}{\numberline {11.3.2}Dam Type}{83}{subsection.11.3.2}
-\contentsline {subsubsection}{Gravity Dams}{83}{section*.66}
-\contentsline {subsubsection}{Embankment Dams}{83}{section*.67}
+\contentsline {subsubsection}{Gravity Dams}{83}{section*.80}
+\contentsline {subsubsection}{Embankment Dams}{83}{section*.81}
 \contentsline {subsection}{\numberline {11.3.3}Energy}{83}{subsection.11.3.3}
-\contentsline {subsubsection}{Kinetic Energy}{83}{section*.68}
-\contentsline {subsubsection}{Potential Energy}{84}{section*.69}
-\contentsline {subsubsection}{Total Mechanical Energy}{84}{section*.70}
+\contentsline {subsubsection}{Kinetic Energy}{83}{section*.82}
+\contentsline {subsubsection}{Potential Energy}{84}{section*.83}
+\contentsline {subsubsection}{Total Mechanical Energy}{84}{section*.84}
 \contentsline {subsection}{\numberline {11.3.4}Megawatts and Electricity Usage}{84}{subsection.11.3.4}
 \contentsline {section}{\numberline {11.4}Hazards and Flooding}{85}{section.11.4}
 \contentsline {section}{\numberline {11.5}Three Gorges Dam}{85}{section.11.5}
 \contentsline {subsection}{\numberline {11.5.1}Displacement}{86}{subsection.11.5.1}
-\contentsline {subsection}{\numberline {11.5.2}Schistosomiasis}{86}{subsection.11.5.2}
-\contentsline {subsubsection}{Temperature}{87}{section*.71}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{87}{section*.72}
-\contentsline {subsubsection}{Snail Movement}{88}{section*.74}
-\contentsline {subsubsection}{Health Infrastructure}{89}{section*.76}
-\contentsline {subsection}{\numberline {11.5.3}Eutrophication}{89}{subsection.11.5.3}
+\contentsline {subsection}{\numberline {11.5.2}Schistosomiasis}{87}{subsection.11.5.2}
+\contentsline {subsubsection}{Temperature}{87}{section*.85}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{88}{section*.86}
+\contentsline {subsubsection}{Snail Movement}{88}{section*.88}
+\contentsline {subsubsection}{Health Infrastructure}{89}{section*.90}
+\contentsline {subsection}{\numberline {11.5.3}Eutrophication}{90}{subsection.11.5.3}
 \contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{90}{section.11.6}
 \contentsline {subsection}{\numberline {11.6.1}Food Security}{91}{subsection.11.6.1}
 \contentsline {subsection}{\numberline {11.6.2}Cultural Sites}{91}{subsection.11.6.2}
 \contentsline {section}{\numberline {11.7}Vietnam and the Hoa Binh Dam}{92}{section.11.7}
-\contentsline {section}{\numberline {11.8}Long Lawen and Long Liam}{92}{section.11.8}
+\contentsline {section}{\numberline {11.8}Long Lawen and Long Liam}{93}{section.11.8}
 \contentsline {section}{\numberline {11.9}Conclusion}{95}{section.11.9}
 \contentsline {chapter}{\numberline {12}The Political Ecology and Economy of Rice in Myanmar}{97}{chapter.12}
 \contentsline {section}{\numberline {12.1}Introduction}{97}{section.12.1}
 \contentsline {section}{\numberline {12.2}Climate and Rice Production}{98}{section.12.2}
 \contentsline {section}{\numberline {12.3}Agricultural Production and Food Insecurity}{100}{section.12.3}
 \contentsline {section}{\numberline {12.4}History of Rice Production in Myanmar}{102}{section.12.4}
-\contentsline {section}{\numberline {12.5}Implications of Climate Change on Rice Production}{102}{section.12.5}
+\contentsline {section}{\numberline {12.5}Implications of Climate Change on Rice Production}{103}{section.12.5}
 \contentsline {section}{\numberline {12.6}Increasing Temperatures}{103}{section.12.6}
-\contentsline {section}{\numberline {12.7}Precipitation and flooding}{107}{section.12.7}
+\contentsline {section}{\numberline {12.7}Precipitation and flooding}{106}{section.12.7}
 \contentsline {section}{\numberline {12.8}Cyclone Nargis}{107}{section.12.8}
-\contentsline {section}{\numberline {12.9}Conclusion}{108}{section.12.9}
+\contentsline {section}{\numberline {12.9}Conclusion}{107}{section.12.9}
 \contentsline {chapter}{\numberline {13}Tropical Cyclones in the Philippines}{109}{chapter.13}
 \contentsline {section}{\numberline {13.1}Tropical Cyclones in the Philippines}{109}{section.13.1}
 \contentsline {subsection}{\numberline {13.1.1}A Storm is Coming}{109}{subsection.13.1.1}
@@ -216,6 +202,6 @@
 \contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{125}{section.16.2}
 \contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{125}{subsection.16.2.1}
 \contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{125}{subsection.16.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{125}{section*.91}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{125}{section*.92}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{125}{section*.105}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{125}{section*.106}
 \contentsline {part}{I\hspace {1em}Backmatter}{127}{part.1}

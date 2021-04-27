@@ -19,6 +19,7 @@
 %\includegraphics{{Home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/images/}}
 \usepackage{textcomp}
 \usepackage{gensymb}
+\usepackage[T1]{fontenc}
 \usepackage{natbib}
 %\usepackage{wasysym} %\smiley{}
 % \usepackage{siunitx}
@@ -83,6 +84,7 @@
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\carbondioxide}{CO$_2$~}
+\newcommand{\kms}{km$^2$}
 
 \newcommand{\Mypm}{\mathbin{\tikz [x=1.4ex,y=1.4ex,line width=.1ex] \draw (0.0,0) -- (1.0,0) (0.5,0.08) -- (0.5,0.92) (0.0,0.5) -- (1.0,0.5);}}%
 
@@ -149,11 +151,13 @@ Everyone in the world!
 
 \chapter{\LaTeX Guide}\label{ch:guide}
 
-\subsection*{Why Learn \LaTeX?}
+\section*{Why Learn \LaTeX?}
+
+\subsection*{Creating Professional Typesetting}
 
 In the past, I used \LaTeX to make publication quality text. In fact, many prefer writing in \LaTeX because they can focus on the text and avoid worrying about formatting. However, it is NOT WYSIWYG (``what you see is what you get'') word processor. In reality, the processing or compiling is a separate step. 
 
-Nevertheless, the quality of the output and ability to integrate with R (or Python) allows us to have an exceptional tool to make reproducible documents. 
+Nevertheless, the quality of the output and ability to integrate with R (or Python) allows us to have an exceptional tool to make reproducible documents with highly professional looking typesetting.
 
 \subsection*{How to Learn \LaTeX?}
 
@@ -188,7 +192,7 @@ Because this is an ongoing project, you should record your contribution to each 
 
 Currently, the text is written using the standard book class. %However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
 
-\subsection{Structuring the Text with Nested Hierarchies}
+\subsection*{Structuring the Text with Nested Hierarchies}
 
 Contributors divide their contributions into sections and subsections. This format allows a consistent approach to structuring the text and forcing themes to be organized in blocks that can be used to organize the overall text. We use section, subsection, and subsubsection to break up the topic into bite sizes. 
 
@@ -198,7 +202,7 @@ NOTE: for each nested level, it MUST be followed by the lowest level in the sect
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
 
-\subsection{Font Changes}
+\subsection*{Font Changes}
 
 We can use various methods to alter the typeset: \emph{Emphasize}, \textbf{Bold}, \textit{Italics}, and \textsl{Slanted}. We can also typeset \textrm{Roman}, \textsf{Sans Serif}, \textsc{Small Caps}, and \texttt{Typewriter} texts.  Look online to see the commands to accomplish these changes. 
 
@@ -239,7 +243,7 @@ str(my.dataframe) // display data structure
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection{Mathematics and Specialized Characters}\label{sub:mathchar}
+\subsection*{Mathematics and Specialized Characters}\label{sub:mathchar}
 
 \subsubsection*{Warning: Special Characters}
 
@@ -295,7 +299,7 @@ The above equations are automatically numbered as equation (\ref{eqn10}) and
 (\ref{eqn20}).
 
 
-\subsection{Lists Environments: Making bulletted, numbered, description lists}
+\subsection*{Lists Environments: Making bulletted, numbered, description lists}
 
 We use special commands to create an itemized list.
 
@@ -348,7 +352,7 @@ description of that term.
 \item[Bunyip] Mythical beast of Australian Aboriginal legends.
 \end{description}
 
-\subsection{Theorem-Like Environments}
+\subsection*{Theorem-Like Environments}
 
 The following theorem-like environments (in alphabetical order) are available
 in this style.
@@ -398,23 +402,23 @@ This is a theorem
 %[Proof of the Main Theorem]This is the proof.
 %\end{proof}
 
-%\subsubsection{``Child'' Rnw Contributions}
+\subsubsection*{``Child'' Rnw Contributions to create a Textbook}
 
-%This is a chapter that we can input into the text... you will each create a chapter without the preamble and begin and end document... that can be integrated into a single book! 
+To create the texbook, we will each contribut chapters, which are referred to in knitr speak as a `child'. For each `child' or chapter, will be a sepreate Rnw fild, but without the need for the preamble, such as the \verb"\begin{document}" and \verb"\end{document}", which is pretty handy. Then each chapter has the exact same formatting as defined in the root document, which you have to select in the project options. 
 
-\subsection{Peer Review Commenting}
+\subsection*{Peer Review Commenting}
 
-You can put your comments in square brackets and in color for things that need help. \textcolor{red}{[This section is confusing, I am not sure what commenting means.]}
+You can put your comments in square brackets and in color for things that need help. \textcolor{red}{[This section is confusing, I am not sure what commenting means.]} I have created a short cut command to do this with \verb"\red{}". 
 
-\subsection{Adding Figures, etc}
+\subsection*{Adding Figures, etc}
 
-\subsubsection{Using Rnw Files}
+\subsubsection*{Using Rnw Files}
 
 To generate R figures, we use R chunks in and Rnw file, where the text is integreated. When we compile into a PDF, the program converts the files into TeX files and then combineds them into a single pdf. 
 
 For each chapter, we create a ``child'' document and Marc will help you create that text when you begin. 
 
-\subsubsection{Creating a floating figure}
+\subsubsection*{Creating a floating figure}
 
 This is my floating figure (Figure \ref{fig:plot}).
 
@@ -424,7 +428,7 @@ This is my floating figure (Figure \ref{fig:plot}).
 \label{fig:plot}
 \end{figure}
 
-\subsubsection{Using R to Create Effective Figures}
+\subsubsection*{Using R to Create Effective Figures}
 
 R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it. 
 
@@ -436,7 +440,7 @@ R Markdown can be a very powerful tool to integrate R code, figures and text. Ma
   \item ADA accessible (e.g. color impairment mitigation)
 \end{itemize}
 
-For example, here's code to generate a pretty good figure: 
+For example, here's an example of a pretty good figure, and you can find the code in the 01-guide.Rnw file.
 
 
 
@@ -454,7 +458,7 @@ In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has a
 \label{fig:co2-graphic}
 \end{figure}
 
-\subsection{Using Boxes}
+\subsection*{Using Boxes}
 
 \fbox{
 \begin{minipage}[c]{.9\textwidth}
@@ -464,15 +468,15 @@ Some text
 \end{minipage}
 }
 
-\subsection{Cross-References, Citations, and Glossaries}
+\section*{Cross-References, Citations, and Glossaries}
 
-\subsubsection{Cross-References}
+\subsection*{Cross-References}
 
 We can cross-reference sections (e.g. Section~\ref{ch:critical-zone}  or figures (Figure~\ref{fig:maunaloa}) using several methods. I suggest you look at the this Rmd file to see how I did it in these examples.
 
 You can also create links to URLs or hyperlinks, e.g. \url{http://texblog.org}. However, if these addresses change, then the link will break, so I suggest you only link to internal references.
 
-\subsubsection{Bibliography generation}
+\subsection*{Bibliography generation}
 
 There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our respository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
 
@@ -484,7 +488,7 @@ Note: You will see these citations automatically put in alphabetic order in the 
 
 %Currently, we are using the ecology.bst, but it has trouble with misc type of references, so I will changing this in 2019. 
 
-\subsubsection{Creating glossary words}
+\subsection*{Creating glossary words}
  
 Not sure why, I haven't been getting this to work yet -- stay tuned!
 
@@ -497,6 +501,18 @@ Not sure why, I haven't been getting this to work yet -- stay tuned!
 \begin{definition}
 This would be used in a glossary entry at the end of the book and the word is use in an glossary, e.g. \gls{peat}. \Gls{peat} is when you want to capitalize the defined word without having to re-define a capitalized version, the only downside of case sensitivity in \LaTeX.
 \end{definition}
+
+\section*{Custom Environments}
+
+For text that we rely on many times, but require odd key strokes and hard to remember code, we can create new commands as shortcuts. 
+
+For example, I have created two so far:
+
+\verb"\carbondioxide}", \carbondioxide
+
+and 
+
+\verb"\kms", \kms
 
 
 \chapter{Template Chapter Title}\label{ch:template}
@@ -520,15 +536,17 @@ some text here.... and a subsubsection cross reference (See Section \ref{subsub:
 
 \section{Goals of this template}
 
+\subsection{Learning \LaTeX}
+
 This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter~\ref{ch:guide}. 
 
 Instead this section of the document is designed to demonstrate how our textbook will look, feel, and ultimately how we contribute to the project.
 
 This document also compiles all of our projects into a single PDF, where each chapter is composed of a input tex file.
 
-\section{Here's figure}
+\subsection{Placing figure}
 
-\subsection{R Created Figures}
+\subsubsection{R Created Figures}
 
 First we create an R chunk and add some code. In this case, I created a floating figure which can be referenced (Figure~\ref{fig:pressure})!  
 
@@ -547,7 +565,7 @@ First we create an R chunk and add some code. In this case, I created a floating
 
 \end{figure}
 
-\subsection{Floating Figures from External Sources}
+\subsubsection{Floating Figures from External Sources}
 
 All figures and images that are imported should be put into the ``images'' sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
@@ -561,7 +579,7 @@ Figure \ref{fig:vadose} is a good example of inserting an image from an external
 
 In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to ``reference'' the figure in the text.
 
-\section{Adding Citations}
+\subsection{Adding Citations}
 
 See the Guide, as well, but my video is probably the most helpful.
 
@@ -1516,12 +1534,12 @@ The Bakun Dam in Malaysia displaced dozens of Indignous and local communities. A
   Furthermore, most relocation schemes force Indigenous communities into unideal\red{I get the word, but I suspect there is a better one} cramped living conditions with poor infrastructure\red{define, looks like you list these afterwords, but is ther something missing?}, sanitation, education, and without the ability to live with traditional modes of livelihood including but not limited to subsistence/agriculture, as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create\red{need a history of rural electrification}. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
 
 \begin{table}
-\begin{tabular}{lll}\hline
+\caption{3 column table example, left justified, right justified, and center justified}
+\label{tbl:bigdams}
+\begin{tabular}{lrc}\hline
 Header 1 & Header 2 & Header 3 \\ \hline\hline
 data 1  & data 2    & data 3 \\ \hline
 \end{tabular}
-\caption{3 column table example}
-\label{tbl:bigdams}
 \end{table}
 
 \red{See Table~\ref{tbl:bigdams}}.
@@ -1611,26 +1629,30 @@ In this, TME stands for the Total Mechanical e\red{E?}nergy, PE is the potential
 
 \red{perhaps this can go after the TME?}
 
-  Construction of one of the biggest hydroelectric dams, the Three Gorges Dam in the Yichang Hubei Province in China began in 1994 with the aim to prevent flooding, generate electricity, and to allow ocean freighter ship to navigate inland from Shanghai along the Yangtze river basin (Jackson and Sleigh, 2000). The Dam is estimated to have production capacity of 18,600-22,800 Megawatts of hydro powered electricity which accounts for about 10\% of all of China’s energy production (Li 2007).\red{that's quite impressive!} 
+  Construction of one of the biggest hydroelectric dams, the Three Gorges Dam in the Yichang Hubei Province in China began in 1994 with the aim to prevent flooding, generate electricity, and to allow ocean freighter ship to navigate inland from Shanghai along the Yangtze river basin (Jackson and Sleigh, 2000). The Dam is estimated to have production capacity of 18,600-22,800 Megawatts of hydro powered electricity which accounts for about 10\% of all of China’s energy production (Li 2007).\red{that's quite impressive! what the GWP for this? do we know?} 
 
-  By 2012, the dam’s 32 turbine generators were all operational (Britannica). The dam’s reservoir holds 5.85 trillion gallons of water and is estimated by the dam’s beneficiaries to eliminate flood related damage for up to a century to protect human development on the banks of a river, or a riparian ecosystem. The dam produces about 84.68 billion kWh of clean energy a year (Wang and Bryant). The water flow on the Yangtze has also deepened by the dam to allow ships to carry commercial goods to and from Shanghai to reduce shipping costs by 35-37\% and thus increase profits for large commercial enterprises (Wang and Bryant).
+  By 2012, the dam’s 32 turbine generators were all operational (Britannica). The dam’s reservoir holds 5.85 trillion gallons of water and is estimated by the dam’s beneficiaries to eliminate flood related damage for up to a century to protect human development on the banks of a river, or a riparian ecosystem. The dam produces about 84.68 billion kWh of clean\red{never sure if this is the best word!} energy a year (Wang and Bryant). The water flow on the Yangtze has also deepened by the dam to allow ships to carry commercial goods to and from Shanghai to reduce shipping costs by 35-37\% and thus increase profits for large commercial enterprises (Wang and Bryant).
 The number of people displaced and affected by Three Gorges Dam is highly controversial, with estimates below one million (from the Dam’s developers) to 10.2 million people in 1996 (Delin and Lijun), and estimates ranging up to 900 million people affected (not displaced) due to disruptions in watersheds upstream or downstream of the dam (Childs-Johnson and Shen 2000). 
 
-  The local region and population around the dam prior to construction was below the poverty line and reliant on agriculture with dense but patchily populated areas (Delin and Lijun, 2000). Literacy rates were lower than the national average and upon construction of the dam, new townships were created to house the local displaced populations, but many displaced people were forced into urban centers for which they were poorly equipped to find work given their reliance on subsistence farming previously (Cernea, 2003). 30,000 hectares of farmland that local populations once relied on were flooded and water borne illnesses such as schistosomiasis and other diseases such as tuberculosis and pneumonia become more common in relocation areas due to reduced access to sanitation (Jackson and Sleigh, 2000; Cernea, 2003). 
+\red{can we get a sense of the area lost by dams? Perhaps another table with impacts? areas, peoples displaced, etc?}
+
+  The local region and population around the dam prior to construction was below the poverty line and reliant on agriculture with dense but patchily populated areas (Delin and Lijun, 2000). Literacy rates were lower than the national average and upon construction of the dam, new townships were created to house the local displaced populations, but many displaced people were forced into urban centers for which they were poorly equipped to find work given their reliance on subsistence farming previously (Cernea, 2003)\red{excellent, and a weird question, did it force them into greenhouse gas producing jobs?}. 30,000 hectares of farmland that local populations once relied on were flooded and water borne illnesses such as schistosomiasis and other diseases such as tuberculosis and pneumonia become more common in relocation areas due to reduced access to sanitation (Jackson and Sleigh, 2000; Cernea, 2003). 
   
-  Furthermore, psychosocial impacts on the displaced populations were devastating. The complete forced shift away from traditional livelihoods as well as loss of cultural sites and disintegration of social support networks caused traumatic stress, stigmatization, depression, and inter-community violence as a result of the destruction (World Health Organization, 1999). The Yangtze (a watershed involved in the dam) is known as the “sorrow of China” due to the millions of lives the dam project has destroyed both through forced displacement, and even death due to natural disasters. (Sino-German Center for Research Promotion 2006).
+  Furthermore, psychosocial impacts on the displaced populations were devastating. The complete forced shift away from traditional livelihoods as well as loss of cultural sites and disintegration of social support networks caused traumatic stress, stigmatization, depression, and inter-community violence as a result of the destruction (World Health Organization, 1999)\red{powerful stuff!, give a hint in the intro?}. The Yangtze (a watershed involved in the dam) is known as the “sorrow of China” due to the millions of lives the dam project has destroyed both through forced displacement, and even death due to natural disasters. (Sino-German Center for Research Promotion 2006).\red{excellent material, but is there peer reviewed literature to discuss this?}
 
 \subsection{Displacement}
-  One of the common costs of “development” is displacement of local and Indigenous populations—hydroelectric dams are no different. Due to the fact that flood plains are covered in water, the reservoirs themselves take up large amounts of space, and local hydrology is often drastically altered as a result of dam construction, forced displacement is a common result of dam building. Displaced has further implications for even more construction and development for the displaced populations—new infrastructure such as hospitals, schools, roads, water irrigation, and electricity needs to be set up for displaced populations. Unfortunately, new infrastructure for forcibly displaced peoples often is insufficient or inadequate to sustain populations. 
+  One of the common costs of “development” is displacement of local and Indigenous populations—hydroelectric dams are no different. Due to the fact that flood plains are covered in water, the reservoirs themselves take up large amounts of space \red{area?}, and local hydrology is often drastically altered as a result of dam construction, forced displacement is a common result of dam building. Displaced has further implications for even more construction and development for the displaced populations—new infrastructure such as hospitals, schools, roads, water irrigation, and electricity needs to be set up for displaced populations. Unfortunately, new infrastructure for forcibly displaced peoples often is insufficient or inadequate to sustain populations. \red{has displacement always been the outcome of development or is there evidence that some are wanting to move because of better livelihoods?  not your chapter, but it's a question in my head\ldots}
   
-  One measurement of human well-being following construction of the Three Gorges Dam was done my Millennium Ecosystem Assessments (MA) in 2003 by the Millenium Ecosystem Assessment and World Resources Institute. They classify human well-being under five categories: “access to basic materials, freedom and choice, health, social relations and social capital, and security” (Millenium Ecosystem Assessment (MA) 2003, Table 1). Due to a number of factors, the MA assessment concluded that the Three Gorges Dam does not meet the requirements to be socially responsible and equitable. 
+  One measurement of human well-being following construction of the Three Gorges Dam was done my Millennium Ecosystem Assessments (MA) in 2003 by the Millenium Ecosystem Assessment and World Resources Institute. They classify human well-being under five categories: \red{create a bulleted list}“access to basic materials, freedom and choice, health, social relations and social capital, and security” (Millenium Ecosystem Assessment (MA) 2003, Table 1). Due to a number of factors, the MA assessment concluded that the Three Gorges Dam does not meet the requirements to be socially responsible and equitable. \red{can we rank numerous project on this scale to show some variance?}
+  
+  \red{need a transition :-)}
 
 \subsection{Schistosomiasis}
 
 Snail fever, or schistosomiasis is a disease from parasitic worms called schistosomes. Schistosomiasis causes abdominal pain, diarrhea, bloody stool, or blood in urine (CDC). Schistosomes typically live in freshwater snails which are vectors of the disease. The parasite comes out of the snail in freshwater and humans can become infected from skin contact with the contaminated freshwater (CDC). Snails infected with schistosomes live in freshwater dams such as the Three Gorges Dam (Liang 2002). 
   
-Schistosomiasis is found only in certain areas, making it endemic, but along with the construction of hydroelectric dams, it is common that snails become vectors for the disease, and they bring Schistosomiasis from the endemic regions. The dams bring in larger quantities of snails every year, making the disease more common (Zhu). Due to displacement of local populations due to dam construction, this often means influxes of people from schistosomiasis endemic zones enter greater populated areas and this leads to an increase in infections.
-One of the dams in East Asia that experiences cases of schistosomiasis is the Three Gorges Dam. There is a narrow reservoir attached to the dam that is 1084 km SQUARED which extends into the Jianhan Plain in the Hubei Province and the Chengdu Plains in the Sichuan province—both regions are endemic for schistosomiasis (Wang and Zheng 2003).
+Schistosomiasis is found only in certain areas, making it endemic, but along with the construction of hydroelectric dams, it\red{try to avoid ambiguous pronouns} is common that snails become vectors for the disease, and they bring Schistosomiasis from the endemic regions. The dams bring in\red{can we be more precise?} larger quantities of snails every year, making the disease more common (Zhu). Due to displacement of local populations due to dam construction, this often means influxes of people from schistosomiasis endemic zones enter greater populated areas and this leads to an increase in infections\red{out of the flooded areas?}.\red{new paragraph?}
+One of the dams in East Asia that experiences cases of schistosomiasis is the Three Gorges Dam. There is a narrow reservoir attached to the dam that is 1084 km SQUARED \kms \red{I created a short cut to make it easy} which extends into the Jianhan Plain in the Hubei Province and the Chengdu Plains in the Sichuan province—both regions are endemic for schistosomiasis (Wang and Zheng 2003).
   
 There are many cases of increased schistosomiasis because of dam construction throughout the globe such as Egypt, Senegal, and other continents such as South America. African snails for example, have thin and lightweight shells that make their dispersal throughout regions especially effective and dangerous (Li and Lin 1998). Following construction of the Diama dam in Senegal, a strain of infection from S. mansoni snails occurred due to the stabilized water levels. Inadequate health care services in the area of the Diama dam led to an outbreak infection everyone in the city of Richard-Toll (in the dam region) (Waldstein 1997). 
 
