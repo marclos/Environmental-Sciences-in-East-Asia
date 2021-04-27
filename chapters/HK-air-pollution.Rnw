@@ -4,6 +4,7 @@
 \section{A Brief Overview of Hong Kong}
 \section{Hong Kong's History}
 \section{Air Pollution in Hong Kong}
+SO$_{2}$
 \section{Air Pollution and Human Health}
 \section{Population Density, Income Inequality, and Housing}
 \subsection{Income Inequality and Zoning Laws}

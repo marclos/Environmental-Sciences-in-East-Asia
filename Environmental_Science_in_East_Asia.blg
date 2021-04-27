@@ -3,7 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: plainnat.bst
 Database file #1: References.bib
-<<<<<<< HEAD
 Warning--empty publisher in RAR
 Warning--empty publisher in coraltriangle
 Warning--empty publisher in Watlas
@@ -49,46 +48,3 @@ while$ -- 157
 width$ -- 0
 write$ -- 650
 (There were 3 warnings)
-=======
-You've used 6 entries,
-            2773 wiz_defined-function locations,
-            636 strings with 6235 characters,
-and the built_in function-call counts, 2661 in all, are:
-= -- 226
-> -- 183
-< -- 3
-+ -- 63
-- -- 57
-* -- 224
-:= -- 435
-add.period$ -- 21
-call.type$ -- 6
-change.case$ -- 35
-chr.to.int$ -- 6
-cite$ -- 12
-duplicate$ -- 111
-empty$ -- 193
-format.name$ -- 63
-if$ -- 532
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 3
-newline$ -- 41
-num.names$ -- 24
-pop$ -- 68
-preamble$ -- 1
-purify$ -- 31
-quote$ -- 0
-skip$ -- 92
-stack$ -- 0
-substring$ -- 46
-swap$ -- 8
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 66
-warning$ -- 0
-while$ -- 21
-width$ -- 0
-write$ -- 88
->>>>>>> ec2f777bfd1251e7ff1618aa39f300ec2417e4c9
