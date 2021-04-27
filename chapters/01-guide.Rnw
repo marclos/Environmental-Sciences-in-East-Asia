@@ -75,7 +75,7 @@ The Quotation environment is used for quotations of more than one paragraph. Fol
 \begin{quotation}
 LaTeX (/ˈlɑːtɛx/ LAH-tekh or /ˈleɪtɛx/ LAY-tekh, often stylized as \LaTeX) is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in ``What You See Is What You Get'' word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, and letter), to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A \TeX distribution such as \TeX Live or MiK\TeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.
 
-LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, statistics, computer science, engineering, physics, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. \LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.''
+\LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, statistics, computer science, engineering, physics, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. \LaTeX uses the \TeX typesetting program for formatting its output, and is itself written in the TeX macro language.''
 \end{quotation}
 
 Use the Verbatim environment if you want \LaTeX\ to preserve spacing, perhaps when
@@ -299,11 +299,11 @@ maunaloa$average[maunaloa$average==-99.99] <- NA
 maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
 head(maunaloa)
 str(maunaloa)
-write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+write.csv(maunaloa, file = "../data/maunaloa.csv", eol = "\n", row.names = F)
 @
 
 <<analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE>>=
-maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv")
+maunaloa = read.csv("../data/maunaloa.csv")
 library(dplyr, quietly=TRUE)
 #library(tidyverse, quietly=TRUE)
 library(caret)
@@ -378,11 +378,14 @@ Note: You will see these citations automatically put in alphabetic order in the 
 
 \subsubsection{Creating glossary words}
  
+Not sure why, I haven't been getting this to work yet -- stay tuned!
+
+
 \newglossaryentry{peat}{
 	name=peat, 
 	description={is cool.}
 }
 
 \begin{definition}
-This is a definition and the word is use in an glossary, e.g. \gls{peat}. \Gls{peat} is when you want to capitalize the defined word without having to re-define a capitalized version, the only downside of case sensitivity in \LaTeX.
+This would be used in a glossary entry at the end of the book and the word is use in an glossary, e.g. \gls{peat}. \Gls{peat} is when you want to capitalize the defined word without having to re-define a capitalized version, the only downside of case sensitivity in \LaTeX.
 \end{definition}
