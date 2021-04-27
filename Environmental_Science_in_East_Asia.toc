@@ -162,14 +162,14 @@
 \contentsline {subsubsection}{Temperature}{87}{section*.85}
 \contentsline {subsubsection}{Breeding Patterns and Resettlement}{88}{section*.86}
 \contentsline {subsubsection}{Snail Movement}{88}{section*.88}
-\contentsline {subsubsection}{Health Infrastructure}{89}{section*.90}
-\contentsline {subsection}{\numberline {11.5.3}Eutrophication}{90}{subsection.11.5.3}
-\contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{90}{section.11.6}
-\contentsline {subsection}{\numberline {11.6.1}Food Security}{91}{subsection.11.6.1}
-\contentsline {subsection}{\numberline {11.6.2}Cultural Sites}{91}{subsection.11.6.2}
-\contentsline {section}{\numberline {11.7}Vietnam and the Hoa Binh Dam}{92}{section.11.7}
-\contentsline {section}{\numberline {11.8}Long Lawen and Long Liam}{93}{section.11.8}
-\contentsline {section}{\numberline {11.9}Conclusion}{95}{section.11.9}
+\contentsline {subsubsection}{Health Infrastructure}{88}{section*.90}
+\contentsline {subsection}{\numberline {11.5.3}Eutrophication}{91}{subsection.11.5.3}
+\contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{91}{section.11.6}
+\contentsline {subsection}{\numberline {11.6.1}Food Security}{92}{subsection.11.6.1}
+\contentsline {subsection}{\numberline {11.6.2}Cultural Sites}{93}{subsection.11.6.2}
+\contentsline {section}{\numberline {11.7}Vietnam and the Hoa Binh Dam}{93}{section.11.7}
+\contentsline {section}{\numberline {11.8}Long Lawen and Long Liam}{94}{section.11.8}
+\contentsline {section}{\numberline {11.9}Conclusion}{96}{section.11.9}
 \contentsline {chapter}{\numberline {12}The Political Ecology and Economy of Rice in Myanmar}{97}{chapter.12}
 \contentsline {section}{\numberline {12.1}Introduction}{97}{section.12.1}
 \contentsline {section}{\numberline {12.2}Climate and Rice Production}{98}{section.12.2}
