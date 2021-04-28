@@ -1,33 +1,63 @@
-\chapter{Climate Infrastructure in Vietnam}
+\chapter{Climate Change Adaptation and Infrastructure in Vietnam}
 
-\section{Introductory}
+\chapterauthor{Jay}
 
-How climate change will impact Vietnam
+\section*{Introduction}
 
-Flooding (especially coastal urban areas)
+As a low-lying, coastal nation with heavy dependence on its two river deltas, Vietnam is a country with severe risk factors for climate-related disaster. Even without the added effects of sea level rise, Vietnam frequently experiences typhoons during its wet season, at an average of 4-6 times each year (SCFF). Current dyke systems aren’t strong enough and their effectiveness will only worsen with increased storm surges (Garschagen et al). An increase in runoff could have a catastrophic impact on rural rice economies, with an estimated reduction in yields of 12\% and 24\% in the Mekong and Red River Deltas, respectively (Evers et al). Rural residents rely on the rivers as their main source of drinking water, and both rivers at risk from the construction of hydroelectric dam projects, saltwater intrusion, and increased demand for irrigation (Evers et al). Vietnam’s urban population is steadily on the rise as well, growing from 20\% of the population to 30\% from 1985 to 2009 (World Bank). This number is expected to continue to rise, as people migrate to Vietnam’s cities for economic opportunities, with estimates expecting cities to account for 57\% of the country’s population by 2050 (Garschagen et al). This unprecedented increase in Vietnam’s urban population has the potential to overwhelm local governments, which have struggled with a simultaneous decentralization and tight control from Vietnam’s federal government (Garschagen et al). 
 
-Sea Level Rise
+\section*{Climate Change Impacts on Vietnam}
 
-Land Erosion
+\subsection*{Flooding}
 
-Health outcomes
+Like many countries in Southeast Asia, Vietnam has a wet and dry season. During the wet monsoon season, flooding occurs along the coast and river deltas. Though flooding is something that Vietnam has been adapted to over centuries, increasingly worse floods that have occurred over a short period of time has given farmers little time to adapt to quickly changing conditions (World Bank). Flooding has the potential to corrupt water supply and spread diarrheal diseases, as well as decimate irrigation systems (Hanh et al). In urban areas, floods have a major economic impact, shutting down roadways and preventing people from leaving their homes (World Bank).
 
-Current Adaptation Plans
+\subsection*{Sea Level Rise}
+Vietnam’s long coast makes it particularly susceptible to the consequences of sea level rise. The coastline has been rising at about the global average of 3mm per year (Huong). Vietnam’s network of sea dykes is in disrepair, and vulnerable to overtopping by large waves. A 1 metre rise in sea level is estimated to affect 11 percent of Vietnam’s population and 5\% of total land area (United Nations). To combat this, the government has invested 280 Million VAT into building and fortifying sea dykes (United Nations). A rise in sea level could increase the frequency and severity of floods (Huong).
 
-Strengthen existing barriers and infrastructure
+\subsection*{Drought}
+In addition to its wet season, Vietnam has a long dry season that is expected to become even more dry with the addition of climate change. Droughts and heat waves can have a deleterious effect on human health. Many rural homes are constructed of highly flammable materials such as reeds and fires can spread quickly during the dry season (World Bank). In its current state, Vietnam’s healthcare system is inadequate to deal with these consequences. Vietnam’s most important crop, rice accounts for 47\% of all agricultural production and is very water intensive. In addition, aquaculture, specifically of catfish and shrimp, is important to rural economies. 
 
-Adapt cities expecting sea level rise
+\subsection*{Urbanization}
 
-Withdraw from the coastlines in areas that are well below sea level
+As climate change forces people out of agricultural villages, more Vietnamese are migrating to cities. The growing proportion of urban Vietnamese poses an issue for infrastructure already vulnerable to weather events during the monsoon season. For example, the rapid development of former wetlands in Ho Chi Minh City has led to poor drainage, exacerbating flooding brought on by storms. The urbanization of rural areas can often damage local aquifers as new residents drill for drinking water. The urban poor are one of the most vulnerable populations to climate disaster as they often have substandard housing, and rely on jobs in the informal economy that come with varied levels of stability. 
 
-What's Needed for the Future
+\section*{Current Adaptation Plans and Policies}
 
-Stronger healthcare system
+\subsection*{Strengthening Barriers and Existing Infrastructure}
 
-Support for farmers and agricultural workers
+The World Bank and United Nations Development Program have both allocated funds to improve and erect barriers in Vietnam. In 2009, the UNDP funded a $180 million dollar project to enhance climate infrastructure, with $168 million specifically dedicated to erecting barriers like sea walls and dykes. 
 
-Support for rural population near Mekong and Red river deltas
+\subsection*{Implementing Effective Policy and Encouraging Collaboration}
 
-\section{Conclusion}
+In addition to just improving physical infrastructure, the UNDP also allocated funds to an exhaustive review of existing environmental policy, especially in rural coastal communities. The UNDP identified several social obstacles to effective climate policy in Vietnam (SCFF). 
 
-Implications for other places in the region
+Vietnam’s climate change policy is handled by three separate government agencies: the Ministry of Agricultural Development (MARD), the Ministry of Construction (MOC), and the Ministry of Natural Resources and the Environment (MONRE). Historically, there has been a lack of collaboration between the three agencies. Construction of climate-resilient infrastructure is handled by MOC, while natural disaster relief is the responsibility of MARD. Climate change preparedness and mitigation is under the scope of MONRE. These three agencies work, for the most part, independently of each other (Garschagen). 
+
+The UNDP identified that institutional knowledge of climate change was lacking, and that administrators were somewhat unwilling to integrate climate into their policy and operations. Local governments were also noted as being indifferent to climate change, not seeing it as a larger threat than already common monsoons and other extreme weather events. 
+
+\subsection*{Ecosystems Based Adaptation}
+
+Ecosystems Based Adaptation, also known as EBA, is an approach to climate adaptation that prioritizes strengthening existing ecosystems. In Vietnam, this usually means strengthening ecosystems to protect against floods, landslides, and land degradation (Nguyen et al). Mangrove forests have historically provided protection during storm surges and their revitalization could be a key part of Vietnam’s EBA. Additionally, forest conservation can aid in retaining soil nutrients and prevent landslides. EBA often comes with co-benefits that can be economic, sociocultural, and promote biodiversity. Despite the effectiveness and affordability of EBA, it is often overlooked in favor of new physical infrastructure. A lack of coordination between provinces and between the aforementioned MONRE, MOC, and MARD can make it difficult to effectively integrate EBA into policy.
+
+\subsubsection*{Three Facets of Adaptation Policy}
+
+The Vietnamese government has outlined three approaches to climate change: full protection, adaptation, and withdrawal. Full protection is the use of physical infrastructure to completely insulate an area. This is seen as an option for important economic centers in cities or cultural landmarks. Adaptation is the prediction and acceptance of some climate-related losses, and the design of new systems compatible with a changed climate. Adaptation is important in the agricultural sector, as farmers find solutions to integrate climate change into their practices. Withdrawal is complete avoidance of climate events by vacating an area extremely at-risk for climate impacts. This tactic will likely be focused in more rural areas of Vietnam. 
+
+\section*{Case Studies in Two Vietnamese Cities}
+
+\subsection*{Can Tho}
+Can Tho is the largest city on Vietnam’s river delta, currently at a population of 1.3 million.  The city sits at a low elevation, an average of only 60-80 cm above sea level. The pace of population growth has not coincided with an improvement in 
+
+\section*{Climate Vulnerable Groups in Vietnam}
+
+\subsection*{Women and Climate}
+Women in Vietnam are an especially climate-vulnerable group. 60\% of Vietnamese women rely on agriculture as their primary source of income, compared to a little under 50\% of men. Therefore, heavy rainfall and storms’ impact on agriculture is more severely felt (World Bank). Furthermore, women heads of households are on the rise in Vietnam, with many women being the sole person carrying the financial burden in their households. Evidence points to women being more likely to put other family members first during climate disasters, at the expense of their own well-being. Additionally, many women in Vietnam lack basic swimming skills as young girls are not encouraged to learn to swim.  This leads many to die avoidable deaths in survivable flooding conditions (World Bank). 
+
+\subsection*{Children and Climate}
+Children are a climate-vulnerable group in Vietnam, not only because of the immediate threat of flooding, but also because of their still developing immune systems that are highly susceptible to water-borne illnesses that spread after floods. Children’s propensity for playing outside can expose them to pollutants in the air and water. Extreme weather events can interrupt schooling and impact the success of a child long-term.
+
+\subsection*{Migration and Climate in Vietnam}
+Not only is climate a major driver of internal migration in Vietnam, it also exposes migrants to environmental hazards caused by climate change. As Vietnam’s agricultural sector continues to produce diminishing returns, many Vietnamese people are leaving the countryside for large cities, with the hope of securing financial opportunities less reliant on the environment. Still, many of these migrants are undocumented and therefore more likely to hold exploitative, dangerous, or unstable jobs in urban centers. Migrants often live in substandard housing that is extremely vulnerable to weather events. The poorly managed nature of urban sprawl in Vietnam’s cities can eliminate ecosystem services formerly provided by surrounding wetlands or forests. 
+
+\section*{Conclusion}
