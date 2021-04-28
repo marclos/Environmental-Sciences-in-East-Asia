@@ -83,8 +83,8 @@
 \contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{31}{section.5.3}
 \contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{32}{section.5.4}
 \contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{33}{section.5.5}
-\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{34}{section.5.6}
-\contentsline {section}{\numberline {5.7}Suggestions}{35}{section.5.7}
+\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{35}{section.5.6}
+\contentsline {section}{\numberline {5.7}Suggestions}{36}{section.5.7}
 \contentsline {chapter}{\numberline {6}Invasive Species}{39}{chapter.6}
 \contentsline {section}{\numberline {6.1}Section Heading}{39}{section.6.1}
 \contentsline {chapter}{\numberline {7}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{41}{chapter.7}
@@ -148,21 +148,21 @@
 \contentsline {section}{\numberline {11.3}Dam Function}{83}{section.11.3}
 \contentsline {subsection}{\numberline {11.3.1}Hydroelectric Generators}{84}{subsection.11.3.1}
 \contentsline {subsection}{\numberline {11.3.2}Dam Type}{85}{subsection.11.3.2}
-\contentsline {subsubsection}{Gravity Dams}{85}{section*.80}
-\contentsline {subsubsection}{Embankment Dams}{85}{section*.81}
+\contentsline {subsubsection}{Gravity Dams}{85}{section*.81}
+\contentsline {subsubsection}{Embankment Dams}{85}{section*.82}
 \contentsline {subsection}{\numberline {11.3.3}Energy}{85}{subsection.11.3.3}
-\contentsline {subsubsection}{Kinetic Energy}{85}{section*.82}
-\contentsline {subsubsection}{Potential Energy}{86}{section*.83}
-\contentsline {subsubsection}{Total Mechanical Energy}{86}{section*.84}
+\contentsline {subsubsection}{Kinetic Energy}{85}{section*.83}
+\contentsline {subsubsection}{Potential Energy}{86}{section*.84}
+\contentsline {subsubsection}{Total Mechanical Energy}{86}{section*.85}
 \contentsline {subsection}{\numberline {11.3.4}Megawatts and Electricity Usage}{86}{subsection.11.3.4}
 \contentsline {section}{\numberline {11.4}Hazards and Flooding}{87}{section.11.4}
 \contentsline {section}{\numberline {11.5}Three Gorges Dam}{87}{section.11.5}
 \contentsline {subsection}{\numberline {11.5.1}Displacement}{88}{subsection.11.5.1}
 \contentsline {subsection}{\numberline {11.5.2}Schistosomiasis}{89}{subsection.11.5.2}
-\contentsline {subsubsection}{Temperature}{89}{section*.85}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{90}{section*.86}
-\contentsline {subsubsection}{Snail Movement}{90}{section*.88}
-\contentsline {subsubsection}{Health Infrastructure}{90}{section*.90}
+\contentsline {subsubsection}{Temperature}{89}{section*.86}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{90}{section*.87}
+\contentsline {subsubsection}{Snail Movement}{90}{section*.89}
+\contentsline {subsubsection}{Health Infrastructure}{90}{section*.91}
 \contentsline {subsection}{\numberline {11.5.3}Eutrophication}{93}{subsection.11.5.3}
 \contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{93}{section.11.6}
 \contentsline {subsection}{\numberline {11.6.1}Food Security}{94}{subsection.11.6.1}
@@ -202,6 +202,6 @@
 \contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{127}{section.16.2}
 \contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{127}{subsection.16.2.1}
 \contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{127}{subsection.16.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{127}{section*.105}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{127}{section*.106}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{127}{section*.106}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{127}{section*.107}
 \contentsline {part}{I\hspace {1em}Backmatter}{129}{part.1}
