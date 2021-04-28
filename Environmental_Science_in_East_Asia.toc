@@ -21,11 +21,11 @@
 \contentsline {subsubsection}{Using Rnw Files}{xi}{section*.11}
 \contentsline {subsubsection}{Creating a floating figure}{xi}{section*.12}
 \contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.14}
-\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xiii}{subsection.0.4.10}
-\contentsline {subsection}{\numberline {0.4.11}minibox X}{xiii}{subsection.0.4.11}
-\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xiii}{subsection.0.4.12}
-\contentsline {subsubsection}{Cross-References}{xiii}{section*.16}
-\contentsline {subsubsection}{Bibliography generation}{xiii}{section*.17}
+\contentsline {subsection}{\numberline {0.4.10}Using Boxes}{xii}{subsection.0.4.10}
+\contentsline {subsection}{\numberline {0.4.11}minibox X}{xii}{subsection.0.4.11}
+\contentsline {subsection}{\numberline {0.4.12}Cross-References, Citations, and Glossaries}{xii}{subsection.0.4.12}
+\contentsline {subsubsection}{Cross-References}{xii}{section*.16}
+\contentsline {subsubsection}{Bibliography generation}{xii}{section*.17}
 \contentsline {subsubsection}{Creating glossary words}{xiii}{section*.18}
 \contentsline {chapter}{Template Chapter Title}{xv}{chapter*.19}
 \contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
@@ -52,64 +52,71 @@
 \contentsline {subsubsection}{Soil Respiration and the Soil Profile}{4}{section*.30}
 \contentsline {section}{\numberline {1.3}Fossil Fuels and Carbon Dioxide Trends}{5}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}The Signal of Geologic and Biosphere Carbon in Atmosphere}{5}{subsection.1.3.1}
-\contentsline {chapter}{\numberline {2}Monsoons and East Asia Climates}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Temperature Gradients and Latitude}{9}{section.2.1}
-\contentsline {chapter}{\numberline {3}Critical Zone}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}What is the Critical Zone}{11}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}What are the environmental implications of the Critical Zone?}{11}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Hydrologic Aspects}{13}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Subsurface Hydrology}{13}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Saturated Zone}{13}{subsection.3.2.2}
-\contentsline {subsubsection}{Aquifers and Aquitards}{13}{section*.35}
-\contentsline {subsubsection}{Confined and Unconfined Aquifers}{13}{section*.36}
-\contentsline {subsubsection}{Ground Water Flow}{13}{section*.37}
-\contentsline {subsection}{\numberline {3.2.3}The Vadose Zone}{14}{subsection.3.2.3}
-\contentsline {chapter}{\numberline {4}Land Use in East Asia}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Impacts on Soil}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{17}{section.4.2}
-\contentsline {chapter}{\numberline {5}Deforestation}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Section Heading}{19}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Subsection Headings}{19}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Overall}{19}{section.5.2}
-\contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{19}{section.5.3}
-\contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{20}{section.5.4}
-\contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{21}{section.5.5}
-\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{22}{section.5.6}
-\contentsline {section}{\numberline {5.7}Suggestions}{23}{section.5.7}
-\contentsline {chapter}{\numberline {6}Invasive Species}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}Section Heading}{25}{section.6.1}
-\contentsline {chapter}{\numberline {7}Nuclear Power and Nuclear Waste}{27}{chapter.7}
-\contentsline {section}{\numberline {7.1}Current and Future Energy Needs}{27}{section.7.1}
-\contentsline {chapter}{\numberline {8}Air Pollution \& Social Justice in Hong Kong}{29}{chapter.8}
-\contentsline {section}{\numberline {8.1}Science of Air Pollution}{29}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Overview of the layers of the atmosphere/atmospheric gases}{29}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Major Sources → Use as geographical overview}{29}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}General common sources of air pollution all over the world}{29}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}East Asian countries/communities and their prominent air pollution sources}{29}{subsection.8.2.2}
-\contentsline {chapter}{\numberline {9}Flood Pulse System in East Asia}{31}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{31}{section.9.1}
-\contentsline {chapter}{\numberline {10}Hydroelectric Dams in East Asia}{33}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduction}{33}{section.10.1}
-\contentsline {section}{\numberline {10.2}Conclusion}{33}{section.10.2}
-\contentsline {chapter}{\numberline {11}Climate Change and Food Security in Myanmar}{35}{chapter.11}
-\contentsline {section}{\numberline {11.1}Climate Change, Climate Change Response in Myanmar}{35}{section.11.1}
-\contentsline {section}{\numberline {11.2}Conclusion}{35}{section.11.2}
-\contentsline {chapter}{\numberline {12}Disasters, Typhoons and Phillipines}{37}{chapter.12}
-\contentsline {section}{\numberline {12.1}What are Typhoons?}{37}{section.12.1}
-\contentsline {chapter}{\numberline {13}Climate Infrastructure in Vietnam}{39}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductory}{39}{section.13.1}
-\contentsline {section}{\numberline {13.2}Conclusion}{39}{section.13.2}
-\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{41}{chapter.14}
-\contentsline {section}{\numberline {14.1}Life-Cycle}{41}{section.14.1}
-\contentsline {subsection}{\numberline {14.1.1}Collection}{41}{subsection.14.1.1}
-\contentsline {subsection}{\numberline {14.1.2}Transport}{41}{subsection.14.1.2}
-\contentsline {section}{\numberline {14.2}Biomimicry}{41}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Circularity}{41}{subsection.14.2.1}
-\contentsline {chapter}{\numberline {15}Plastic and Packaging in Japan}{43}{chapter.15}
-\contentsline {section}{\numberline {15.1}Introductiona and Goals?}{43}{section.15.1}
-\contentsline {section}{\numberline {15.2}Plastic Pollution and Waste Management in East Asia}{43}{section.15.2}
-\contentsline {subsection}{\numberline {15.2.1}Statistics/comparisons}{43}{subsection.15.2.1}
-\contentsline {subsection}{\numberline {15.2.2}History of plastic waste issues in East Asia}{43}{subsection.15.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{43}{section*.39}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{43}{section*.40}
-\contentsline {part}{I\hspace {1em}Backmatter}{45}{part.1}
+\contentsline {chapter}{\numberline {2}Monsoons and East Asia Climates}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Temperature Gradients and Latitude}{7}{section.2.1}
+\contentsline {chapter}{\numberline {3}Critical Zone}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}What is the Critical Zone}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}What are the environmental implications of the Critical Zone?}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Hydrologic Aspects}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Subsurface Hydrology}{11}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Saturated Zone}{11}{subsection.3.2.2}
+\contentsline {subsubsection}{Aquifers and Aquitards}{11}{section*.35}
+\contentsline {subsubsection}{Confined and Unconfined Aquifers}{11}{section*.36}
+\contentsline {subsubsection}{Ground Water Flow}{11}{section*.37}
+\contentsline {subsection}{\numberline {3.2.3}The Vadose Zone}{12}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Land Use in East Asia}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Impacts on Soil}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{15}{section.4.2}
+\contentsline {chapter}{\numberline {5}Deforestation}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Section Heading}{17}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Subsection Headings}{17}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Overall}{17}{section.5.2}
+\contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{17}{section.5.3}
+\contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{18}{section.5.4}
+\contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{19}{section.5.5}
+\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{20}{section.5.6}
+\contentsline {section}{\numberline {5.7}Suggestions}{21}{section.5.7}
+\contentsline {chapter}{\numberline {6}Invasive Species}{23}{chapter.6}
+\contentsline {section}{\numberline {6.1}Section Heading}{23}{section.6.1}
+\contentsline {chapter}{\numberline {7}Nuclear Power and Nuclear Waste}{25}{chapter.7}
+\contentsline {section}{\numberline {7.1}Current and Future Energy Needs}{25}{section.7.1}
+\contentsline {chapter}{\numberline {8}Air Pollution \& Social Justice in Hong Kong}{27}{chapter.8}
+\contentsline {section}{\numberline {8.1}Science of Air Pollution}{27}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Overview of the layers of the atmosphere/atmospheric gases}{27}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Major Sources → Use as geographical overview}{27}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}General common sources of air pollution all over the world}{27}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}East Asian countries/communities and their prominent air pollution sources}{27}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {9}Flood Pulse System in East Asia}{29}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{29}{section.9.1}
+\contentsline {chapter}{\numberline {10}Hydroelectric Dams in East Asia}{31}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{31}{section.10.1}
+\contentsline {section}{\numberline {10.2}Conclusion}{31}{section.10.2}
+\contentsline {chapter}{\numberline {11}The Political Ecology and Economy of Rice in Myanmar}{33}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introduction}{33}{section.11.1}
+\contentsline {section}{\numberline {11.2}Climate and Rice Production}{34}{section.11.2}
+\contentsline {section}{\numberline {11.3}Agricultural Production and Food Insecurity}{34}{section.11.3}
+\contentsline {section}{\numberline {11.4}History of Rice Production in Myanmar}{36}{section.11.4}
+\contentsline {section}{\numberline {11.5}Implications of Climate Change on Rice Production}{38}{section.11.5}
+\contentsline {section}{\numberline {11.6}Increasing Temperatures}{38}{section.11.6}
+\contentsline {section}{\numberline {11.7}Precipitation and flooding}{41}{section.11.7}
+\contentsline {section}{\numberline {11.8}Cyclone Nargis}{42}{section.11.8}
+\contentsline {section}{\numberline {11.9}Conclusion}{42}{section.11.9}
+\contentsline {chapter}{\numberline {12}Disasters, Typhoons and Phillipines}{45}{chapter.12}
+\contentsline {section}{\numberline {12.1}What are Typhoons?}{45}{section.12.1}
+\contentsline {chapter}{\numberline {13}Climate Infrastructure in Vietnam}{47}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductory}{47}{section.13.1}
+\contentsline {section}{\numberline {13.2}Conclusion}{47}{section.13.2}
+\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{49}{chapter.14}
+\contentsline {section}{\numberline {14.1}Life-Cycle}{49}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Collection}{49}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.2}Transport}{49}{subsection.14.1.2}
+\contentsline {section}{\numberline {14.2}Biomimicry}{49}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Circularity}{49}{subsection.14.2.1}
+\contentsline {chapter}{\numberline {15}Plastic and Packaging in Japan}{51}{chapter.15}
+\contentsline {section}{\numberline {15.1}Introductiona and Goals?}{51}{section.15.1}
+\contentsline {section}{\numberline {15.2}Plastic Pollution and Waste Management in East Asia}{51}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Statistics/comparisons}{51}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.2}History of plastic waste issues in East Asia}{51}{subsection.15.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{51}{section*.46}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{51}{section*.47}
+\contentsline {part}{I\hspace {1em}Backmatter}{53}{part.1}

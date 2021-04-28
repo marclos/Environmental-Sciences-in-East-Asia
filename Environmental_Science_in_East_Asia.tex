@@ -431,15 +431,37 @@ For example, here's code to generate a pretty good figure:
 
 
 
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in is.data.frame(data): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in summary(model): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in predict(., test.data): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in mean((pred - obs)\textasciicircum{}2, na.rm = na.rm): object 'predictions' not found}}\end{kframe}
+\end{knitrout}
 
 In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
@@ -537,7 +559,7 @@ First we create an R chunk and add some code. In this case, I created a floating
 
 \subsection{Floating Figures from External Sources}
 
-All figures and images that are imported should be put into the "images" sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
+All figures and images that are imported should be put into the ``images'' sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
 Figure \ref{fig:vadose} is a good example of inserting an image from an external source.
 
@@ -679,9 +701,10 @@ Figure~\ref{fig:maunaloa2}
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa3-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
 \label{fig:maunaloa2}
@@ -1064,58 +1087,107 @@ Policy/government action/regulation  (policies that exist or propose solutions)
 
 
 
-\chapter{Climate Change and Food Security in Myanmar}
+
+
+\chapter{The Political Ecology and Economy of Rice in Myanmar}
+
+\chapterauthor{Lucas Florsheim}
+
+\section{Introduction}
+
+As climate change becomes an increasingly concerning threat to agriculture many countries throughout Southeast Asia are rushing to adopt new agricultural practices that subvert issues like flooding and rising temperatures. According to the IPCC, Southeast Asian food production could fall by up to 30\% BY 2050 If certain agricultural adaptations are not implemented (Wassman et al., 2009). Although specific agricultural adaptations and solutions differ depending on climate and region, several scientists have outlined the general changes that will need to be implemented to sustain food production in the face of the climate crisis. 
+Adaptive options for confronting issues related to increasing temperatures and hydrological disruption include incorporating crops that are heat-resistant and less vulnerable to salinity stress, improving water management, altering crop management practices, implementing resource-conserving technologies (RCTs), diversifying crops, improving pest management, and creating better weather forecasts and crop insurance (Wassman et al., 2009). While there is significant scientific evidence that these methods will indeed work to sustain agricultural production in countries throughout Southeast Asia, many of these adaptations may not be feasible implementations for developing countries with complex political structure and history. 
+Myanmar certainly fits the bill of having a convoluted government and political history. Since its independence from Great Britain in 1948, the country has fallen victim to several coups and has been ruled by its military for most of the last 70 years. Leading up to the Green Revolution in the 19660s, Myanmar was one of the top rice exporters in the world (Naing et. al, 2008). The deltaic regions of Myanmar had an advantage over other rice producing areas as deep-water or floating rice systems were routinely used the country’s military government was not initially invested in implementing new agricultural methods and thus fell behind other leading rice exporters. Just as lack of infrastructure and varying priorities caused Myanmar to lose its spot as the top rice exporter in the latter half of the 20th century, these factors now actively inhibit the country from performing the necessary implementations in response to the agricultural issues posed by the climate crisis. 
+Myanmar has made tremendous progress towards democracy in the last 20 years. This progress culminated in a democratically elected parliament being sworn in 2016, with the elections of 2015 being the first openly contested election since 1990. A democratically elected government is necessary to execute the sweeping agricultural adaptions and to introduce the infrastructure needed to combat the effects of climate change. Earlier this year the military of Myanmar, led by General Min Aung Hlaing declared a national emergency and seized control of the country in a coup d’état. The military is now in sole control of the county’s operations and infrastructure and has spent the last several months attempting to qual both peaceful protests and armed civilian resistance (Goldman, 2021). The overwhelming majority of Burmese people are in absolute opposition to military governance, resulting in daily protests since the coup took place. Since the military seized power on February 1st, over 600 civilians have died at the hands of the government, and thousands more have been injured and arrested (Goldman, 2021). 
+Combatting the effects of climate change and ensuring food security in Myanmar through sustainable rice production is only possible if the country is politically stable. A history of political unrest and conflict inhibiting proper infrastructure and development indicates that Myanmar will struggle to adopt the agricultural adaptations that experts recommend to mitigate the environmental problems of the coming century. In this chapter we will examine the political economies and ecology of rice in Myanmar throughout history as well as the potential climate related threats to rice production. It is through this analysis that we will attempt to understand the implications of the current state of Myanmar’s government on the future of the country’s rice production in the era of climate change. 
+
+\section{Climate and Rice Production}
+Being one of the largest countries in Southeast Asia, Myanmar experiences several different climates, varying greatly based upon region. The most northern parts of the country feature humid sub-tropical climate with hot and humid summers and mild winters. The Northeastern part of the country experiences a temperate oceanic climate meaning warm summers without significant seasonal differences in precipitation. The rain-fed rice producing regions in the South of the country are in either Tropical Savanna or Monsoon climate zones. Tropical Savannah climate classifications are defined by having distinct and differing wet and dry seasons. Monsoon climates are very similar to Tropical Savanna climates, but experience significantly heavier rainfall. Precipitation and minimum and maximum temperatures not only show substantial variation across the country but are also greatly impacted by monsoons. 
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image1.jpg}
+\caption{Average annual precipitation in Asia, the rainfed rice-producing region of Myanmar is circled in red}
+\end{figure}
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image2.jpg}
+\caption{Climate Classifications of Southeast Asia, with the rice-producing region circled in red}
+\end{figure}
+
+Temperatures are generally lower in the mountainous regions to the North, whereas the southern portion of the country is much warmer and wetter and therefore more suitable for rice production (Naing et. al, 2008) Ayeyarwady, Yangon, and Bago are the three major rice growing divisions in Myanmar, all of which are in the Southern part of the country. 
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image3.jpg}
+\caption{Map of regions in Myanmar}
+\end{figure}
+
+The Irrawaddy delta is responsible for 68\% of Myanmar’s rice production (Brackenridge et al., 2016). River basins and deltas are the most ideal for rice agriculture, as fertile sediment deposited by water, known as alluvial soil, is naturally provided, and monsoon rainfall is prevalent in such floodplains. (Naing et. al, 2008). Rice cultivation in Myanmar relies heavily on deep-water rice production, meaning flooding of up to 100 cm results in increased growth and higher yields.
+ 
+\section{Agricultural Production and Food Insecurity}
+Jobs in food production make up over 80\% of the workforce in Myanmar, 70\% of these jobs are in rice production. Despite relying on an agricultural economy, Myanmar has historically struggled to feed its population. In 2019, the Myanmar Ministry of Health and Sports conducted a study that revealed that 1 in every 3 families in Myanmar is food insecure and facing problems related to undernutrition (Hlaing et al., 2019). Because the majority of the Burmese people work in agriculture, it is important to understand the sources of economic and food insecurities of individuals. In a survey that involved 22 NGOs in Myanmar, it was concluded that hunger in agricultural communities is heavily tied to farmer’s limited access to markets, land tenure rights, and lagging and ineffective agricultural environments and technology (Elkharouf and Pritchard, 2019). Many farmers do not have the infrastructure to reach sellers or traders and contract-based farming is a relatively new phenomenon as Myanmar liberated their markets in 2011. In addition, complicated land tenure rules often lead to disputes over agricultural land and leave loopholes for Myanmar to seize farmland. Furthermore, lack of access to quality seeds and proper agricultural technology has been economically detrimental to many farming communities. 
+
+\section{History of Rice Production in Myanmar}
+Before the second World War, Myanmar was the world leader in rice production (Kurosaki (Crop choice, farm income article), 2008). While the country has remained among the top 10, rice production became increasingly unstable in the following decades. In the late 1970s Myanmar’s government sponsored a project called the Whole Township Paddy Production Program (WTPP) that aimed to extend the agricultural season and increase yields (Naing et. al, 2008). Previously, rice was a monsoon crop with a season that lasted from the end of May until November. The WTTP introduced new grains classified as high yielding varieties (HYVs) which were intended to completely redefine the limits of the country’s rice production. These HYVs were better equipped to handle closer spacing and fertilizers heavier in nitrogen, as well as more continuous methods of cropping (Naing et. al, 2008).
+	The implementation of HYVs alongside technological advancements in irrigation have both contributed to an extended crop season, as well the ability to plant several crops on the same farm simultaneously, known as multiple cropping (Naing et. al, 2008). While rice production increased in the years immediately following the use of HYVs and launch of WTPP, the growth has since stagnated and increases in yields have not persisted into the 21st century. (Naing et. al, 2008).
+	In addition to government funded programs such as the WTPP, increases in rice production have been attributed to the gradual deregulation of Myanmar’s economy (Kurosaki, 2008). Myanmar’s government associated rice production with overall food security, and therefore political stability (Kurosaki, 2008). This association led to continued reforms to expand rice production, some of which involved small steps towards privatization in the agricultural sphere (Kurosaki, 2008). In the late 1980s Myanmar’s government began to permit farmers to sell surplus crops in private marketplaces. Furthermore, in 2003 the government opened up rice exports to private traders, although private exports remained extremely limited and restricted over the following decade. 
+	Throughout the 2000s farmers were obligated to follow three key agricultural mandates enforced by the Myanmar government. Farmers were solely given the right of tillage, meaning they could not lease, inherit, or mortgage their own farmland (Kurosaki, 2008). In addition, farmers were required to meet a quota, which was approximately 20\% of the gross yield (Kurosaki, 2008). Lastly, farmers had to follow official policy in terms of crop patterns and farm planning and were in danger of losing their tillage rights if they strayed from the government regulations (Kurosaki, 2008).
+	
+\section{Implications of Climate Change on Rice Production}
+According to the Asian Development Bank (ADB), the effects of climate change are expected to result in a decrease in rice paddy yield across all Asian sub-regions of up to 20\% by 2050 (Sinnarong et. al, 2019). A simulation using climate projections from Thailand’s Development and Coordination Center for Global Warming and Climate Change, and the Southeast Asia START Regional Center, an environmental organization founded by the National Research Council of Thailand and Chulalongkorn University, created a regional climate modelling system that could be used to predict changes in precipitation and temperature and the subsequent consequences on the economy. This simulation combined macroeconomic theory, crop modeling, and information from a study by the Asian Development Bank and revealed that the fluctuations in temperature and precipitation associated with the effects of climate change ultimately result in the instability of prices of rice and other crops across 73 provinces in Thailand (Sinnarong et. al, 2019). Although the model was specific to a 20 km x 20 km region in Thailand, its implications can certainly be applied to neighboring Myanmar. While the unpredictability of temperature and precipitation pose significant threats to Myanmar’s agricultural economy, extreme weather and sea-level rise are also expected to have a negative effect on rice production in deltas such as the Irrawaddy River Basin (Furuya et. al, 2013). To understand the future of rice production in Myanmar, it is critical to understand the effects that climate change has on rice production. In this section the ways in which increasing temperatures, increasing variability in precipitation patterns, and other climate change related factors have been found to decrease average rice yield will be explored.
+
+\section{Increasing Temperatures}
+One effect of climate change that has a significant impact on rice production are increasing temperatures. In Myanmar, the warmest months occur directly before monsoon season, from March to June. During these months, the Southern coastal regions of the country experience temperatures well above 36° Celsius (C), which is beyond the critical limits of heat tolerance for rice (Wassmann et al., 2009). A study conducted by Dr. Shao-Bing Peng of Huazhong Agricultural University concluded that rice yield can decrease by up to 10\% for each 1° (C) increase in minimum temperatures during the dry-season, which occurs from October to May in Myanmar (Peng et. al, 2004). Rising temperatures are more significant in the winter months, lasting from November to February, than in the summer as it is expected that there will be a more prominent increase in minimum temperatures than maximum temperatures annually (Wassmann et al., 2009). 
+High heat stresses rice crop during the most vulnerable periods of the plant’s production cycle. The growth rate of rice increases linearly as temperatures increase from 22° C to 31° C, and then decreases significantly beyond that point (Wassmann et al., 2009). In the vegetative stage, the period of growth between germination and flowering, temperatures hotter than 35° C have an extremely negative affect on photosynthetic carbon fixation. At high temperatures kinetic energy increases and bonds within cellular membranes loosen which creates a reorganization of its thylakoid stacks, or grana. (Karim et al., 1997), This heat-induced reaction can reduce photosynthesis by over 35\% (Oh-e et al., 2007.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image4.jpg}
+\caption{Comparison of an undisturbed (stacked) chloroplast and the swelling of the grana that is induced by heat}
+\end{figure}
+
+ During the reproductive stage the meristem, the tissue on the tips of roots and shoots that is responsible for the production of new cells, begins producing flowers. It is during this phase when rice plants experience spikelet sterility because of high temperatures (R. Wassmann et al., 2009). Spikelet sterility refers to reduced fertility in florets, in this case caused by reduced pollen production as a result of increased temperatures. Regarding the ripening period, also known as grain filling, high temperatures have been shown to greatly decreased grain weight and size because of excessive energy consumption that occurs to meet increased respiratory demands that are associated with warm temperatures (R. Wassmann et al., 2009). As a result of negative effects that occur at multiple different stages in the production cycle of rice, rice yield can decrease by as much as 39.6\% if the crop experiences temperatures above 35 ° C (Xiong et al., 2017).
+ 
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image5.jpg}
+\caption{The effects of high temperature stress on male and female reproductive phases. Although high temperatures effects both male and female functions, studies show that high temperature predominantly reduces rice grain size by impairing the production of pollen--R. Wassmann et al., 2009.}
+\end{figure}
+
+According to the National Oceanic and Atmospheric Administration (NOAA) from 2018 to 2019 global sea level rise (SLR) was 6.1 mm. Over the last 100 years, the average SLR has been 1.8mm (Chen et al., 2009). SLR is projected to increase up to 5 m by 2100 as a result of melting glaciers, ice sheets, and ice caps (Dasgupta et al., 2009). While this melting does not usually occur in tropical regions, the implications of SLR are experienced throughout South East Asia. SLR is associated with several environmental issues that are prevalent in Myanmar including coastal erosion, flooding, changed in ground quality and subsequent decreases in agricultural production (Chen et al., 2009).
+	For each meter of SLR, Myanmar is projected to lose 0.85\% of its rice cropland (Chen et al., 2009). If long term estimations are correct, a 5-meter increase in sea level could result in a loss of over 6.5\% of Myanmar’s available rice cropland and up to an approximately 10\% decline in rice production (Chen et al., 2009). Under these circumstances the price of rice could jump by as much as 22\%, which would have a massive impact on food security regionally in Myanmar, and worldwide (Chen et al., 2009). According to the World Bank Myanmar has a poverty-rate of 37\% (The World Bank, 2021). Moreover, people in Myanmar spend 60\% of their income on food (The World Bank, 2021) meaning the price of a staple food like rice rising could have disastrous implications for the average Burmese person.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image6.jpg}
+\caption{Percentage of agricultural land lost under projected SLR for a number of vulnerable countries --Chen et al., 2009.}
+\end{figure}
+
+\section{Precipitation and flooding}
+
+Rice is predominantly grown in monsoon season in Myanmar, which lasts from May to October. Rice paddies require extremely large amounts of water and are often grown in rain-fed river deltas. Most years during monsoon season these rain-fed deltas produce as much rice as the dry-zones, mountainous and coastal regions combined (Myint et, al., 2018—wiki). While rice cannot be grown without adequate levels or rainfall, heavy precipitation and extreme weather result in flooding which has proven to be an increasingly prevalent problem for Myanmar’s rice farmers over the last 50 years.
+	Flooding is not uncommon in Myanmar, in fact, it is expected and it integral to agricultural practices that help to sustain Myanmar’s economy. The climate of Myanmar is tropical monsoon, and its flood climate it barotropic, meaning lower winds and less severe storms than other flood climates (Hayden, 1988). Rainfall is usually heaviest during the southwest monsoon (May to October), while the northwest monsoon is associated with a much cooler and drier season (Brackenridge et al., 2016). The average rainfall in the coastal and river-delta regions ranges from 4000-6000 mm annually (Brackenridge et al., 2016). 
+	Myanmar’s unique geomorphology has a large effect on the way in which flooding occurs in the country. 
+	
+La Niña, the cold phase of the El Niño-Southern Oscillation (ENSO) cycle, heavily influences flooding in Myanmar. The wettest conditions and most extreme weather are often associated with La Niña years in Myanmar. In addition to La Niña, other large-scale weather circulations, defined as tropical or global changes in atmospheric and oceanic patterns and weather, affect precipitation and flooding in Myanmar. The Madden-Julian Oscillation (MJO) is a 30-90 day weather pattern associated with anomalous and intense rainfall in Myanmar (Brackenridge et al., 2016).  The Indian Ocean Dipole (IOD) has the opposite effect as it causes warm and wet conditions in the Western Indian Ocean but acts as an inhibiter to rainfall during monsoon season in Myanmar (Brackenridge et al., 2016). The Pacific Decadal Oscillation (PDO) is also important to consider as its cold phase induced nearly twice the number of tropical storms as during its warm phases (Brackenridge et al., 2016). Weather patterns and seasonal oscillations greatly influence rainfall, flooding, and agricultural planning. Preparing for and predicating these oscillations and relaying information to farmers throughout Myanmar has proven to be a difficult task. In the case of extreme weather events, lack of communication and infrastructure can prove to be economically detrimental and deadly. 
+
+\begin{figure}
+\includegraphics[width=\linewidth]{Graphics/Image7.jpg}
+\caption{Inundation along the upper Ayeyarwady river in the state of Kachin during normal winter flow (top), monsoon season flow (middle), and unusual flooding—usually tied to extreme weather-- bottom}
+\end{figure}
+
+\section{Cyclone Nargis}
+Cyclone Nargis was a Category 3 tropical storm that struck Myanmar in May of 2008. Cyclones are low pressure storms that form in the Indian Ocean and are similar to the typhoons that occur in the western Pacific and the hurricanes that occur in the eastern Pacific and Atlantic (Seekins, 2009). The regions that were predominantly affected were the Ayeyarwady Delta, the Yangon region, and other parts of Southern Myanmar, which are all prominent rice producing regions in the country. Upwards 140,000 people died, and buildings and croplands were devastated by a 4-meter-high storm surge, which is a temporary rise in sea level as a result of a tropical storm (Seekins, 2009). 
+	When Nargis first hit Myanmar, the storm surge flooded approximately 5,200 sqaure km of coastal land and low-lying land, contaminating thousands of rice fields with salt water. An estimated 404, 858 hectares of cropland were inundated by saline water (Seekins, 2009). 
 
 
 
-\section{Climate Change, Climate Change Response in Myanmar}
+	
+	
 
 
-General history of rice production and food demand in Myanmar. 
-
-Impact on credit policy on rice 
-
-Impact of infrastructure development on rice production
-
-Study of the constraints of rice production in Myanmar
-
-The effect of a command economy on food production in Myanmar 
-
-Overall review on demand for food in Myanmar 
-
-Possible implementation of SRI (systemic rice intensification) in order to increase rice yields in Myanmar
-
-Transition from talking about rice production
-
-sea-level rise
-
-subsidence
-
-coastal erosion
-
-coastal flooding
-
-Impact of climate change on rice production in Southeast Asia
-
-Monsoon Season effect on Ayeyarwady River Badin
-
-Sea Level Rise 
-
-Sea level rise effect on global markets/rice production
-
-
-Subsidence
-
-Subsidence in Yangon, Myanmar
-
-interview segments/personal experiences of rice farmers
-
-
-Roles of the Burmese government
 
 \section{Conclusion}
 
-Reminders/Areas of Focus
+
+
+
 
 
 
