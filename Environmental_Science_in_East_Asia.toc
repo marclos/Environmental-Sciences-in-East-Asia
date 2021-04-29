@@ -99,24 +99,25 @@
 \contentsline {section}{\numberline {11.5}Implications of Climate Change on Rice Production}{38}{section.11.5}
 \contentsline {section}{\numberline {11.6}Increasing Temperatures}{38}{section.11.6}
 \contentsline {section}{\numberline {11.7}Precipitation and flooding}{41}{section.11.7}
-\contentsline {section}{\numberline {11.8}Cyclone Nargis}{42}{section.11.8}
-\contentsline {section}{\numberline {11.9}Conclusion}{42}{section.11.9}
-\contentsline {chapter}{\numberline {12}Disasters, Typhoons and Phillipines}{45}{chapter.12}
-\contentsline {section}{\numberline {12.1}What are Typhoons?}{45}{section.12.1}
-\contentsline {chapter}{\numberline {13}Climate Infrastructure in Vietnam}{47}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductory}{47}{section.13.1}
-\contentsline {section}{\numberline {13.2}Conclusion}{47}{section.13.2}
-\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{49}{chapter.14}
-\contentsline {section}{\numberline {14.1}Life-Cycle}{49}{section.14.1}
-\contentsline {subsection}{\numberline {14.1.1}Collection}{49}{subsection.14.1.1}
-\contentsline {subsection}{\numberline {14.1.2}Transport}{49}{subsection.14.1.2}
-\contentsline {section}{\numberline {14.2}Biomimicry}{49}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Circularity}{49}{subsection.14.2.1}
-\contentsline {chapter}{\numberline {15}Plastic and Packaging in Japan}{51}{chapter.15}
-\contentsline {section}{\numberline {15.1}Introductiona and Goals?}{51}{section.15.1}
-\contentsline {section}{\numberline {15.2}Plastic Pollution and Waste Management in East Asia}{51}{section.15.2}
-\contentsline {subsection}{\numberline {15.2.1}Statistics/comparisons}{51}{subsection.15.2.1}
-\contentsline {subsection}{\numberline {15.2.2}History of plastic waste issues in East Asia}{51}{subsection.15.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{51}{section*.46}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{51}{section*.47}
-\contentsline {part}{I\hspace {1em}Backmatter}{53}{part.1}
+\contentsline {section}{\numberline {11.8}Cyclone Nargis}{43}{section.11.8}
+\contentsline {section}{\numberline {11.9}Political History of Rice in Myanmar}{47}{section.11.9}
+\contentsline {section}{\numberline {11.10}Conclusion}{47}{section.11.10}
+\contentsline {chapter}{\numberline {12}Disasters, Typhoons and Phillipines}{49}{chapter.12}
+\contentsline {section}{\numberline {12.1}What are Typhoons?}{49}{section.12.1}
+\contentsline {chapter}{\numberline {13}Climate Infrastructure in Vietnam}{51}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductory}{51}{section.13.1}
+\contentsline {section}{\numberline {13.2}Conclusion}{51}{section.13.2}
+\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{53}{chapter.14}
+\contentsline {section}{\numberline {14.1}Life-Cycle}{53}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Collection}{53}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.2}Transport}{53}{subsection.14.1.2}
+\contentsline {section}{\numberline {14.2}Biomimicry}{53}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Circularity}{53}{subsection.14.2.1}
+\contentsline {chapter}{\numberline {15}Plastic and Packaging in Japan}{55}{chapter.15}
+\contentsline {section}{\numberline {15.1}Introductiona and Goals?}{55}{section.15.1}
+\contentsline {section}{\numberline {15.2}Plastic Pollution and Waste Management in East Asia}{55}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Statistics/comparisons}{55}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.2}History of plastic waste issues in East Asia}{55}{subsection.15.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{55}{section*.48}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{55}{section*.49}
+\contentsline {part}{I\hspace {1em}Backmatter}{57}{part.1}
