@@ -1,37 +1,121 @@
-\chapter{Flood Pulse System in East Asia}\label{ch:floodpulse}
+\chapter{Flood Pulse System of the Mekong River and Tonle Sap}\label{ch:floodpulse}
 
 \chapterauthor{Kristin Gabriel}
 
-\section{Introduction}
-ddd
-What is the flood pulse system?
+\section{Introducing the Mekong and Tonle Sap}
 
-Seasonality
+\subsection{The River-Lake System}
+
+The Mekong River and Tonle Sap Lake function as one of the most important river-lake systems in the world. The river itself runs through six countries: China, Myanmar, Thailand, Lao PDR, Cambodia, and Vietnam (Figure~\ref{fig:tonlesap}). The Mekong river is currently ranked as the 10th largest river by volume on the planet, while the Tonle Sap is the largest freshwater lake in Southeast Asia.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/floodpulse/TonleSapMap}
+\caption{Map of Tonle Sap (Source: Wikicommons}
+\label{fig:tonlesap}
+\end{figure}
+
+Throughout the year, the Mekong River experiences significant flow alterations due to the seasonal monsoon (FIND SOURCE). Because of this, the water level in the Tonle Sap is controlled by the water level in the Mekong main stem.
+
+Because of the unique weather patterns of southeast Asia and connection between the Mekong and Tonle Sap, a unique flood pulse system is created. The flood usually lasts an average of 258 days, or 71\% of the year. On average, the flood begins at the end of June, peaks at the beginning of October, and ends in early March, with some variation of course. During the wet season, the Tonle Sap's size expands by about four or five times, and this water then flows into the Mekong during the dry season as its level drops (Evans et al. 2004). This creates a distinctive flow pattern, in which the river's main stem actually flows in opposing directions in the flood season and dry season (SOURCE).
+
+The Tonle Sap ecosystem is also one of the most heavily relied-upon ecosystems in the world. The lake is especially important to those in Cambodia and the lower Mekong Basin; in this area, over one million people depend on the natural resources of the lake . In many areas of the basin, water resources are used intensively at a small-scale loval level. However, the Mekong basin is under rapid development, including the construction of large-scale hydropower dams, deforestation, development, and climate change . However, recent research has found that the construction of dams and other development activities may significantly alter the hydrology, and therefore the health, of the ecosystem.
+
+\section{What is the Flood Pulse System?}
+
+Scientists who study riverive systems, such as water flow, channel morphology dynamics, and plant and animal organisms have tried to characterize streams to better understand them and make predictions about them. 
+
+The Flood-Pulse Concept does exactly this. By acknowledging how rivers can extend well beyond their low flow channels and flood a broad lowlying area on a seasonal basis is a clear pattern of certain rivers, especially those that experience highly seasonal rainfall that is a characteristic of monsoon climates.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/floodpulse/flood-pulse-concept-of-Bayley-1995.png}
+\end{figure}
+
+\subsection{Habitats in the Flood-Pulse System}
+
+\begin{description}
+  \item[Lotic Zone]
+  \item[Lentic Zone]
+  \item[Floodplains] The floodplain vegetation is one of the most important elements of the Tonle Sap ecosystem. Because  they are inseparable in terms of water, sediment, and shared organic material, rivers and their respective floodplains are considered the same unit, and they work as a combined river-floodplain system. Floodplains are defined ecologically as areas that are periodically inundated by the lateral overflow of rivers or lakes, and/or by direct precipitation or groundwater (The flood pulse concept in river flood-pulse systems).  The river-floodplain system comprises a permanent moving-water ecosystem (lotic), a permanent marshy, stillwater habitat (lentic), and the floodplain. Despite many researchers’ efforts, it is impossible to apply stable and defined borders between land and water in any floodplain.
+\end{description}
+
+\subsection{Organisms}
+This p  eriodic flooding produces similar anatomical and physiological adaptations in the organisms inhabiting different areas affected by the same phenomenon, and it produces characteristic community structures. The life cycles of organisms in the floodplain are very related to the timing, duration, and rate of rise and fall of the flood pulse system. As an ecosystem, floodplains are very unique because they have both aquatic and terrestrial phases. This leads to specific adaptations among both aquatic and terrestrial animals. For example, aquatic organisms are selected to populate the floodplain at rising and high levels because of the abundance of food. Conversely, terrestrial organisms have adapted to take advantage of the floodplain at low water levels.
+
+\subsection{Nutrient Patterns}
+The  lateral exchange of nutrients between floodplain and river channel has the most direct impact on the biota of the ecosystem. The floodplains receive all nutrients directly from the main channel; however, because of their differing biogeochemical cycles to the Mekong River and Tonle Sap, the floodplains develop a different nutrient profile (The flood pulse concept in river flood-pulse systems). These nutrients include both organic and inorganic compounds, that can be further divided up into gaseous compounds, dissolved solids, and particulate matter.
+
+\subsection{Hydrology}
+
+\subsubsection{Climate, Monsoons, and the Holocene}
+
+@article{penny2006holocene,
+  title={The Holocene history and development of the Tonle Sap, Cambodia},
+  author={Penny, Dan},
+  journal={Quaternary Science Reviews},
+  volume={25},
+  number={3-4},
+  pages={310--322},
+  year={2006},
+  publisher={Elsevier}
+}
+
+\subsubsection{Ecosystem Productivity}
+
+The Tonle Sap ecosystem is widely perceived as an ecosystem with naturally high productivity. The Asian Development Bank even considers the productivity of the lake to be ``among the highest in the world'', and this is widely believed to be because of the flood pulse system itself. However, most of the beliefs surrounding the ecosystem productivity of the Tonle Sap actually refer to fisheries production and productivity. Despite fish catch statistics being incomplete and historically unreliable, there has been no research or specific data collected to determine either the primary or secondary productivity of the ecosystem.
+
+Therefore, fish catch data must be used as an indication of ecosystem productivity in this situation. Another powerful indication of the ecosystem's productivity is the livelihoods that are supported, either directly or indirectly, completely or partially, by the river-lake system.
+
+Because the surrounding communities and other users of the lake’s natural resources are especially dependent on its productivity, the lake's ability to support these communities’ livelihoods is a robust way of determining its productive capacity. This also makes the ecosystem's productivity especially important, in that it is not only a key factor of environmental health, but it is also a key determining factor for social equity and economic welfare.
+
+Ask: what is the best way to talk about fish catch data? It seems very all over the place from family fisheries to large scale operations. Would a description/summarization of the data be helpful, or should I just summarize overall findings and trends?
+
+\section{People and the Flood Pulse System}
+
+\subsection{Anthropology}
+	The Tonle Sap's abundance of fish and sustenance has been documented for centuries. It has even been hypothesized that the Tonle Sap's productivity was the basis for the development of the Khmer Empire: The huge productivity of the Tonle Sap sustained a Khmer empire at Angkor from 802 C.E. until the fifteenth century. (Evanssourcefromthissource) 
+
+\subsection{Human Impacts on the Flood Pulse System}
+
+\subsubsection{Hydropower Development}
+
+\subsubsection{Climate Change}
+
+\subsubsection{Urbanization and Development}
+
+Main focuses:
+•	Importance of flood patterns
+o	Not just a diagram, but also math about how floods are measured/work
+o	Some equations/acknowledgement of hydrology that looks at flood patterns and that can also tie in with the climate change section
+•	Define lentic and lotic
+o	Identify groups of organisms that like the different types of organisms
+o	Then we can link that in the productivity section
+o	Look at California levee that broke and filled in farmland and the fish were more successful in the flooded zone
+o	Carbon input and insects in floodplains look at carbon input in lotic zone and lentic as well
+•	River continuum concept
+o	Historical development, the flood pulse system was in response to the river continuum concept
+o	Ignores the lateral movement of  water
+o	This will be helpful in the lotic zone of the river
+o	Only covers part of the reality
+o	Flood pulse model only covers part of the reality too. So we need to put them together!!
+•	Use case studies of specific fish to explain the larger processes going on in the river
+o	Can even use case studies from north America and Europe and hypothesize about what could be parallel in the Mekong
+•	Don’t pretend like you know all the answers, invite questions, and POSE questions
+•	Ecosystem Productivity: tell the reader how fisheries are measured and WHY that’s uncertain
+o	Also define primary productivity and secondary productivity and how that’s measured in real life, like how do scientists figure that out
+•	Look up river culture: an eco-social approach
+•	Values of inland fisheries in the Mekong river basin
+•	Influence of built structures on the tonle sap ecosystem
+•	Civil society and interdependencies chapter on the tonle sap
+•	Ngo doing toilets on the lake, what local ngos are doing
+•	Look at Lucas’ article “Design With Nature” for inspiration
+•	Should I include the Delta in Vietnam?? Food for thought
+•	
+
 
 Ecosystem Services
 
 Fish stocks
 
-Flooded forests
-
-How the flood pulse system influences the Tonle Sap Ecosystem
-
-Timing of Flood Pulse
-
-Magnitude of Flood Pulse
-
-Duration of Flood Pulse
-
-Influence of flood pulse system on people and their livelihoods
-
 Fisheries
 
 Immigration and emigration
-
-Human Impacts on the flood pulse system
-
-Climate change
-
-Dam development
-
-Case Study: Cambodia and the Tonle Sap
