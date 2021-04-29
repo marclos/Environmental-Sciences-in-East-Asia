@@ -2,5 +2,11 @@
 
 \section{Temperature Gradients and Latitude}
 
+\subsection{Monsoon -- Dominant Climate for SE Asia}
 
+Monsoons are identified with copious seasonal rainfall as well as with steady seasonal winds, which reverse their direction in a persistent manner with surprising regularity. The term `monsoon' has its origin in the Arabic word `mausim', which means season. Seamen used this word for many centuries to describe a system of alternating winds over the Indian Ocean and Arabian Seawhich blow from the north-east for six months and from the south-west for the remaining six months. In general, the shift in seasonal wind is about 120$\degree$, which is mainly caused by the differential heating of land and ocean. Monsoon winds are most pronounced in the summer season of either hemisphere. The monsoons blow over East Asia, South Asia, Africa, and northern parts of Australia. Recently the presence of a monsoon has also been recognized over south-western parts of North American continent. Overall, about half the tropics or a quarter of the surface area of the entire globe may be defined as having a monsoon climate.
+
+The annual cycle of the monsoon contains two strong components. One is the summer monsoon, which lasts almost from June to September. The second component, the winter monsoon, lasts roughly from December through February. The summer monsoon in southern Asia is a huge climate system in which the Indian monsoon and the East Asian monsoon are the principal constituents.
+
+For millions of people in monsoon regions, monsoon rainfall is the only accessible source of water. If the monsoon fails, people's lifestyles can be severely disrupted. Accurate prediction of monsoon onset and quantum of monsoon rainfall for a few days up to a season can make a difference between agricultural success and failure. Accurate monsoon forecasts with sufficient lead times are also required for government action and public response. Similarly, prolonged droughts and floods can bring excess hardship to the people in the monsoon region. These may lead to loss of life and property, and a heavy economic burden on the people as well as on the government.
 

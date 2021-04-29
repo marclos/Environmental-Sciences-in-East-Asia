@@ -1,10 +1,12 @@
 \chapter{\LaTeX Guide}\label{ch:guide}
 
-\subsection*{Why Learn \LaTeX?}
+\section*{Why Learn \LaTeX?}
+
+\subsection*{Creating Professional Typesetting}
 
 In the past, I used \LaTeX to make publication quality text. In fact, many prefer writing in \LaTeX because they can focus on the text and avoid worrying about formatting. However, it is NOT WYSIWYG (``what you see is what you get'') word processor. In reality, the processing or compiling is a separate step. 
 
-Nevertheless, the quality of the output and ability to integrate with R (or Python) allows us to have an exceptional tool to make reproducible documents. 
+Nevertheless, the quality of the output and ability to integrate with R (or Python) allows us to have an exceptional tool to make reproducible documents with highly professional looking typesetting.
 
 \subsection*{How to Learn \LaTeX?}
 
@@ -39,7 +41,7 @@ Because this is an ongoing project, you should record your contribution to each 
 
 Currently, the text is written using the standard book class. %However, in 2019, I (Los Huertos) will convert the format to a Tufte book class. 
 
-\subsection{Structuring the Text with Nested Hierarchies}
+\subsection*{Structuring the Text with Nested Hierarchies}
 
 Contributors divide their contributions into sections and subsections. This format allows a consistent approach to structuring the text and forcing themes to be organized in blocks that can be used to organize the overall text. We use section, subsection, and subsubsection to break up the topic into bite sizes. 
 
@@ -49,7 +51,7 @@ NOTE: for each nested level, it MUST be followed by the lowest level in the sect
 
 NOTE: We may dispense with subsubsections in the future to provide a less blocky structure, but for now they remain useful. 
 
-\subsection{Font Changes}
+\subsection*{Font Changes}
 
 We can use various methods to alter the typeset: \emph{Emphasize}, \textbf{Bold}, \textit{Italics}, and \textsl{Slanted}. We can also typeset \textrm{Roman}, \textsf{Sans Serif}, \textsc{Small Caps}, and \texttt{Typewriter} texts.  Look online to see the commands to accomplish these changes. 
 
@@ -75,7 +77,7 @@ The Quotation environment is used for quotations of more than one paragraph. Fol
 \begin{quotation}
 LaTeX (/ˈlɑːtɛx/ LAH-tekh or /ˈleɪtɛx/ LAY-tekh, often stylized as \LaTeX) is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in ``What You See Is What You Get'' word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, and letter), to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A \TeX distribution such as \TeX Live or MiK\TeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.
 
-LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, statistics, computer science, engineering, physics, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. \LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.''
+\LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, statistics, computer science, engineering, physics, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. \LaTeX uses the \TeX typesetting program for formatting its output, and is itself written in the TeX macro language.''
 \end{quotation}
 
 Use the Verbatim environment if you want \LaTeX\ to preserve spacing, perhaps when
@@ -90,7 +92,7 @@ str(my.dataframe) // display data structure
 (After selecting the text click on Insert, Code Environments, Code.)
 
 
-\subsection{Mathematics and Specialized Characters}\label{sub:mathchar}
+\subsection*{Mathematics and Specialized Characters}\label{sub:mathchar}
 
 \subsubsection*{Warning: Special Characters}
 
@@ -146,7 +148,7 @@ The above equations are automatically numbered as equation (\ref{eqn10}) and
 (\ref{eqn20}).
 
 
-\subsection{Lists Environments: Making bulletted, numbered, description lists}
+\subsection*{Lists Environments: Making bulletted, numbered, description lists}
 
 We use special commands to create an itemized list.
 
@@ -199,7 +201,7 @@ description of that term.
 \item[Bunyip] Mythical beast of Australian Aboriginal legends.
 \end{description}
 
-\subsection{Theorem-Like Environments}
+\subsection*{Theorem-Like Environments}
 
 The following theorem-like environments (in alphabetical order) are available
 in this style.
@@ -249,23 +251,23 @@ This is a theorem
 %[Proof of the Main Theorem]This is the proof.
 %\end{proof}
 
-%\subsubsection{``Child'' Rnw Contributions}
+\subsubsection*{``Child'' Rnw Contributions to create a Textbook}
 
-%This is a chapter that we can input into the text... you will each create a chapter without the preamble and begin and end document... that can be integrated into a single book! 
+To create the texbook, we will each contribut chapters, which are referred to in knitr speak as a `child'. For each `child' or chapter, will be a sepreate Rnw fild, but without the need for the preamble, such as the \verb"\begin{document}" and \verb"\end{document}", which is pretty handy. Then each chapter has the exact same formatting as defined in the root document, which you have to select in the project options. 
 
-\subsection{Peer Review Commenting}
+\subsection*{Peer Review Commenting}
 
-You can put your comments in square brackets and in color for things that need help. \textcolor{red}{[This section is confusing, I am not sure what commenting means.]}
+You can put your comments in square brackets and in color for things that need help. \textcolor{red}{[This section is confusing, I am not sure what commenting means.]} I have created a short cut command to do this with \verb"\red{}". 
 
-\subsection{Adding Figures, etc}
+\subsection*{Adding Figures, etc}
 
-\subsubsection{Using Rnw Files}
+\subsubsection*{Using Rnw Files}
 
 To generate R figures, we use R chunks in and Rnw file, where the text is integreated. When we compile into a PDF, the program converts the files into TeX files and then combineds them into a single pdf. 
 
 For each chapter, we create a ``child'' document and Marc will help you create that text when you begin. 
 
-\subsubsection{Creating a floating figure}
+\subsubsection*{Creating a floating figure}
 
 This is my floating figure (Figure \ref{fig:plot}).
 
@@ -275,7 +277,7 @@ This is my floating figure (Figure \ref{fig:plot}).
 \label{fig:plot}
 \end{figure}
 
-\subsubsection{Using R to Create Effective Figures}
+\subsubsection*{Using R to Create Effective Figures}
 
 R Markdown can be a very powerful tool to integrate R code, figures and text. Making high quality figures that are both clear and aestically pleasing will be something that we need to think about it. 
 
@@ -287,7 +289,7 @@ R Markdown can be a very powerful tool to integrate R code, figures and text. Ma
   \item ADA accessible (e.g. color impairment mitigation)
 \end{itemize}
 
-For example, here's code to generate a pretty good figure: 
+For example, here's an example of a pretty good figure, and you can find the code in the 01-guide.Rnw file.
 
 <<updatedmaunaloa, echo=FALSE, results='hide', eval=FALSE>>=
 address <- "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
@@ -299,11 +301,11 @@ maunaloa$average[maunaloa$average==-99.99] <- NA
 maunaloa <- data.frame(year=maunaloa$year, month=maunaloa$month, decimal.date=maunaloa$decimal.date, average=maunaloa$average)
 head(maunaloa)
 str(maunaloa)
-write.csv(maunaloa, file = "/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv", eol = "\n", row.names = F)
+write.csv(maunaloa, file = "../data/maunaloa.csv", eol = "\n", row.names = F)
 @
 
 <<analyzingdata, echo=FALSE, results=FALSE, warning=FALSE, message=FALSE>>=
-maunaloa = read.csv("/home/CAMPUS/mwl04747/github/Environmental-Sciences-in-East-Asia/data/maunaloa.csv")
+maunaloa = read.csv("../data/maunaloa.csv")
 library(dplyr, quietly=TRUE)
 #library(tidyverse, quietly=TRUE)
 library(caret)
@@ -346,7 +348,7 @@ ggplot(train.data, aes(decimal.date, average) ) +
 \label{fig:co2-graphic}
 \end{figure}
 
-\subsection{Using Boxes}
+\subsection*{Using Boxes}
 
 \fbox{
 \begin{minipage}[c]{.9\textwidth}
@@ -356,15 +358,15 @@ Some text
 \end{minipage}
 }
 
-\subsection{Cross-References, Citations, and Glossaries}
+\section*{Cross-References, Citations, and Glossaries}
 
-\subsubsection{Cross-References}
+\subsection*{Cross-References}
 
 We can cross-reference sections (e.g. Section~\ref{ch:critical-zone}  or figures (Figure~\ref{fig:maunaloa}) using several methods. I suggest you look at the this Rmd file to see how I did it in these examples.
 
 You can also create links to URLs or hyperlinks, e.g. \url{http://texblog.org}. However, if these addresses change, then the link will break, so I suggest you only link to internal references.
 
-\subsubsection{Bibliography generation}
+\subsection*{Bibliography generation}
 
 There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our respository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
 
@@ -376,13 +378,28 @@ Note: You will see these citations automatically put in alphabetic order in the 
 
 %Currently, we are using the ecology.bst, but it has trouble with misc type of references, so I will changing this in 2019. 
 
-\subsubsection{Creating glossary words}
+\subsection*{Creating glossary words}
  
+Not sure why, I haven't been getting this to work yet -- stay tuned!
+
+
 \newglossaryentry{peat}{
 	name=peat, 
 	description={is cool.}
 }
 
 \begin{definition}
-This is a definition and the word is use in an glossary, e.g. \gls{peat}. \Gls{peat} is when you want to capitalize the defined word without having to re-define a capitalized version, the only downside of case sensitivity in \LaTeX.
+This would be used in a glossary entry at the end of the book and the word is use in an glossary, e.g. \gls{peat}. \Gls{peat} is when you want to capitalize the defined word without having to re-define a capitalized version, the only downside of case sensitivity in \LaTeX.
 \end{definition}
+
+\section*{Custom Environments}
+
+For text that we rely on many times, but require odd key strokes and hard to remember code, we can create new commands as shortcuts. 
+
+For example, I have created two so far:
+
+\verb"\carbondioxide}", \carbondioxide
+
+and 
+
+\verb"\kms", \kms
