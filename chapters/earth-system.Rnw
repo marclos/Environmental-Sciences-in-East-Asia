@@ -81,9 +81,7 @@ As part if the industrial revolution, our energy sources have put more \carbondi
 
 \subsection{The Signal of Geologic and Biosphere Carbon in Atmosphere}
 
-The combined contribution from geologic and biosphere carbon in the atmosphere is clearly documented from numerous sources. First, look at data collected at the Mauna Loa where \carbondioxide measurements have been taken continuously since the late 1950s. 
-
-Figure~\ref{fig:maunaloa2}
+The combined contribution from geologic and biosphere carbon in the atmosphere is clearly documented from numerous sources. First, look at data collected at the Mauna Loa where \carbondioxide measurements have been taken continuously since the late 1950s (Figure~\ref{fig:maunaloa2}).
 
 \begin{figure}
 <<maunaloa3, echo=FALSE>>=
