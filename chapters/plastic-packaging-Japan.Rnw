@@ -19,7 +19,7 @@ Waste management became a mounting problem in the face of urbanization. Landfill
 Figure \ref{fig:konbini}
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/JapanPlastics/groceries.png}
+\includegraphics[width=\linewidth]{JapanPlastics/groceries.png}
 \caption{talk about Kobini categories. Source: citewashingtonpost.}
 \label{fig:konbini}
 \end{figure}
@@ -27,7 +27,7 @@ Figure \ref{fig:konbini}
 Figure \ref{fig:wealthwaste}
 
 \begin{figure}[h]
-\includegraphics[width=\linewidth]{images/JapanPlastics/wealthwaste.png}
+\includegraphics[width=\linewidth]{JapanPlastics/wealthwaste.png}
 \caption{Consumption and disposal rose with urbanization. Source: citeSMWRT.}
 \label{fig:wealthwaste}
 \end{figure}
@@ -66,7 +66,7 @@ While microplastics and other ``mismanaged'' plastic waste pose health problems 
 
 
 \begin{figure}[h]
-\includegraphics[width=\linewidth]{images/JapanPlastics/legalhis.png}
+\includegraphics[width=\linewidth]{JapanPlastics/legalhis.png}
 \caption{legal history of waste management legislation in japan. Source: citeSMWRT.}
 \label{fig:legalhis}
 \end{figure}
@@ -74,7 +74,7 @@ While microplastics and other ``mismanaged'' plastic waste pose health problems 
 Figure \ref{fig:rcycle}[h]
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/JapanPlastics/Rcycle.png}
+\includegraphics[width=\linewidth]{JapanPlastics/Rcycle.png}
 \caption{How Japan disposes of discarded plastic. As you can see, most discarded plastic ends up in some recycling category. For the purpose of this chapter, lets unpack the``Incineration'' and ``Exported for recycling'' categories. Source: citeDenyer2017.}
 \label{fig:rcycle}
 \end{figure}
