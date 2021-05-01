@@ -161,21 +161,21 @@
 \contentsline {section}{\numberline {11.3}Dam Function}{75}{section.11.3}
 \contentsline {subsection}{\numberline {11.3.1}Hydroelectric Generators}{75}{subsection.11.3.1}
 \contentsline {subsection}{\numberline {11.3.2}Dam Type}{75}{subsection.11.3.2}
-\contentsline {subsubsection}{Gravity Dams}{75}{section*.64}
-\contentsline {subsubsection}{Embankment Dams}{77}{section*.65}
+\contentsline {subsubsection}{Gravity Dams}{75}{section*.63}
+\contentsline {subsubsection}{Embankment Dams}{77}{section*.64}
 \contentsline {subsection}{\numberline {11.3.3}Energy}{77}{subsection.11.3.3}
-\contentsline {subsubsection}{Kinetic Energy}{77}{section*.66}
-\contentsline {subsubsection}{Potential Energy}{77}{section*.67}
-\contentsline {subsubsection}{Total Mechanical Energy}{78}{section*.68}
+\contentsline {subsubsection}{Kinetic Energy}{77}{section*.65}
+\contentsline {subsubsection}{Potential Energy}{77}{section*.66}
+\contentsline {subsubsection}{Total Mechanical Energy}{78}{section*.67}
 \contentsline {subsection}{\numberline {11.3.4}Megawatts and Electricity Usage}{78}{subsection.11.3.4}
 \contentsline {section}{\numberline {11.4}Hazards and Flooding}{78}{section.11.4}
 \contentsline {section}{\numberline {11.5}Three Gorges Dam}{79}{section.11.5}
 \contentsline {subsection}{\numberline {11.5.1}Displacement}{80}{subsection.11.5.1}
 \contentsline {subsection}{\numberline {11.5.2}Schistosomiasis}{80}{subsection.11.5.2}
-\contentsline {subsubsection}{Temperature}{81}{section*.69}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{81}{section*.70}
-\contentsline {subsubsection}{Snail Movement}{81}{section*.72}
-\contentsline {subsubsection}{Health Infrastructure}{84}{section*.74}
+\contentsline {subsubsection}{Temperature}{81}{section*.68}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{81}{section*.69}
+\contentsline {subsubsection}{Snail Movement}{81}{section*.71}
+\contentsline {subsubsection}{Health Infrastructure}{84}{section*.73}
 \contentsline {subsection}{\numberline {11.5.3}Eutrophication}{84}{subsection.11.5.3}
 \contentsline {section}{\numberline {11.6}Social Systems and Infrastructure}{84}{section.11.6}
 \contentsline {subsection}{\numberline {11.6.1}Food Security}{85}{subsection.11.6.1}
@@ -209,6 +209,6 @@
 \contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{109}{section.16.2}
 \contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{109}{subsection.16.2.1}
 \contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{109}{subsection.16.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{109}{section*.82}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{109}{section*.83}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{109}{section*.81}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{109}{section*.82}
 \contentsline {part}{I\hspace {1em}Backmatter}{111}{part.1}
