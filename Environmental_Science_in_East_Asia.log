@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  22 APR 2021 12:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  1 MAY 2021 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1536,14 +1536,14 @@ LaTeX Warning: Reference `fig:maunaloa' on page xii undefined on input line 484
 
 Package xcolor Warning: Incompatible color definition on input line 547.
 
-<figure/fig:pressure-1.pdf, id=657, 505.89pt x 505.89pt>
+<figure/fig:pressure-1.pdf, id=647, 505.89pt x 505.89pt>
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
 Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 552.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
  [15] [16 <./figure/fig:pressure-1.pdf>]
-<images/Lee-Vadose.png, id=675, 949.5475pt x 411.5375pt>
+<images/Lee-Vadose.png, id=665, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
@@ -1556,7 +1556,7 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 567.
 ]
 Chapter 1.
 
-<images/earth-system/earth-rad-budget-nasa-erbe.png, id=706, 746.79pt x 558.085
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=696, 746.79pt x 558.085
 pt>
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
@@ -1565,7 +1565,7 @@ Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
 d on input line 624.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
-<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=709, 476.78125pt 
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=699, 476.78125pt 
 x 421.575pt>
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
@@ -1574,7 +1574,7 @@ Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
 pg used on input line 636.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
-<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=711, 215
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=701, 215
 .1293pt x 140.50633pt>
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
@@ -1601,7 +1601,7 @@ l.663 \end{figure}
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
  667.
 
-<images/earth-system/long-term-carbon.png, id=726, 436.63126pt x 252.945pt>
+<images/earth-system/long-term-carbon.png, id=716, 436.63126pt x 252.945pt>
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
@@ -1614,7 +1614,7 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 681
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
-<images/earth-system/Q10-SOC-Regulation.jpg, id=735, 367.3725pt x 243.15843pt>
+<images/earth-system/Q10-SOC-Regulation.jpg, id=725, 367.3725pt x 243.15843pt>
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
 
 <use images/earth-system/Q10-SOC-Regulation.jpg>
@@ -1643,7 +1643,7 @@ Chapter 2.
 
 ]
 Chapter 3.
-<images/critical-zone/criticalzone.jpg, id=769, 411.5375pt x 301.125pt>
+<images/critical-zone/criticalzone.jpg, id=759, 411.5375pt x 301.125pt>
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
@@ -1651,7 +1651,7 @@ Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
 ne 749.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
  [9] [10 <./images/critical-zone/criticalzone.jpg>]
-<images/critical-zone/groundwater.png, id=782, 285.065pt x 183.68625pt>
+<images/critical-zone/groundwater.png, id=772, 285.065pt x 183.68625pt>
 File: images/critical-zone/groundwater.png Graphic file (type png)
 
 <use images/critical-zone/groundwater.png>
@@ -1663,7 +1663,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-<images/critical-zone/Lee-Vadose.png, id=794, 949.5475pt x 411.5375pt>
+<images/critical-zone/Lee-Vadose.png, id=784, 949.5475pt x 411.5375pt>
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
@@ -1691,15 +1691,7 @@ Missing character: There is no “ in font cmbx12!
 Missing character: There is no â in font cmbx12!
 Missing character: There is no € in font cmbx12!
 Missing character: There is no “ in font cmbx12!
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-[20]
-Underfull \vbox (badness 3792) has occurred while \output is active []
-
- [21]
-[22]
+ [18] [19] [20] [21] [22]
 Chapter 6.
 [23
 
@@ -1747,13 +1739,13 @@ Chapter 14.
 ]
 Chapter 15.
 
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 1276--1277
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 1287--1288
 [][][]$\OT1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]
 plastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \OT1/cmr/m/n/10 (found
  []
 
 [41]
-Overfull \hbox (54.87589pt too wide) in paragraph at lines 1300--1301
+Overfull \hbox (54.87589pt too wide) in paragraph at lines 1311--1312
 [][][]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 1
 0 . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
@@ -1766,27 +1758,27 @@ No file Environmental_Science_in_East_Asia.gls.
 (./Environmental_Science_in_East_Asia.bbl [45] [46
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1321.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1332.
  [47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1321.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1332.
 
 (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1321.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1321.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1332.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
-(rerunfilecheck)             Checksum: 4BB60149E21BD0846E86C62709CEA855;7406.
+(rerunfilecheck)             Checksum: 6145182107807B318B74E4F9597252B7;7271.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 29566 strings out of 494820
- 557047 string characters out of 3178050
+ 29562 strings out of 494820
+ 556989 string characters out of 3178050
  625298 words of memory out of 3000000
- 31940 multiletter control sequences out of 15000+200000
+ 31938 multiletter control sequences out of 15000+200000
  32874 words of font info for 124 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  56i,11n,73p,3632b,925s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1819,11 +1811,11 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (69 pages, 950265 byte
+Output written on Environmental_Science_in_East_Asia.pdf (69 pages, 953576 byte
 s).
 PDF statistics:
- 1122 PDF objects out of 1200 (max. 8388607)
- 987 compressed objects within 10 object streams
- 229 named destinations out of 1000 (max. 500000)
- 847 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1111 PDF objects out of 1200 (max. 8388607)
+ 976 compressed objects within 10 object streams
+ 227 named destinations out of 1000 (max. 500000)
+ 831 words of extra memory for PDF output out of 10000 (max. 10000000)
 
