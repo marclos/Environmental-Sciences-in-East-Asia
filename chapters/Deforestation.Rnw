@@ -4,7 +4,7 @@
 
 \footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
-\red{I added my comments from before, it looks like you didn't get them. Be sure to pull my changes -- if you have seen these then just delete top section, but It looks like you didn't.}.
+\red{I added my comments from before, it looks like you didn't get them. Be sure to pull my changes}.
 
 
 \section{Overall}\red{not a very descriptive heading\ldots}
