@@ -19,15 +19,17 @@ some text here.... and a subsubsection cross reference (See Section \ref{subsub:
 
 \section{Goals of this template}
 
+\subsection{Learning \LaTeX}
+
 This template will NOT teach you how to use \LaTeX! To accomplish that, we'll rely on some great online resources that you can find on in Chapter~\ref{ch:guide}. 
 
 Instead this section of the document is designed to demonstrate how our textbook will look, feel, and ultimately how we contribute to the project.
 
 This document also compiles all of our projects into a single PDF, where each chapter is composed of a input tex file.
 
-\section{Here's figure}
+\subsection{Placing figure}
 
-\subsection{R Created Figures}
+\subsubsection{R Created Figures}
 
 First we create an R chunk and add some code. In this case, I created a floating figure which can be referenced (Figure~\ref{fig:pressure})!  
 
@@ -40,7 +42,7 @@ plot(pressure)
 
 \end{figure}
 
-\subsection{Floating Figures from External Sources}
+\subsubsection{Floating Figures from External Sources}
 
 All figures and images that are imported should be put into the ``images'' sudirectory to keep stuff organized. Even better to create a subdirectory with your images, but we can naviagate as we go.
 
@@ -54,7 +56,7 @@ Figure \ref{fig:vadose} is a good example of inserting an image from an external
 
 In this case, I had to specify the width so it would fit on the page!  See the Rnw file for the code. Notice, I was also abel to ``reference'' the figure in the text.
 
-\section{Adding Citations}
+\subsection{Adding Citations}
 
 See the Guide, as well, but my video is probably the most helpful.
 

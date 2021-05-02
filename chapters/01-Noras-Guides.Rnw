@@ -1,6 +1,4 @@
-\documentclass{article}
-
-\chapter{Plastic}
+\chapter{Nora's Practice Sessions}
 
 \chapterauthor{Nora}
 
@@ -15,7 +13,8 @@ $\rightarrow$
 6. commit - TEST NEW PROJECT PUSH TO BRANCH at 2:04
       did it work? 2:03 est
       YES 2:16 est
-____________________________________
+
+
 1. added Marc's repo as the "upstream" to be able to pull from his branch when things are changed there
 2. tried to fetch from marc's EA30e21 branch. - SUCCESSFUL
 3. no need to use the "git merge origin EA30e21 "code
@@ -23,7 +22,7 @@ ____________________________________
     did it work? 7:45 est
     YES 7:51 est
 
-\section{What the Polar Vortex and why do we care?}
+\section{Testing Various Push and Pull Options}
 
 test commit and pull request 
 
