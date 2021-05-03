@@ -24,11 +24,7 @@ I will regularly push and publish the results of the text based on submissions.
 
 ### Using R Markdown {-}
 
-In the past, I used \LaTeX to make publication quality text, but because we will to make this into a on-line resource, creating HTML code is a better option. 
 
-R Markdown is a relatively simple language to use and will allow us to integrate text and data science into the web text. 
-
-I have provided some basic resources for R Markdown, but there are numerous electronic resources available for free that can also be consulted.
 
 
 
