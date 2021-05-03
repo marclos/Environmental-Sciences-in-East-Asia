@@ -113,19 +113,19 @@
 \contentsline {subsection}{\numberline {7.2.2}Rising Sea Level}{44}{subsection.7.2.2}
 \contentsline {subsection}{\numberline {7.2.3}Ocean Warming and Acidification}{45}{subsection.7.2.3}
 \contentsline {subsection}{\numberline {7.2.4}Coral Bleaching}{46}{subsection.7.2.4}
-\contentsline {section}{\numberline {7.3}Unsustainable Fishing Practices}{47}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}The Live Reef Fish Trade}{47}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.3}Unsustainable Fishing Practices}{48}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}The Live Reef Fish Trade}{48}{subsection.7.3.1}
 \contentsline {subsection}{\numberline {7.3.2}Cyanide and Blast Fishing}{48}{subsection.7.3.2}
 \contentsline {subsection}{\numberline {7.3.3}Economic Drivers and Indigenous Contributions}{50}{subsection.7.3.3}
-\contentsline {section}{\numberline {7.4}Reefs Pollutants}{50}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Marine Debris and Ocean Contaminants}{50}{subsection.7.4.1}
+\contentsline {section}{\numberline {7.4}Reefs Pollutants}{51}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Marine Debris and Ocean Contaminants}{51}{subsection.7.4.1}
 \contentsline {subsection}{\numberline {7.4.2}Development, Industrialization, and the Agta People}{52}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Deforestation and Agriculture}{53}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.3}Deforestation and Agriculture}{54}{subsection.7.4.3}
 \contentsline {subsection}{\numberline {7.4.4}Coral Diseases}{54}{subsection.7.4.4}
 \contentsline {section}{\numberline {7.5}Reef Ecosystem Services}{55}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Biomedicine}{55}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}Food Sources}{56}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}Tourism and the Tagbanua}{57}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.3}Tourism and the Tagbanua}{58}{subsection.7.5.3}
 \contentsline {subsection}{\numberline {7.5.4}Coastline Protection}{59}{subsection.7.5.4}
 \contentsline {subsection}{\numberline {7.5.5}The Sentinelese People}{60}{subsection.7.5.5}
 \contentsline {section}{\numberline {7.6}Reef Restoration, Protection, and Conservation}{60}{section.7.6}

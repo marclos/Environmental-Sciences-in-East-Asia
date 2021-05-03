@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  1 MAY 2021 12:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  2 MAY 2021 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1913,7 +1913,7 @@ File: images/reeffoodweb.png Graphic file (type png)
 
 <use images/reeffoodweb.png>
 Package pdftex.def Info: images/reeffoodweb.png used on input line 1130.
-(pdftex.def)             Requested size: 216.81pt x 157.9724pt.
+(pdftex.def)             Requested size: 325.215pt x 236.96121pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1945,34 +1945,30 @@ Missing character: There is no ™ in font cmr9!
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [40 <./images/reeffoodweb.png>]
-<images/reefcycles.png, id=1466, 292.09125pt x 270.00874pt>
+<images/reefcycles.png, id=1465, 292.09125pt x 270.00874pt>
 File: images/reefcycles.png Graphic file (type png)
 
 <use images/reefcycles.png>
 Package pdftex.def Info: images/reefcycles.png used on input line 1154.
-(pdftex.def)             Requested size: 216.81pt x 200.42545pt.
+(pdftex.def)             Requested size: 303.53267pt x 280.60881pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[41 <./images/urchin.jpg>]
-<images/reefmap.png, id=1486, 469.755pt x 346.29375pt>
+[41 <./images/urchin.jpg>] [42 <./images/reefcycles.png>]
+<images/reefmap.png, id=1491, 469.755pt x 346.29375pt>
 File: images/reefmap.png Graphic file (type png)
 
 <use images/reefmap.png>
 Package pdftex.def Info: images/reefmap.png used on input line 1167.
 (pdftex.def)             Requested size: 260.17464pt x 191.79372pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Overfull \hbox (38.54742pt too wide) in paragraph at lines 1175--1190
 [][] 
  []
 
-[42 <./images/reefcycles.png>] [43 <./images/reefmap.png>] [44]
-<images/acidification2_med.jpg, id=1543, 820.06375pt x 325.215pt>
+[43 <./images/reefmap.png>] [44]
+<images/acidification2_med.jpg, id=1541, 820.06375pt x 325.215pt>
 File: images/acidification2_med.jpg Graphic file (type jpg)
 
 <use images/acidification2_med.jpg>
@@ -1983,35 +1979,38 @@ Package pdftex.def Info: images/acidification2_med.jpg used on input line 1220.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[45] <images/coralbleach.png, id=1569, 469.755pt x 313.17pt>
+[45] [46 <./images/acidification2_med.jpg>]
+<images/coralbleach.png, id=1576, 469.755pt x 313.17pt>
 File: images/coralbleach.png Graphic file (type png)
 
 <use images/coralbleach.png>
 Package pdftex.def Info: images/coralbleach.png used on input line 1240.
 (pdftex.def)             Requested size: 260.17464pt x 173.44823pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[46 <./images/acidification2_med.jpg>] [47 <./images/coralbleach.png>]
-<images/cyanidefishing.jpg, id=1604, 1134.2375pt x 756.8275pt>
+ [47 <./images/coralbleach.png>] [48]
+<images/cyanidefishing.jpg, id=1611, 1134.2375pt x 756.8275pt>
 File: images/cyanidefishing.jpg Graphic file (type jpg)
 
 <use images/cyanidefishing.jpg>
 Package pdftex.def Info: images/cyanidefishing.jpg used on input line 1270.
 (pdftex.def)             Requested size: 303.53267pt x 202.53308pt.
- [48]
+ [49 <./images/cyanidefishing.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49 <./images/cyanidefishing.jpg>] [50]
+ [50]
 <images/plasticsuff.jpg, id=1648, 1204.5pt x 632.3625pt>
 File: images/plasticsuff.jpg Graphic file (type jpg)
 
 <use images/plasticsuff.jpg>
 Package pdftex.def Info: images/plasticsuff.jpg used on input line 1298.
 (pdftex.def)             Requested size: 303.53267pt x 159.35426pt.
- [51 <./images/plasticsuff.jpg>] [52] [53]
-<images/coraldisease.png, id=1710, 469.755pt x 353.32pt>
+ [51 <./images/plasticsuff.jpg>] [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+[54] <images/coraldisease.png, id=1716, 469.755pt x 353.32pt>
 File: images/coraldisease.png Graphic file (type png)
 
 <use images/coraldisease.png>
@@ -2023,26 +2022,22 @@ Missing character: There is no ™ in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[54]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
  [55 <./images/coraldisease.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [56]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
 
-<images/tagfish.png, id=1758, 366.36874pt x 366.36874pt>
+<images/tagfish.png, id=1762, 366.36874pt x 366.36874pt>
 File: images/tagfish.png Graphic file (type png)
 
 <use images/tagfish.png>
@@ -2054,11 +2049,13 @@ Missing character: There is no ™ in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
- [56]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./images/tagfish.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [57 <./images/tagfish.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -2790,7 +2787,7 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (145 pages, 15135662 b
+Output written on Environmental_Science_in_East_Asia.pdf (145 pages, 15124327 b
 ytes).
 PDF statistics:
  2467 PDF objects out of 2487 (max. 8388607)

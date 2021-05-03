@@ -43,7 +43,7 @@ The coral reef food web (Figure~\ref{fig:ExampleReefFoodWeb}), or the relationsh
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.5\linewidth]{images/reeffoodweb}
+\includegraphics[width=0.75\linewidth]{images/reeffoodweb}
 \caption{Food webs like the one displayed above illustrate the many different feeding interactions within the reef ecosystem. No food web can be completely comprehensive, as the reefs are home to thousands of different species, all interacting with each other. Species may fall into multiple trophic levels depending on their diet and feeding interactions. Food webs like the one shown above provide simplified examples of the feeding relationships and energy transfers within the ecosystem.\citep{https://doi.org/10.1890/15-1492.1}.}
 \label{fig:ExampleReefFoodWeb}
 \end{figure}
@@ -67,7 +67,7 @@ Coral reefs require a delicate balance of nutrients and external conditions, whi
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.5\linewidth]{images/reefcycles}
+\includegraphics[width=0.70\linewidth]{images/reefcycles}
 \caption{The above cycles and reciprocal processes are vital for coral growth and survival.They will be further discussed in the following paragraph. Figure from: \citep{https://doi.org/10.1002/fee.2088}. } 
 \label{fig:ReefEcosystemFunctioningandIntrisnsicDrivers}
 \end{figure}
@@ -129,7 +129,7 @@ The negative effects of sea level rise on the coral reef ecosystem are relativel
 
 Climate change has already begun to negatively impact reefs in quantifiable ways that can be observed at the molecular level.As greenhouse gases are released and trapped in the atmosphere, they prevent heat escape and also contribute to smog and air pollution. The primary greenhouse gas, carbon dioxide (\carbondioxide), is released in high amounts when fossil fuels like coal and natural gases are burned for energy. Fossil fuel emissions release carbon dioxide into the atmosphere, but a third of the \carbondioxide is absorbed by the ocean. The increase in greenhouse gases emissions from fossil fuel burning contributes to both the warming of the planet and the acidification of the ocean\citep{Keller2009ClimateCC}. 
 
-As atmosphereic carbon dioxide dissolves in the ocean, it reacts with water to create carbonic acid. This carbonic acid then dissociates into bicarbonate, releasing protons in the process.These protons, when added to the water, lower the pH, making it more acidic (Figure~\ref{fig:OceanAcidifcationChemicalReactionandItsCarbonateRelation}). Since the Industrial Revolution, a 0.1 pH drop has been observed on the ocean surface, and this drop is expected to increase as global emissions continue and \carbondioxide concentrations rise. In more acidic conditions, corals struggle to efficiently create their hard skeletons \citep{Keller2009ClimateCC}. The carbonate ion saturation, or aragonite saturation, is crucial for skeletal growth, as the carbonate ion is one of the two necessary ingredients needed for limestone formation. The bicarbonate ion formed by the carbonic acid-carbonate interactions is unusable to corals, thus slowing skeletal growth (see figure for complete chemical process) Today, up to 60\% of reefs persist in waters with inadequate aragonite saturations \citep{Ayala_2009}.\red{I suggest I put this into a one of the earlier chapters so you can reference this and now have to cover this in this chapter\ldots}
+As atmosphereic carbon dioxide dissolves in the ocean, it reacts with water to create carbonic acid. This carbonic acid then dissociates into bicarbonate, releasing protons in the process.These protons, when added to the water, lower the pH, making it more acidic (Figure~\ref{fig:OceanAcidifcationChemicalReactionandItsCarbonateRelation}). Since the Industrial Revolution, a 0.1 pH drop has been observed on the ocean surface, and this drop is expected to increase as global emissions continue and \carbondioxide concentrations rise. In more acidic conditions, corals struggle to efficiently create their hard skeletons \citep{Keller2009ClimateCC}. The carbonate ion saturation, or aragonite saturation, is crucial for skeletal growth, as the carbonate ion is one of the two necessary ingredients needed for limestone formation. The bicarbonate ion formed by the carbonic acid-carbonate interactions is unusable to corals, thus slowing skeletal growth (see figure for complete chemical process) Today, up to 60\% of reefs persist in waters with inadequate aragonite saturations \citep{Ayala_2009}.
 
 \begin{figure}[h!]
 \centering
