@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-\begin{thebibliography}{58}
-=======
-\begin{thebibliography}{47}
->>>>>>> 6ada3302cc803d69bca3425a8de1e798780522d6
+\begin{thebibliography}{62}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -292,6 +288,11 @@ Qin, S., L.~Chen, K.~Fang, Q.~Zhang, J.~Wang, F.~Liu, J.~Yu, and Y.~Yang. 2019.
   protection and microbial communities.
 \newblock Science Advances, {\bf 5}.
 \newblock \urlprefix\url{https://advances.sciencemag.org/content/5/7/eaau1218}.
+
+\bibitem[{Ref(Year)}]{REF}
+Ref. Year.
+\newblock {REFERENCE}({S}) {TO} {BE} {ADDED}.
+\newblock .
 
 \bibitem[{Reichert et~al.(2018)Reichert, Schellenberg, Schubert, and
   Wilke}]{12907334620180601}
