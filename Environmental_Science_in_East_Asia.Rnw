@@ -130,7 +130,7 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/deforestation.Rnw'>>=
+<<chapterchild, child='chapters/Deforestation.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/invasive-species.Rnw'>>=
