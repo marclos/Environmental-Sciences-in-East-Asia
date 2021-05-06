@@ -5,53 +5,129 @@
 \section{Former Residents of Balui}
 The Bakun Dam in Malaysia displaced dozens of Indignous and local communities. A series of case studies was conducted with the community forcibly displaced to government-controlled Sungai Asap in September 2002. \red{let's introduce these folks with a more nuanced approach}The following quotes are pulled from anonymously interviewed Indigenous village members on comparing the conditions of their original home (Balui) and the resettlement in Sungai Asap. They are translated to English as directly as is possible. 
 
-\red{let's see if the quote blocks look more pleasings\ldots, but also we can use a trick to get rid of the subsection \#s if you want}
-\fbox{
-\begin{minipage}[c]{.9\textwidth}
 \subsection{On Survival}
-``Life has been difficult for us since we moved to this area a few years ago. Now we are running out of means to buy our foodstuffs to pay our water and electricity bills. You just look at the electricity meters up there, supplies have been cut off as we have not been able to settle our electricity bill for months.''
-\end{minipage}
-}
+\begin{quote}
+``Life has been difficult for us since we moved to this area a few years ago. Now we are running out of means to buy our foodstuffs to pay our water and electricity bills. You just look at the electricity meters up there, supplies have been cut off as we have not been able to settle our electricity bill for months.'' \emph{}
+\end{quote}
 
-\fbox{
-\begin{minipage}[c]{.9\textwidth}
 \subsection{On Social Change and Economic Development}
-``I don’t think the Bakun project has brought us social and economic development as claimed by the government. The environment here is just not suitable for us \red{\ldots works better for etc}… Last time we did not have to worry about our daily consumption because we got everything from the forest. Now everything is so different. No money, no food. Just look at the three acres of farmland allocated to me; it takes me about 20 to 25 minutes by land cruiser to get there. Yes, the government built the road for us but where is the means of transport? A return trip from here (Sungai Kojan) to my farmland in Sungai Asap cost me RM4 (US \$1.05). That is very costly for me.''
-\end{minipage}
-}
+\begin{quote}
+``I don’t think the Bakun project has brought us social and economic development as claimed by the government. The environment here is just not suitable for us. Last time we did not have to worry about our daily consumption because we got everything from the forest. Now everything is so different. No money, no food. Just look at the three acres of farmland allocated to me; it takes me about 20 to 25 minutes by land cruiser to get there. Yes, the government built the road for us but where is the means of transport? A return trip from here (Sungai Kojan) to my farmland in Sungai Asap cost me RM4 (US \$1.05). That is very costly for me.''
+\end{quote}
 
-\fbox{
-\begin{minipage}[c]{.9\textwidth}
+
 \subsection{On Returning Home}
+\begin{quote}
  [If given the chance, would you return to your original settlement?] 
  
 ``Of course! [The] former settlement is better. Furthermore, when we are asked to pay for the house installment amounting to RM52,000 (US 13,684), we are ''habits'' [finished]. Where do we have the means to pay? Makan pun susah [Eating is also a problem]. By then, we have no choice but to go back to the jungle.'' 
-\end{minipage}
-}
+\end{quote}
 
 \red{great intro! I wonder if a map to locate us or some images might be useful?}
 
 \section{Introduction}
-    There exist over 48,000 hydroelectric dams\red{this is a measure of dams at a certain height, I suspect?} worldwide (WWF Global, 2015)\red{might not be the best source} and have caused the forced displacement of between 40 and 80 million peopled (Hai, 2016). Hydroelectric dams account for 19\% of the world's electricity needs, in and some countries such as Vietnam, hydropower can cover up to 37\% of the country’s energy production. \red{but we stared with the island of borneo\ldots, can we circle back to that?} 
+    Megadams across the globe have caused the forced displacement of between 40 and 80 million peopled (Hai, 2016). Hydroelectric dams account for 19\% of the world's electricity needs. In Sarawak, Malaysia on the island of Borneo, dozens of new megadam projects are set to be built with plans to account for 7,000 megawatts of electricity by the end of 2020, and up to 20,000 megawatts of electricity on a long-term scale. For reference, China's annual electricity needs are in the 5.8 billion megawatt range and the U.S.was in the 1.2 billion megawatts range in 2020 (Statista). 
     
-  One of the largest ironies of hydroelectricity is the benefactors and recipients of the produced energy. This is a process termed water grabbing.\red{I wonder if we describe the outcome and then give it a name?} In most cases (specifically with mega dam construction), the produced electricity is either exported to nearby urban cities, or, in the case of regions like Laos, the energy is often exported to different countries altogether.\red{Bakum is in Borneo so there is a disconnect here with respect to the quotes and Loas} This is in part due to the funders of dams and who facilitates construction. According to the BBC, Prior to the late 1900s (1940 to roughly 1970-1990), dam construction was funded by the World Bank (BBC).\red{let's see if we can find a better source?}
+  One of the largest ironies of hydroelectricity is the benefactors and recipients of the produced energy. With the harnessing of hydropower, large construction and deveopment companies profit off of the ecological and humanitarian degradation involved to generate electricity in megadams. Conversely, Indigenous and local populations bear the burden of the development a process termed water grabbing. In most cases (specifically with mega dam construction), the produced electricity is either exported to nearby urban cities, or, in the case of regions like Sarawak, Malaysia, the energy is often exported to different countries altogether. It is estimated that in Sarawak, local energy demand in 2020 was about 972 megawatts with estimated increases to 1,500 megawatts annually. Despite the low energy demand in the region, the dams in the area including the Baram and the Bakun both have approximate averages of 1,200 MW (megawatts) of annual production. In most cases, the produced energy (which far exceeds the regional demand) is exported to other regions or countries and the displaced Indigenous groups are not granted access to the energy (Stephenson). This is in part due to the funders of dams and who facilitates construction. Prior to the late 1900s (1940 to roughly 1970-1990), dam construction was funded by the World Bank (Awojobi, Jenkins)
   
 \subsection{The World Bank and Other Funders}\red{let's back up a bit\ldots, why were dams seen a a critical part of development?}  
-  The World Bank began funding projects such as The Three Gorges Dam (one of the largest and most notorious hydroelectric dams) as well as the Sardar Sarovar Dam in India, the Chonoy in Guatemala, and the Itaparica hydropower project in Brazil as well as countless others. Beginning in the 1970s, criticism arose about the lack of social protection policies for the local and Indigenous communities that dam construction was impacting.\red{add references and details} Action was called to both assess, and end the harm caused by the World Bank so the World Commission on Dams was released, outlining the human rights abuses by the World Bank and they withdrew official funding from hydropower projects in the 1990s.\red{good, very clearly wrote} Despite this, other corporations have filled the gap in funding, namely actors based in China such as the China Three Gorges Corporation and Sinohydro (Cooke, Nordensvard, Saat, Urban, and Siciliano). 
+  One of the reasons that dams were seen as a critical part of "development" and subsequently funded by large investment groups such as the World Bank was because at the beginning of the 20th century, the United States and North America began to be used. President Roosevelt of the United States began construction of large dams in the 1930s in the New Deal (US Office of Energy Efficiency and REnewable Energy). This development continued in post World War II economic and population growth (US Burea of Reclamation). As colonization and imperialism occured in proxy states throughout the later half of the 20th century, countries such as Brazil and China began to encourage hydropower development (Law and Troja). 
+    For example, Brazil during the 1970s under Alfredo Stroessner's dictatorship and U.S. imperialism in Latin America, dam construction was viewed as the pinnacle of modernity and development (in part because dam development was so prominent in the United States in previous centuries) (Law and Troja). Under U.S. control of Latin America, the military dictatorships and big loans for development projects from funders such as the World Bank enabled mega dam construction such as the Itaipu in Brazil which is the next largest dam to date after the Three Gorges Dam in China (Costa).
+  The World Bank began funding projects such as The Three Gorges Dam (one of the largest and most notorious hydroelectric dams) as well as the Sardar Sarovar Dam in India, the Chonoy in Guatemala, and the Itaparica hydropower project in Brazil as well as countless others. Beginning in the 1970s, criticism arose about the lack of social protection policies for the local and Indigenous communities that dam construction was impacting (Awojobi and Jenkins).\red{add details} Action was called to both assess, and end the harm caused by the World Bank so the World Commission on Dams was released, outlining the human rights abuses by the World Bank and they withdrew official funding from hydropower projects in the 1990s. Despite this, other corporations have filled the gap in funding, namely actors based in China such as the China Three Gorges Corporation and Sinohydro (Cooke, Nordensvard, Saat, Urban, and Siciliano). 
   
-  Since the 1990s, there has\red{passive, let's make more active} been a surge in the amount of dams constructed in East Asia specifically, with over 10,000 of them (approximately 28\% of all worldwide dam construction) in Asia. Even within that disproportionate 28\%, a large number of dams lie in Laos which has been devastated by Chinese foreign investment and funders. Many even refer to Laos as the “\red{use accent as opening quotes}Battery of [Southeast]Asia.”\red{use two single quotes for closeing quotes} In cases of water grabbing\red{great, I like this term, but let's put it into a more complex dyanamic} in hydropower in Laos, energy is exported to other countries or urban cities and the Indigenous or local groups who were impacted by dam development are not granted access to the benefits of the dams that uprooted their lives. Many of these corporate projects have failed international guidelines \red{can make a list of these?} on human rights and Indigenous rights, as well as ecological harms (which are often tied to subsistence and cultural reciprocity). \red{is this a new paragraph?} 
+  Since the 1990s, alongside a global push for renewable energy sources, construction of hydroelectric dams surged--specifically in East Asia with over 10,000 of the dams (approximately 28\% of all worldwide dam construction) centered in Asia. Even within that disproportionate 28\%, a large number of dams lie in Laos which has been devastated by Chinese foreign investment and funders. Many even refer to Laos as the ``Battery of [Southeast]Asia.'' In cases of water grabbing\red{great, I like this term, but let's put it into a more complex dyanamic} in hydropower in Laos, energy is exported to other countries or urban cities and the Indigenous or local groups who were impacted by dam development are not granted access to the benefits of the dams that uprooted their lives. Many of these corporate projects have failed international guidelines \red{can make a list of these?} on human rights and Indigenous rights, as well as ecological harms (which are often tied to subsistence and cultural reciprocity). \red{is this a new paragraph?} 
+
+
+\begin{table} 
+
+\caption{1 column table to list things CHANGE THIS NAME MAYBE} 
+
+\label{tbl:UNrights} 
+
+\begin{tabular}{lrc}\hline 
+
+UN Indigenous Rights Articles CHANGE NAME?  \\ \hline\hline 
+
+Article 3 ``Indigenous peoples have the right to send determination'' \\ \hline 
+
+Article 4 ``Indigenous peoples, in excercising their right to self-determination, have the right to autonomy \\
+or self-government''\\\hline 
+
+Article 5 ``Indigenous peoples have the right to maintain and strengthen their distinct political, legal, economic,
+\\social and cultural institutions, while retaining their right to participate fully, if they so choose, 
+\\in the political, economic, social and cultural life of the State.''\\ \hline 
+
+ Article 7 ``Indigenous peoples have the collective right to live in freedom, peace and security as distinct \\
+ peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly 
+ \\removing children of the group to another group.''\\ \hline 
+
+Article 8  ``1. Indigenous peoples and individuals have the right not to be subjected to forced assimilation 
+\\or destruction of their culture. 
+2. States shall provide effective mechanisms for prevention of,
+\\and redress for: \\
+(a) Any action which has the aim or effect of depriving them of their integrity as distinct peoples, \\
+or of their cultural values or ethnic identities; 
+\\
+(b) Any action which has the aim or effect of dispossessing them of their lands, territories or resources; 
+\\
+(c) Any form of forced population transfer which has the aim or effect of violating or undermining any of 
+\\their rights; 
+\\(d) Any form of forced assimilation or integration''\\ \hline 
+
+Article 10 ``Indigenous peoples shall not be forcibly removed from their lands or territories. No relocation shall \\
+take place without the free, prior and informed consent of the indigenous peoples concerned and after 
+\\agreement on just and fair compensation and, where possible, with the option of return.''\\ \hline 
+
+Article 11 ``1. Indigenous peoples have the right to practise and revitalize their cultural traditions and customs.\\
+This includes the right to maintain, protect and develop the past, present and future manifestations of \\
+their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and 
+\\visual and performing arts and literature.''\\ \hline 
+
+Article 20 ``1. Indigenous peoples have the right to maintain and develop their political, economic and social \\
+systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and 
+\\to engage freely in all their traditional and other economic activities.
+\\2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. ''\\ \hline 
+
+Article 26 ``1. Indigenous peoples have the right to the lands, territories and resources which they have traditionally\\
+owned, occupied or otherwise used or acquired. 
+\\
+2. Indigenous peoples have the right to own, use, develop and control the lands, territories and resources that they\\
+possess by reason of traditional ownership or other traditional occupation or use, as well as those which they
+\\have otherwise acquired. 
+\\
+3. States shall give legal recognition and protection to these lands, territories and resources. \\Such recognition shall be conducted with due respect to the customs, traditions and land tenure systems of the 
+\\indigenous peoples concerned.''\\ 
+\hline 
+
+Article 29 ``1. Indigenous peoples have the right to the conservation and protection of the environment and 
+\\the productive capacity of their lands or territories and resources. States shall establish and implement
+\\assistance programmes for indigenous peoples for such conservation and protection, without discrimination.''\\ \hline 
+
+
+\end{tabular} 
+
+\end{table}
+
   In many cases, the current social protection policies that do exist are lacking and can lead to justification for displacement. For example, relocation schemes enable hydropower companies to write off the harm they are causing to communities under the guise of some form of [insufficient] reparation. 
   
   Furthermore, most relocation schemes force Indigenous communities into unideal\red{I get the word, but I suspect there is a better one} cramped living conditions with poor infrastructure\red{define, looks like you list these afterwords, but is ther something missing?}, sanitation, education, and without the ability to live with traditional modes of livelihood including but not limited to subsistence/agriculture, as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create\red{need a history of rural electrification}. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
 
-\begin{table}
-\caption{3 column table example, left justified, right justified, and center justified}
-\label{tbl:bigdams}
-\begin{tabular}{lrc}\hline
-Header 1 & Header 2 & Header 3 \\ \hline\hline
-data 1  & data 2    & data 3 \\ \hline
-\end{tabular}
-\end{table}
+
+\begin{table} 
+
+\caption{3 column table example, left justified, right justified, and center justified} 
+
+\label{tbl:bigdams} 
+
+\begin{tabular}{lrc}\hline 
+
+Header 1 & Header 2 & Header 3 \\ \hline\hline 
+
+data 1  & data 2    & data 3 \\ \hline 
+
+\end{tabular} 
+
+\end{table} 
 
 \red{See Table~\ref{tbl:bigdams}}.
 
