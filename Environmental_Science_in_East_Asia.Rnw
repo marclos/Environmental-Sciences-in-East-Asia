@@ -28,6 +28,7 @@
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
 \usepackage{soul}
+\usepackage{comment}
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -48,7 +49,7 @@
 % Editorial Environments
 
 \newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
-
+\newcommand{\blue}[1]{\textcolor{blue}{[MLH: #1]}}
 
 %-----------------------------------------------------
 \newtheorem{theorem}{Theorem}

@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
+The style file: ecology.bst
+Database file #1: References.bib
+Warning--empty publisher in RAR
+Warning--empty year in noaaclimate.gov; set to ????
+Warning--empty publisher in Watlas
+You've used 35 entries,
+            2710 wiz_defined-function locations,
+            816 strings with 11716 characters,
+and the built_in function-call counts, 17149 in all, are:
+= -- 1602
+> -- 932
+< -- 25
++ -- 315
+- -- 276
+* -- 1322
+:= -- 3189
+add.period$ -- 151
+call.type$ -- 35
+change.case$ -- 264
+chr.to.int$ -- 35
+cite$ -- 38
+duplicate$ -- 761
+empty$ -- 1170
+format.name$ -- 353
+if$ -- 3389
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 34
+newline$ -- 192
+num.names$ -- 140
+pop$ -- 336
+preamble$ -- 1
+purify$ -- 232
+quote$ -- 0
+skip$ -- 474
+stack$ -- 0
+substring$ -- 884
+swap$ -- 79
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 303
+warning$ -- 3
+while$ -- 139
+width$ -- 0
+write$ -- 470
+(There were 3 warnings)
