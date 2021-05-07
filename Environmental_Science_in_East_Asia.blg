@@ -47,5 +47,10 @@ type$ -- 543
 warning$ -- 4
 while$ -- 236
 width$ -- 0
+<<<<<<< HEAD
 write$ -- 849
 (There were 4 warnings)
+=======
+write$ -- 650
+(There were 3 warnings)
+>>>>>>> ad98e03b7f8f31d0d0a9b7e3ccca501faad76f47
