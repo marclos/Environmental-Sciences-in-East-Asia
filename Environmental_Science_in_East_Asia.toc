@@ -184,49 +184,69 @@
 \contentsline {subsection}{\numberline {13.2.2}Rising Sea Level}{121}{subsection.13.2.2}
 \contentsline {subsection}{\numberline {13.2.3}Ocean Warming and Acidification}{122}{subsection.13.2.3}
 \contentsline {subsection}{\numberline {13.2.4}Coral Bleaching}{123}{subsection.13.2.4}
-\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{125}{chapter.14}
-\contentsline {section}{\numberline {14.1}Life-Cycle}{125}{section.14.1}
-\contentsline {subsection}{\numberline {14.1.1}Collection}{125}{subsection.14.1.1}
-\contentsline {subsection}{\numberline {14.1.2}Transport}{125}{subsection.14.1.2}
-\contentsline {section}{\numberline {14.2}Biomimicry}{125}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Circularity}{125}{subsection.14.2.1}
-\contentsline {chapter}{\numberline {15}Air Pollution \& Social Justice in Hong Kong}{127}{chapter.15}
-\contentsline {section}{\numberline {15.1}Science of Air Pollution}{127}{section.15.1}
-\contentsline {subsection}{\numberline {15.1.1}Overview of the layers of the atmosphere/atmospheric gases}{127}{subsection.15.1.1}
-\contentsline {section}{\numberline {15.2}Major Sources → Use as geographical overview}{127}{section.15.2}
-\contentsline {subsection}{\numberline {15.2.1}General common sources of air pollution all over the world}{127}{subsection.15.2.1}
-\contentsline {subsection}{\numberline {15.2.2}East Asian countries/communities and their prominent air pollution sources}{127}{subsection.15.2.2}
-\contentsline {section}{\numberline {15.3}Opening}{129}{section.15.3}
-\contentsline {section}{\numberline {15.4}A Brief Overview of Hong Kong}{129}{section.15.4}
-\contentsline {section}{\numberline {15.5}Hong Kong's History}{129}{section.15.5}
-\contentsline {section}{\numberline {15.6}Air Pollution in Hong Kong}{129}{section.15.6}
-\contentsline {section}{\numberline {15.7}Air Pollution and Human Health}{129}{section.15.7}
-\contentsline {section}{\numberline {15.8}Population Density, Income Inequality, and Housing}{129}{section.15.8}
-\contentsline {subsection}{\numberline {15.8.1}Income Inequality and Zoning Laws}{129}{subsection.15.8.1}
-\contentsline {subsection}{\numberline {15.8.2}Public Housing}{129}{subsection.15.8.2}
-\contentsline {subsection}{\numberline {15.8.3}Economic Mobility}{129}{subsection.15.8.3}
-\contentsline {section}{\numberline {15.9}Indoor Air Pollution}{129}{section.15.9}
-\contentsline {section}{\numberline {15.10}Open Spaces and Other Patterns of Environmental Inequity}{129}{section.15.10}
-\contentsline {section}{\numberline {15.11}Environmental Activism in Hong Kong}{129}{section.15.11}
-\contentsline {section}{\numberline {15.12}Beyond Hong Kong}{129}{section.15.12}
-\contentsline {section}{\numberline {15.13}Beyond Hong Kong}{129}{section.15.13}
-\contentsline {chapter}{\numberline {16}Unpacking Plastic Pollution and Recycling in Japan}{131}{chapter.16}
-\contentsline {section}{\numberline {16.1}History of Plastic in Japan}{131}{section.16.1}
-\contentsline {subsection}{\numberline {16.1.1}Introduction}{131}{subsection.16.1.1}
-\contentsline {subsection}{\numberline {16.1.2}Urbanization}{132}{subsection.16.1.2}
-\contentsline {subsection}{\numberline {16.1.3}Cultural Significance of Packaging}{132}{subsection.16.1.3}
-\contentsline {subsection}{\numberline {16.1.4}Where is it Coming from?\leavevmode {\color {red}[MLH: heading is abit ambiguous]}}{135}{subsection.16.1.4}
-\contentsline {section}{\numberline {16.2}Problems of Plastic Pollution}{135}{section.16.2}
-\contentsline {subsection}{\numberline {16.2.1}Ocean Plastics and Ingestion}{135}{subsection.16.2.1}
-\contentsline {section}{\numberline {16.3}What Does Recycling \emph {Really} Mean?}{135}{section.16.3}
-\contentsline {subsection}{\numberline {16.3.1}Recycling Laws and Public Cooperation}{135}{subsection.16.3.1}
-\contentsline {subsection}{\numberline {16.3.2}Incineration}{136}{subsection.16.3.2}
-\contentsline {subsubsection}{Health and Environmental Justice}{136}{section*.123}
-\contentsline {subsection}{\numberline {16.3.3}The Global Plastic Trade}{139}{subsection.16.3.3}
-\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{139}{section*.124}
-\contentsline {section}{\numberline {16.4}Conclusion and Moving Forward}{140}{section.16.4}
-\contentsline {subsection}{\numberline {16.4.1}Mitigation Efforts}{140}{subsection.16.4.1}
-\contentsline {subsubsection}{Ecotowns}{140}{section*.125}
-\contentsline {subsubsection}{Longterm Goals}{141}{section*.126}
-\contentsline {subsection}{\numberline {16.4.2}In Closing}{141}{subsection.16.4.2}
-\contentsline {part}{I\hspace {1em}Backmatter}{143}{part.1}
+\contentsline {section}{\numberline {13.3}Unsustainable Fishing Practices}{125}{section.13.3}
+\contentsline {subsection}{\numberline {13.3.1}The Live Reef Fish Trade}{125}{subsection.13.3.1}
+\contentsline {subsection}{\numberline {13.3.2}Cyanide and Blast Fishing}{125}{subsection.13.3.2}
+\contentsline {subsection}{\numberline {13.3.3}Economic Drivers and Indigenous Contributions}{127}{subsection.13.3.3}
+\contentsline {section}{\numberline {13.4}Reefs Pollutants}{128}{section.13.4}
+\contentsline {subsection}{\numberline {13.4.1}Marine Debris and Ocean Contaminants}{128}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.2}Development, Industrialization, and the Agta People}{129}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.3}Deforestation and Agriculture}{130}{subsection.13.4.3}
+\contentsline {subsection}{\numberline {13.4.4}Coral Diseases}{131}{subsection.13.4.4}
+\contentsline {section}{\numberline {13.5}Reef Ecosystem Services}{132}{section.13.5}
+\contentsline {subsection}{\numberline {13.5.1}Biomedicine}{132}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.2}Food Sources}{133}{subsection.13.5.2}
+\contentsline {subsection}{\numberline {13.5.3}Tourism and the Tagbanua}{135}{subsection.13.5.3}
+\contentsline {subsection}{\numberline {13.5.4}Coastline Protection}{136}{subsection.13.5.4}
+\contentsline {subsection}{\numberline {13.5.5}The Sentinelese People}{137}{subsection.13.5.5}
+\contentsline {section}{\numberline {13.6}Reef Restoration, Protection, and Conservation}{137}{section.13.6}
+\contentsline {subsection}{\numberline {13.6.1}Ecosystem Based Adaptations}{137}{subsection.13.6.1}
+\contentsline {subsection}{\numberline {13.6.2}Marine Protected Areas}{139}{subsection.13.6.2}
+\contentsline {subsection}{\numberline {13.6.3}Intersectional Efforts}{140}{subsection.13.6.3}
+\contentsline {section}{\numberline {13.7}Coral Reefs: Conclusion}{141}{section.13.7}
+\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{143}{chapter.14}
+\contentsline {section}{\numberline {14.1}Life-Cycle}{143}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Collection}{143}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.2}Transport}{143}{subsection.14.1.2}
+\contentsline {section}{\numberline {14.2}Biomimicry}{143}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Circularity}{143}{subsection.14.2.1}
+\contentsline {chapter}{\numberline {15}Air Pollution \& Social Justice in Hong Kong}{145}{chapter.15}
+\contentsline {section}{\numberline {15.1}Science of Air Pollution}{145}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}Overview of the layers of the atmosphere/atmospheric gases}{145}{subsection.15.1.1}
+\contentsline {section}{\numberline {15.2}Major Sources → Use as geographical overview}{145}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}General common sources of air pollution all over the world}{145}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.2}East Asian countries/communities and their prominent air pollution sources}{145}{subsection.15.2.2}
+\contentsline {section}{\numberline {15.3}Opening}{147}{section.15.3}
+\contentsline {section}{\numberline {15.4}A Brief Overview of Hong Kong}{147}{section.15.4}
+\contentsline {section}{\numberline {15.5}Hong Kong's History}{147}{section.15.5}
+\contentsline {section}{\numberline {15.6}Air Pollution in Hong Kong}{147}{section.15.6}
+\contentsline {section}{\numberline {15.7}Air Pollution and Human Health}{147}{section.15.7}
+\contentsline {section}{\numberline {15.8}Population Density, Income Inequality, and Housing}{147}{section.15.8}
+\contentsline {subsection}{\numberline {15.8.1}Income Inequality and Zoning Laws}{147}{subsection.15.8.1}
+\contentsline {subsection}{\numberline {15.8.2}Public Housing}{147}{subsection.15.8.2}
+\contentsline {subsection}{\numberline {15.8.3}Economic Mobility}{147}{subsection.15.8.3}
+\contentsline {section}{\numberline {15.9}Indoor Air Pollution}{147}{section.15.9}
+\contentsline {section}{\numberline {15.10}Open Spaces and Other Patterns of Environmental Inequity}{147}{section.15.10}
+\contentsline {section}{\numberline {15.11}Environmental Activism in Hong Kong}{147}{section.15.11}
+\contentsline {section}{\numberline {15.12}Beyond Hong Kong}{147}{section.15.12}
+\contentsline {section}{\numberline {15.13}Beyond Hong Kong}{147}{section.15.13}
+\contentsline {chapter}{\numberline {16}Unpacking Plastic Pollution and Recycling in Japan}{149}{chapter.16}
+\contentsline {section}{\numberline {16.1}History of Plastic in Japan}{149}{section.16.1}
+\contentsline {subsection}{\numberline {16.1.1}Introduction}{149}{subsection.16.1.1}
+\contentsline {subsection}{\numberline {16.1.2}Urbanization}{150}{subsection.16.1.2}
+\contentsline {subsection}{\numberline {16.1.3}Cultural Significance of Packaging}{150}{subsection.16.1.3}
+\contentsline {subsection}{\numberline {16.1.4}Where is it Coming from?\leavevmode {\color {red}[MLH: heading is abit ambiguous]}}{153}{subsection.16.1.4}
+\contentsline {section}{\numberline {16.2}Problems of Plastic Pollution}{153}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Ocean Plastics and Ingestion}{153}{subsection.16.2.1}
+\contentsline {section}{\numberline {16.3}What Does Recycling \emph {Really} Mean?}{153}{section.16.3}
+\contentsline {subsection}{\numberline {16.3.1}Recycling Laws and Public Cooperation}{153}{subsection.16.3.1}
+\contentsline {subsection}{\numberline {16.3.2}Incineration}{153}{subsection.16.3.2}
+\contentsline {subsubsection}{Health and Environmental Justice}{154}{section*.129}
+\contentsline {subsection}{\numberline {16.3.3}The Global Plastic Trade}{157}{subsection.16.3.3}
+\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{157}{section*.130}
+\contentsline {section}{\numberline {16.4}Conclusion and Moving Forward}{158}{section.16.4}
+\contentsline {subsection}{\numberline {16.4.1}Mitigation Efforts}{158}{subsection.16.4.1}
+\contentsline {subsubsection}{Ecotowns}{158}{section*.131}
+\contentsline {subsubsection}{Longterm Goals}{158}{section*.132}
+\contentsline {subsection}{\numberline {16.4.2}In Closing}{158}{subsection.16.4.2}
+\contentsline {part}{I\hspace {1em}Backmatter}{161}{part.1}
