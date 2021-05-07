@@ -16,7 +16,7 @@ $\rightarrow$\red{this is an example of a right arrow, but I don't recall why I 
 
 \subsection{Introduction}
 
-Japan is a unique case study in plastic consumption and pollution in East Asia. Not only is Japan the second largest consumer of single use plastics in the world after the United States citeJohnston 2020 \red{here's an example citation that has a key to the bib file \citep{REF}}, but it is also one of the foremost\red{how about, ``it leads?} the world\ldots -- making it an active verb!} recyclers in the world citeMcCurry 2011 with 84 percent of 2018`\red{use single quote instead '}s collected plastic ending up recycled citePWMI 2019. In the face of this impressive percentage, defining what exactly the Japanese government means by ``recycling''\red{good use of quote symbols!} is significant in revealing the social justice issues associated with this process.
+Japan is a unique case study in plastic consumption and pollution in East Asia. Not only is Japan the second largest consumer of single use plastics in the world after the United States citeJohnston 2020 \red{here's an example citation that has a key to the bib file \citep{REF}}, but it is also one of the foremost\red{how about, ``it leads? the world\ldots -- making it an active verb!} recyclers in the world citeMcCurry 2011 with 84 percent of 2018`\red{use single quote instead '}s collected plastic ending up recycled citePWMI 2019. In the face of this impressive percentage, defining what exactly the Japanese government means by ``recycling''\red{good use of quote symbols!} is significant in revealing the social justice issues associated with this process.
 
 
 \subsection{Urbanization}
