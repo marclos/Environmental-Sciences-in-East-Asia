@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
+The style file: ecology.bst
+Database file #1: References.bib
+Repeated entry---line 1054 of file References.bib
+ : @article{wei1989investigation
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3403 of file References.bib
+ : @article{zhu2008three
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bui2017bao"
+Warning--empty publisher in RAR
+Warning--empty journal in liu2013chinese
+Warning--empty year in noaaclimate.gov; set to ????
+Warning--empty publisher in coraltriangle
+Warning--empty journal in sang2020bai
+Warning--empty journal in severnini2014power
+Warning--empty publisher in Watlas
+Warning--empty journal in thorin2014basics
+You've used 113 entries,
+            2710 wiz_defined-function locations,
+            1252 strings with 28255 characters,
+and the built_in function-call counts, 56982 in all, are:
+= -- 5273
+> -- 3307
+< -- 75
++ -- 1123
+- -- 987
+* -- 4509
+:= -- 10586
+add.period$ -- 478
+call.type$ -- 113
+change.case$ -- 886
+chr.to.int$ -- 112
+cite$ -- 121
+duplicate$ -- 2478
+empty$ -- 3784
+format.name$ -- 1256
+if$ -- 11215
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 115
+newline$ -- 595
+num.names$ -- 452
+pop$ -- 1119
+preamble$ -- 1
+purify$ -- 777
+quote$ -- 0
+skip$ -- 1521
+stack$ -- 0
+substring$ -- 2890
+swap$ -- 259
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 984
+warning$ -- 8
+while$ -- 459
+width$ -- 0
+write$ -- 1488
+(There were 2 error messages)

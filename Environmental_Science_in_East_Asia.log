@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  7 MAY 2021 23:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  8 MAY 2021 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1393,9 +1393,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 97.
 LaTeX Info: Redefining \pageref on input line 97.
 LaTeX Info: Redefining \nameref on input line 97.
-
-(./Environmental_Science_in_East_Asia.out)
-(./Environmental_Science_in_East_Asia.out)
 \@outlinefile=\write5
 \openout5 = `Environmental_Science_in_East_Asia.out'.
 
@@ -1426,27 +1423,12 @@ ia.glo on input line 100.
 
 ]
 (./Environmental_Science_in_East_Asia.toc
-Overfull \hbox (0.61095pt too wide) detected at line 16
+Overfull \hbox (0.61095pt too wide) detected at line 26
  []\T1/cmr/m/n/10 xvii
  []
 
 
-Overfull \hbox (0.61095pt too wide) detected at line 17
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 19
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 20
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 21
+Overfull \hbox (0.61095pt too wide) detected at line 27
  []\T1/cmr/m/n/10 xvii
  []
 
@@ -1496,7 +1478,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package xcolor Warning: Incompatible color definition on input line 453.
 
-<figure/maunaloa-1.pdf, id=1135, 505.89pt x 505.89pt>
+<figure/maunaloa-1.pdf, id=546, 505.89pt x 505.89pt>
 File: figure/maunaloa-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa-1.pdf>
@@ -1513,7 +1495,7 @@ Package xcolor Warning: Incompatible color definition on input line 555.
 
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 557.
-<figure/fig:pressure-1.pdf, id=1184, 505.89pt x 505.89pt>
+<figure/fig:pressure-1.pdf, id=595, 505.89pt x 505.89pt>
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
@@ -1522,7 +1504,7 @@ Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 560.
  [17
 
 ] [18 <./figure/fig:pressure-1.pdf>]
-<images/Lee-Vadose.png, id=1205, 949.5475pt x 411.5375pt>
+<images/Lee-Vadose.png, id=616, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
@@ -1535,8 +1517,8 @@ Package pdftex.def Info: images/Lee-Vadose.png used on input line 575.
 ]
 Chapter 1.
 
-<images/earth-system/earth-rad-budget-nasa-erbe.png, id=1236, 746.79pt x 558.08
-5pt>
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=647, 746.79pt x 558.085
+pt>
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
  <use images/earth-system/earth-rad-budget-nasa-erbe.png>
@@ -1544,8 +1526,8 @@ Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
 d on input line 639.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
-<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=1239, 476.78125pt
- x 421.575pt>
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=650, 476.78125pt 
+x 421.575pt>
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
  <use images/earth-system/em-radiation-atmosph-depth-stsci.jpg>
@@ -1553,8 +1535,8 @@ Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
 pg used on input line 651.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
-<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=1241, 21
-5.1293pt x 140.50633pt>
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=652, 215
+.1293pt x 140.50633pt>
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
 
@@ -1580,7 +1562,7 @@ l.678 \end{figure}
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
  682.
 
-<images/earth-system/long-term-carbon.png, id=1256, 436.63126pt x 252.945pt>
+<images/earth-system/long-term-carbon.png, id=668, 436.63126pt x 252.945pt>
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
@@ -1593,8 +1575,9 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 696
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
-<images/earth-system/Q10-SOC-Regulation.jpg, id=1267, 367.3725pt x 243.15843pt>
+<images/earth-system/Q10-SOC-Regulation.jpg, id=678, 367.3725pt x 243.15843pt>
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
+
 <use images/earth-system/Q10-SOC-Regulation.jpg>
 Package pdftex.def Info: images/earth-system/Q10-SOC-Regulation.jpg used on inp
 ut line 701.
@@ -1603,7 +1586,7 @@ ut line 701.
 
 Package xcolor Warning: Incompatible color definition on input line 717.
 
-<figure/maunaloa3-1.pdf, id=1277, 505.89pt x 505.89pt>
+<figure/maunaloa3-1.pdf, id=688, 505.89pt x 505.89pt>
 File: figure/maunaloa3-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa3-1.pdf>
@@ -1619,7 +1602,7 @@ Chapter 2.
 
 ]
 Chapter 3.
-<images/critical-zone/criticalzone.jpg, id=1318, 411.5375pt x 301.125pt>
+<images/critical-zone/criticalzone.jpg, id=729, 411.5375pt x 301.125pt>
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
@@ -1627,7 +1610,7 @@ Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
 ne 767.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
  [11] [12 <./images/critical-zone/criticalzone.jpg>]
-<images/critical-zone/groundwater.png, id=1330, 285.065pt x 183.68625pt>
+<images/critical-zone/groundwater.png, id=741, 285.065pt x 183.68625pt>
 File: images/critical-zone/groundwater.png Graphic file (type png)
 
 <use images/critical-zone/groundwater.png>
@@ -1635,7 +1618,7 @@ Package pdftex.def Info: images/critical-zone/groundwater.png used on input lin
 e 789.
 (pdftex.def)             Requested size: 285.0643pt x 183.68578pt.
  [13 <./images/critical-zone/groundwater.png>]
-<images/critical-zone/Lee-Vadose.png, id=1343, 949.5475pt x 411.5375pt>
+<images/critical-zone/Lee-Vadose.png, id=754, 949.5475pt x 411.5375pt>
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
@@ -1646,7 +1629,7 @@ Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
 
 ]
 Chapter 4.
-<images/land-use/Shenzhen-cityscape.png, id=1364, 1285.80376pt x 442.65375pt>
+<images/land-use/Shenzhen-cityscape.png, id=775, 1285.80376pt x 442.65375pt>
 File: images/land-use/Shenzhen-cityscape.png Graphic file (type png)
 
 <use images/land-use/Shenzhen-cityscape.png>
@@ -1654,7 +1637,7 @@ Package pdftex.def Info: images/land-use/Shenzhen-cityscape.png used on input l
 ine 857.
 (pdftex.def)             Requested size: 433.62pt x 149.27774pt.
  [17] [18 <./images/land-use/Shenzhen-cityscape.png>] [19] [20]
-<images/land-use/Bonelli_Erosion_Map.png, id=1386, 731.73375pt x 442.65375pt>
+<images/land-use/Bonelli_Erosion_Map.png, id=797, 731.73375pt x 442.65375pt>
 File: images/land-use/Bonelli_Erosion_Map.png Graphic file (type png)
 
 <use images/land-use/Bonelli_Erosion_Map.png>
@@ -1662,7 +1645,7 @@ Package pdftex.def Info: images/land-use/Bonelli_Erosion_Map.png used on input
 line 907.
 (pdftex.def)             Requested size: 433.62pt x 262.31168pt.
  [21] [22 <./images/land-use/Bonelli_Erosion_Map.png>] [23] [24]
-<images/land-use/LUC-SOC-Table.png, id=1412, 944.52875pt x 226.8475pt>
+<images/land-use/LUC-SOC-Table.png, id=823, 944.52875pt x 226.8475pt>
 File: images/land-use/LUC-SOC-Table.png Graphic file (type png)
 
 <use images/land-use/LUC-SOC-Table.png>
@@ -1680,7 +1663,7 @@ LaTeX Warning: Reference `can we do a figure to help explain this?' on page 26
 undefined on input line 974.
 
 [26 <./images/land-use/LUC-SOC-Table.png>]
-<images/land-use/Climate-Smart-Soils.png, id=1428, 1010.77625pt x 408.52625pt>
+<images/land-use/Climate-Smart-Soils.png, id=839, 1010.77625pt x 408.52625pt>
 File: images/land-use/Climate-Smart-Soils.png Graphic file (type png)
 
 <use images/land-use/Climate-Smart-Soils.png>
@@ -1688,7 +1671,7 @@ Package pdftex.def Info: images/land-use/Climate-Smart-Soils.png used on input
 line 983.
 (pdftex.def)             Requested size: 433.62pt x 175.25768pt.
  [27 <./images/land-use/Climate-Smart-Soils.png>] [28]
-<images/land-use/Loess-Comparison.png, id=1441, 1253.68375pt x 346.29375pt>
+<images/land-use/Loess-Comparison.png, id=852, 1253.68375pt x 346.29375pt>
 File: images/land-use/Loess-Comparison.png Graphic file (type png)
 
 <use images/land-use/Loess-Comparison.png>
@@ -1699,8 +1682,7 @@ e 1013.
 Chapter 5.
 [31
 
-] [32]
-<images/deforestation/Example_image.png, id=1463, 602.25pt x 401.5pt>
+] [32] <images/deforestation/Example_image.png, id=874, 602.25pt x 401.5pt>
 File: images/deforestation/Example_image.png Graphic file (type png)
 
 <use images/deforestation/Example_image.png>
@@ -1730,7 +1712,7 @@ Chapter 6.
 
 ]
 Chapter 7.
-<images/floodpulse/TonleSapMap.png, id=1502, 652.4375pt x 481.8pt>
+<images/floodpulse/TonleSapMap.png, id=913, 652.4375pt x 481.8pt>
 File: images/floodpulse/TonleSapMap.png Graphic file (type png)
 
 <use images/floodpulse/TonleSapMap.png>
@@ -1742,8 +1724,8 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
  [41]
 [42 <./images/floodpulse/TonleSapMap.png>]
-<images/floodpulse/flood-pulse-concept-of-Bayley-1995.png, id=1513, 853.1875pt 
-x 1164.35pt>
+<images/floodpulse/flood-pulse-concept-of-Bayley-1995.png, id=924, 853.1875pt x
+ 1164.35pt>
 File: images/floodpulse/flood-pulse-concept-of-Bayley-1995.png Graphic file (ty
 pe png)
  <use images/floodpulse/flood-pulse-concept-of-Bayley-1995.png>
@@ -1765,7 +1747,7 @@ vol-ume=25, number=3-4, pages=310--
 Chapter 8.
 [47
 
-] <images/sarawakmap.png, id=1548, 894.34125pt x 578.16pt>
+] <images/sarawakmap.png, id=959, 894.34125pt x 578.16pt>
 File: images/sarawakmap.png Graphic file (type png)
 
 <use images/sarawakmap.png>
@@ -1781,7 +1763,7 @@ Overfull \hbox (219.69942pt too wide) in paragraph at lines 1350--1365
 [][] 
  []
 
-<images/hydroelectric/diagram.png, id=1595, 469.755pt x 307.1475pt>
+<images/hydroelectric/diagram.png, id=1006, 469.755pt x 307.1475pt>
 File: images/hydroelectric/diagram.png Graphic file (type png)
 
 <use images/hydroelectric/diagram.png>
@@ -1789,46 +1771,50 @@ Package pdftex.def Info: images/hydroelectric/diagram.png used on input line 13
 76.
 (pdftex.def)             Requested size: 433.62pt x 283.52115pt.
  [50] [51] [52 <./images/hydroelectric/diagram.png>] [53] [54] <images/tgd.png,
- id=1670, 592.2125pt x 386.44376pt>
+ id=1081, 592.2125pt x 386.44376pt>
 File: images/tgd.png Graphic file (type png)
 
 <use images/tgd.png>
 Package pdftex.def Info: images/tgd.png used on input line 1447.
 (pdftex.def)             Requested size: 433.62pt x 282.96251pt.
  [55] [56 <./images/tgd.png>] [57] [58]
-<images/schis-life.png, id=1766, 845.0772pt x 597.432pt>
+<images/schis-life.png, id=1177, 845.0772pt x 597.432pt>
 File: images/schis-life.png Graphic file (type png)
 
 <use images/schis-life.png>
 Package pdftex.def Info: images/schis-life.png used on input line 1499.
 (pdftex.def)             Requested size: 433.62pt x 306.54596pt.
  [59 <./images/schis-life.png>]
-<images/schis-map.png, id=1782, 469.755pt x 346.29375pt>
+<images/schis-map.png, id=1193, 469.755pt x 346.29375pt>
 File: images/schis-map.png Graphic file (type png)
 
 <use images/schis-map.png>
 Package pdftex.def Info: images/schis-map.png used on input line 1509.
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
- [60 <./images/schis-map.png>] [61] [62] [63]
-[64] [65] [66]
+ [60 <./images/schis-map.png>] [61] [62]
+
+Package natbib Warning: Citation `bui2017bao' on page 63 undefined on input lin
+e 1560.
+
+[63] [64] [65] [66]
 Chapter 9.
 [67
 
-] <images/myanmar/Image1.jpg, id=1836, 805.0075pt x 722.7pt>
+] <images/myanmar/Image1.jpg, id=1293, 805.0075pt x 722.7pt>
 File: images/myanmar/Image1.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image1.jpg>
 Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1617.
 (pdftex.def)             Requested size: 433.62pt x 389.28177pt.
 
-<images/myanmar/Image2.jpg, id=1837, 1381.16pt x 817.0525pt>
+<images/myanmar/Image2.jpg, id=1294, 1381.16pt x 817.0525pt>
 File: images/myanmar/Image2.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image2.jpg>
 Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1624.
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
-<images/myanmar/Image3.jpg, id=1838, 156.585pt x 324.21124pt>
+<images/myanmar/Image3.jpg, id=1295, 156.585pt x 324.21124pt>
 File: images/myanmar/Image3.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image3.jpg>
@@ -1839,14 +1825,14 @@ Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1631.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72]
-<images/myanmar/Image4.jpg, id=1864, 284.06125pt x 178.6675pt>
+<images/myanmar/Image4.jpg, id=1320, 284.06125pt x 178.6675pt>
 File: images/myanmar/Image4.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image4.jpg>
 Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1658.
 (pdftex.def)             Requested size: 433.62pt x 272.76332pt.
  [73] [74 <./images/myanmar/Image4.jpg>]
-<images/myanmar/Image5.jpg, id=1875, 301.125pt x 168.63pt>
+<images/myanmar/Image5.jpg, id=1331, 301.125pt x 168.63pt>
 File: images/myanmar/Image5.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image5.jpg>
@@ -1856,7 +1842,7 @@ Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1665.
 Underfull \vbox (badness 5345) has occurred while \output is active []
 
  [75 <./images/myanmar/Image5.jpg>]
-<images/myanmar/Image6.jpg, id=1881, 568.1225pt x 324.21124pt>
+<images/myanmar/Image6.jpg, id=1337, 568.1225pt x 324.21124pt>
 File: images/myanmar/Image6.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image6.jpg>
@@ -1867,21 +1853,21 @@ Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1674.
 
 ]
 Chapter 10.
-[79] <Graphics/Image1.jpg, id=1902, 805.0075pt x 722.7pt>
+[79] <Graphics/Image1.jpg, id=1358, 805.0075pt x 722.7pt>
 File: Graphics/Image1.jpg Graphic file (type jpg)
 
 <use Graphics/Image1.jpg>
 Package pdftex.def Info: Graphics/Image1.jpg used on input line 1717.
 (pdftex.def)             Requested size: 433.62pt x 389.28177pt.
 
-<Graphics/Image2.jpg, id=1903, 1381.16pt x 817.0525pt>
+<Graphics/Image2.jpg, id=1359, 1381.16pt x 817.0525pt>
 File: Graphics/Image2.jpg Graphic file (type jpg)
 
 <use Graphics/Image2.jpg>
 Package pdftex.def Info: Graphics/Image2.jpg used on input line 1722.
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
-<Graphics/Image3.jpg, id=1904, 156.585pt x 324.21124pt>
+<Graphics/Image3.jpg, id=1360, 156.585pt x 324.21124pt>
 File: Graphics/Image3.jpg Graphic file (type jpg)
 
 <use Graphics/Image3.jpg>
@@ -1892,20 +1878,20 @@ Package pdftex.def Info: Graphics/Image3.jpg used on input line 1729.
 LaTeX Warning: Float too large for page by 340.78065pt on input line 1731.
 
 [80] [81 <./Graphics/Image1.jpg>] [82 <./Graphics/Image2.jpg>] [83 <./Graphics/
-Image3.jpg>] [84] <Graphics/Image4.jpg, id=1928, 284.06125pt x 178.6675pt>
+Image3.jpg>] [84] <Graphics/Image4.jpg, id=1385, 284.06125pt x 178.6675pt>
 File: Graphics/Image4.jpg Graphic file (type jpg)
 
 <use Graphics/Image4.jpg>
 Package pdftex.def Info: Graphics/Image4.jpg used on input line 1752.
 (pdftex.def)             Requested size: 433.62pt x 272.76332pt.
  [85 <./Graphics/Image4.jpg>]
-<Graphics/Image5.jpg, id=1935, 301.125pt x 168.63pt>
+<Graphics/Image5.jpg, id=1392, 301.125pt x 168.63pt>
 File: Graphics/Image5.jpg Graphic file (type jpg)
  <use Graphics/Image5.jpg>
 Package pdftex.def Info: Graphics/Image5.jpg used on input line 1759.
 (pdftex.def)             Requested size: 433.62pt x 242.85016pt.
 
-<Graphics/Image6.jpg, id=1936, 568.1225pt x 324.21124pt>
+<Graphics/Image6.jpg, id=1393, 568.1225pt x 324.21124pt>
 File: Graphics/Image6.jpg Graphic file (type jpg)
 
 <use Graphics/Image6.jpg>
@@ -1918,7 +1904,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [88]
-<Graphics/Image7.jpg, id=1952, 271.0125pt x 344.28625pt>
+<Graphics/Image7.jpg, id=1409, 271.0125pt x 344.28625pt>
 File: Graphics/Image7.jpg Graphic file (type jpg)
 
 <use Graphics/Image7.jpg>
@@ -1928,14 +1914,14 @@ Package pdftex.def Info: Graphics/Image7.jpg used on input line 1785.
 
 LaTeX Warning: Float too large for page by 15.71976pt on input line 1787.
 
-<Graphics/Image8.jpeg, id=1953, 1132.23pt x 1145.27875pt>
+<Graphics/Image8.jpeg, id=1410, 1132.23pt x 1145.27875pt>
 File: Graphics/Image8.jpeg Graphic file (type jpg)
 
 <use Graphics/Image8.jpeg>
 Package pdftex.def Info: Graphics/Image8.jpeg used on input line 1796.
 (pdftex.def)             Requested size: 433.62pt x 438.61818pt.
 
-<Graphics/Image9.jpeg, id=1954, 730.73pt x 653.44125pt>
+<Graphics/Image9.jpeg, id=1411, 730.73pt x 653.44125pt>
 File: Graphics/Image9.jpeg Graphic file (type jpg)
 
 <use Graphics/Image9.jpeg>
@@ -1954,7 +1940,7 @@ Chapter 11.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [96]
-<images/tropical-cyclones/boat.jpg, id=2021, 938.00438pt x 301.8778pt>
+<images/tropical-cyclones/boat.jpg, id=1477, 938.00438pt x 301.8778pt>
 File: images/tropical-cyclones/boat.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/boat.jpg>
@@ -1962,7 +1948,7 @@ Package pdftex.def Info: images/tropical-cyclones/boat.jpg used on input line 1
 858.
 (pdftex.def)             Requested size: 433.62pt x 139.5518pt.
  [97]
-<images/tropical-cyclones/reliefchart.jpg, id=2031, 551.05875pt x 345.54094pt>
+<images/tropical-cyclones/reliefchart.jpg, id=1487, 551.05875pt x 345.54094pt>
 File: images/tropical-cyclones/reliefchart.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/reliefchart.jpg>
@@ -1971,7 +1957,7 @@ Package pdftex.def Info: images/tropical-cyclones/reliefchart.jpg used on input
 (pdftex.def)             Requested size: 433.62pt x 271.90929pt.
  [98 <./images/tropical-cyclones/boat.jpg>] [99 <./images/tropical-cyclones/rel
 iefchart.jpg>]
-<images/tropical-cyclones/povertystatus.jpg, id=2061, 620.3175pt x 533.74406pt>
+<images/tropical-cyclones/povertystatus.jpg, id=1518, 620.3175pt x 533.74406pt>
 File: images/tropical-cyclones/povertystatus.jpg Graphic file (type jpg)
 <use images/tropical-cyclones/povertystatus.jpg>
 Package pdftex.def Info: images/tropical-cyclones/povertystatus.jpg used on inp
@@ -1981,7 +1967,7 @@ ut line 1888.
 Underfull \vbox (badness 7151) has occurred while \output is active []
 
  [101 <./images/tropical-cyclones/povertystatus.jpg>]
-<images/tropical-cyclones/cycloneanatomy.jpg, id=2095, 602.25pt x 409.53pt>
+<images/tropical-cyclones/cycloneanatomy.jpg, id=1552, 602.25pt x 409.53pt>
 File: images/tropical-cyclones/cycloneanatomy.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/cycloneanatomy.jpg>
@@ -1995,7 +1981,7 @@ ucture-[]of-[]a-[]hurricane-[]Air-[]is-[]cooled-[]through-[]convection-[]by _
  []
 
 [102]
-<images/tropical-cyclones/carnotcycle.jpg, id=2110, 771.63281pt x 523.9575pt>
+<images/tropical-cyclones/carnotcycle.jpg, id=1566, 771.63281pt x 523.9575pt>
 File: images/tropical-cyclones/carnotcycle.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/carnotcycle.jpg>
@@ -2006,7 +1992,7 @@ Package pdftex.def Info: images/tropical-cyclones/carnotcycle.jpg used on input
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [103 <./images/tropical-cyclones/cycloneanatomy.jpg>]
-<images/tropical-cyclones/climatemodel.jpg, id=2133, 457.71pt x 435.87843pt>
+<images/tropical-cyclones/climatemodel.jpg, id=1589, 457.71pt x 435.87843pt>
 File: images/tropical-cyclones/climatemodel.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/climatemodel.jpg>
@@ -2014,7 +2000,7 @@ Package pdftex.def Info: images/tropical-cyclones/climatemodel.jpg used on inpu
 t line 1936.
 (pdftex.def)             Requested size: 227.61826pt x 216.76146pt.
  [104 <./images/tropical-cyclones/carnotcycle.jpg>]
-<images/tropical-cyclones/pdigraph.jpg, id=2159, 532.23843pt x 424.58624pt>
+<images/tropical-cyclones/pdigraph.jpg, id=1615, 532.23843pt x 424.58624pt>
 File: images/tropical-cyclones/pdigraph.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/pdigraph.jpg>
@@ -2036,21 +2022,21 @@ Underfull \vbox (badness 1881) has occurred while \output is active []
  [111]
 [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
 [124] [125] [126] [127] [128]
-<images/reeffoodweb.png, id=2516, 469.755pt x 342.27875pt>
+<images/reeffoodweb.png, id=1973, 469.755pt x 342.27875pt>
 File: images/reeffoodweb.png Graphic file (type png)
 
 <use images/reeffoodweb.png>
 Package pdftex.def Info: images/reeffoodweb.png used on input line 2246.
 (pdftex.def)             Requested size: 433.62pt x 315.95003pt.
 
-<images/reefcycles.png, id=2521, 292.09125pt x 270.00874pt>
+<images/reefcycles.png, id=1978, 292.09125pt x 270.00874pt>
 File: images/reefcycles.png Graphic file (type png)
 
 <use images/reefcycles.png>
 Package pdftex.def Info: images/reefcycles.png used on input line 2252.
 (pdftex.def)             Requested size: 433.62pt x 400.87563pt.
 
-<images/reefmap.png, id=2530, 469.755pt x 346.29375pt>
+<images/reefmap.png, id=1987, 469.755pt x 346.29375pt>
 File: images/reefmap.png Graphic file (type png)
 
 <use images/reefmap.png>
@@ -2072,7 +2058,7 @@ Overfull \hbox (38.44318pt too wide) in paragraph at lines 2267--2282
 [][] 
  []
 
-<images/acidification2_med.jpg, id=2539, 820.06375pt x 325.215pt>
+<images/acidification2_med.jpg, id=1996, 820.06375pt x 325.215pt>
 File: images/acidification2_med.jpg Graphic file (type jpg)
 
 <use images/acidification2_med.jpg>
@@ -2080,42 +2066,42 @@ Package pdftex.def Info: images/acidification2_med.jpg used on input line 2285.
 
 (pdftex.def)             Requested size: 433.62pt x 171.96613pt.
 
-<images/coralbleach.png, id=2540, 469.755pt x 313.17pt>
+<images/coralbleach.png, id=1997, 469.755pt x 313.17pt>
 File: images/coralbleach.png Graphic file (type png)
 
 <use images/coralbleach.png>
 Package pdftex.def Info: images/coralbleach.png used on input line 2291.
 (pdftex.def)             Requested size: 433.62pt x 289.08037pt.
 
-<images/cyanidefishing.jpg, id=2541, 1134.2375pt x 756.8275pt>
+<images/cyanidefishing.jpg, id=1998, 1134.2375pt x 756.8275pt>
 File: images/cyanidefishing.jpg Graphic file (type jpg)
 
 <use images/cyanidefishing.jpg>
 Package pdftex.def Info: images/cyanidefishing.jpg used on input line 2297.
 (pdftex.def)             Requested size: 433.62pt x 289.32967pt.
 
-<images/coraldisease.png, id=2542, 469.755pt x 353.32pt>
+<images/coraldisease.png, id=1999, 469.755pt x 353.32pt>
 File: images/coraldisease.png Graphic file (type png)
 
 <use images/coraldisease.png>
 Package pdftex.def Info: images/coraldisease.png used on input line 2303.
 (pdftex.def)             Requested size: 433.62pt x 326.14198pt.
 
-<images/sentpeeps.png, id=2543, 469.755pt x 263.98625pt>
+<images/sentpeeps.png, id=2000, 469.755pt x 263.98625pt>
 File: images/sentpeeps.png Graphic file (type png)
 
 <use images/sentpeeps.png>
 Package pdftex.def Info: images/sentpeeps.png used on input line 2309.
 (pdftex.def)             Requested size: 433.62pt x 243.67993pt.
 
-<images/tagfish.png, id=2544, 366.36874pt x 366.36874pt>
+<images/tagfish.png, id=2001, 366.36874pt x 366.36874pt>
 File: images/tagfish.png Graphic file (type png)
 
 <use images/tagfish.png>
 Package pdftex.def Info: images/tagfish.png used on input line 2315.
 (pdftex.def)             Requested size: 433.62pt x 433.64745pt.
 
-<images/reefbigchillin.png, id=2553, 399.4925pt x 209.78375pt>
+<images/reefbigchillin.png, id=2010, 399.4925pt x 209.78375pt>
 File: images/reefbigchillin.png Graphic file (type png)
 
 <use images/reefbigchillin.png>
@@ -2210,52 +2196,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [157]
-Underfull \hbox (badness 10000) in paragraph at lines 427--432
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+Underfull \hbox (badness 10000) in paragraph at lines 480--485
 []\T1/cmr/m/n/10 Pearce, F. 2003.  Cyanide: an easy but deadly way to catch fis
 h.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--432
+Underfull \hbox (badness 10000) in paragraph at lines 480--485
 \T1/cmr/m/n/10 World Wildlife Foun-da-tion.  URL [][]$\T1/cmtt/m/n/10 https : /
  / wwf . panda . org / wwf _ news / ?5563 /
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [158]
-Underfull \hbox (badness 1701) in paragraph at lines 464--469
+Underfull \hbox (badness 1701) in paragraph at lines 517--522
 \T1/cmr/m/n/10 ing corals to mi-croplas-tic ex-po-sure.  En-vi-ron-men-tal Pol-
 lu-tion, \T1/cmr/bx/n/10 237\T1/cmr/m/n/10 :955 -- 960.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--469
+Underfull \hbox (badness 10000) in paragraph at lines 517--522
 [][]$\T1/cmtt/m/n/10 http : / / search . ebscohost . com . ccl . idm . oclc . o
 rg / login . aspx ? direct = true&AuthType =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--476
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
 \T1/cmtt/m/n/10 ccl . idm . oclc . org / login . aspx ? direct = true&AuthType 
 = sso&db = 8gh&AN = 9703130241&site =
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 478--483
+Underfull \hbox (badness 3189) in paragraph at lines 535--540
 []\T1/cmr/m/n/10 Scott, C. 2018.  Ar-ti-fi-cial reefs: What works and what does
 -n’t.  New Heaven
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 512--518
+Underfull \hbox (badness 2717) in paragraph at lines 569--575
 \T1/cmr/m/n/10 tinel is-land.  Forbes.  URL [][]$\T1/cmtt/m/n/10 https : / / ww
 w . forbes . com / sites / kionasmith / 2018 / 11 / 30 /
  []
 
 
-Overfull \hbox (15.04956pt too wide) in paragraph at lines 512--518
+Overfull \hbox (15.04956pt too wide) in paragraph at lines 569--575
 \T1/cmtt/m/n/10 everything-[]we-[]know-[]about-[]the-[]isolated-[]sentinelese-[
 ]people-[]of-[]north-[]sentinel-[]island/$[][]\T1/cmr/m/n/10 . 
  []
@@ -2263,26 +2252,26 @@ Overfull \hbox (15.04956pt too wide) in paragraph at lines 512--518
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [159]
-Underfull \hbox (badness 2564) in paragraph at lines 552--557
+ [160]
+Underfull \hbox (badness 2564) in paragraph at lines 615--620
 []\T1/cmr/m/n/10 Todd, P. A., O. Xueyuan, and C. Loke Ming. 2010.  Im-pacts of 
 pol-lu-tion on ma-
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 552--557
+Underfull \hbox (badness 3482) in paragraph at lines 615--620
 \T1/cmr/m/n/10 rine life in south-east asia.  Bio-di-ver-sity & Con-ser-va-tion
 , \T1/cmr/bx/n/10 19\T1/cmr/m/n/10 :1063 -- 1082.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 552--557
+Underfull \hbox (badness 10000) in paragraph at lines 615--620
 [][]$\T1/cmtt/m/n/10 http : / / search . ebscohost . com . ccl . idm . oclc . o
 rg / login . aspx ? direct = true&AuthType =
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 564--567
+Underfull \hbox (badness 1728) in paragraph at lines 632--635
 []\T1/cmr/m/n/10 US EPA, O. 2017.  Threats to coral reefs.  URL [][]$\T1/cmtt/m
 /n/10 https : / / www . epa . gov / coral-[]reefs /
  []
@@ -2290,8 +2279,8 @@ Underfull \hbox (badness 1728) in paragraph at lines 564--567
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [160]
-Underfull \hbox (badness 10000) in paragraph at lines 621--626
+ [161]
+Underfull \hbox (badness 10000) in paragraph at lines 695--700
 \T1/cmtt/m/n/10 login . aspx ? direct = true&AuthType = sso&db = 8gh&AN = 14551
 4965&site = ehost-[]live&scope =
  []
@@ -2299,21 +2288,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 621--626
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2490.
+ [162])
 
-[162]
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2490.
+[163]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 2490.
  (./Environmental_Science_in_East_Asia.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2490.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2490.
 
-Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
-not changed.
-(rerunfilecheck)             Checksum: D2D1682829199088B1933F81230BF065;15318.
 
+
+Package rerunfilecheck Warning: File `Environmental_Science_in_East_Asia.out' h
+as changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Environmental_Science_in_East_Asia.
+out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D2D1682829199088B1933F81230BF065;15318.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
@@ -2321,13 +2322,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 1006 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31061 strings out of 494820
- 584879 string characters out of 3178050
- 656058 words of memory out of 3000000
- 32956 multiletter control sequences out of 15000+200000
+ 30911 strings out of 494820
+ 582804 string characters out of 3178050
+ 656571 words of memory out of 3000000
+ 32797 multiletter control sequences out of 15000+200000
  49074 words of font info for 138 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 56i,11n,73p,4004b,1150s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,73p,4004b,1172s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
 r-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
 nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
@@ -2370,11 +2371,11 @@ mf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/cm-super/sftt1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (186 pages, 20259442 b
+Output written on Environmental_Science_in_East_Asia.pdf (187 pages, 20644485 b
 ytes).
 PDF statistics:
- 3076 PDF objects out of 3580 (max. 8388607)
- 2708 compressed objects within 28 object streams
- 630 named destinations out of 1000 (max. 500000)
- 1858 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2537 PDF objects out of 2984 (max. 8388607)
+ 2174 compressed objects within 22 object streams
+ 643 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 

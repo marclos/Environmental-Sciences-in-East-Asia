@@ -1,4 +1,4 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{113}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -165,11 +165,25 @@ Csiki, S. and B.~L. Rhoads. 2010.
 \newblock Hydraulic and geomorphological effects of run-of-river dams.
 \newblock Progress in Physical Geography, {\bf 34}:755--780.
 
+\bibitem[{Dao(2010)}]{dao2010dam}
+Dao, N. 2010.
+\newblock Dam development in vietnam: The evolution of dam-induced resettlement
+  policy.
+\newblock Water Alternatives, {\bf 3}:324.
+
 \bibitem[{Davis(2002)}]{davis2002late}
 Davis, M. 2002.
 \newblock Late Victorian holocausts: El Nino famines and the making of the
   third world.
 \newblock Verso Books.
+
+\bibitem[{du~musee~de Shanghai(1996)}]{du1996university}
+du~musee~de Shanghai, B. 1996.
+\newblock University of hong kong, centre for chinese archaeology and art,
+  1998. childs-johnson, elizabeth." jade as material and epoch." in china, 5000
+  years: Innovation and transformation in the arts, ed. sherman e. lee, 55-68.
+  new york: Solomon r. guggenheim museum, 1998.
+\newblock World Archaeology, {\bf 28}:209--19.
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -222,6 +236,15 @@ Fox, H.~E. and R.~L. Caldwell. 2006.
 \newblock Ecological Applications, {\bf 16}:1631--1635.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
+
+\bibitem[{Fristachi et~al.(2008)Fristachi, Sinclair, Hall, Berkman, Boyer,
+  Burkholder, Burns, Carmichael, DuFour, Frazier
+  et~al.}]{fristachi2008occurrence}
+Fristachi, A., J.~L. Sinclair, S.~Hall, J.~A.~H. Berkman, G.~Boyer,
+  J.~Burkholder, J.~Burns, W.~Carmichael, A.~DuFour, W.~Frazier, et~al. 2008.
+\newblock Occurrence of cyanobacterial harmful algal blooms workgroup report.
+\newblock In Cyanobacterial harmful algal blooms: state of the science and
+  research needs, pages 45--103. Springer.
 
 \bibitem[{Fu et~al.(2010)Fu, Wu, L{\"u}, Xu, Cao, Niu, Yang, and
   Zhou}]{fu2010three}
@@ -292,6 +315,12 @@ Jian, L., G.~Xueguang, X.~Fasen, W.~Song, and L.~Song. 2000.
 Jiang, T., T.~Fischer, and X.~Lu. 2011.
 \newblock Larger asian rivers: climate, hydrology and ecosystems.
 
+\bibitem[{Jim and Yang(2006)}]{jim2006local}
+Jim, C.~Y. and F.~Y. Yang. 2006.
+\newblock Local responses to inundation and de-farming in the reservoir region
+  of the three gorges project (china).
+\newblock Environmental Management, {\bf 38}:618--637.
+
 \bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
   Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
   Steneck}]{Keller2009ClimateCC}
@@ -328,6 +357,13 @@ Klock, J.~S. 1995.
   ifugao territory, luzon, philippines, 1901-1945.
 \newblock Philippine quarterly of culture and society, {\bf 23}:3--19.
 
+\bibitem[{Kravitz et~al.(1999)Kravitz, Nyaphisi, Mandel, and
+  Petersen}]{kravitz1999quantitative}
+Kravitz, J., M.~Nyaphisi, R.~Mandel, and E.~Petersen. 1999.
+\newblock Quantitative bacterial examination of domestic water supplies in the
+  lesotho highlands: water quality, sanitation, and village health.
+\newblock Bulletin of the World Health Organization, {\bf 77}:829.
+
 \bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
 Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
 \newblock Fifty years of groundwater science in korea: a review and
@@ -351,6 +387,12 @@ Liu, L., D.~Liu, D.~M. Johnson, Z.~Yi, and Y.~Huang. 2012.
 \newblock Effects of vertical mixing on phytoplankton blooms in xiangxi bay of
   three gorges reservoir: implications for management.
 \newblock Water research, {\bf 46}:2121--2130.
+
+\bibitem[{Liu et~al.(2013)Liu, Bai, Cao, Liu, Ding, Childs-Johnson,
+  Falkenhausen, Jiao, Lee, Li et~al.}]{liu2013chinese}
+Liu, Q., Y.~Bai, N.~Cao, X.~Liu, X.~Ding, E.~Childs-Johnson, L.~v.
+  Falkenhausen, T.~Jiao, Y.-K. Lee, Y.-t. Li, et~al. 2013.
+\newblock Chinese archaeology.
 
 \bibitem[{Los~Huertos(2018)}]{LosHuertos2017OverviewR}
 Los~Huertos, M. 2018.
@@ -394,6 +436,12 @@ Nelwan, M.~L. 2019.
 \newblock Schistosomiasis: life cycle, diagnosis, and control.
 \newblock Current Therapeutic Research, {\bf 91}:5--9.
 
+\bibitem[{Nguyen et~al.(2013)Nguyen, Tenhunen et~al.}]{nguyen2013linking}
+Nguyen, T.~T., J.~Tenhunen, et~al. 2013.
+\newblock Linking regional land use and payments for forest hydrological
+  services: A case study of hoa binh reservoir in vietnam.
+\newblock Land use policy, {\bf 33}:130--140.
+
 \bibitem[{NOAA(????)}]{noaaclimate.gov}
 NOAA. ????
 \newblock Climate models.
@@ -411,6 +459,11 @@ NOAA. 2019{\natexlab{{\em b\/}}}.
   Administration.
 \newblock
   \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
+
+\bibitem[{Norberg-Hodge(2000)}]{norberg2000ancient}
+Norberg-Hodge, H. 2000.
+\newblock Ancient futures: learning from Ladakh.
+\newblock Random House.
 
 \bibitem[{on~Dams(2000)}]{world2000dams}
 on~Dams, W.~C. 2000.
@@ -473,6 +526,10 @@ Renaud, C. 1997.
 \newblock Environment, {\bf 39}:23.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{S{\'a}ng(2020)}]{sang2020bai}
+S{\'a}ng, N.~T. 2020.
+\newblock b{\`a}i tập thực h{\`a}nh-v{\u{a}}n h{\'o}a h{\`o}a b{\`\i}nh.
 
 \bibitem[{Scott(2018)}]{areef}
 Scott, C. 2018.
@@ -537,6 +594,12 @@ Suggett, D.~J. and D.~J. Smith. 2020.
 \newblock
   \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
 
+\bibitem[{Thao et~al.(2019)Thao, Khoi, Xuan, and Tychon}]{thao2019assessment}
+Thao, N. T.~T., D.~N. Khoi, T.~T. Xuan, and B.~Tychon. 2019.
+\newblock Assessment of livelihood vulnerability to drought: A case study in
+  dak nong province, vietnam.
+\newblock International Journal of Disaster Risk Science, {\bf 10}:604--615.
+
 \bibitem[{Thompson(2018)}]{Thompson}
 Thompson, A. 2018.
 \newblock Where plastic goes, coral disease follows.
@@ -554,6 +617,11 @@ Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
 \newblock Biodiversity \& Conservation, {\bf 19}:1063 -- 1082.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48847774&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Trang(2004)}]{trang2004local}
+Trang, T. T.~T. 2004.
+\newblock Local politics and democracy in a muong ethnic community.
+\newblock Beyond Hanoi. Local Government in Vietnam, pages 137--166.
 
 \bibitem[{Turner(1999)}]{turner1999realizable}
 Turner, J.~A. 1999.
@@ -576,6 +644,12 @@ Verjee, M.~A. 2019.
 \newblock Schistosomiasis: Still a cause of significant morbidity and
   mortality.
 \newblock Research and reports in tropical medicine, {\bf 10}:153.
+
+\bibitem[{Vinh et~al.(2014)Vinh, Ouillon, Thanh, and Chu}]{vinh2014impact}
+Vinh, V., S.~Ouillon, T.~Thanh, and L.~Chu. 2014.
+\newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
+  the red river basin and delta.
+\newblock Hydrology and Earth System Sciences, {\bf 18}:3987--4005.
 
 \bibitem[{Waldstein(1997)}]{waldstein1997schistosoma}
 Waldstein, A. 1997.
