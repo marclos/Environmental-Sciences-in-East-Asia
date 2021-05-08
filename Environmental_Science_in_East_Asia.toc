@@ -124,7 +124,7 @@
 \contentsline {section}{\numberline {8.4}Three Gorges Dam}{55}{section.8.4}
 \contentsline {subsection}{\numberline {8.4.1}Hazards and Flooding}{57}{subsection.8.4.1}
 \contentsline {subsection}{\numberline {8.4.2}Displacement}{57}{subsection.8.4.2}
-\contentsline {subsection}{\numberline {8.4.3}Schistosomiasis}{58}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.3}Schistosomiasis}{57}{subsection.8.4.3}
 \contentsline {subsubsection}{Temperature}{58}{section*.84}
 \contentsline {subsubsection}{Breeding Patterns and Resettlement}{59}{section*.85}
 \contentsline {subsubsection}{Snail Dispersal}{59}{section*.87}
