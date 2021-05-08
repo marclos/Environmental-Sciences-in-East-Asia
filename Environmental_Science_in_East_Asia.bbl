@@ -1,4 +1,4 @@
-\begin{thebibliography}{113}
+\begin{thebibliography}{111}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -252,14 +252,6 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
   Y.-M. Zhou. 2010.
 \newblock Three gorges project: efforts and challenges for the environment.
 \newblock Progress in Physical Geography, {\bf 34}:741--754.
-
-\bibitem[{Golden et~al.(2019)Golden, Shapero, Vaitla, Smith, Myers, Stebbins,
-  and Gephart}]{golden2019impacts}
-Golden, C.~D., A.~Shapero, B.~Vaitla, M.~R. Smith, S.~S. Myers, E.~Stebbins,
-  and J.~A. Gephart. 2019.
-\newblock Impacts of mainstream hydropower development on fisheries and human
-  nutrition in the lower mekong.
-\newblock Frontiers in Sustainable Food Systems, {\bf 3}:93.
 
 \bibitem[{Gullen and Plungis(2013)}]{gullen2013statista}
 Gullen, A. and J.~Plungis. 2013.
@@ -526,10 +518,6 @@ Renaud, C. 1997.
 \newblock Environment, {\bf 39}:23.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
-
-\bibitem[{S{\'a}ng(2020)}]{sang2020bai}
-S{\'a}ng, N.~T. 2020.
-\newblock b{\`a}i tập thực h{\`a}nh-v{\u{a}}n h{\'o}a h{\`o}a b{\`\i}nh.
 
 \bibitem[{Scott(2018)}]{areef}
 Scott, C. 2018.
