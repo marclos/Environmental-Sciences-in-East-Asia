@@ -79,7 +79,7 @@ La Niña, the cold phase of the El Niño-Southern Oscillation (ENSO) cycle, heav
 
 [image file is missing]
 \begin{figure}
-\includegraphics[width=\linewidth]{images/myanmar/Image7.jpg}
+\includegraphics[width=\linewidth]{images/myanmar/Image6.jpg}
 \caption{Inundation along the upper Ayeyarwady river in the state of Kachin during normal winter flow (top), monsoon season flow (middle), and unusual flooding—usually tied to extreme weather-- bottom}
 \end{figure}
 

@@ -155,6 +155,9 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/circular-economy.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/Environmental-Economies.Rnw'>>=
+@
+
 <<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
 @
 

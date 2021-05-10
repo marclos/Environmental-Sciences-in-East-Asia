@@ -15,11 +15,7 @@
 
 \section{Beyond Hong Kong}
 
-\begin{figure}
-\includegraphics[width=\linewidth]{graphics/title}
-\caption{caption}
-\label{title}
-\end{figure}
+
 
 \section{Beyond Hong Kong}
 
