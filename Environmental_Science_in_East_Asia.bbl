@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-\begin{thebibliography}{62}
-=======
-\begin{thebibliography}{111}
->>>>>>> da5c9a1df01eb487bd2b146df00cf6b45feb5045
+\begin{thebibliography}{115}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -108,9 +104,6 @@ Capistrano, R. C.~G. 2010.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48260001&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
-\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and Li}]{sealevelrise}
-=======
 \bibitem[{Cernea(1997)}]{cernea1997risks}
 Cernea, M. 1997.
 \newblock The risks and reconstruction model for resettling displaced
@@ -124,9 +117,7 @@ Cernea, M. 2004.
 \newblock In UN Symposium on hydropower and sustainable development, volume~27.
   Citeseer.
 
-\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and
-  Li}]{https://doi.org/10.1029/2018JC014534}
->>>>>>> da5c9a1df01eb487bd2b146df00cf6b45feb5045
+\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and Li}]{sealevelrise}
 Chen, T., G.~Roff, L.~McCook, J.~Zhao, and S.~Li. 2018.
 \newblock Recolonization of marginal coral reef flats in response to recent
   sea-level rise.
@@ -245,13 +236,6 @@ Fox, H.~E. and R.~L. Caldwell. 2006.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
 
-<<<<<<< HEAD
-\bibitem[{Hagen and Minter(2020)}]{agtadisplace}
-Hagen, R.~V. and T.~Minter. 2020.
-\newblock Displacement in the name of development. how indigenous rights
-  legislation fails to protect philippine hunter-gatherers.
-\newblock Society and Natural Resources, {\bf 33}:65–82.
-=======
 \bibitem[{Fristachi et~al.(2008)Fristachi, Sinclair, Hall, Berkman, Boyer,
   Burkholder, Burns, Carmichael, DuFour, Frazier
   et~al.}]{fristachi2008occurrence}
@@ -272,7 +256,12 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
 Gullen, A. and J.~Plungis. 2013.
 \newblock Statista.
 \newblock The Charleston Advisor, {\bf 15}:43--47.
->>>>>>> da5c9a1df01eb487bd2b146df00cf6b45feb5045
+
+\bibitem[{Hagen and Minter(2020)}]{agtadisplace}
+Hagen, R.~V. and T.~Minter. 2020.
+\newblock Displacement in the name of development. how indigenous rights
+  legislation fails to protect philippine hunter-gatherers.
+\newblock Society and Natural Resources, {\bf 33}:65–82.
 
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
@@ -568,20 +557,18 @@ Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=26152806&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
+\bibitem[{Shi et~al.(1990)Shi, Jiang, Han, Li, and Ruppel}]{shi1990schistosoma}
+Shi, Y.-e., C.-F. Jiang, J.-J. Han, Y.-L. Li, and A.~Ruppel. 1990.
+\newblock Schistosoma japonicum: an ultraviolet-attenuated cercarial vaccine
+  applicable in the field for water buffaloes.
+\newblock Experimental parasitology, {\bf 71}:100--106.
+
 \bibitem[{Sinay and Carter(2020)}]{Sinay_2020}
 Sinay, L. and R.~W.~B. Carter. 2020.
 \newblock Climate change adaptation options for coastal communities and local
   governments.
 \newblock Climate, {\bf 8}:7.
 \newblock \urlprefix\url{http://dx.doi.org/10.3390/cli8010007}.
-=======
-\bibitem[{Shi et~al.(1990)Shi, Jiang, Han, Li, and Ruppel}]{shi1990schistosoma}
-Shi, Y.-e., C.-F. Jiang, J.-J. Han, Y.-L. Li, and A.~Ruppel. 1990.
-\newblock Schistosoma japonicum: an ultraviolet-attenuated cercarial vaccine
-  applicable in the field for water buffaloes.
-\newblock Experimental parasitology, {\bf 71}:100--106.
->>>>>>> da5c9a1df01eb487bd2b146df00cf6b45feb5045
 
 \bibitem[{Smith(2018)}]{Smith}
 Smith, K.~N. 2018.
@@ -636,24 +623,22 @@ Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48847774&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
+\bibitem[{Trang(2004)}]{trang2004local}
+Trang, T. T.~T. 2004.
+\newblock Local politics and democracy in a muong ethnic community.
+\newblock Beyond Hanoi. Local Government in Vietnam, pages 137--166.
+
 \bibitem[{Tseng et~al.(2013)Tseng, Wang, and Duh}]{Tseng_2013}
 Tseng, Y.-J., S.-K. Wang, and C.-Y. Duh. 2013.
 \newblock Secosteroids and norcembranoids from the soft coral sinularia
   nanolobata.
 \newblock Marine Drugs, {\bf 11}:3288–3296.
 \newblock \urlprefix\url{http://dx.doi.org/10.3390/md11093288}.
-=======
-\bibitem[{Trang(2004)}]{trang2004local}
-Trang, T. T.~T. 2004.
-\newblock Local politics and democracy in a muong ethnic community.
-\newblock Beyond Hanoi. Local Government in Vietnam, pages 137--166.
 
 \bibitem[{Turner(1999)}]{turner1999realizable}
 Turner, J.~A. 1999.
 \newblock A realizable renewable energy future.
 \newblock Science, {\bf 285}:687--689.
->>>>>>> da5c9a1df01eb487bd2b146df00cf6b45feb5045
 
 \bibitem[{US~EPA(2017)}]{USEPA_2017}
 US~EPA, O. 2017.
