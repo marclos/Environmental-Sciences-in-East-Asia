@@ -22,6 +22,7 @@
 \contentsline {subsubsection}{R Created Figures}{xvii}{section*.33}
 \contentsline {subsubsection}{Floating Figures from External Sources}{xix}{section*.35}
 \contentsline {subsection}{\numberline {0.6.3}Adding Citations}{xix}{subsection.0.6.3}
+\contentsline {subsection}{\numberline {0.6.4}Adding Glossary Words}{xix}{subsection.0.6.4}
 \contentsline {chapter}{Nora's Practice Sessions}{xxi}{chapter*.37}
 \contentsline {section}{\numberline {0.7}Testing Various Push and Pull Options}{xxi}{section.0.7}
 \contentsline {subsection}{\numberline {0.7.1}What Factors Drive Land Use Change?}{xxi}{subsection.0.7.1}

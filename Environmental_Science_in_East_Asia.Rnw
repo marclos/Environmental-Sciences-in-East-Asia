@@ -24,11 +24,13 @@
 %\usepackage{wasysym} %\smiley{}
 % \usepackage{siunitx}
 \usepackage{glossaries}
+% \usepackage[automake]{glossaries} % automake option unknown.
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
 \usepackage{soul}
 \usepackage{comment}
+
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -98,9 +100,9 @@ opts_knit$set(self.contained=FALSE)
 \date{\today}
 
 \begin{document}
-
-\maketitle
 \makeglossaries
+\maketitle
+
 
 \frontmatter
 \tableofcontents
