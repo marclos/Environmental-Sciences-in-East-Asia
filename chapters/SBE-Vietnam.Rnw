@@ -36,9 +36,9 @@ Vietnam’s most important crop, rice accounts for 47\% of all agricultural prod
 
 
 \subsection{Sea Level Rise}
-Vietnam’s long coast makes it particularly susceptible to the consequences of sea level rise. The coastline has been rising at about the global average of 3mm per year (Huong). If this rate is stable, Vietnam is expected to experience 75 cm of sea level rise by the end of the 21st century (MONRE 2009). This will have wide ranging effects, one of the most damaging being saltwater intrusion (Hens 2018). Salinization occurs when sea water, with it’s high salt content, vertically infiltrates through soil and contaminates underground sources of fresh water (Hens 2018). A higher sea level will bring seawater higher up the water table, causing this effect. Figure~\ref{fig:floodrisk}
+Vietnam’s long coast makes it particularly susceptible to the consequences of sea level rise. The coastline has been rising at about the global average of 3mm per year (Huong). If this rate is stable, Vietnam is expected to experience 75 cm of sea level rise by the end of the 21st century (MONRE 2009). This will have wide ranging effects, one of the most damaging being saltwater intrusion \citep{hens2018sea} \citep{ref}. Salinization occurs when sea water, with it’s high salt content, vertically infiltrates through soil and contaminates underground sources of fresh water (Hens 2018). A higher sea level will bring seawater higher up the water table, causing this effect. Figure~\ref{fig:floodrisk}
 
-\begin{figure}
+\begin{figure}[h!]
 \includegraphics[width=\linewidth]{images/Vietnam/saltwaterintrusion}
 \caption{This graphic by the National Environmental Education Foundation visualizes the process of saltwater intrusion.}
 \label{fig:saltwater}

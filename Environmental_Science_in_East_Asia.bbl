@@ -1,9 +1,18 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hens et~al.(2018)Hens, Thinh, Hanh, Cuong, Lan, Van~Thanh, and
+  Le]{hens2018sea}
+Luc Hens, Nguyen~An Thinh, Tran~Hong Hanh, Ngo~Sy Cuong, Tran~Dinh Lan, Nguyen
+  Van~Thanh, and Dang~Thanh Le.
+\newblock Sea-level rise and resilience in vietnam and the asia-pacific: A
+  synthesis.
+\newblock \emph{Vietnam Journal of Earth Sciences}, 40\penalty0 (2):\penalty0
+  126--152, 2018.
 
 \bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
 Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
@@ -38,6 +47,11 @@ Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
 \newblock \emph{Science Advances}, 5\penalty0 (7), 2019.
 \newblock \doi{10.1126/sciadv.aau1218}.
 \newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
+
+\bibitem[Ref(Year)]{ref}
+Ref.
+\newblock {REFERENCE}({S}) {TO} {BE} {ADDED}.
+\newblock \emph{.}, Year.
 
 \bibitem[Xie(2021)]{knitr}
 Yihui Xie.
