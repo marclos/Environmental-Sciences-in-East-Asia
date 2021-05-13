@@ -3,9 +3,13 @@
 \chapterauthor{Quyen Hoang Ballagh}
 
 \section{Former Residents of Balui}
-Prior to construction of the Bakun Dam, dozens of different Indigenous communities practiced subsistence farming, hunting, and rich cultural traditions along the Balui River. Indigenous communities such as the Kayan have developed and practiced knowledge of the environmental (Traditional Ecological Knowledge) for centuries in agriculture such as rice cultivation. Traditinoal tattoos, stretched earlobes, and connected apartments known as long houses have been the practice of communities such as the Kayan and others who live[d] along the Balui River until development of a megadam called the Bakun Dam which disrupted their watershed and displaced thousands of communities members from their homes \citep{aiken2015dams}. A series of case studies was conducted with the community forcibly displaced to government-controlled Sungai Asap in September 2002. The following quotes are pulled from anonymously interviewed Indigenous village members on comparing the conditions of their original home and their government controlled resettlement in Sungai Asap \citep{choy2004sustainable}. They are translated to English as directly as is possible. 
+\red{if you have subsections, try to include one after the section to keep the hierarchy consistent}
+
+Prior to construction of the Bakun Dam, dozens of different Indigenous communities practiced subsistence farming, hunting, and rich cultural traditions along the Balui River. Indigenous communities such as the Kayan have developed and practiced knowledge of the environmental (Traditional Ecological Knowledge) for centuries in agriculture such as rice cultivation. Traditinoal tattoos, stretched earlobes, and connected apartments known as long houses have been the practice of communities such as the Kayan and others who live[d] along the Balui River until development of a megadam called the Bakun Dam which disrupted their watershed and displaced thousands of communities members from their homes \citep{aiken2015dams}. A series of case studies was conducted with the community forcibly displaced to government-controlled Sungai Asap in September 2002. The following quotes are pulled from anonymously interviewed Indigenous village members on comparing the conditions of their original home and their government controlled resettlement in Sungai Asap \citep{choy2004sustainable}. They are translated to English as directly as is possible. \blue{great start}
 
 \subsection{On Survival}
+
+\red{subsections create numbers, do you just want to give the quote some framing? we could try using a minibox or just a bolded text?. if you want to use subsection without the numbers, we could do subsection*}
 \begin{quote}
 ``Life has been difficult for us since we moved to this area a few years ago. Now we are running out of means to buy our foodstuffs to pay our water and electricity bills. You just look at the electricity meters up there, supplies have been cut off as we have not been able to settle our electricity bill for months.'' \emph{}
 \end{quote}
@@ -15,7 +19,7 @@ Prior to construction of the Bakun Dam, dozens of different Indigenous communiti
 ``I do not think the Bakun project has brought us social and economic development as claimed by the government. The environment here is just not suitable for us. Last time we did not have to worry about our daily consumption because we got everything from the forest. Now everything is so different. No money, no food. Just look at the three acres of farmland allocated to me; it takes me about 20 to 25 minutes by land cruiser to get there. Yes, the government built the road for us but where is the means of transport? A return trip from here (Sungai Kojan) to my farmland in Sungai Asap cost me RM4 (US \$1.05). That is very costly for me.''
 \end{quote}
 
-
+\blue{long quotes don't need quotation marks}
 \subsection{On Returning Home}
 \begin{quote}
  [If given the chance, would you return to your original settlement?] 
@@ -23,125 +27,136 @@ Prior to construction of the Bakun Dam, dozens of different Indigenous communiti
 ``Of course! [The] former settlement is better. Furthermore, when we are asked to pay for the house installment amounting to RM52,000 (US 13,684), we are ''habits'' [finished]. Where do we have the means to pay? Makan pun susah [Eating is also a problem]. By then, we have no choice but to go back to the jungle.'' 
 \end{quote}
 
-\citep{choy2004sustainable}
+\citep{choy2004sustainable}\red{put inside the long quote or as a indented citation?}
+
+e.g. 
+\quad \quad \quad \quad\quad\quad\quad\quad --As quoted in \citet{choy2004sustainable}.
 
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/hydroelectric/borneomap.png}
-\caption{CAPTION}
+\caption{CAPTION--great figure!}
 \label{fig:refborneo}
 \end{figure}
 
 \section{Introduction}
-      Megadams across the globe have caused the forced displacement of between 40 and 80 million peopled (Hai, 2016). Hydroelectric dams account for 19\% of the world's electricity needs. In Sarawak, Malaysia on the island of Borneo, dozens of new megadam projects are set to be built with plans to account for 7,000 megawatts of electricity by the end of 2020, and up to 20,000 megawatts of electricity on a long-term scale. For reference, China's annual electricity needs are in the 5.8 billion megawatt range and the U.S.was in the 1.2 billion megawatts range in 2020 \citep{gullen2013statista}. 
-    
+
+Megadams across the globe have \st{caused the }forced displacement of between 40 and 80 million peopled (Hai, 2016). Hydroelectric dams account for 19\% of the world's electricity needs. In Sarawak, Malaysia on the island of Borneo, dozens of new megadam projects are set to be built with plans to account for 7,000 megawatts of electricity by the end of 2020, and up to 20,000 megawatts of electricity on a long-term scale. For reference, China's annual electricity needs are in the 5.8 billion megawatt range and the U.S.was in the 1.2 billion megawatts range in 2020 \citep{gullen2013statista}.\blue{convert to per capita for the comparision?} 
+
+
   Hydroelectricity and mega dam projects are notorious for displacing billions, disrupting Iddigenous and traditional modes of livelihood, social structures, and impacting the social-emotional well-being of millions. Additionally, one of the largest ironies of hydroelectricity is the benefactors and recipients of the produced energy. With the harnessing of hydropower, large construction and deveopment companies profit off of the ecological and humanitarian degradation involved to generate electricity in megadams. Conversely, Indigenous and local populations bear the burden of the development a process termed water grabbing. In most cases (specifically with mega dam construction), the produced electricity is either exported to nearby urban cities, or, in the case of regions like Sarawak, Malaysia, the energy is often exported to different countries altogether. It is estimated that in Sarawak, local energy demand in 2020 was about 972 megawatts with estimated increases to 1,500 megawatts annually. Despite the low energy demand in the region, the dams in the area including the Baram and the Bakun both have approximate averages of 1,200 MW (megawatts) of annual production. In most cases, the produced energy (which far exceeds the regional demand) is exported to other regions or countries and the displaced Indigenous groups are not granted access to the energy (Stephenson). This is in part due to the funders of dams and who facilitates construction. Prior to the late 1900s (1940 to roughly 1970-1990), dam construction was funded by the World Bank \citep{awojobi2015were}. In this chapter, dams throughout East and South East Asia will be discussed, including the aforementioned Malaysian Borneo, Laos, Vietnam, and China. 
+
+
+  Hydroelectricity and mega dam projects are notorious for displacing billions, disrupting \red{Idd}igenous and traditional modes of livelihood, social structures, and impacting the social-emotional well-being of millions. Additionally, one of the largest ironies of hydroelectricity is \blue{the divergence between who are?} the benefactors and recipients of the produced energy\blue{good addition, but a bit awkward\ldots, fix as you see fit} With the harnessing of hydropower, large construction and deveopment companies profit off of the ecological and humanitarian degradation involved to generate electricity in megadams. Conversely, Indigenous and local populations bear the burden of the development a process termed water grabbing. In most cases (specifically with mega dam construction), the produced electricity is either exported to nearby urban cities, or, in the case of regions like Sarawak, Malaysia, the energy is often exported to different countries altogether. It is estimated\red{passive voice} that in Sarawak, local energy demand in 2020 was about 972 megawatts with estimated increases to 1,500 megawatts annually. Despite the low energy demand in the region, the dams in the area including the Baram and the Bakun both have approximate averages of 1,200 MW (megawatts) of annual production. In most cases, the produced energy (which far exceeds the regional demand) is exported to other regions or countries and the displaced Indigenous groups are not granted access to the energy (\blue{Stephenson}). This is in part due to the funders of dams and who facilitates construction.\red{great transtion, let's see if we can entice the reader with a shorter sentance} Prior to the late 1900s (1940 to roughly 1970-1990), dam construction was funded by the World Bank \citep{awojobi2015were}.
+>>>>>>> 1c85e609aab81258bf9071e83b9f5cdc205e8493
   
-      One of the reasons that dams were seen as a critical part of "development" and subsequently funded by large investment groups such as the World Bank was because at the beginning of the 20th century, the United States and North America began to be used. President Roosevelt of the United States began construction of large dams in the 1930s in the New Deal \citep{billington2006big}. This development continued in post World War II economic and population growth \citep{severnini2014power}. As colonization and imperialism occured in proxy states throughout the later half of the 20th century, countries such as Brazil and China began to encourage hydropower development \citep{folch2019hydropolitics}.\\ 
-    For example, Brazil during the 1970s under Alfredo Stroessner's dictatorship and U.S. imperialism in Latin America, dam construction was viewed as the pinnacle of modernity and development (in part because dam development was so prominent in the United States in previous centuries) \citep{folch2019hydropolitics}. Under U.S. control of Latin America, the military dictatorships and big loans for development projects from funders such as the World Bank enabled mega dam construction such as the Itaipu in Brazil which is the next largest dam to date after the Three Gorges Dam in China \citep{mainardi2017first}.
-    \\
-   The World Bank began funding projects such as The Three Gorges Dam (one of the largest and most notorious hydroelectric dams) as well as the Sardar Sarovar Dam in India, the Chonoy in Guatemala, and the Itaparica hydropower project in Brazil as well as countless others. Beginning in the 1970s, criticism arose about the lack of social protection policies for the local and Indigenous communities that dam construction was impacting \citep{awojobi2015were}. Action was called to both assess, and end the harm caused by the World Bank so the World Commission on Dams was released, outlining the human rights abuses by the World Bank and they withdrew official funding from hydropower projects in the 1990s. Despite this, other corporations have filled the gap in funding, namely actors based in China such as the China Three Gorges Corporation and Sinohydro \citep{cooke2017limits}. 
+      One of the reasons that dams were seen as a critical part of \red{"}development" and subsequently funded by large investment groups such as the World Bank was because at the beginning of the 20th century, the United States and North America began to be used. President Roosevelt of the United States began construction of large dams in the 1930s in the New Deal \citep{billington2006big}. This development continued in post World War II economic and population growth \citep{severnini2014power}. As colonization and imperialism occured in proxy states throughout the later half of the 20th century, countries such as Brazil and China began to encourage hydropower development \citep{folch2019hydropolitics}.\red{red, you can add a line to start a new paragraph}
+      
+    For example, Brazil during the 1970s under Alfredo Stroessner's dictatorship and U.S. imperialism in Latin America, dam construction was viewed as the pinnacle of modernity and development (in part because dam development was so prominent in the United States in previous centuries) \citep{folch2019hydropolitics}. Under U.S. control of Latin America, the military dictatorships and big loans for development projects from funders such as the World Bank enabled mega\red{did you define mega?} dam construction such as the Itaipu in Brazil which is the \st{next} \blue{second} largest dam \blue{in the world} \st{ to date} after the Three Gorges Dam in China \citep{mainardi2017first}.
+
+   The World Bank began funding projects such as The Three Gorges Dam (one of the largest and most notorious hydroelectric dams) as well as the Sardar Sarovar Dam in India, the Chonoy in Guatemala, and the Itaparica hydropower project in Brazil\red{start with this one since it's from the previous paragraph} as well as countless others. Beginning in the 1970s, criticism arose about the lack of social protection policies for the local and Indigenous communities \st{that} \blue{affected by} dam construction\st{ was impacting} \citep{awojobi2015were}. Action was\red{passive voice} called to both assess, and end the harm caused by the World Bank so the World Commission on Dams was released, outlining the human rights abuses by the World Bank and they withdrew official funding from hydropower projects in the 1990s. Despite this, other corporations have filled the gap in funding, namely actors based in China such as the China Three Gorges Corporation and Sinohydro \citep{cooke2017limits}. 
   
-  Since the 1990s, alongside a global push for renewable energy sources, construction of hydroelectric dams surged ({See Table~\ref{tbl:bigdams}})--specifically in East Asia with over 10,000 of the dams (approximately 28\% of all worldwide dam construction) centered in Asia. Even within that disproportionate 28\%, a large number of dams lie in Laos which has been devastated by Chinese foreign investment and funders. Many even refer to Laos as the ``Battery of [Southeast]Asia.'' In cases of water grabbing in hydropower in Laos, energy is exported to other countries or urban cities and the Indigenous or local groups who were impacted by dam development are not granted access to the benefits of the dams that uprooted their lives. Many of these corporate projects have failed international guidelines on human rights and Indigenous rights, as well as ecological harms (which are often tied to subsistence and cultural reciprocity). \\
-{See Table~\ref{tbl:UNrights}}
+Since the 1990s, alongside a global push for renewable energy sources, construction of hydroelectric dams surged ({See Table~\ref{tbl:bigdams}})--specifically in East Asia with over 10,000 of the dams (approximately 28\% of all worldwide dam construction)\red{I am told editors don't like parathetical statements anymore} centered in Asia. Even within that disproportionate 28\%, a large number of dams lie in Laos which has been devastated by Chinese foreign investment and funders. Many even refer to Laos as the ``Battery of [Southeast]Asia.'' In cases of water grabbing in hydropower in Laos, energy is exported to other countries or urban cities and the Indigenous or local groups who were impacted by dam development are not granted access to the benefits of the dams that uprooted their lives. Many of these corporate projects have failed international guidelines on human rights and Indigenous rights, as well as ecological harms (which are often tied to subsistence and cultural reciprocity)(See Table~\ref{tbl:UNrights}). \\
 
 \begin{table} 
 
-\caption{1 column table to list things CHANGE THIS NAME MAYBE} 
+\caption{Selected? UN Indigenous Rights Articles \red{more detail}1 column table to list things CHANGE THIS NAME MAYBE\red{reformatted, better? remove quotes; do we need all of these listed? pretty compelling, but not sure.}} 
 
 \label{tbl:UNrights} 
 
-\begin{tabular}{lrc}\hline 
+\begin{tabular}{lp{5.5in}}\hline 
 
-UN Indigenous Rights Articles CHANGE NAME?  \\ \hline\hline 
+Article & \\ \hline\hline 
 
-Article 3 ``Indigenous peoples have the right to send determination'' \\ \hline 
 
-Article 4 ``Indigenous peoples, in excercising their right to self-determination, have the right to autonomy \\
-or self-government''\\ \hline 
+Article 3 & ``Indigenous peoples have the right to send determination'' \\ 
 
-Article 5 ``Indigenous peoples have the right to maintain and strengthen their distinct political, legal, economic,
-\\social and cultural institutions, while retaining their right to participate fully, if they so choose, 
-\\in the political, economic, social and cultural life of the State.''\\ \hline 
+\rule{0pt}{3ex}
 
- Article 7 ``Indigenous peoples have the collective right to live in freedom, peace and security as distinct \\
- peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly 
- \\removing children of the group to another group.''\\ \hline 
+Article 4 &``Indigenous peoples, in excercising their right to self-determination, have the right to autonomy 
+or self-government''\\
+\rule{0pt}{3ex}
+Article 5 & ``Indigenous peoples have the right to maintain and strengthen their distinct political, legal, economic, social and cultural institutions, while retaining their right to participate fully, if they so choose, in the political, economic, social and cultural life of the State.''\\
 
-Article 8  ``1. Indigenous peoples and individuals have the right not to be subjected to forced assimilation 
-\\or destruction of their culture. 
-2. States shall provide effective mechanisms for prevention of,
-\\and redress for: \\
-(a) Any action which has the aim or effect of depriving them of their integrity as distinct peoples, \\
+\rule{0pt}{3ex}
+ Article 7 & ``Indigenous peoples have the collective right to live in freedom, peace and security as distinct
+ peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group.''\\ 
+\rule{0pt}{3ex}
+
+Article 8 &  ``1. Indigenous peoples and individuals have the right not to be subjected to forced assimilationor destruction of their culture. 
+
+2. States shall provide effective mechanisms for prevention of, and redress for:
+
+(a) Any action which has the aim or effect of depriving them of their integrity as distinct peoples,
 or of their cultural values or ethnic identities; 
-\\
+
 (b) Any action which has the aim or effect of dispossessing them of their lands, territories or resources; 
-\\
+
 (c) Any form of forced population transfer which has the aim or effect of violating or undermining any of 
-\\their rights; 
-\\(d) Any form of forced assimilation or integration''\\ \hline 
+their rights; 
 
-Article 10 ``Indigenous peoples shall not be forcibly removed from their lands or territories. No relocation shall \\
-take place without the free, prior and informed consent of the indigenous peoples concerned and after 
-\\agreement on just and fair compensation and, where possible, with the option of return.''\\ \hline 
+(d) Any form of forced assimilation or integration''\\
 
-Article 11 ``1. Indigenous peoples have the right to practise and revitalize their cultural traditions and customs.\\
-This includes the right to maintain, protect and develop the past, present and future manifestations of \\
-their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and 
-\\visual and performing arts and literature.''\\ \hline 
+\rule{0pt}{3ex}
+Article 10 & ``Indigenous peoples shall not be forcibly removed from their lands or territories. No relocation shall take place without the free, prior and informed consent of the indigenous peoples concerned and after agreement on just and fair compensation and, where possible, with the option of return.''\\ 
 
-Article 20 ``1. Indigenous peoples have the right to maintain and develop their political, economic and social \\
-systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and 
-\\to engage freely in all their traditional and other economic activities.
-\\2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. ''\\ \hline 
 
-Article 26 ``1. Indigenous peoples have the right to the lands, territories and resources which they have traditionally\\
-owned, occupied or otherwise used or acquired. 
-\\
-2. Indigenous peoples have the right to own, use, develop and control the lands, territories and resources that they\\
-possess by reason of traditional ownership or other traditional occupation or use, as well as those which they
-\\have otherwise acquired. 
-\\
-3. States shall give legal recognition and protection to these lands, territories and resources. \\Such recognition shall be conducted with due respect to the customs, traditions and land tenure systems of the 
-\\indigenous peoples concerned.''\\ 
+\rule{0pt}{3ex}
+
+Article 11 & ``1. Indigenous peoples have the right to practise and revitalize their cultural traditions and customs. This includes the right to maintain, protect and develop the past, present and future manifestations of their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and visual and performing arts and literature.''\\
+
+\rule{0pt}{3ex}
+
+Article 20 & ``1. Indigenous peoples have the right to maintain and develop their political, economic and social systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and to engage freely in all their traditional and other economic activities.
+
+2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. ''\\ 
+
+\rule{0pt}{3ex}
+
+Article 26 & ``1. Indigenous peoples have the right to the lands, territories and resources which they have traditionallyowned, occupied or otherwise used or acquired. 
+
+2. Indigenous peoples have the right to own, use, develop and control the lands, territories and resources that they possess by reason of traditional ownership or other traditional occupation or use, as well as those which they have otherwise acquired. 
+
+3. States shall give legal recognition and protection to these lands, territories and resources. Such recognition shall be conducted with due respect to the customs, traditions and land tenure systems of the indigenous peoples concerned.''\\ 
+
+\rule{0pt}{3ex}
+
+Article 29 & ``1. Indigenous peoples have the right to the conservation and protection of the environment and the productive capacity of their lands or territories and resources. States shall establish and implement assistance programmes for indigenous peoples for such conservation and protection, without discrimination.''\\
+
 \hline 
-
-Article 29 ``1. Indigenous peoples have the right to the conservation and protection of the environment and 
-\\the productive capacity of their lands or territories and resources. States shall establish and implement
-\\assistance programmes for indigenous peoples for such conservation and protection, without discrimination.''\\ \hline 
 
 
 \end{tabular} 
 
 \end{table}
 
-  In many cases, the current social protection policies that do exist are lacking and can lead to justification for displacement. For example, relocation schemes enable hydropower companies to write off the harm they are causing to communities under the guise of some form of [insufficient] reparation. Furthermore, most relocation schemes force Indigenous communities into cramped living conditions with poor sanitation, education, traditional modes of livilihood (including but not limited to subsistence/agriculture), as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create\red{need a history of rural electrification}. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
+  In many cases, the current social protection policies that do exist are lacking\red{too vague -- lacking how?} and can lead to justification for displacement. For example, relocation schemes enable hydropower companies to write off the harm they are causing to communities under the guise of some form of [insufficient] reparation. Furthermore, most relocation schemes force Indigenous communities into cramped living conditions with poor sanitation, education, traditional modes of livilihood (including but not limited to subsistence/agriculture), as well as cultural aspects of tradition such as crafts, styles, and familial structure. This, paired with the fact that in most cases of water grabbing in hydropower construction, the Indigenous communities displaced are moved into or not given access to the electricity their lives were destroyed to create\red{need a history of rural electrification}. Instead, many Indigenous groups must find their own way to pay for or generate electricity should they desire it in their community.  
 
 
 \begin{table} 
 
-\caption{3 column table example, left justified, right justified, and center justified} 
-
+%\caption{3 column table example, left justified, right justified, and center justified} 
+\caption{These are some of the largest or most famous dams mega dams world wide (energy capacities of more than 400 Megawatts and heights above 15 meters). The Three Gorges Dam is the largest dam globally and produces the most electricity. Dams in East Asia are beginning to be built with more frequency, but other dams such as the Itaipu and Sardar Sarovar are also notorious for their human rights failures. Due to the nature of megadams and the amount of space they need, all of the dams in this chart have caused forced displacement of local or Indigenous populations. TO BE ADDED TO AND EDITTED! \red{I tried to get it to fit!}}
 \label{tbl:bigdams} 
 
-\begin{tabular}{lllrrrl}\hline 
+\begin{tabular}{llrrrl}\hline 
 
-Dam Name & Location & Watershed & Reservoir Volume & Height & Energy Capacity & Dam Type\\ \hline\hline 
+Dam Name & Location/Watershed & Reservoir Vol. & Height & Energy Capacity & Dam Type \\
+        &                    & (km$^3$)      & (m)     & (MW) & \\ 
+        
+        \hline\hline 
 
-Three Gorges Dam  & China    & Yangtze River & 39.3km$^3$ & 181 m & 101.6x10$^8$ & Gravity Dam\\ \hline 
+Three Gorges Dam      & China/Yangtze River             & 39.3 & 181 & 101.6x10$^8$ & Gravity Dam\\ \hline 
 
-Bakun Dam & Malaysia & Balui River & 43.8km$^3$ & 205 m & 2,400 MW & Embankment Dam \\ \hline
+Bakun Dam & Malaysia/Balui River & 43.8 & 205 & 2,400 & Embankment Dam \\ \hline
 
-Sardar Sarovar Dam & India&Narmada River&5.8km$^3$&139 m&1,450 MW&gravity dam\\ \hline
-Son La Dam&Vietnam&Black River&3.1km\^3s&138m&2,400MW&Gravity Dam\\ \hline
-Hoa Binh Dam&Vietnam&Black River&1.6km$^3$s&128 m&1,920 MW& Embankment Dam\\ \hline
-Nam Ngum & Laos & Nam Ngun River &4.7km$^3$&70 m&865,000 MW &Gravity Dam\\ \hline
-Itaipu Dam & Brazil and Paraguay & Parana River & 29km$^3$ & 196 m & 96.6 x 10$^8$ MW &Gravity and Embankment dam\\ \hline
+Sardar Sarovar Dam & India/Narmada River&5.8 &139 & 1,450 & gravity dam\\ \hline
+Son La Dam&Vietnam/Black River &3.1 &138 &2,400 &Gravity Dam\\ \hline
+Hoa Binh Dam&Vietnam/Black River& 1.6 &128  &1,920 & Embankment Dam\\ \hline
+Nam Ngum & Laos/Nam Ngun River &4.7 & 70 & 865,000 &Gravity Dam\\ \hline
+Itaipu Dam & Brazil \& \footnotesize{Paraguay/Parana R.} & 29 & 196  & 96.6 x 10$^8$ & Gravity and Embankment dam\\ \hline
 
 \end{tabular} 
-
-\caption{These are some of the largest or most famous dams mega dams world wide (energy capacities of more than 400 Megawatts and heights above 15 meters). The Three Gorges Dam is the largest dam globally and produces the most electricity. Dams in East Asia are beginning to be built with more frequency, but other dams such as the Itaipu and Sardar Sarovar are also notorious for their human rights failures. Due to the nature of megadams and the amount of space they need, all of the dams in this chart have caused forced displacement of local or Indigenous populations. TO BE ADDED TO AND EDITTED! }
-
 \end{table} 
 
 
@@ -157,12 +172,14 @@ Itaipu Dam & Brazil and Paraguay & Parana River & 29km$^3$ & 196 m & 96.6 x 10$^
 
 
 \subsection{Hydroelectric Generators}
-  Hydroelectric generators are based on the ideas of Michael Faraday who found that when a magnet moves past materials that allow electricity to flow easily, conductors, the magnet causes electricity to flow through the conductor. When direct currents of electricity are circulated through loops of wire around magnetic steel (electromagnets), poles of electromagnetivity are created (field poles).\red{great place for a figure and some discussion of some physics} The field poles are put on the outside of the rotor which is attached to the turbine shaft. When the turned rotates, the field poles move past the conductors and electricity flows, causing an electromotive force, voltage, to develop. 
+
+Hydroelectric generators are based on the ideas of Michael Faraday who found that when a magnet moves past materials that allow electricity to flow easily, conductors, the magnet causes electricity to flow through the conductor.\blue{big sentence\ldots, break up a bit?} When direct currents of electricity are circulated through loops of wire around magnetic steel (electromagnets), poles of electromagnetivity are created (field poles).\red{great place for a figure and some discussion of some physics} The field poles are put on the outside of the rotor which is attached to the turbine shaft. When the turned rotates, the field poles move past the conductors and electricity flows, causing an electromotive force, voltage, to develop. 
   
   
 \subsection{Dam Type}
 
-There are differences in artificial dam types that impact structure, function, and energy production. Large dams that are over 15 meters high and have energy capacity's of 400 Megawatts or more are termed mega dams.Two of the most common mega dams are gravity dams, and embankment dams. Another type of dam that is common are run of river dams. Run of river dams can be classified as mega dams or small dams depending on their size. Small dams are also used for hydroelectricity generation although they have less energy production capacity than mega dams.
+\blue{start with an engaging, non-passive voice-- e.g. Dams are not created equally, nor are impact the same\ldots} types vary due to their 
+There are \red{passive} differences in artificial dam types that impact structure, function, and energy production. Large dams that are over 15 meters high \blue{mega?} and have energy capacity's of 400 Megawatts or more are termed mega dams\red{okay, here it is, patience, marc}. Two of the most common mega dams are gravity dams, and embankment dams. Another type of dam that is common are run of river dams. Run of river dams can be classified as mega dams or small dams depending on their size. Small dams are also used for hydroelectricity generation although they have less energy production capacity than mega dams.
 \red{did you see the talk on dams on Thurs?, I think it was recorded}
 
 \subsubsection{Gravity Dams}
@@ -175,26 +192,30 @@ Gravity Dams are dams that are made of concrete or stone and often hollow. They 
 Embankment dams are usually made from natural minerals such as soil, sand, clay, rock, or occasionally, industrial waste materials. They can also be filled with either compacted earth (hydraulic fill dams) or rocks (rockfill dams) that are smaller than about 3 inches \citep{lemperiere2017dams}. Because of the materials used, embankment dams are generally more susceptible to erosion which means over-topping flows are more of a risk for embankment dams because the excess water can cause erosion of the minerals which puts the dam at risk for collapse or failure because the erosion of the top can cause imbalance of the dam and compromise the structure and the dam could fracture into pieces. Embankment dams are often on some sort of hill or bank with a different levels (high to low elevation) \citep{jansen2012advanced}.
 
 \subsubsection{Run of River Dams}
-Run of river dams are usually classified by the fact that the water flow upstream and downstream of the dam is the same. Run of river dams should not dam the rivers so drastically to create a reservoir. For this reason, there is a lot of literature that advocates unequivocably for run of river dams as non destructive to the environment. Despite this, run of river dams actually can cause disruptions to fish migration patterns and buildup of soil, rocks, and particles that sink to the bottom of rivers or bodies of water (sediment) around the dam itself in a process known as sedimentation \citep{csiki2010hydraulic}. ADD MORE ON THIS FROM THE ENVIROLABASIA TALK
+Run of river dams are usually classified by the fact that the water flow upstream and downstream of the dam is the same\blue{wordy}. Run of river dams should not dam\blue{a bit vague in what you mean} the rivers so drastically to create a reservoir. For this reason, there is \red{passive} a lot of literature that advocates unequivocably for run of river dams as non destructive to the environment. Despite this, run of river dams actually can cause disruptions to fish migration patterns and buildup of soil, rocks, and particles that sink to the bottom of rivers or bodies of water (sediment) around the dam itself in a process known as sedimentation \citep{csiki2010hydraulic}. ADD MORE ON THIS FROM THE ENVIROLABASIA TALK\blue{:-)}
 
 \subsection{Energy}
 
 \subsubsection{Kinetic Energy}
 
-  The size of reservoirs for hydroelectric dams can impact the amount of energy the dam can produce because of the pressure which impacts energy of motion, or kinetic energy. It is the amount of energy from the movement of the water which can be modeled with the equation. 
+  The size of reservoirs for hydroelectric dams can impact the amount of energy the dam can produce because of the pressure which impacts energy of motion, or kinetic energy. It is the amount of energy from the movement of the water which can be modeled \red{estimated?} with the equation. 
 \begin{equation}
 KE = 0.5mv%^2%
 \end{equation}
-In this equation, m is the mass of the object and v is the speed. This is important for hydroelectric dams because turbines can be spun through how quickly or strongly water travels in what is termed water flow. The mass of water is 1 kg/liter and the speed depends on multiple factors, including the amount of pressure in the dam. For example, when using a hose to clean dirt from a surface, when the hose is hardly turned on, the flow is weak and slow. The water flow will not clean the surface very well because of the low amounts of moving energy. A hose turned on to its highest setting has larger amounts of water moving through the same sized hose at faster rates. This means the hose would have high amounts of moving energy and clean the dirt more efficiently.
+In this equation, $m$ is the mass of the object and $v$ is velocity or speed. 
+
+This is important\red{passive} for hydroelectric dams because turbines can be spun through how quickly or strongly water travels in what is termed water flow. The mass of water is 1 kg/liter \red{kg~L$^{-1}$} and the speed depends on multiple factors, including the amount of pressure in the dam. For example, when using a hose to clean dirt from a surface, when the hose is hardly turned on, the flow is weak and slow. The water flow will not clean the surface very well because of the low amounts of moving energy. A hose turned on to its highest setting has larger amounts of water moving through the same sized hose at faster rates. This means the hose would have high amounts of moving energy and clean the dirt more efficiently.
 The same applies to hydroelectric dams and how their turbines are propelled to convert the moving energy. The higher speed and pressure means more moving energy which impacts how efficient a dam will be based on size and height. When thinking about a dam with a small reservoir, the amount of water will not create a lot of pressure on the released water, meaning the moving energy is low and the dam will produce fewer amounts of energy. A large dam reservoir will have high amounts of pressure and thus a greater moving or kinetic energy \citep{khawam2006solid}.
 
 \subsubsection{Potential Energy}
 
-Similarly, the height of a dam impacts its energy potential. The higher a dam is, the more the water “falls” and the higher the potential energy is. Potential energy can be viewed as the amount of energy an object has (or has stored) if moved out of its equilibrium position, so when there is a further height to fall from, the stored or potential energy of the water is greater. This potential energy based on height or gravity can be modeled with the equation:
+Similarly, the height of a dam impacts its energy potential. The higher a dam is, the more the water \red{“}falls” and the higher the potential energy is. Potential energy can be viewed as the amount of energy an object has (or has stored) if moved out of its equilibrium position, so when there is a further height to fall from, the stored or potential energy of the water is greater. This potential energy based on height or gravity can be modeled with the equation:
+
 \begin{equation}
-PE_{grav}=m*g*height
+PE_{grav}=m*g*h
 \end{equation}
-In this, the PE grav is the potential energy, m is the mass, g is the gravitational strength (this is generally based on planet in which it will remain constant at about 9.8N/kg on Earth where N stands for a Newton which is the force needed to accelerate a mass of one kilogram per one meter per second per second), and h is the height. The mass of water is also consistent at 1kg/liter on Earth. With this in mind, the gravitational potential energy of water (as is the case of hydropower) is based on the variable of height. The higher the dam, the greater the height, and the greater the potential energy \citep{thorin2014basics}.
+
+In this, the $PE$ grav is the potential energy, $m$ is the mass, $g$ is the gravitational strength (this is generally based on planet in which it will remain constant at about 9.8N/kg on Earth where N stands for a Newton which is the force needed to accelerate a mass of one kilogram per one meter per second per second), and $h$ is the height\blue{I changed height to h in equation, but make the variable in math mode}. The mass of water is also consistent at 1~kg/liter on Earth. With this in mind, the gravitational potential energy of water (as is the case of hydropower) is based on the variable of height. The higher the dam, the greater the height, and the greater the potential energy \citep{thorin2014basics}.
 
 
 
@@ -214,16 +235,16 @@ In this, TME stands for the Total Mechanical Energy, PE is the potential energy,
   
 \subsection{Megawatts and Electricity Usage}
 
-   Hydroelectric Dams produce an average of 42 billion kWh (kilowatt-hour) per year. This is enough energy to meet the needs of a developed residential area of about a million people, or 72 million barrels of oil \citep{turner1999realizable} and (USBR). To put this into other perspective of just one megawatt is enough energy to power about 10 cars, or 300 homes an hour. Furthermore, part of the reason hydroelectric dams is touted as so efficient is because unlike alternate sustainable energy sources such as solar or wind, hydropower can run at all hours of the day regardless of weather conditions \citep{butler2009headwinds}.
+   Hydroelectric Dams produce an average of 42 billion kWh (kilowatt-hour) per year. This is enough energy to meet the needs of a developed residential area of about a million people, or 72 million barrels of oil \citep{turner1999realizable} \red{and?} (USBR). To put this into other perspective of just one megawatt is enough energy to power about 10 cars, or 300 homes an hour. Furthermore, part of the reason hydroelectric dams is touted as so efficient is because unlike alternate sustainable energy sources such as solar or wind, hydropower can run at all hours of the day regardless of weather conditions \citep{butler2009headwinds}.
    
 \red{Okay, I hate adding to this, but after the talk last week I realized we have another driver -- electrical demand in the region is SUPER high and growing fast. ADDED to that we need to meet that demand without burning fossil fuels. Are we left with hydroelectric or nuclear?  To many yes. That is something we need to engage, I am thinking}
 
 
 \section{Three Gorges Dam}
 
-  Construction of one of the biggest hydroelectric dams, the Three Gorges Dam in the Yichang Hubei Province in China began in 1994 with the aim to prevent flooding, generate electricity, and to allow ocean freighter ship to navigate inland from Shanghai along the Yangtze river basin \citep{jackson2000resettlement}. The Dam is estimated to have production capacity of 18,600--22,800 Megawatts of hydro powered electricity which accounts for about 10\% of all of China's energy production \citep{xu2011impacts}.
+  Construction of one of the biggest hydroelectric dams, the Three Gorges Dam in the Yichang Hubei Province in China began in 1994 with the aim to prevent flooding, generate electricity, and to allow ocean freighter ship to navigate inland from Shanghai along the Yangtze river basin \citep{jackson2000resettlement}. The Dam is estimated\ref{passive voice} to have production capacity of 18,600--22,800 Megawatts of hydro powered electricity which accounts for about 10\% of all of China's energy production \citep{xu2011impacts}.\blue{nicely done.}
 
-  By 2012, the dam's 32 turbine generators were all operational \citep{fu2010three}. The dam’s reservoir holds 5.85 trillion gallons of water and is estimated by the dam’s beneficiaries to eliminate flood related damage for up to a century to protect human development on the banks of a river, or a riparian ecosystem. The dam produces about 84.68 billion kWh of non-fossil fuel energy a year \citep{wang2003three}. The water flow on the Yangtze has also deepened by the dam to allow ships to carry commercial goods to and from Shanghai to reduce shipping costs by 35-37\% and thus increase profits for large commercial enterprises \citep{wang2003three}.
+  By 2012, the dam's 32 turbine generators were all operational \citep{fu2010three}. The dam\red{’}s reservoir holds 5.85 trillion gallons of water and is estimated by the dam’s beneficiaries to eliminate flood related damage for up to a century to protect human development on the banks of a river, or a riparian ecosystem. The dam produces about 84.\red{68 is this important} billion kWh of non-fossil fuel energy a year \citep{wang2003three}. The water flow on the Yangtze has also deepened by the dam to allow ships to carry commercial goods to and from Shanghai to reduce shipping costs by 35-37\% and thus increase profits for large commercial enterprises \citep{wang2003three}.
 The number of people displaced and affected by Three Gorges Dam is highly controversial, with estimates below one million (from the Dam's developers) to 10.2 million people in 1996 \citep{jackson2000resettlement}, and estimates ranging up to 900 million people affected (not displaced) due to disruptions in watersheds upstream or downstream of the dam \citep{kittinger2009toward}. 
 
 \begin{figure}
@@ -232,25 +253,30 @@ The number of people displaced and affected by Three Gorges Dam is highly contro
 \label{fig:tgdref}
 \end{figure}
 
-  The local region and population around the dam prior to construction was below the poverty line and reliant on agriculture with dense but patchily populated areas \citep{kittinger2009toward}. Literacy rates were lower than the national average and upon construction of the dam, new townships were created to house the local displaced populations, but many displaced people were forced into urban centers for which they were poorly equipped to find work given their reliance on subsistence farming previously. Displaced populations were often forced into facotry and production jobs (often for foreign export items) \citep{cernea1997risks} and \citep{cernea2004impoverishment}. 30,000 hectares of farmland that local populations once relied on were flooded and water borne illnesses such as schistosomiasis and other diseases such as tuberculosis and pneumonia become more common in relocation areas due to reduced access to sanitation \citep{cernea2004impoverishment}. \\
+  The local region and population around the dam prior to construction was below the poverty line and reliant on agriculture with dense but patchily populated areas \citep{kittinger2009toward}. Literacy rates were lower than the national average and upon construction of the dam, new townships were created to house the local displaced populations, but many displaced people were forced into urban centers for which they were poorly equipped to find work given their reliance on subsistence farming previously\blue{long sentance} Displaced populations were often forced into facotry and production jobs (often for foreign export items) \citep{cernea1997risks} and \citep{cernea2004impoverishment}. 30,000 hectares of farmland that local populations once relied on were flooded and water borne illnesses such as schistosomiasis and other diseases such as tuberculosis and pneumonia become more common in relocation areas due to reduced access to sanitation \citep{cernea2004impoverishment}.\blue{another long sentance} 
+  
   Furthermore, psychosocial impacts on the displaced populations were devastating. The complete forced shift away from traditional livelihoods as well as loss of cultural sites and disintegration of social support networks caused traumatic stress, stigmatization, depression, and inter-community violence as a result of the destruction. The Yangtze (a watershed involved in the dam) is known as the ``sorrow of China'' due to the millions of lives the dam project has destroyed both through forced displacement, and even death due to natural disasters \citep{kittinger2009toward} and \citep{jiang2011larger}.
   
   \subsection{Hazards and Flooding}
-  Another threat posed by the Three Gorges Dam is the impact it has on natural disasters. Due to alterations in the Yangtze’s hydrological patterns, sedimentation and saltation of the basin is also altered. As populations were forced to move, many of them moved to areas downstream of the Yangtze river into areas that are now considered floodplains due to the altered hydrology \citep{world2000dams}. It was predicted that there would be increased flooding and landslides as a result of the dam construction that has since been confirmed in the 21st century (See Figure~\ref{fig:reftme} of water inflows in 2020).
+  
+  Another threat posed\red{threat implies future} by the Three Gorges Dam is the impact it has on natural disasters. Due to alterations in the Yangtze’s hydrological patterns, sedimentation and saltation of the basin is also altered. As populations were forced to move, many of them moved to areas downstream of the Yangtze river into areas that are now considered floodplains due to the altered hydrology \citep{world2000dams}. It was predicted\red{passive} that there would be increased flooding and landslides as a result of the dam construction that has since been confirmed in the 21st century (See Figure~\ref{fig:reftme} of water inflows in 2020).
     
   Following the construction of the Three Gorges Dam in the 1990s, the amount of landslides in the region increased. Of the almost 6,000 kilometers of reservoir shoreline, 5\% of it was considered dangerous and at risk for landslides \citep{wu2005comprehensive}. With forced relocation, many people moved into the high-risk shoreline areas, putting them at huge risk for landslides. The increased risk of the landslides is due to the changed siltation and sedimentation which have the potential for loose rocks and sediment \citep{wei1989investigation}. 
   
-  Another risk posed by dam construction includes flooding; the alteration of hydrological patterns in the region means that previous flood plains are no longer flooded, and new flood plains are established, sometimes in areas population with humans. Estimates from \citep{jiang2011larger} has documented up to 3,000 people having been killed due to flooding in 1998 as a result of the changed to the Yangtze River Basin due to construction. There also exists the possibility for dam collapse should an earthquake occur, although flooding and landslides are more common \citep{world2000dams}. 
+  Another risk \blue{posed} by dam construction includes flooding; the alteration of hydrological patterns in the region means that previous flood plains are no longer flooded, and new flood plains are established, sometimes in areas population with humans. Estimates from \citep{jiang2011larger} has documented up to 3,000 people having been killed due to flooding in 1998 as a result of the changed to the Yangtze River Basin due to construction. There also exists the possibility for dam collapse should an earthquake occur, although flooding and landslides are more common \citep{world2000dams}. 
 
 \subsection{Displacement}
-    One of the common costs of ``development'' is displacement of local and Indigenous populations—-hydroelectric dams are no different. Due to the fact that flood plains are covered in water, the reservoirs themselves take up large amounts of space (in the case of the Three Gorges Dam, an area of over 400 square miles), and local hydrology is often drastically altered as a result of dam construction, forced displacement is a common result of dam building. Displaced has further implications for even more construction and development for the displaced populations—new infrastructure such as hospitals, schools, roads, water irrigation, and electricity needs to be set up for displaced populations. Unfortunately, new infrastructure for forcibly displaced peoples often is insufficient or inadequate to sustain populations \citep{world2000dams}.
+    One of the common costs of ``development'' is displacement of local and Indigenous populations—-hydroelectric dams are no different. Due to the fact that flood plains are covered in water, the reservoirs themselves take up large amounts of space (in the case of the Three Gorges Dam, an area of over 400 square miles), and local hydrology is often drastically altered as a result of dam construction, forced displacement is a common result of dam building. Displaced has further implications for even more construction and development for the displaced populations\red{—}new infrastructure such as hospitals, schools, roads, water irrigation, and electricity needs to be set up for displaced populations. Unfortunately, new infrastructure for forcibly displaced peoples often is insufficient or inadequate to sustain populations \citep{world2000dams}.
   
   One measurement of human well-being following construction of the Three Gorges Dam was done by \citep{fekete2010millennium} by the Millenium Ecosystem Assessment and World Resources Institute. They classify human well-being under five categories: 
-  \\1. ``access to basic materials''
-  \\2. ``freedom and choice, health''
-  \\3. ``social relations and social capital''
-  \\4. `` security''  
-  \\Due to a number of factors, the MA assessment concluded that the Three Gorges Dam does not meet the requirements to be socially responsible and equitable. \red{can we rank numerous project on this scale to show some variance?}
+\begin{enumerate}
+  \item ``access to basic materials''
+  \item ``freedom and choice, health''
+  \item ``social relations and social capital''
+  \item `` security''\red{don't need quotes}
+\end{enumerate}
+
+Due to a number of factors, the MA assessment concluded that the Three Gorges Dam does not meet the requirements to be socially responsible and equitable. \red{can we rank numerous project on this scale to show some variance?}
   
   \red{need a transition :-)}
 
@@ -259,11 +285,12 @@ The number of people displaced and affected by Three Gorges Dam is highly contro
 Snail fever, or schistosomiasis is a disease from parasitic worms called schistosomes. Schistosomiasis causes abdominal pain, diarrhea, bloody stool, or blood in urine. Schistosomes typically live in freshwater snails which are vectors of the disease. The parasite comes out of the snail in freshwater and humans can become infected from skin contact with the contaminated freshwater \citep{verjee2019schistosomiasis}. Snails infected with schistosomes live in freshwater dams such as the Three Gorges Dam \citep{zhu2008three}. 
   
 Schistosomiasis is found only in certain areas, making the virus endemic, but along with the construction of hydroelectric dams, snails commonly become vectors for the disease, and they bring Schistosomiasis from the endemic regions. The dams have the potential to increase the quantities of snails entering the region every year, making the disease more common \citep{zhu2008three}. Due to displacement of local populations due to dam construction, this often means influxes of people from schistosomiasis endemic zones enter greater populated areas and this may lead to an increase in infections near the flooded areas.
-\\    One of the dams in East Asia that experiences cases of schistosomiasis is the Three Gorges Dam. There is a narrow reservoir attached to the dam that is 1084 \kms which extends into the Jianhan Plain in the Hubei Province and the Chengdu Plains in the Sichuan province—both regions are endemic for schistosomiasis \citep{zhou2007epidemiology}.
-  
-  Dam construction throughout the globe such as Egypt, Senegal, and other continents such as South America caused increased cases of Schistosomiasis. African snails for example, have thin and lightweight shells that make their dispersal throughout regions especially effective and dangerous \citep{zhu2008three}. Following construction of the Diama dam in Senegal, a strain of infection from S. \textit{mansoni} snails occurred due to the stabilized water levels. Inadequate health care services in the area of the Diama dam led to an outbreak infection everyone in the city of Richard-Toll (in the dam region) \citep{waldstein1997schistosoma}. 
 
-Despite differences in snail type, the Diama dam serves as a cautionary tale for large dam construction such as the Three Gorges Dam. Healthcare for displaced populations is limited and due to numerous factors, the Three Gorges dam construction poses increased risk for snail dispersal, breeding, and survival. The most common type of snails in East Asian regions such as the Three Gorges Dam is the O. \textit{Hupensis} \citep{shi1990schistosoma}. For the purposes of this case study of the Three Gorges Dam and schistosomiasis, the “snails” referred to are of the O. \textit{hupensis} or S. \textit{Japonicum} variety. 
+One of the dams in East Asia that experiences cases of schistosomiasis is the Three Gorges Dam. There is a narrow reservoir attached to the dam that is 1084 \kms which extends into the Jianhan Plain in the Hubei Province and the Chengdu Plains in the Sichuan province\red{—}both regions are endemic for schistosomiasis \citep{zhou2007epidemiology}.
+  
+  Dam construction throughout the globe such as Egypt, Senegal, and other continents such as South America caused increased cases of Schistosomiasis. African snails for example, have thin and lightweight shells that make their dispersal throughout regions especially effective and dangerous \citep{zhu2008three}. Following construction of the Diama dam in Senegal, a strain of infection from \textit{S. mansoni} snails occurred due to the stabilized water levels. Inadequate health care services in the area of the Diama dam led to an outbreak infection everyone in the city of Richard-Toll (in the dam region) \citep{waldstein1997schistosoma}. 
+
+Despite differences in snail type, the Diama Dam serves as a cautionary tale for large dam construction such as the Three Gorges Dam. Healthcare for displaced populations is limited and due to numerous factors, the Three Gorges dam construction poses increased risk for snail dispersal, breeding, and survival. The most common type of snails in East Asian regions such as the Three Gorges Dam is the \red{O.} \textit{Hupensis} \citep{shi1990schistosoma}. For the purposes of this case study of the Three Gorges Dam and schistosomiasis, the “snails” referred to are of the\red{genus needs to be italized too O. \textit{hupensis} or S. \textit{Japonicum} variety.} 
 
 \citep{nelwan2019schistosomiasis} and the Center for Disease Control observed that schistosomiasis cases occurred frequently in the Three Gorges area after the construction of the dam, with estimates of up to 100,000 cases of infection. If these cases return to their homes from hospitals, the presence of O. \textit{hubensis} in the region could mean their co-existence can lead to increased numbers of infected snails, and later, increased cases in humans. In comparison to other areas of the world, proponents of the Three Gorges Dam argue that there is no correlation between cases of schistosomiasis and the dam, but as evidenced by \citep{zhu2008three} and other authors, The Three Gorges Dam may make the region more susceptible to both O. hubensis (vectors for the disease), and thus increased cases among humans.
 
@@ -285,7 +312,7 @@ Figure~\ref{fig:schis}
 
 \subsubsection{Snail Dispersal}
 
-  Snails are distributed or dispersed throughout regions in two ways—-actively and passively (Wu 2005). An example of passive dispersal is snails attaching to ships that move to new areas. Active dispersal can look like snails moving across regions via water currents. Passive dispersal does not necessarily have a limit to potential distance traveled, but through active dispersal, \citep{zhu2008three} observed a snail can travel distances of up to 168 kilometers. The closest endemic region to the dam itself is 299 kilometers and there have been documented cases on paper-making reeds that snails and snail eggs have lived on which carried the infected snails across large distances into paper factories in the region \citep{wei1989investigation}. Documented cases such as these imply that the snails could have made their way to the dam from endemic regions through passive dispersal such as the paper-making reeds, or even soil brought into the region that contains snail eggs. \citep{zhu2008three} suggests that the Yangtze River facilitates an increase of merchandise imports which in turn increases the chance for infected snails to enter through passive dispersal. 
+  Snails are distributed or dispersed throughout regions in two ways—-actively and passively (Wu 2005). An example of passive dispersal is snails attaching to ships that move to new areas. Active dispersal can look like snails moving across regions via water currents. Passive dispersal does not necessarily have a limit to potential distance traveled, but through active dispersal, \citep{zhu2008three} observed a snail can travel distances of up to 168 kilometers. The closest endemic region to the dam itself is 299 kilometers and there have been documented cases on paper-making reeds that snails and snail eggs have lived on which carried the infected snails across large distances into paper factories in the region \citep{wei1989investigation}. Documented cases such as these imply that the snails could have made their way to the dam from endemic regions through passive dispersal such as the paper-making reeds, or even soil brought into the region that contains snail eggs. \red{citet instead\ldots}\citep{zhu2008three} suggests that the Yangtze River facilitates an increase of merchandise imports which in turn increases the chance for infected snails to enter through passive dispersal. 
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/schis-map.png}
@@ -302,7 +329,8 @@ Figure~\ref{fig:schis}
 \red{begin with some discussion of eutrophication defining before jumping into cause, throws the reader (me :-)) off a bit to start about flow changes and toxicity\ldots}
 
   Outside of Schistosomiasis and the spread of disease, another issue presented by the Three Gorges Dam and other mega dams is altered hydrological flows, increased nutrient sedimentation, and toxin buildup. DISSCUSS EUTROPHICATION HERE
-  \\  The Three Gorges Reservoir is fed by the Yangtze River (among others). There have been shifts in both water flow, and water levels in the Yangtze as a result and it disrupts the aquatic life, including but not limited to the plankton and microbes of the river \citep{sekiguchi1989case}. An excess of nutrients from runoff leading to dangerously low depleted oxygen levels in the water, a process called eutrophication, has occurred in the Yangtze and its tributaries and watersheds. Agricultural practices that were once not harmful are now causing the eutrophication due to the changed water levels and flows \citep{liu2012effects}.
+
+The Three Gorges Reservoir is fed by the Yangtze River (among others). There have been shifts in both water flow, and water levels in the Yangtze as a result and it disrupts the aquatic life, including but not limited to the plankton and microbes of the river \citep{sekiguchi1989case}. An excess of nutrients from runoff leading to dangerously low depleted oxygen levels in the water, a process called eutrophication, has occurred in the Yangtze and its tributaries and watersheds. Agricultural practices that were once not harmful are now causing the eutrophication due to the changed water levels and flows \citep{liu2012effects}.
 
   Furthermore, industrialization in areas of the Yangtze River watershed has occurred, due in part because of extending urbanization from other areas, as well as urbanization of the displaced populations due to the dam construction.\red{can we map these changes?} For this reason, the nutrient runoff and toxin runoff associated with industrialization and urbanization has worsened \citep{wilmsen2018damming} and \citep{peng2016spatial}. \red{can we show the data?}. Because of the excess of nutrients associated with eutrophication, there have been increased number of scum and deleterious (dangerous) toxins such as neurotoxins which are a threat to public health--this growth as a result of nutrient excess of nutrient loading is known as cyanobacterial algal blooms \citep{fristachi2008occurrence}. This buildup of toxins that effects the water quality is especially prevalent in the Three Gorges region because of the amount of subsistence farming that occurs. 
   
@@ -325,13 +353,22 @@ Figure~\ref{fig:schis}
    Elsewhere, Laos or Lao PDR (known as the ``Battery of Asia'' because of the number of hydroelectric dams in the country), relies on agriculture for up to 80\% of employment and almost a quarter of the country lives at or below the international poverty line \citep{costenbader2015drivers}. Using Laos as an example, the threat to subsistence for forcibly displaced or impacted populations. Rural populations in Laos rely on fish for anywhere between 47-80\% of their protein intake in their daily diets, often supplemented by carbohydrates and fats from other sources including (though not limited to) crops from farming. This means that when displacement occurs, or when watersheds are altered (i.e., flooding to create reservoirs, eutrophication, or other alterations to water quality), so too is subsistence and traditional food sources are disrupted. This often leads to malnutrition and simply insufficient amounts of food. A case study that briefly illustrates this is that of the Ladakh people. Anthropologist and author Helena Norberg-Hodge did a study of the Indigenous Ladakh people and found that with the introduction of dam construction and western development, the Ladakhi’s shifted away from traditional subsistence (both forcibly and willingly). In her time with the Ladakh people, she noticed a shift in diet from the agrarian crops produced, to less nutritious options such as instant noodles which are increasingly popular as an affordable food source for Indigenous populations who no longer have access to farmland or fish. This leads to malnutrition as well as psychosocial impacts from a shift away from traditional nutritious food sources for Indigenous and displaced populations \citep{norberg2000ancient}.
 
 \subsection{Cultural Sites}
-  Another issue that is posed by the displacement and forced relocation lies in the loss of cultural sites. Estimates of more than 140 villages were destroyed due the dam and it has been impossible to even count the number of cultural sites lost, as well as their value to communities \citep{liu2013chinese} and \citep{du1996university}. This loss of cultural sites such as traditional alters, ancestral lands, or other culturally significant landmarks, topographical features, homes, burial grounds, and other sites lost to the dam construction is incalculable. It is truly impossible to do an accurate cost benefit analysis when comparing the number of megawatts produced as opposed to the unquantifiable number of cultural sites lost and lives altered.\red{agreed, but let's be more sophisticated in how we discuss this -- for example, can you find a source the documents the failure of benefit-costs analyses and cultural values/sites?}
+  Another issue that is posed\red{create some context first} by the displacement and forced relocation lies in the loss of cultural sites. Estimates of more than 140 villages were destroyed due the dam and it has been impossible to even count the number of cultural sites lost, as well as their value to communities \citep{liu2013chinese} and \citep{du1996university}. This loss of cultural sites such as traditional alters, ancestral lands, or other culturally significant landmarks, topographical features, homes, burial grounds, and other sites lost to the dam construction is incalculable. It is truly impossible to do an accurate cost benefit analysis when comparing the number of megawatts produced as opposed to the unquantifiable number of cultural sites lost and lives altered.\red{agreed, but let's be more sophisticated in how we discuss this -- for example, can you find a source the documents the failure of benefit-costs analyses and cultural values/sites?}
   
+
   Entire towns and temples have been flooded by singular dam development. The Three Gorges Dam for example submerged the White Crane Ridge—a hydrology inscription--, the original sites of the Zhangfei Temple--a temple that was removed by archeologists from its original location to prevent it from being completely submerged--, and Dachang—-an ancient town that was submerged and had to be replicated/rebuilt downstream \citep{du1996university}. While the Three Gorges Dam is the largest mega dam and thus can be used to illustrate many of the issues of mega dam development, other countries (such as the aforementioned Loas and Borneo) also present serious and grave ecological and humanitarian consequences. 
+
+  Entire towns and temples have been flooded by singular dam development. The Three Gorges Dam for example submerged the White Crane Ridge\red{—}a hydrology inscription--, the original sites of the Zhangfei Temple--a temple that was removed by archeologists from its original location to prevent it from being completely submerged--, and Dachang—-an ancient town that was submerged and had to be replicated/rebuilt downstream \citep{du1996university}. 
+
 
 
 \section{Vietnam and the Hoa Binh Dam}
+
   While countries like China do have mega dams (i.e., the Three Gorges Dam), many other countries in East [and South East] Asia are heavily reliant on hydropower as an electrcity source. One of the country's in South East Asia most reliant on hydroelectric energy is Vietnam due to its Riparian ecosystem that makes it ideal for the dams. Between 1995 and 2009, 20 large scale hydropower dams with capacities of more than 100 Megawatts were constructed in Vietnam (Ty, and Westen, 2011). Most of the dams were built in areas populated by ethnic minorities with more than 144 dam investment projects in the Kon Tum and Dak Nong provinces (both rural areas populated with ethnic minorities) \citep{dao2010dam}. 
+
+\red{create a reason why we want to know about this}
+  One of the country's most reliant on hydroelectric energy is Vietnam due to its Riparian ecosystem that makes it ideal for the dams. Between 1995 and 2009, 20 large scale hydropower dams with capacities of more than 100 Megawatts were constructed in Vietnam (Ty, and Westen, 2011). Most of the dams were built in areas populated by ethnic minorities with more than 144 dam investment projects in the Kon Tum and Dak Nong provinces (both rural areas populated with ethnic minorities)\blue{revise to avoid paratheticals} \citep{dao2010dam}. 
+>>>>>>> 1c85e609aab81258bf9071e83b9f5cdc205e8493
   
     \begin{figure}
 \includegraphics[width=\linewidth]{images/hydroelectric/vietmap.png}
@@ -340,7 +377,7 @@ Figure~\ref{fig:schis}
 \end{figure}
 
   
-  Dak Nong for example is located in Vietnam in the central highlands in a mountainous region with generally nutrient rich soils due to high levels of basalt which makes it ideal for farming and many of the people in the Dak Nong province farm coffee, rubber, cashews, sugar cane, and pepper trees. Around 85\% of the population lives in rural areas and it is one of the poorest provinces in Vietnam. Furthermore, the Vietnamese government made it a priority to bring electricity to Indigenous and rural communities in 2004 to reach 100\% of households by 2020 but these goals were not met. Instead, rampant dam construction has occurred at the expense of the Indigenous populations the Vietnamese government tried [and failed] to bring electricity to and they instead ravaged local ecology in the name of progress and energy \citep{thao2019assessment}. \red{again, the history of rural electrification might be good context, many things have been justified by this development goal and the USA is a key part of this}
+  Dak Nong for example is located in Vietnam in the central highlands in a mountainous region with generally nutrient rich soils due to high levels of\red{map with soils?} basalt which makes it ideal for farming and many of the people in the Dak Nong province farm coffee, rubber, cashews, sugar cane, and pepper trees. Around 85\% of the population lives in rural areas and it is one of the poorest provinces in Vietnam. Furthermore, the Vietnamese government made it a priority to bring electricity to Indigenous and rural communities in 2004 to reach 100\% of households by 2020 but these goals were not met. Instead, rampant dam construction has occurred at the expense of the Indigenous populations the Vietnamese government tried [and failed] to bring electricity to and they instead ravaged local ecology in the name of progress and energy \citep{thao2019assessment}. \red{again, the history of rural electrification might be good context, many things have been justified by this development goal and the USA is a key part of this}
   
   The dams in this area caused damage to forests and altered river streams and flow speeds, causing sedimentation and erosion which threatened the biodiversity of the rivers and surrounding areas.\red{good, can you give explicit examples?} The 200-kilometer Hoa Binh Dam displaced 58,000 people, 79\% of whom belonged to ethnic minority groups including the Muong, Tay, Dao, Thai Trang and Thai Den \citep{dao2010dam}. The dam destroyed 20,800 hectares of farmland, crop fields, and forests which were crucial to traditional production and subsistence practices of the rural poor in the area \citep{nguyen2013linking}. 
   
@@ -351,7 +388,7 @@ Figure~\ref{fig:schis}
   Of the 58,000 people displaced by the dam and surrounding destruction to the ecosystem, clean water, education, healthcare, and other basic human needs were unavailable. Up to 34\% of the displaced population did not have access to clean water, and ironically, 20\% of them did not have access to electricity (regardless of the fact that their displacement stemmed from exploitation of their lands to produce electricity for the national grid which they did not have access to). In 2009, poverty rates of the displaced population were 59-60\% compared to the national rate of 14\%.\red{but what were they before?  I can see if they were 80\% for the govn't might call it a success\ldots} Primary school completion was also almost 10\% lower than the national rate.\red{again before?} The Hoa Binh hydropower project demonstrates the lack of comprehensive Environmental Impact Assessments (EIA) and sustainable relocation plans—allowing for the valuation of profit over human life \citep{vinh2014impact}.
 
 \section{Long Lawen and Long Liam}
-  Another case study that is important for understanding Indigenous sovereignty alongside the issue of hydroelectric dams is that of Malaysian Borneo, and more specifically, the villages of Long Lawen and Long Liam. Both villages are case studies in which the people protested or refused resettlement and dam construction and they found energy alternatives. This is not to say hydropower development has a “happy ending” but Long Lawen and Long Liam are arguably more optimistic case studies for the autonomy and advocacy in Indigenous communities.  
+  Another case study that is important for understanding Indigenous sovereignty alongside the issue of hydroelectric dams is that of Malaysian Borneo, and more specifically, the villages of Long Lawen and Long Liam. Both villages are case studies in which the people protested or refused resettlement and dam construction and they found energy alternatives. This is not to say hydropower development has a \red{“happy ending” }but Long Lawen and Long Liam are arguably more optimistic case studies for the autonomy and advocacy in Indigenous communities.  
 
   To begin, Long Lawen set some model of an example for what is called micro hydro projects as termed by Headman Gara Jalong of the village. He has been fighting for many years to protect Long Lawen, often at the cost of imprisonment. In the 1990s, the Bakun company tried to forcibly remove the community of Long Lawen to build a mega-hydropower dam called the Bakun Dam. It is one of the largest dams in Southeast Asia to this day in the rainforest in the Belago District in East Malaysia in Sarawak on the Balui river. The village of Long Lawen lives in this area and their original location was in the way of dam construction. The dam is 14,170 \kms (which for reference, is the size of the entire country of Singapore—-this is an extremely large dam). It occupies 12\% of Sarawak and its main funder is a Chinese company. During construction of the dam, the company Bakun was practically uninvolved with the relocation scheme which they left to the local government in Borneo. This relocation scheme required the removal of the Long Lawen village and was intended to remove them to a government-controlled site, stripping them of their cultural autonomy and land.  
 
@@ -361,9 +398,9 @@ Figure~\ref{fig:schis}
 
   In 2000, the Malaysian Senator Banie Lasimbang helped Long-Lawen build a micro-hydro turbine. The science of these micro-dams remains like that of mega-dams (a turbine utilizes gravity to turn and generate electricity), but a key difference is that this micro-hydro power installation was built by, approved by, and desired by the community of Long-Lawen. 
 
-  Through Senator Banie’s help, Gara Jalong and the community were able to construct a dam that did not displace them or alter their watershed to detrimental effects. One of the largest ironies of hydroelectric dams as mega projects by outside contractors is that the local and Indigenous communities they displace almost never receive the benefits of the generated electricity. This is the case with Long Lawen which made the micro-dam so appealing to bring “cleaner” and arguably better electricity to the village as it was advocated for by the community members themselves.  
+  Through Senator Banie\red{’}s help, Gara Jalong and the community were able to construct a dam that did not displace them or alter their watershed to detrimental effects. One of the \red{largest ironies--better adjective?} of hydroelectric dams as mega projects by outside contractors is that the local and Indigenous communities they displace almost never receive the benefits of the generated electricity. This is the case with Long Lawen which made the micro-dam so appealing to bring “cleaner” and arguably better electricity to the village as it was advocated for by the community members themselves.  
 
-  There are of course limitations to the micro-hydroelectric dams, including but not limited to the amount of energy they produce. For example, during the winter holidays, younger community members and extended family members of the Long Lawen community return home and during this time, the 4-6 kilowatts a day produced by the dam is insufficient for the village. The micro dam was supposed to produce up to 12 kw/day of electricity a day, but the actual numbers have fallen quite short of those estimates.  
+  There are of course limitations\red{passive} to the micro-hydroelectric dams, including but not limited to the amount of energy they produce. For example, during the winter holidays, younger community members and extended family members of the Long Lawen community return home and during this time, the 4-6 kilowatts a day produced by the dam is insufficient for the village. The micro dam was supposed to produce up to 12 kw/day of electricity a day, but the actual numbers have fallen quite short of those estimates.  
 
   Despite the lower energy production than anticipated, the micro dams have been replicated in almost a dozen other villages in the region including Long Liam who also built a micro dam using Long Lawen as an example. The village of Long Liam also ran into issues with their dam, including technical problems. 
 A feature of hydroelectric dams is a penstock which channels the water towards the turbine, but in the case of Long Liam’s micro dam, the pathway towards the penstock isn't a straight path which complicated the efficiency of the energy production. While this is technically fixable, it would require manual labor and be difficult to fix without some level of alteration to the ecosystem (notably though, this alteration would be considerably less than any destruction caused by mega dams, and it would be facilitated by the community members). 
@@ -374,7 +411,7 @@ A feature of hydroelectric dams is a penstock which channels the water towards t
 
   Author of the book Ancient Futures, Helena Norberg-Hodge argues for a transition from globalization and globally based economies/development (such as mega dams), towards localization of agriculture, as well as energy production. She advocates for small-scale energy development projects such as micro dams, but explains that “when it comes to small-scale projects that truly promote self-reliance, such as village-scale hydroelectric installations or solar ovens and water heaters for the household, the question is immediately asked: ‘Can the people pay?’ Nuclear reactors and big dams are heavily subsidized, while small scale-technologies based on renewable energy receive no significant support from any major aid agencies” (Norberg-Hodge 146-147). There is a very fine line to balance between imposition of western technology and aid. Should Indigenous communities or villages desire such village-scale installations of hydroelectric dams (or other energy sources), one must ask whether it is the obligation of global aid organizations to subsidize, or even fully fund such projects. 
 
-  An important part of this desire can be explained by Author John Bodley’s proposal for cultural autonomy for Indigenous nations. He says that its purpose is “establishing the Indigenous peoples’ right to self-determination and ‘helping to secure the future of Indigenous cultures in concurrence with their own efforts and desires: 
+  An important part of this desire can be explained by Author John Bodley’s proposal for cultural autonomy for Indigenous nations. He says that its purpose is “establishing the Indigenous peoples’ right to self-determination and ‘helping to secure the future of Indigenous cultures in concurrence with their own efforts and desires: \red{make into enumerated list}
 \\1. to focus international attention on the contemporary situation of Indigenous peoples 
 \\2. To pressure governments to respect the internationally recognized rights of Indigenous peoples 
 \\3. to provide financial assistance to Indigenous peoples in support of their self-determination struggle 

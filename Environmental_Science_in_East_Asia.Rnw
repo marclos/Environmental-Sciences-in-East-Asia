@@ -24,10 +24,13 @@
 %\usepackage{wasysym} %\smiley{}
 % \usepackage{siunitx}
 \usepackage{glossaries}
+% \usepackage[automake]{glossaries} % automake option unknown.
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
 \usepackage{soul}
+\usepackage{comment}
+
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -48,7 +51,7 @@
 % Editorial Environments
 
 \newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
-
+\newcommand{\blue}[1]{\textcolor{blue}{[MLH: #1]}}
 
 %-----------------------------------------------------
 \newtheorem{theorem}{Theorem}
@@ -97,9 +100,9 @@ opts_knit$set(self.contained=FALSE)
 \date{\today}
 
 \begin{document}
-
-\maketitle
 \makeglossaries
+\maketitle
+
 
 \frontmatter
 \tableofcontents
@@ -130,7 +133,7 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/deforestation.Rnw'>>=
+<<chapterchild, child='chapters/Deforestation.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/invasive-species.Rnw'>>=
@@ -160,7 +163,11 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/circular-economy.Rnw'>>=
 @
 
+
 <<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/Environmental-Economies.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
@@ -179,6 +186,6 @@ The back matter often includes one or more of an index, an afterword, acknowledg
 \setlength\bibindent{.5in}
 %\bibliographystyle{plainnat}
 \bibliographystyle{ecology}
-\bibliography{References}
+\bibliography{References,marctest}
 
 \end{document}

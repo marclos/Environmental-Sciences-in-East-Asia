@@ -1,4 +1,4 @@
-\begin{thebibliography}{111}
+\begin{thebibliography}{116}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -117,8 +117,7 @@ Cernea, M. 2004.
 \newblock In UN Symposium on hydropower and sustainable development, volume~27.
   Citeseer.
 
-\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and
-  Li}]{https://doi.org/10.1029/2018JC014534}
+\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and Li}]{sealevelrise}
 Chen, T., G.~Roff, L.~McCook, J.~Zhao, and S.~Li. 2018.
 \newblock Recolonization of marginal coral reef flats in response to recent
   sea-level rise.
@@ -257,6 +256,19 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
 Gullen, A. and J.~Plungis. 2013.
 \newblock Statista.
 \newblock The Charleston Advisor, {\bf 15}:43--47.
+
+\bibitem[{Hagen and Minter(2020)}]{agtadisplace}
+Hagen, R.~V. and T.~Minter. 2020.
+\newblock Displacement in the name of development. how indigenous rights
+  legislation fails to protect philippine hunter-gatherers.
+\newblock Society and Natural Resources, {\bf 33}:65–82.
+
+\bibitem[{Hirsch et~al.(1995)}]{hirsch1995thailand}
+Hirsch, P. et~al. 1995.
+\newblock Thailand and the new geopolitics of southeast asia: resource and
+  environmental issues.
+\newblock Counting the costs: economic growth and environmental change in
+  Thailand., pages 235--259.
 
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
@@ -504,6 +516,11 @@ Qin, S., L.~Chen, K.~Fang, Q.~Zhang, J.~Wang, F.~Liu, J.~Yu, and Y.~Yang. 2019.
 \newblock Science Advances, {\bf 5}.
 \newblock \urlprefix\url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
+\bibitem[{Ref(Year)}]{REF}
+Ref. Year.
+\newblock {REFERENCE}({S}) {TO} {BE} {ADDED}.
+\newblock .
+
 \bibitem[{Reichert et~al.(2018)Reichert, Schellenberg, Schubert, and
   Wilke}]{12907334620180601}
 Reichert, J., J.~Schellenberg, P.~Schubert, and T.~Wilke. 2018.
@@ -552,6 +569,13 @@ Shi, Y.-e., C.-F. Jiang, J.-J. Han, Y.-L. Li, and A.~Ruppel. 1990.
 \newblock Schistosoma japonicum: an ultraviolet-attenuated cercarial vaccine
   applicable in the field for water buffaloes.
 \newblock Experimental parasitology, {\bf 71}:100--106.
+
+\bibitem[{Sinay and Carter(2020)}]{Sinay_2020}
+Sinay, L. and R.~W.~B. Carter. 2020.
+\newblock Climate change adaptation options for coastal communities and local
+  governments.
+\newblock Climate, {\bf 8}:7.
+\newblock \urlprefix\url{http://dx.doi.org/10.3390/cli8010007}.
 
 \bibitem[{Smith(2018)}]{Smith}
 Smith, K.~N. 2018.
@@ -610,6 +634,13 @@ Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
 Trang, T. T.~T. 2004.
 \newblock Local politics and democracy in a muong ethnic community.
 \newblock Beyond Hanoi. Local Government in Vietnam, pages 137--166.
+
+\bibitem[{Tseng et~al.(2013)Tseng, Wang, and Duh}]{Tseng_2013}
+Tseng, Y.-J., S.-K. Wang, and C.-Y. Duh. 2013.
+\newblock Secosteroids and norcembranoids from the soft coral sinularia
+  nanolobata.
+\newblock Marine Drugs, {\bf 11}:3288–3296.
+\newblock \urlprefix\url{http://dx.doi.org/10.3390/md11093288}.
 
 \bibitem[{Turner(1999)}]{turner1999realizable}
 Turner, J.~A. 1999.
