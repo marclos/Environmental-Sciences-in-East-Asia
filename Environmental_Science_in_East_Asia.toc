@@ -198,6 +198,7 @@
 \contentsline {section}{\numberline {15.9}Environmental Activism in Hong Kong}{155}{section.15.9}
 \contentsline {section}{\numberline {15.10}Beyond Hong Kong}{155}{section.15.10}
 \contentsline {chapter}{\numberline {16}Environmental Economies East Asia}{157}{chapter.16}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {16.1}Introduction}{157}{section.16.1}
 \contentsline {subsection}{\numberline {16.1.1}Sustainability and Sustainable Development}{161}{subsection.16.1.1}
 \contentsline {section}{\numberline {16.2}The Growth Debate and the Environmental Kuznet's Curve}{161}{section.16.2}
@@ -225,3 +226,36 @@
 \contentsline {subsubsection}{Longterm Goals}{178}{section*.114}
 \contentsline {subsection}{\numberline {17.4.2}In Closing}{178}{subsection.17.4.2}
 \contentsline {part}{I\hspace {1em}Backmatter}{181}{part.1}
+=======
+\contentsline {section}{\numberline {16.1}Case Study}{157}{section.16.1}
+\contentsline {subsection}{\numberline {16.1.1}Amid COVID-19, air pollution remains most pressing environmental health threat: Evidence from the World Air Quality Report 2020 by IQAir}{157}{subsection.16.1.1}
+\contentsline {section}{\numberline {16.2}Introduction}{161}{section.16.2}
+\contentsline {section}{\numberline {16.3}GDP as a Primary Measure of Growth}{161}{section.16.3}
+\contentsline {section}{\numberline {16.4}Environmental Economics and Ecological Economics}{166}{section.16.4}
+\contentsline {section}{\numberline {16.5}Sustainability and Sustainable Development}{168}{section.16.5}
+\contentsline {section}{\numberline {16.6}The Growth Debate}{169}{section.16.6}
+\contentsline {section}{\numberline {16.7}Case Study: The Environmental Performance Index (EPI)}{169}{section.16.7}
+\contentsline {section}{\numberline {16.8}The Environmental Kuznet's Curve: An Approach Used by Environmental Economists}{170}{section.16.8}
+\contentsline {subsection}{\numberline {16.8.1}EKG in East Asia}{174}{subsection.16.8.1}
+\contentsline {section}{\numberline {16.9}Conclusion}{175}{section.16.9}
+\contentsline {chapter}{\numberline {17}Unpacking Plastic Pollution and Recycling in Japan}{179}{chapter.17}
+\contentsline {section}{\numberline {17.1}History of Plastic in Japan}{179}{section.17.1}
+\contentsline {subsection}{\numberline {17.1.1}Introduction}{179}{subsection.17.1.1}
+\contentsline {subsection}{\numberline {17.1.2}Urbanization}{180}{subsection.17.1.2}
+\contentsline {subsection}{\numberline {17.1.3}Cultural Significance of Packaging}{180}{subsection.17.1.3}
+\contentsline {subsection}{\numberline {17.1.4}Where is it Coming from?\leavevmode {\color {red}[MLH: heading is abit ambiguous]}}{183}{subsection.17.1.4}
+\contentsline {section}{\numberline {17.2}Problems of Plastic Pollution}{183}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}Ocean Plastics and Ingestion}{183}{subsection.17.2.1}
+\contentsline {section}{\numberline {17.3}What Does Recycling \emph {Really} Mean?}{183}{section.17.3}
+\contentsline {subsection}{\numberline {17.3.1}Recycling Laws and Public Cooperation}{183}{subsection.17.3.1}
+\contentsline {subsection}{\numberline {17.3.2}Incineration}{183}{subsection.17.3.2}
+\contentsline {subsubsection}{Health and Environmental Justice}{184}{section*.149}
+\contentsline {subsection}{\numberline {17.3.3}The Global Plastic Trade}{187}{subsection.17.3.3}
+\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{187}{section*.150}
+\contentsline {section}{\numberline {17.4}Conclusion and Moving Forward}{188}{section.17.4}
+\contentsline {subsection}{\numberline {17.4.1}Mitigation Efforts}{188}{subsection.17.4.1}
+\contentsline {subsubsection}{Ecotowns}{188}{section*.151}
+\contentsline {subsubsection}{Longterm Goals}{188}{section*.152}
+\contentsline {subsection}{\numberline {17.4.2}In Closing}{188}{subsection.17.4.2}
+\contentsline {part}{I\hspace {1em}Backmatter}{191}{part.1}
+>>>>>>> 275f308514d30ecaead95c6fbe408f0d8d8ffd90
