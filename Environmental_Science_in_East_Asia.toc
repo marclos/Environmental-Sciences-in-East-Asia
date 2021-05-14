@@ -110,36 +110,34 @@
 \contentsline {subsubsection}{Climate Change}{51}{section*.71}
 \contentsline {subsubsection}{Urbanization and Development}{51}{section*.72}
 \contentsline {chapter}{\numberline {8}Hydroelectric Dams in East Asia}{53}{chapter.8}
-\contentsline {section}{\numberline {8.1}Former Residents of Balui}{53}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}On Survival}{53}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}On Social Change and Economic Development}{53}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}On Returning Home}{54}{subsection.8.1.3}
-\contentsline {section}{\numberline {8.2}Introduction}{55}{section.8.2}
-\contentsline {section}{\numberline {8.3}Dam Function}{56}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Hydroelectric Generators}{56}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Dam Type}{59}{subsection.8.3.2}
-\contentsline {subsubsection}{Gravity Dams}{59}{section*.77}
-\contentsline {subsubsection}{Embankment Dams}{59}{section*.78}
-\contentsline {subsubsection}{Run of River Dams}{59}{section*.79}
+\contentsline {section}{\numberline {8.1}Pretext}{53}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Former Residents of Balui}{53}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Introduction}{54}{section.8.2}
+\contentsline {section}{\numberline {8.3}Dam Function}{58}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Hydroelectric Generators}{58}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Dam Type}{58}{subsection.8.3.2}
+\contentsline {subsubsection}{Gravity Dams}{60}{section*.80}
+\contentsline {subsubsection}{Embankment Dams}{60}{section*.81}
+\contentsline {subsubsection}{Run of River Dams}{60}{section*.82}
 \contentsline {subsection}{\numberline {8.3.3}Energy}{60}{subsection.8.3.3}
-\contentsline {subsubsection}{Kinetic Energy}{60}{section*.80}
-\contentsline {subsubsection}{Potential Energy}{60}{section*.81}
-\contentsline {subsubsection}{Total Mechanical Energy}{61}{section*.82}
-\contentsline {subsection}{\numberline {8.3.4}Megawatts and Electricity Usage}{62}{subsection.8.3.4}
-\contentsline {section}{\numberline {8.4}Three Gorges Dam}{62}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}Hazards and Flooding}{64}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}Displacement}{64}{subsection.8.4.2}
-\contentsline {subsection}{\numberline {8.4.3}Schistosomiasis}{65}{subsection.8.4.3}
-\contentsline {subsubsection}{Temperature}{66}{section*.85}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{66}{section*.86}
-\contentsline {subsubsection}{Snail Dispersal}{66}{section*.88}
-\contentsline {subsubsection}{Health Infrastructure}{66}{section*.90}
-\contentsline {subsection}{\numberline {8.4.4}Eutrophication}{69}{subsection.8.4.4}
-\contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{69}{section.8.5}
-\contentsline {subsection}{\numberline {8.5.1}Cultural Sites}{71}{subsection.8.5.1}
-\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{71}{section.8.6}
-\contentsline {section}{\numberline {8.7}Long Lawen and Long Liam}{73}{section.8.7}
-\contentsline {subsection}{\numberline {8.7.1}Conclusion}{75}{subsection.8.7.1}
+\contentsline {subsubsection}{Kinetic Energy}{60}{section*.83}
+\contentsline {subsubsection}{Potential Energy}{61}{section*.84}
+\contentsline {subsubsection}{Total Mechanical Energy}{61}{section*.85}
+\contentsline {subsection}{\numberline {8.3.4}Megawatts and Electricity Usage}{63}{subsection.8.3.4}
+\contentsline {section}{\numberline {8.4}Three Gorges Dam}{63}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Hazards and Flooding}{65}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Displacement}{65}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}Schistosomiasis}{66}{subsection.8.4.3}
+\contentsline {subsubsection}{Temperature}{67}{section*.88}
+\contentsline {subsubsection}{Breeding Patterns and Resettlement}{67}{section*.89}
+\contentsline {subsubsection}{Snail Dispersal}{67}{section*.91}
+\contentsline {subsubsection}{Health Infrastructure}{67}{section*.93}
+\contentsline {subsection}{\numberline {8.4.4}Eutrophication}{70}{subsection.8.4.4}
+\contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{70}{section.8.5}
+\contentsline {subsection}{\numberline {8.5.1}Cultural Sites}{72}{subsection.8.5.1}
+\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{72}{section.8.6}
+\contentsline {section}{\numberline {8.7}Long Lawen and Long Liam}{74}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Conclusion}{76}{subsection.8.7.1}
 \contentsline {chapter}{\numberline {9}The Political Ecology and Economy of Rice in Myanmar}{77}{chapter.9}
 \contentsline {section}{\numberline {9.1}Introduction}{77}{section.9.1}
 \contentsline {section}{\numberline {9.2}Climate and Rice Production}{78}{section.9.2}
@@ -243,12 +241,12 @@
 \contentsline {section}{\numberline {17.3}What Does Recycling \emph {Really} Mean?}{173}{section.17.3}
 \contentsline {subsection}{\numberline {17.3.1}Recycling Laws and Public Cooperation}{173}{subsection.17.3.1}
 \contentsline {subsection}{\numberline {17.3.2}Incineration}{173}{subsection.17.3.2}
-\contentsline {subsubsection}{Health and Environmental Justice}{174}{section*.139}
+\contentsline {subsubsection}{Health and Environmental Justice}{174}{section*.142}
 \contentsline {subsection}{\numberline {17.3.3}The Global Plastic Trade}{177}{subsection.17.3.3}
-\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{177}{section*.140}
+\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{177}{section*.143}
 \contentsline {section}{\numberline {17.4}Conclusion and Moving Forward}{178}{section.17.4}
 \contentsline {subsection}{\numberline {17.4.1}Mitigation Efforts}{178}{subsection.17.4.1}
-\contentsline {subsubsection}{Ecotowns}{178}{section*.141}
-\contentsline {subsubsection}{Longterm Goals}{178}{section*.142}
+\contentsline {subsubsection}{Ecotowns}{178}{section*.144}
+\contentsline {subsubsection}{Longterm Goals}{178}{section*.145}
 \contentsline {subsection}{\numberline {17.4.2}In Closing}{178}{subsection.17.4.2}
 \contentsline {part}{I\hspace {1em}Backmatter}{181}{part.1}
