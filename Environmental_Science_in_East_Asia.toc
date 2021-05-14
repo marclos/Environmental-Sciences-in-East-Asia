@@ -113,9 +113,9 @@
 \contentsline {section}{\numberline {8.1}Pretext}{53}{section.8.1}
 \contentsline {subsection}{\numberline {8.1.1}Former Residents of Balui}{53}{subsection.8.1.1}
 \contentsline {section}{\numberline {8.2}Introduction}{54}{section.8.2}
-\contentsline {section}{\numberline {8.3}Dam Function}{58}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Hydroelectric Generators}{58}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Dam Type}{58}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.3}Dam Function}{57}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Hydroelectric Generators}{57}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Dam Type}{57}{subsection.8.3.2}
 \contentsline {subsubsection}{Gravity Dams}{60}{section*.80}
 \contentsline {subsubsection}{Embankment Dams}{60}{section*.81}
 \contentsline {subsubsection}{Run of River Dams}{60}{section*.82}

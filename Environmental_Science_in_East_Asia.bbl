@@ -1,4 +1,4 @@
-\begin{thebibliography}{125}
+\begin{thebibliography}{128}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -41,6 +41,12 @@ Ayala, C. 2009.
 \newblock Oceana USA.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Bambawale et~al.(2011)Bambawale, D'Agostino, and
+  Sovacool}]{bambawale2011realizing}
+Bambawale, M.~J., A.~L. D'Agostino, and B.~K. Sovacool. 2011.
+\newblock Realizing rural electrification in southeast asia: lessons from laos.
+\newblock Energy for Sustainable Development, {\bf 15}:41--48.
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -699,6 +705,13 @@ US~EPA, O. 2017.
 \newblock Threats to coral reefs.
 \newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
 
+\bibitem[{Van~Ruijven et~al.(2012)Van~Ruijven, Schers, and van
+  Vuuren}]{van2012model}
+Van~Ruijven, B.~J., J.~Schers, and D.~P. van Vuuren. 2012.
+\newblock Model-based scenarios for rural electrification in developing
+  countries.
+\newblock Energy, {\bf 38}:386--397.
+
 \bibitem[{Ventura(2016)}]{ventura2016small}
 Ventura, T. 2016.
 \newblock From small farms to progressive plantations: the trajectory of land
@@ -763,6 +776,11 @@ Westoby, R., S.~Becken, A.~Laria, and Prieto. 2020.
 \newblock Regional Environmental Change, {\bf 20}.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Williams and Dubash(2004)}]{williams2004asian}
+Williams, J.~H. and N.~K. Dubash. 2004.
+\newblock Asian electricity reform in historical perspective.
+\newblock Pacific Affairs, pages 411--436.
 
 \bibitem[{Williams et~al.(2007)Williams, Coles, and
   Primavera}]{williams2007lesson}
