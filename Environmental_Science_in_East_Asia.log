@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  14 MAY 2021 13:06
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  14 MAY 2021 12:19
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1792,6 +1796,7 @@ File: images/myanmar/Image3.jpg Graphic file (type jpg)
 <use images/myanmar/Image3.jpg>
 Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1727.
 (pdftex.def)             Requested size: 216.81pt x 448.9258pt.
+<<<<<<< HEAD
  [78] [79 <./images/myanmar/Image1.jpg>]
 [80 <./images/myanmar/Image2.jpg>] [81 <./images/myanmar/Image3.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1822,6 +1827,35 @@ Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1770.
 (pdftex.def)             Requested size: 433.62pt x 247.46178pt.
  [86 <./images/myanmar/Image6.jpg>] [87]
 [88
+=======
+ [66] [67 <./images/myanmar/Image1.jpg>]
+[68 <./images/myanmar/Image2.jpg>] [69 <./images/myanmar/Image3.jpg>] [70]
+<images/myanmar/Image4.jpg, id=1683, 284.06125pt x 178.6675pt>
+File: images/myanmar/Image4.jpg Graphic file (type jpg)
+
+<use images/myanmar/Image4.jpg>
+Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1562.
+(pdftex.def)             Requested size: 433.62pt x 272.76332pt.
+
+<images/myanmar/Image5.jpg, id=1684, 301.125pt x 168.63pt>
+File: images/myanmar/Image5.jpg Graphic file (type jpg)
+
+<use images/myanmar/Image5.jpg>
+Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1569.
+(pdftex.def)             Requested size: 433.62pt x 242.85016pt.
+ [71 <./images/myanmar/Image4.jpg>] [72 <./images/myanmar/Image5.jpg>]
+<images/myanmar/Image6.jpg, id=1695, 568.1225pt x 324.21124pt>
+File: images/myanmar/Image6.jpg Graphic file (type jpg)
+
+<use images/myanmar/Image6.jpg>
+Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1578.
+(pdftex.def)             Requested size: 433.62pt x 247.46178pt.
+ [73 <./images/myanmar/Image6.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+[75] [76
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 
 ]
 Chapter 10.
@@ -1829,45 +1863,73 @@ Chapter 10.
 File: Graphics/Image1.jpg Graphic file (type jpg)
 
 <use Graphics/Image1.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image1.jpg used on input line 1813.
+=======
+Package pdftex.def Info: Graphics/Image1.jpg used on input line 1621.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 389.28177pt.
 
 <Graphics/Image2.jpg, id=1842, 1381.16pt x 817.0525pt>
 File: Graphics/Image2.jpg Graphic file (type jpg)
 
 <use Graphics/Image2.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image2.jpg used on input line 1818.
+=======
+Package pdftex.def Info: Graphics/Image2.jpg used on input line 1626.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
 <Graphics/Image3.jpg, id=1843, 156.585pt x 324.21124pt>
 File: Graphics/Image3.jpg Graphic file (type jpg)
 
 <use Graphics/Image3.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image3.jpg used on input line 1825.
 (pdftex.def)             Requested size: 433.62pt x 897.94064pt.
 
 
 LaTeX Warning: Float too large for page by 340.78065pt on input line 1827.
+=======
+Package pdftex.def Info: Graphics/Image3.jpg used on input line 1633.
+(pdftex.def)             Requested size: 433.62pt x 897.94064pt.
+
+
+LaTeX Warning: Float too large for page by 340.78065pt on input line 1635.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 
 [90] [91 <./Graphics/Image1.jpg>] [92 <./Graphics/Image2.jpg>] [93 <./Graphics/
 Image3.jpg>] [94] <Graphics/Image4.jpg, id=1868, 284.06125pt x 178.6675pt>
 File: Graphics/Image4.jpg Graphic file (type jpg)
 
 <use Graphics/Image4.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image4.jpg used on input line 1848.
+=======
+Package pdftex.def Info: Graphics/Image4.jpg used on input line 1656.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 272.76332pt.
  [95 <./Graphics/Image4.jpg>]
 <Graphics/Image5.jpg, id=1875, 301.125pt x 168.63pt>
 File: Graphics/Image5.jpg Graphic file (type jpg)
  <use Graphics/Image5.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image5.jpg used on input line 1855.
+=======
+Package pdftex.def Info: Graphics/Image5.jpg used on input line 1663.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 242.85016pt.
 
 <Graphics/Image6.jpg, id=1876, 568.1225pt x 324.21124pt>
 File: Graphics/Image6.jpg Graphic file (type jpg)
 
 <use Graphics/Image6.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image6.jpg used on input line 1863.
+=======
+Package pdftex.def Info: Graphics/Image6.jpg used on input line 1671.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 247.46178pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1880,24 +1942,40 @@ Underfull \vbox (badness 7186) has occurred while \output is active []
 File: Graphics/Image7.jpg Graphic file (type jpg)
 
 <use Graphics/Image7.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image7.jpg used on input line 1881.
 (pdftex.def)             Requested size: 433.62pt x 550.87975pt.
 
 
 LaTeX Warning: Float too large for page by 15.71976pt on input line 1883.
+=======
+Package pdftex.def Info: Graphics/Image7.jpg used on input line 1689.
+(pdftex.def)             Requested size: 433.62pt x 550.87975pt.
+
+
+LaTeX Warning: Float too large for page by 15.71976pt on input line 1691.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 
 <Graphics/Image8.jpeg, id=1893, 1132.23pt x 1145.27875pt>
 File: Graphics/Image8.jpeg Graphic file (type jpg)
 
 <use Graphics/Image8.jpeg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image8.jpeg used on input line 1892.
+=======
+Package pdftex.def Info: Graphics/Image8.jpeg used on input line 1700.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 438.61818pt.
 
 <Graphics/Image9.jpeg, id=1894, 730.73pt x 653.44125pt>
 File: Graphics/Image9.jpeg Graphic file (type jpg)
 
 <use Graphics/Image9.jpeg>
+<<<<<<< HEAD
 Package pdftex.def Info: Graphics/Image9.jpeg used on input line 1900.
+=======
+Package pdftex.def Info: Graphics/Image9.jpeg used on input line 1708.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 (pdftex.def)             Requested size: 433.62pt x 387.76044pt.
  [99] [100 <./Graphics/Image7.jpg>] [101 <./Graphics/Image8.jpeg>] [102 <./Grap
 hics/Image9.jpeg>]
@@ -2566,7 +2644,11 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3072.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 49716D094C5AED55D1E5246305A67DF8;16013.
+=======
+(rerunfilecheck)             Checksum: 1304E5DCBBB7A0C303C3A5DCC1F9A852;15492.
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 
 
 LaTeX Warning: There were undefined references.
@@ -2576,6 +2658,7 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  31247 strings out of 494820
  589136 string characters out of 3178050
  653552 words of memory out of 3000000
@@ -2616,6 +2699,58 @@ s/type1/public/cm-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1
 er/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt
 1000.pfb>
 Output written on Environmental_Science_in_East_Asia.pdf (213 pages, 27819407 b
+=======
+ 30876 strings out of 494820
+ 580511 string characters out of 3178050
+ 653678 words of memory out of 3000000
+ 32822 multiletter control sequences out of 15000+200000
+ 49074 words of font info for 138 fonts, out of 3000000 for 9000
+ 198 hyphenation exceptions out of 8191
+ 56i,11n,73p,4004b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
+r-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
+nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
+per/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfb
+x2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl0700.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/cm-super/sftt1000.pfb>
+Output written on Environmental_Science_in_East_Asia.pdf (180 pages, 19155390 b
+>>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
 ytes).
 PDF statistics:
  3429 PDF objects out of 3580 (max. 8388607)
