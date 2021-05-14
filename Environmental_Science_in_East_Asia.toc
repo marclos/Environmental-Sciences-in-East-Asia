@@ -52,7 +52,6 @@
 \contentsline {section}{\numberline {4.6}How GIS Can Be Used to Inform Loess Plateau Restoration}{29}{section.4.6}
 \contentsline {section}{\numberline {4.7}Conclusion \& Prospect of Sustainable Urbanization/Land Use Change}{30}{section.4.7}
 \contentsline {chapter}{\numberline {5}Deforestation}{31}{chapter.5}
-<<<<<<< HEAD
 \contentsline {section}{\numberline {5.1}Overall}{31}{section.5.1}
 \contentsline {section}{\numberline {5.2}Damage Done by Deforestation – Example of China}{31}{section.5.2}
 \contentsline {section}{\numberline {5.3}Overall Losses – Example of Indonesia and Thailand}{32}{section.5.3}
@@ -118,12 +117,11 @@
 \contentsline {section}{\numberline {9.1}Introduction}{77}{section.9.1}
 \contentsline {section}{\numberline {9.2}Climate and Rice Production}{78}{section.9.2}
 \contentsline {section}{\numberline {9.3}Agricultural Production and Food Insecurity}{80}{section.9.3}
-\contentsline {section}{\numberline {9.4}History of Rice Production in Myanmar}{82}{section.9.4}
-\contentsline {section}{\numberline {9.5}Implications of Climate Change on Rice Production}{83}{section.9.5}
-\contentsline {section}{\numberline {9.6}Increasing Temperatures}{83}{section.9.6}
-\contentsline {section}{\numberline {9.7}Precipitation and flooding}{86}{section.9.7}
-\contentsline {section}{\numberline {9.8}Cyclone Nargis}{87}{section.9.8}
-\contentsline {section}{\numberline {9.9}Conclusion}{87}{section.9.9}
+\contentsline {section}{\numberline {9.4}Implications of Climate Change on Rice Production}{82}{section.9.4}
+\contentsline {section}{\numberline {9.5}Increasing Temperatures}{82}{section.9.5}
+\contentsline {section}{\numberline {9.6}Precipitation and flooding}{85}{section.9.6}
+\contentsline {section}{\numberline {9.7}Cyclone Nargis}{86}{section.9.7}
+\contentsline {section}{\numberline {9.8}Conclusion}{87}{section.9.8}
 \contentsline {chapter}{\numberline {10}The Political Ecology and Economy of Rice in Myanmar}{89}{chapter.10}
 \contentsline {section}{\numberline {10.1}Introduction}{89}{section.10.1}
 \contentsline {section}{\numberline {10.2}Climate and Rice Production}{90}{section.10.2}
@@ -133,257 +131,107 @@
 \contentsline {section}{\numberline {10.6}Increasing Temperatures}{94}{section.10.6}
 \contentsline {section}{\numberline {10.7}Precipitation and flooding}{97}{section.10.7}
 \contentsline {section}{\numberline {10.8}Cyclone Nargis}{99}{section.10.8}
-\contentsline {section}{\numberline {10.9}Political History of Rice in Myanmar}{104}{section.10.9}
-\contentsline {section}{\numberline {10.10}Conclusion}{104}{section.10.10}
-\contentsline {chapter}{\numberline {11}Tropical Cyclones in the Philippines}{105}{chapter.11}
-\contentsline {section}{\numberline {11.1}Tropical Cyclones in the Philippines}{105}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}A Storm is Coming}{105}{subsection.11.1.1}
-\contentsline {subsection}{\numberline {11.1.2}Agriculture and Cyclone Vulnerability?}{105}{subsection.11.1.2}
-\contentsline {subsection}{\numberline {11.1.3}Ready or Not}{107}{subsection.11.1.3}
-\contentsline {subsection}{\numberline {11.1.4}Philippine Disaster Mitigation}{107}{subsection.11.1.4}
-\contentsline {subsection}{\numberline {11.1.5}A Changing Game}{112}{subsection.11.1.5}
-\contentsline {subsection}{\numberline {11.1.6}Tropical Cyclones and Climate Change}{112}{subsection.11.1.6}
-\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{117}{chapter.12}
-\contentsline {section}{\numberline {12.1}Introductory}{117}{section.12.1}
-\contentsline {section}{\numberline {12.2}Conclusion}{117}{section.12.2}
-\contentsline {chapter}{\numberline {13}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{119}{chapter.13}
-\contentsline {section}{\numberline {13.1}Coral Reef Ecosystem Functioning and Interactions}{119}{section.13.1}
-\contentsline {subsection}{\numberline {13.1.1}Rainforests of the Sea}{119}{subsection.13.1.1}
-\contentsline {subsection}{\numberline {13.1.2}Coral Ecology}{120}{subsection.13.1.2}
-\contentsline {subsection}{\numberline {13.1.3}Reef Organisms and Trophic Interactions}{121}{subsection.13.1.3}
-\contentsline {subsection}{\numberline {13.1.4}Necessary Climate and Nutrients}{123}{subsection.13.1.4}
-\contentsline {subsection}{\numberline {13.1.5}Southeast Asian Reefs by Country}{124}{subsection.13.1.5}
-\contentsline {section}{\numberline {13.2}Climate Change and Its Effects on Coral Reefs}{125}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}The Indigenous Paradox}{125}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}Rising Sea Level}{126}{subsection.13.2.2}
-\contentsline {subsection}{\numberline {13.2.3}Ocean Warming and Acidification}{127}{subsection.13.2.3}
-\contentsline {subsection}{\numberline {13.2.4}Coral Bleaching}{128}{subsection.13.2.4}
-\contentsline {section}{\numberline {13.3}Unsustainable Fishing Practices}{129}{section.13.3}
-\contentsline {subsection}{\numberline {13.3.1}The Live Reef Fish Trade}{129}{subsection.13.3.1}
-\contentsline {subsection}{\numberline {13.3.2}Cyanide and Blast Fishing}{130}{subsection.13.3.2}
-\contentsline {subsection}{\numberline {13.3.3}Economic Motivations for Indigenous Peoples}{131}{subsection.13.3.3}
-\contentsline {section}{\numberline {13.4}Reefs Pollutants}{132}{section.13.4}
-\contentsline {subsection}{\numberline {13.4.1}Marine Debris and Ocean Contaminants}{132}{subsection.13.4.1}
-\contentsline {subsection}{\numberline {13.4.2}Development, Industrialization, and the Agta People}{134}{subsection.13.4.2}
-\contentsline {subsection}{\numberline {13.4.3}Deforestation and Agriculture}{135}{subsection.13.4.3}
-\contentsline {subsection}{\numberline {13.4.4}Coral Diseases}{136}{subsection.13.4.4}
-\contentsline {section}{\numberline {13.5}Reef Ecosystem Services}{137}{section.13.5}
-\contentsline {subsection}{\numberline {13.5.1}Biomedicine}{137}{subsection.13.5.1}
-\contentsline {subsection}{\numberline {13.5.2}Food Sources}{137}{subsection.13.5.2}
-\contentsline {subsection}{\numberline {13.5.3}Tourism and the Tagbanua}{138}{subsection.13.5.3}
-\contentsline {subsection}{\numberline {13.5.4}Coastline Protection}{140}{subsection.13.5.4}
-\contentsline {subsection}{\numberline {13.5.5}The Sentinelese People}{141}{subsection.13.5.5}
-\contentsline {section}{\numberline {13.6}Reef Restoration, Protection, and Conservation}{141}{section.13.6}
-\contentsline {subsection}{\numberline {13.6.1}Ecosystem Based Adaptations}{141}{subsection.13.6.1}
-\contentsline {subsection}{\numberline {13.6.2}Marine Protected Areas}{143}{subsection.13.6.2}
-\contentsline {subsection}{\numberline {13.6.3}Intersectional Efforts}{144}{subsection.13.6.3}
-\contentsline {section}{\numberline {13.7}Coral Reefs: Conclusion}{145}{section.13.7}
-\contentsline {chapter}{\numberline {14}Air Pollution \& Social Justice in Hong Kong}{147}{chapter.14}
-\contentsline {section}{\numberline {14.1}Opening}{147}{section.14.1}
-\contentsline {section}{\numberline {14.2}A Brief Overview of Hong Kong}{147}{section.14.2}
-\contentsline {section}{\numberline {14.3}Hong Kong's History}{147}{section.14.3}
-\contentsline {section}{\numberline {14.4}Air Pollution in Hong Kong}{148}{section.14.4}
-\contentsline {section}{\numberline {14.5}Air Pollution and Human Health}{148}{section.14.5}
-\contentsline {section}{\numberline {14.6}Population Density, Income Inequality, and Housing}{149}{section.14.6}
-\contentsline {subsection}{\numberline {14.6.1}Income Inequality and Zoning Laws}{149}{subsection.14.6.1}
-\contentsline {subsection}{\numberline {14.6.2}Public Housing}{149}{subsection.14.6.2}
-\contentsline {subsection}{\numberline {14.6.3}Economic Mobility}{150}{subsection.14.6.3}
-\contentsline {section}{\numberline {14.7}Indoor Air Pollution}{150}{section.14.7}
-\contentsline {section}{\numberline {14.8}Open Spaces and Other Patterns of Environmental Inequity}{151}{section.14.8}
-\contentsline {section}{\numberline {14.9}Environmental Activism in Hong Kong}{151}{section.14.9}
-\contentsline {section}{\numberline {14.10}Beyond Hong Kong}{151}{section.14.10}
-\contentsline {chapter}{\numberline {15}Environmental Economies East Asia}{153}{chapter.15}
-\contentsline {section}{\numberline {15.1}Air Quality and Economics}{153}{section.15.1}
-\contentsline {subsection}{\numberline {15.1.1}COVID-19 and Environmental Health Threat}{153}{subsection.15.1.1}
-\contentsline {subsubsection}{China Air Quality Changes}{154}{section*.105}
-\contentsline {subsubsection}{South Korea Air Quality Changes}{154}{section*.106}
-\contentsline {subsubsection}{Southeast Asia Air Quality Changes}{154}{section*.107}
-\contentsline {subsubsection}{Global Trends in Air Quality}{156}{section*.108}
-\contentsline {section}{\numberline {15.2}An Economist's View of the Environment}{156}{section.15.2}
-\contentsline {section}{\numberline {15.3}GDP as a Primary Measure of Growth}{157}{section.15.3}
-\contentsline {section}{\numberline {15.4}Environmental Economics and Ecological Economics}{161}{section.15.4}
-\contentsline {section}{\numberline {15.5}Sustainability and Sustainable Development}{163}{section.15.5}
-\contentsline {section}{\numberline {15.6}The Growth Debate}{164}{section.15.6}
-\contentsline {section}{\numberline {15.7}Case Study: The Environmental Performance Index (EPI)}{164}{section.15.7}
-\contentsline {section}{\numberline {15.8}The Environmental Kuznet's Curve: An Approach Used by Environmental Economists}{168}{section.15.8}
-\contentsline {subsection}{\numberline {15.8.1}EKG in East Asia}{168}{subsection.15.8.1}
-\contentsline {section}{\numberline {15.9}Conclusion}{172}{section.15.9}
-\contentsline {chapter}{\numberline {16}Unpacking Plastic Pollution and Recycling in Japan}{173}{chapter.16}
-\contentsline {section}{\numberline {16.1}History of Plastic in Japan}{173}{section.16.1}
-\contentsline {subsection}{\numberline {16.1.1}Introduction}{173}{subsection.16.1.1}
-\contentsline {subsection}{\numberline {16.1.2}Urbanization}{174}{subsection.16.1.2}
-\contentsline {subsection}{\numberline {16.1.3}Cultural Significance of Packaging}{174}{subsection.16.1.3}
-\contentsline {subsection}{\numberline {16.1.4}Where is it Coming from?\leavevmode {\color {red}[MLH: heading is abit ambiguous]}}{177}{subsection.16.1.4}
-\contentsline {section}{\numberline {16.2}Problems of Plastic Pollution}{177}{section.16.2}
-\contentsline {subsection}{\numberline {16.2.1}Ocean Plastics and Ingestion}{177}{subsection.16.2.1}
-\contentsline {section}{\numberline {16.3}What Does Recycling \emph {Really} Mean?}{177}{section.16.3}
-\contentsline {subsection}{\numberline {16.3.1}Recycling Laws and Public Cooperation}{177}{subsection.16.3.1}
-\contentsline {subsection}{\numberline {16.3.2}Incineration}{177}{subsection.16.3.2}
-\contentsline {subsubsection}{Health and Environmental Justice}{178}{section*.126}
-\contentsline {subsection}{\numberline {16.3.3}The Global Plastic Trade}{181}{subsection.16.3.3}
-\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{181}{section*.127}
-\contentsline {section}{\numberline {16.4}Conclusion and Moving Forward}{182}{section.16.4}
-\contentsline {subsection}{\numberline {16.4.1}Mitigation Efforts}{182}{subsection.16.4.1}
-\contentsline {subsubsection}{Ecotowns}{182}{section*.128}
-\contentsline {subsubsection}{Longterm Goals}{182}{section*.129}
-\contentsline {subsection}{\numberline {16.4.2}In Closing}{182}{subsection.16.4.2}
-\contentsline {chapter}{\numberline {17}Waste Management for a Circular Economy}{185}{chapter.17}
-\contentsline {section}{\numberline {17.1}Life-Cycle}{185}{section.17.1}
-\contentsline {subsection}{\numberline {17.1.1}Collection}{185}{subsection.17.1.1}
-\contentsline {subsection}{\numberline {17.1.2}Transport}{185}{subsection.17.1.2}
-\contentsline {section}{\numberline {17.2}Biomimicry}{185}{section.17.2}
-\contentsline {subsection}{\numberline {17.2.1}Circularity}{185}{subsection.17.2.1}
-\contentsline {part}{I\hspace {1em}Backmatter}{187}{part.1}
-=======
-\contentsline {section}{\numberline {5.1}Section Heading}{31}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Subsection Headings}{31}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Overall}{31}{section.5.2}
-\contentsline {section}{\numberline {5.3}Damage Done by Deforestation – Example of China}{31}{section.5.3}
-\contentsline {section}{\numberline {5.4}Overall Losses – Example of Indonesia and Thailand}{32}{section.5.4}
-\contentsline {section}{\numberline {5.5}Correlation Between Deforestation and Pandemic}{33}{section.5.5}
-\contentsline {section}{\numberline {5.6}Data Proving the Damage of Deforestation as a Broader Picture and Policy Implemented}{35}{section.5.6}
-\contentsline {section}{\numberline {5.7}Suggestions}{36}{section.5.7}
-\contentsline {chapter}{\numberline {6}Invasive Species}{39}{chapter.6}
-\contentsline {section}{\numberline {6.1}Section Heading}{39}{section.6.1}
-\contentsline {chapter}{\numberline {7}Flood Pulse System of the Mekong River and Tonle Sap}{41}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introducing the Mekong and Tonle Sap}{41}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}The River-Lake System}{41}{subsection.7.1.1}
-\contentsline {section}{\numberline {7.2}What is the Flood Pulse System?}{43}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Habitats in the Flood-Pulse System}{43}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Organisms}{43}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Nutrient Patterns}{43}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Hydrology}{45}{subsection.7.2.4}
-\contentsline {subsubsection}{Climate, Monsoons, and the Holocene}{45}{section*.68}
-\contentsline {subsubsection}{Ecosystem Productivity}{45}{section*.69}
-\contentsline {section}{\numberline {7.3}People and the Flood Pulse System}{45}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Anthropology}{45}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Human Impacts on the Flood Pulse System}{45}{subsection.7.3.2}
-\contentsline {subsubsection}{Hydropower Development}{45}{section*.70}
-\contentsline {subsubsection}{Climate Change}{45}{section*.71}
-\contentsline {subsubsection}{Urbanization and Development}{45}{section*.72}
-\contentsline {chapter}{\numberline {8}Hydroelectric Dams in East Asia}{47}{chapter.8}
-\contentsline {section}{\numberline {8.1}Former Residents of Balui}{47}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}On Survival}{47}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}On Social Change and Economic Development}{47}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}On Returning Home}{48}{subsection.8.1.3}
-\contentsline {section}{\numberline {8.2}Introduction}{48}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}The World Bank and Other Funders}{48}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Dam Function}{49}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Hydroelectric Generators}{50}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Dam Type}{51}{subsection.8.3.2}
-\contentsline {subsubsection}{Gravity Dams}{51}{section*.76}
-\contentsline {subsubsection}{Embankment Dams}{51}{section*.77}
-\contentsline {subsection}{\numberline {8.3.3}Energy}{51}{subsection.8.3.3}
-\contentsline {subsubsection}{Kinetic Energy}{51}{section*.78}
-\contentsline {subsubsection}{Potential Energy}{52}{section*.79}
-\contentsline {subsubsection}{Total Mechanical Energy}{52}{section*.80}
-\contentsline {subsection}{\numberline {8.3.4}Megawatts and Electricity Usage}{52}{subsection.8.3.4}
-\contentsline {section}{\numberline {8.4}Hazards and Flooding}{53}{section.8.4}
-\contentsline {section}{\numberline {8.5}Three Gorges Dam}{53}{section.8.5}
-\contentsline {subsection}{\numberline {8.5.1}Displacement}{54}{subsection.8.5.1}
-\contentsline {subsection}{\numberline {8.5.2}Schistosomiasis}{55}{subsection.8.5.2}
-\contentsline {subsubsection}{Temperature}{55}{section*.81}
-\contentsline {subsubsection}{Breeding Patterns and Resettlement}{56}{section*.82}
-\contentsline {subsubsection}{Snail Movement}{56}{section*.84}
-\contentsline {subsubsection}{Health Infrastructure}{56}{section*.86}
-\contentsline {subsection}{\numberline {8.5.3}Eutrophication}{59}{subsection.8.5.3}
-\contentsline {section}{\numberline {8.6}Social Systems and Infrastructure}{59}{section.8.6}
-\contentsline {subsection}{\numberline {8.6.1}Food Security}{60}{subsection.8.6.1}
-\contentsline {subsection}{\numberline {8.6.2}Cultural Sites}{61}{subsection.8.6.2}
-\contentsline {section}{\numberline {8.7}Vietnam and the Hoa Binh Dam}{61}{section.8.7}
-\contentsline {section}{\numberline {8.8}Long Lawen and Long Liam}{62}{section.8.8}
-\contentsline {section}{\numberline {8.9}Conclusion}{64}{section.8.9}
-\contentsline {chapter}{\numberline {9}The Political Ecology and Economy of Rice in Myanmar}{65}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{65}{section.9.1}
-\contentsline {section}{\numberline {9.2}Climate and Rice Production}{66}{section.9.2}
-\contentsline {section}{\numberline {9.3}Agricultural Production and Food Insecurity}{68}{section.9.3}
-\contentsline {section}{\numberline {9.4}Implications of Climate Change on Rice Production}{70}{section.9.4}
-\contentsline {section}{\numberline {9.5}Increasing Temperatures}{70}{section.9.5}
-\contentsline {section}{\numberline {9.6}Precipitation and flooding}{73}{section.9.6}
-\contentsline {section}{\numberline {9.7}Cyclone Nargis}{74}{section.9.7}
-\contentsline {section}{\numberline {9.8}Conclusion}{75}{section.9.8}
-\contentsline {chapter}{\numberline {10}The Political Ecology and Economy of Rice in Myanmar}{77}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduction}{77}{section.10.1}
-\contentsline {section}{\numberline {10.2}Climate and Rice Production}{78}{section.10.2}
-\contentsline {section}{\numberline {10.3}Agricultural Production and Food Insecurity}{78}{section.10.3}
-\contentsline {section}{\numberline {10.4}History of Rice Production in Myanmar}{80}{section.10.4}
-\contentsline {section}{\numberline {10.5}Implications of Climate Change on Rice Production}{82}{section.10.5}
-\contentsline {section}{\numberline {10.6}Increasing Temperatures}{82}{section.10.6}
-\contentsline {section}{\numberline {10.7}Precipitation and flooding}{85}{section.10.7}
-\contentsline {section}{\numberline {10.8}Cyclone Nargis}{87}{section.10.8}
-\contentsline {section}{\numberline {10.9}The Modern History of Rice Production in Myanmar}{92}{section.10.9}
-\contentsline {subsection}{\numberline {10.9.1}The 19th Century--The Industrialization of Rice}{92}{subsection.10.9.1}
-\contentsline {section}{\numberline {10.10}Conclusion}{92}{section.10.10}
-\contentsline {chapter}{\numberline {11}Tropical Cyclones in the Philippines}{93}{chapter.11}
-\contentsline {section}{\numberline {11.1}Tropical Cyclones in the Philippines}{93}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}A Storm is Coming}{93}{subsection.11.1.1}
-\contentsline {subsection}{\numberline {11.1.2}Agriculture and Cyclone Vulnerability?}{93}{subsection.11.1.2}
-\contentsline {subsection}{\numberline {11.1.3}Ready or Not}{95}{subsection.11.1.3}
-\contentsline {subsection}{\numberline {11.1.4}Philippine Disaster Mitigation}{95}{subsection.11.1.4}
-\contentsline {subsection}{\numberline {11.1.5}A Changing Game}{100}{subsection.11.1.5}
-\contentsline {subsection}{\numberline {11.1.6}Tropical Cyclones and Climate Change}{100}{subsection.11.1.6}
-\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{105}{chapter.12}
-\contentsline {section}{\numberline {12.1}Introductory}{105}{section.12.1}
-\contentsline {section}{\numberline {12.2}Conclusion}{105}{section.12.2}
-\contentsline {chapter}{\numberline {13}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{107}{chapter.13}
-\contentsline {section}{\numberline {13.1}Coral Reef Ecosystem Functioning and Interactions}{107}{section.13.1}
-\contentsline {subsection}{\numberline {13.1.1}Coral Reefs: An Introduction}{107}{subsection.13.1.1}
-\contentsline {subsection}{\numberline {13.1.2}Coral Functioning}{108}{subsection.13.1.2}
-\contentsline {subsection}{\numberline {13.1.3}Reef Organisms and Trophic Interactions}{109}{subsection.13.1.3}
-\contentsline {subsection}{\numberline {13.1.4}Necessary Climate and Nutrients}{110}{subsection.13.1.4}
-\contentsline {subsection}{\numberline {13.1.5}Southeast Asian Reefs by Country}{110}{subsection.13.1.5}
-\contentsline {section}{\numberline {13.2}Climate Change and Its Effects on Coral Reefs}{110}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}The Indigenous Paradox}{110}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}Rising Sea Level}{111}{subsection.13.2.2}
-\contentsline {subsection}{\numberline {13.2.3}Ocean Warming and Acidification}{112}{subsection.13.2.3}
-\contentsline {subsection}{\numberline {13.2.4}Coral Bleaching}{112}{subsection.13.2.4}
-\contentsline {section}{\numberline {13.3}Unsustainable Fishing Practices}{113}{section.13.3}
-\contentsline {subsection}{\numberline {13.3.1}The Live Reef Fish Trade}{113}{subsection.13.3.1}
-\contentsline {subsection}{\numberline {13.3.2}Cyanide and Blast Fishing}{114}{subsection.13.3.2}
-\contentsline {subsection}{\numberline {13.3.3}Economic Drivers and Indigenous Contributions}{115}{subsection.13.3.3}
-\contentsline {section}{\numberline {13.4}Reefs Pollutants}{116}{section.13.4}
-\contentsline {subsection}{\numberline {13.4.1}Marine Debris and Ocean Contaminants}{116}{subsection.13.4.1}
-\contentsline {subsection}{\numberline {13.4.2}Development, Industrialization, and the Agta}{117}{subsection.13.4.2}
-\contentsline {subsection}{\numberline {13.4.3}Deforestation and Agriculture}{118}{subsection.13.4.3}
-\contentsline {subsection}{\numberline {13.4.4}Coral Diseases}{119}{subsection.13.4.4}
-\contentsline {section}{\numberline {13.5}Reef Ecosystem Services}{120}{section.13.5}
-\contentsline {subsection}{\numberline {13.5.1}Biomedicine}{120}{subsection.13.5.1}
-\contentsline {subsection}{\numberline {13.5.2}Food Sources}{120}{subsection.13.5.2}
-\contentsline {subsection}{\numberline {13.5.3}Tourism and the Tagbanua}{121}{subsection.13.5.3}
-\contentsline {subsection}{\numberline {13.5.4}Coastline Protection}{122}{subsection.13.5.4}
-\contentsline {subsection}{\numberline {13.5.5}The Sentinelese People}{123}{subsection.13.5.5}
-\contentsline {section}{\numberline {13.6}Reef Restoration, Protection, and Conservation}{123}{section.13.6}
-\contentsline {subsection}{\numberline {13.6.1}Ecosystem Based Adaptations}{123}{subsection.13.6.1}
-\contentsline {subsection}{\numberline {13.6.2}Marine Protected Areas}{125}{subsection.13.6.2}
-\contentsline {subsection}{\numberline {13.6.3}Intersectional Efforts}{125}{subsection.13.6.3}
-\contentsline {section}{\numberline {13.7}Coral Reefs: Conclusion}{126}{section.13.7}
-\contentsline {chapter}{\numberline {14}Waste Management for a Circular Economy}{139}{chapter.14}
-\contentsline {section}{\numberline {14.1}Life-Cycle}{139}{section.14.1}
-\contentsline {subsection}{\numberline {14.1.1}Collection}{139}{subsection.14.1.1}
-\contentsline {subsection}{\numberline {14.1.2}Transport}{139}{subsection.14.1.2}
-\contentsline {section}{\numberline {14.2}Biomimicry}{139}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Circularity}{139}{subsection.14.2.1}
-\contentsline {chapter}{\numberline {15}Air Pollution \& Social Justice in Hong Kong}{141}{chapter.15}
-\contentsline {section}{\numberline {15.1}Opening}{142}{section.15.1}
-\contentsline {section}{\numberline {15.2}A Brief Overview of Hong Kong}{142}{section.15.2}
-\contentsline {section}{\numberline {15.3}Hong Kong's History}{142}{section.15.3}
-\contentsline {section}{\numberline {15.4}Air Pollution in Hong Kong}{142}{section.15.4}
-\contentsline {section}{\numberline {15.5}Air Pollution and Human Health}{142}{section.15.5}
-\contentsline {section}{\numberline {15.6}Population Density, Income Inequality, and Housing}{142}{section.15.6}
-\contentsline {subsection}{\numberline {15.6.1}Income Inequality and Zoning Laws}{142}{subsection.15.6.1}
-\contentsline {subsection}{\numberline {15.6.2}Public Housing}{142}{subsection.15.6.2}
-\contentsline {subsection}{\numberline {15.6.3}Economic Mobility}{142}{subsection.15.6.3}
-\contentsline {section}{\numberline {15.7}Indoor Air Pollution}{142}{section.15.7}
-\contentsline {section}{\numberline {15.8}Open Spaces and Other Patterns of Environmental Inequity}{142}{section.15.8}
-\contentsline {section}{\numberline {15.9}Environmental Activism in Hong Kong}{142}{section.15.9}
-\contentsline {section}{\numberline {15.10}Beyond Hong Kong}{142}{section.15.10}
-\contentsline {section}{\numberline {15.11}Beyond Hong Kong}{142}{section.15.11}
-\contentsline {chapter}{\numberline {16}Plastic and Packaging in Japan}{145}{chapter.16}
-\contentsline {section}{\numberline {16.1}Introductiona and Goals?}{145}{section.16.1}
-\contentsline {section}{\numberline {16.2}Plastic Pollution and Waste Management in East Asia}{145}{section.16.2}
-\contentsline {subsection}{\numberline {16.2.1}Statistics/comparisons}{145}{subsection.16.2.1}
-\contentsline {subsection}{\numberline {16.2.2}History of plastic waste issues in East Asia}{145}{subsection.16.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{145}{section*.122}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{145}{section*.123}
-\contentsline {part}{I\hspace {1em}Backmatter}{147}{part.1}
->>>>>>> 4f5b2dd94189beb25152730295157bef61b70fbc
+\contentsline {section}{\numberline {10.9}The Modern History of Rice Production in Myanmar}{104}{section.10.9}
+\contentsline {subsection}{\numberline {10.9.1}The 19th Century--The Industrialization of Rice}{104}{subsection.10.9.1}
+\contentsline {subsection}{\numberline {10.9.2}The 20th Century--Rice Production in an Era of Political Transition}{104}{subsection.10.9.2}
+\contentsline {subsection}{\numberline {10.9.3}The 21st Century-The Slow Process of Liberalization}{106}{subsection.10.9.3}
+\contentsline {section}{\numberline {10.10}Conclusion}{106}{section.10.10}
+\contentsline {chapter}{\numberline {11}Tropical Cyclones in the Philippines}{107}{chapter.11}
+\contentsline {section}{\numberline {11.1}Tropical Cyclones in the Philippines}{107}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}A Storm is Coming}{107}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}Agriculture and Cyclone Vulnerability?}{107}{subsection.11.1.2}
+\contentsline {subsection}{\numberline {11.1.3}Ready or Not}{109}{subsection.11.1.3}
+\contentsline {subsection}{\numberline {11.1.4}Philippine Disaster Mitigation}{109}{subsection.11.1.4}
+\contentsline {subsection}{\numberline {11.1.5}A Changing Game}{114}{subsection.11.1.5}
+\contentsline {subsection}{\numberline {11.1.6}Tropical Cyclones and Climate Change}{114}{subsection.11.1.6}
+\contentsline {chapter}{\numberline {12}Climate Infrastructure in Vietnam}{119}{chapter.12}
+\contentsline {section}{\numberline {12.1}Introductory}{119}{section.12.1}
+\contentsline {section}{\numberline {12.2}Conclusion}{119}{section.12.2}
+\contentsline {chapter}{\numberline {13}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{121}{chapter.13}
+\contentsline {section}{\numberline {13.1}Coral Reef Ecosystem Functioning and Interactions}{121}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Rainforests of the Sea}{121}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}Coral Ecology}{122}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.3}Reef Organisms and Trophic Interactions}{123}{subsection.13.1.3}
+\contentsline {subsection}{\numberline {13.1.4}Necessary Climate and Nutrients}{125}{subsection.13.1.4}
+\contentsline {subsection}{\numberline {13.1.5}Southeast Asian Reefs by Country}{126}{subsection.13.1.5}
+\contentsline {section}{\numberline {13.2}Climate Change and Its Effects on Coral Reefs}{127}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}The Indigenous Paradox}{127}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}Rising Sea Level}{128}{subsection.13.2.2}
+\contentsline {subsection}{\numberline {13.2.3}Ocean Warming and Acidification}{129}{subsection.13.2.3}
+\contentsline {subsection}{\numberline {13.2.4}Coral Bleaching}{130}{subsection.13.2.4}
+\contentsline {section}{\numberline {13.3}Unsustainable Fishing Practices}{131}{section.13.3}
+\contentsline {subsection}{\numberline {13.3.1}The Live Reef Fish Trade}{131}{subsection.13.3.1}
+\contentsline {subsection}{\numberline {13.3.2}Cyanide and Blast Fishing}{132}{subsection.13.3.2}
+\contentsline {subsection}{\numberline {13.3.3}Economic Motivations for Indigenous Peoples}{133}{subsection.13.3.3}
+\contentsline {section}{\numberline {13.4}Reefs Pollutants}{134}{section.13.4}
+\contentsline {subsection}{\numberline {13.4.1}Marine Debris and Ocean Contaminants}{134}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.2}Development, Industrialization, and the Agta People}{136}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.3}Deforestation and Agriculture}{137}{subsection.13.4.3}
+\contentsline {subsection}{\numberline {13.4.4}Coral Diseases}{138}{subsection.13.4.4}
+\contentsline {section}{\numberline {13.5}Reef Ecosystem Services}{139}{section.13.5}
+\contentsline {subsection}{\numberline {13.5.1}Biomedicine}{139}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.2}Food Sources}{139}{subsection.13.5.2}
+\contentsline {subsection}{\numberline {13.5.3}Tourism and the Tagbanua}{140}{subsection.13.5.3}
+\contentsline {subsection}{\numberline {13.5.4}Coastline Protection}{142}{subsection.13.5.4}
+\contentsline {subsection}{\numberline {13.5.5}The Sentinelese People}{143}{subsection.13.5.5}
+\contentsline {section}{\numberline {13.6}Reef Restoration, Protection, and Conservation}{143}{section.13.6}
+\contentsline {subsection}{\numberline {13.6.1}Ecosystem Based Adaptations}{143}{subsection.13.6.1}
+\contentsline {subsection}{\numberline {13.6.2}Marine Protected Areas}{145}{subsection.13.6.2}
+\contentsline {subsection}{\numberline {13.6.3}Intersectional Efforts}{146}{subsection.13.6.3}
+\contentsline {section}{\numberline {13.7}Coral Reefs: Conclusion}{147}{section.13.7}
+\contentsline {chapter}{\numberline {14}Air Pollution \& Social Justice in Hong Kong}{149}{chapter.14}
+\contentsline {section}{\numberline {14.1}Opening}{149}{section.14.1}
+\contentsline {section}{\numberline {14.2}A Brief Overview of Hong Kong}{149}{section.14.2}
+\contentsline {section}{\numberline {14.3}Hong Kong's History}{149}{section.14.3}
+\contentsline {section}{\numberline {14.4}Air Pollution in Hong Kong}{150}{section.14.4}
+\contentsline {section}{\numberline {14.5}Air Pollution and Human Health}{150}{section.14.5}
+\contentsline {section}{\numberline {14.6}Population Density, Income Inequality, and Housing}{151}{section.14.6}
+\contentsline {subsection}{\numberline {14.6.1}Income Inequality and Zoning Laws}{151}{subsection.14.6.1}
+\contentsline {subsection}{\numberline {14.6.2}Public Housing}{151}{subsection.14.6.2}
+\contentsline {subsection}{\numberline {14.6.3}Economic Mobility}{152}{subsection.14.6.3}
+\contentsline {section}{\numberline {14.7}Indoor Air Pollution}{152}{section.14.7}
+\contentsline {section}{\numberline {14.8}Open Spaces and Other Patterns of Environmental Inequity}{153}{section.14.8}
+\contentsline {section}{\numberline {14.9}Environmental Activism in Hong Kong}{153}{section.14.9}
+\contentsline {section}{\numberline {14.10}Beyond Hong Kong}{153}{section.14.10}
+\contentsline {chapter}{\numberline {15}Environmental Economies East Asia}{155}{chapter.15}
+\contentsline {section}{\numberline {15.1}Air Quality and Economics}{155}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}COVID-19 and Environmental Health Threat}{155}{subsection.15.1.1}
+\contentsline {subsubsection}{China Air Quality Changes}{156}{section*.105}
+\contentsline {subsubsection}{South Korea Air Quality Changes}{156}{section*.106}
+\contentsline {subsubsection}{Southeast Asia Air Quality Changes}{156}{section*.107}
+\contentsline {subsubsection}{Global Trends in Air Quality}{158}{section*.108}
+\contentsline {section}{\numberline {15.2}An Economist's View of the Environment}{158}{section.15.2}
+\contentsline {section}{\numberline {15.3}GDP as a Primary Measure of Growth}{159}{section.15.3}
+\contentsline {section}{\numberline {15.4}Environmental Economics and Ecological Economics}{163}{section.15.4}
+\contentsline {section}{\numberline {15.5}Sustainability and Sustainable Development}{165}{section.15.5}
+\contentsline {section}{\numberline {15.6}The Growth Debate}{166}{section.15.6}
+\contentsline {section}{\numberline {15.7}Case Study: The Environmental Performance Index (EPI)}{166}{section.15.7}
+\contentsline {section}{\numberline {15.8}The Environmental Kuznet's Curve: An Approach Used by Environmental Economists}{170}{section.15.8}
+\contentsline {subsection}{\numberline {15.8.1}EKG in East Asia}{170}{subsection.15.8.1}
+\contentsline {section}{\numberline {15.9}Conclusion}{174}{section.15.9}
+\contentsline {chapter}{\numberline {16}Unpacking Plastic Pollution and Recycling in Japan}{175}{chapter.16}
+\contentsline {section}{\numberline {16.1}History of Plastic in Japan}{175}{section.16.1}
+\contentsline {subsection}{\numberline {16.1.1}Introduction}{175}{subsection.16.1.1}
+\contentsline {subsection}{\numberline {16.1.2}Urbanization}{176}{subsection.16.1.2}
+\contentsline {subsection}{\numberline {16.1.3}Cultural Significance of Packaging}{176}{subsection.16.1.3}
+\contentsline {subsection}{\numberline {16.1.4}Where is it Coming from?\leavevmode {\color {red}[MLH: heading is abit ambiguous]}}{179}{subsection.16.1.4}
+\contentsline {section}{\numberline {16.2}Problems of Plastic Pollution}{179}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Ocean Plastics and Ingestion}{179}{subsection.16.2.1}
+\contentsline {section}{\numberline {16.3}What Does Recycling \emph {Really} Mean?}{179}{section.16.3}
+\contentsline {subsection}{\numberline {16.3.1}Recycling Laws and Public Cooperation}{179}{subsection.16.3.1}
+\contentsline {subsection}{\numberline {16.3.2}Incineration}{179}{subsection.16.3.2}
+\contentsline {subsubsection}{Health and Environmental Justice}{180}{section*.126}
+\contentsline {subsection}{\numberline {16.3.3}The Global Plastic Trade}{183}{subsection.16.3.3}
+\contentsline {subsubsection}{``The Recycling Myth''- The Global Plastic Trade and Malaysia}{183}{section*.127}
+\contentsline {section}{\numberline {16.4}Conclusion and Moving Forward}{184}{section.16.4}
+\contentsline {subsection}{\numberline {16.4.1}Mitigation Efforts}{184}{subsection.16.4.1}
+\contentsline {subsubsection}{Ecotowns}{184}{section*.128}
+\contentsline {subsubsection}{Longterm Goals}{184}{section*.129}
+\contentsline {subsection}{\numberline {16.4.2}In Closing}{184}{subsection.16.4.2}
+\contentsline {chapter}{\numberline {17}Waste Management for a Circular Economy}{187}{chapter.17}
+\contentsline {section}{\numberline {17.1}Life-Cycle}{187}{section.17.1}
+\contentsline {subsection}{\numberline {17.1.1}Collection}{187}{subsection.17.1.1}
+\contentsline {subsection}{\numberline {17.1.2}Transport}{187}{subsection.17.1.2}
+\contentsline {section}{\numberline {17.2}Biomimicry}{187}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}Circularity}{187}{subsection.17.2.1}
+\contentsline {part}{I\hspace {1em}Backmatter}{189}{part.1}

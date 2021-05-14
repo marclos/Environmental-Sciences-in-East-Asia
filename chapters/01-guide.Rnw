@@ -366,6 +366,11 @@ We can cross-reference sections (e.g. Section~\ref{ch:critical-zone}  or figures
 
 You can also create links to URLs or hyperlinks, e.g. \url{http://texblog.org}. However, if these addresses change, then the link will break, so I suggest you only link to internal references.
 
+\subsection*{Footnotes}
+
+I usually recommend that you don't use footnotes, but sometimes you really need to add an explanation of something that isn't really necessary, so you can use a footnote.\footnote{this is a footnote!}
+!}}
+
 \subsection*{Bibliography generation}
 
 There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our repository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 

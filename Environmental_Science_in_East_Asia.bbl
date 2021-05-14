@@ -1,4 +1,4 @@
-\begin{thebibliography}{133}
+\begin{thebibliography}{135}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -584,6 +584,14 @@ Peng, L., S.~Liu, and L.~Sun. 2016.
   chongqing, china.
 \newblock Habitat International, {\bf 51}:124--132.
 
+\bibitem[{Penna et~al.(2020)Penna, Geris, Hopp, and
+  Scandellari}]{penna2020water}
+Penna, D., J.~Geris, L.~Hopp, and F.~Scandellari. 2020.
+\newblock Water sources for root water uptake: Using stable isotopes of
+  hydrogen and oxygen as a research tool in agricultural and agroforestry
+  systems.
+\newblock Agriculture, Ecosystems \& Environment, {\bf 291}:106790.
+
 \bibitem[{Persoon and
   Minter(2020)}]{RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:420111}
 Persoon, G.~A. and T.~Minter. 2020.
@@ -687,6 +695,15 @@ Spalding, M., L.~Burke, S.~A.Wood, J.~Ashpole, J.~Hutchisone, and P.~Ermgassen.
   2017.
 \newblock Mapping the global value and distribution of coral reef tourism.
 \newblock Marine Policy, {\bf 82}:104--113.
+
+\bibitem[{Sprenger et~al.(2019)Sprenger, Stumpp, Weiler, Aeschbach, Allen,
+  Benettin, Dubbert, Hartmann, Hrachowitz, Kirchner
+  et~al.}]{sprenger2019demographics}
+Sprenger, M., C.~Stumpp, M.~Weiler, W.~Aeschbach, S.~T. Allen, P.~Benettin,
+  M.~Dubbert, A.~Hartmann, M.~Hrachowitz, J.~W. Kirchner, et~al. 2019.
+\newblock The demographics of water: A review of water ages in the critical
+  zone.
+\newblock Reviews of Geophysics, {\bf 57}:800--834.
 
 \bibitem[{Suggett and Smith(2020)}]{https://doi.org/10.1111/gcb.14871}
 Suggett, D.~J. and D.~J. Smith. 2020.

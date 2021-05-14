@@ -52,11 +52,16 @@ The unsaturated zone is also called the vadose zone has some percentage of the p
 
 \subsubsection{Aquifers and Aquitards}
 
+Aquifers are have different ages \citep{sprenger2019demographics}.
+
+\citet{REF, penna2020water}
+
 \subsubsection{Confined and Unconfined Aquifers}
 
 \subsubsection{Ground Water Flow}
 
 TAKE A LOOK at some flow net sketches that will help clarify the relationships between aquifer matrix, and groundwater movement.
+
 
 In general, water flow is driven by potential energy, e.g.  where water flows down hill, driven by gravity. If water flows from point A to point B, the the potential energy for the flow is the height of the water at point A minus the height at point B, which can be symbolized as $dl$. The head potential is the heigh difference divided by the distance between the two points.  
 
