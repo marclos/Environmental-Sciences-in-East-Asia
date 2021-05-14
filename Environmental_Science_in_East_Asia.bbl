@@ -1,4 +1,4 @@
-\begin{thebibliography}{122}
+\begin{thebibliography}{125}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -49,6 +49,12 @@ Beck, M. 2019.
 \newblock The Conversation.
 \newblock
   \urlprefix\url{http://theconversation.com/coral-reefs-provide-flood-protection-worth-1-8-billion-every-year-its-time-to-protect-them-116636}.
+
+\bibitem[{Begum et~al.(2015)Begum, Sohag, Abdullah, and Jaafar}]{begum2015co2}
+Begum, R.~A., K.~Sohag, S.~M.~S. Abdullah, and M.~Jaafar. 2015.
+\newblock Co2 emissions, energy consumption, economic and population growth in
+  malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 41}:594--601.
 
 \bibitem[{Bilgen(2014)}]{bilgen2014structure}
 Bilgen, S. 2014.
@@ -190,6 +196,12 @@ Davis, M. 2002.
   third world.
 \newblock Verso Books.
 
+\bibitem[{Doyle and Gilbert(2015)}]{doyle2015indigenous}
+Doyle, C. and J.~Gilbert. 2015.
+\newblock Indigenous peoples and globalization: From'development
+  aggression'to'self-determined development.
+\newblock Available at SSRN 2552408.
+
 \bibitem[{du~musee~de Shanghai(1996)}]{du1996university}
 du~musee~de Shanghai, B. 1996.
 \newblock University of hong kong, centre for chinese archaeology and art,
@@ -197,6 +209,12 @@ du~musee~de Shanghai, B. 1996.
   years: Innovation and transformation in the arts, ed. sherman e. lee, 55-68.
   new york: Solomon r. guggenheim museum, 1998.
 \newblock World Archaeology, {\bf 28}:209--19.
+
+\bibitem[{Edelstein and Kleese(1995)}]{edelstein1995cultural}
+Edelstein, M.~R. and D.~A. Kleese. 1995.
+\newblock Cultural relativity of impact assessment: Native hawaiian opposition
+  to geothermal energy development.
+\newblock Society \& Natural Resources, {\bf 8}:19--31.
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -509,12 +527,6 @@ Norberg-Hodge, H. 2000.
 \newblock Ancient futures: learning from Ladakh.
 \newblock Random House.
 
-\bibitem[{on~Dams(2000)}]{world2000dams}
-on~Dams, W.~C. 2000.
-\newblock Dams and development: A new framework for decision-making: The report
-  of the world commission on dams.
-\newblock Earthscan.
-
 \bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
   Matillano}]{coraltriangle}
 Palma, J., J.~Manula, J.~P. Gaudiano, and M.~Matillano. 2014.
@@ -764,6 +776,12 @@ Wilmsen, B. 2018.
 \newblock Damming china’s rivers to expand its cities: the urban livelihoods
   of rural people displaced by the three gorges dam.
 \newblock Urban Geography, {\bf 39}:345--366.
+
+\bibitem[{World(2000)}]{world2000dams}
+World, o.~D., Commission. 2000.
+\newblock Dams and development: A new framework for decision-making: The report
+  of the world commission on dams.
+\newblock Earthscan.
 
 \bibitem[{Wu et~al.(2005)Wu, Zhou, and Xiao}]{wu2005comprehensive}
 Wu, C., X.~Zhou, and B.~Xiao. 2005.
