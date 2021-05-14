@@ -120,6 +120,7 @@ opts_knit$set(self.contained=FALSE)
  
 <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
 @
+
 \end{comment}
 
 \mainmatter
@@ -160,13 +161,6 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/coral-reefs.Rnw'>>=
 @
 
-%<<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
-%@
-
-<<chapterchild, child='chapters/circular-economy.Rnw'>>=
-@
-
-
 <<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
 @
 
@@ -176,11 +170,14 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/circular-economy.Rnw'>>=
+@
+
 \backmatter
 
 \part{Backmatter}
 
-The back matter often includes one or more of an index, an afterword, acknowledgments, a bibliography, a colophon, or any other similar item. In the back matter, chapters do not produce a chapter number, but they are entered in the table of contents. If you are not using anything in the back matter, you can delete the back matter TeX field and everything that follows it.
+%The back matter often includes one or more of an index, an afterword, acknowledgments, a bibliography, a colophon, or any other similar item. In the back matter, chapters do not produce a chapter number, but they are entered in the table of contents. If you are not using anything in the back matter, you can delete the back matter TeX field and everything that follows it.
 
 \printglossary
 
