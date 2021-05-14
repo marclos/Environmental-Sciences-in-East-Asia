@@ -1,4 +1,4 @@
-\begin{thebibliography}{135}
+\begin{thebibliography}{132}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -34,6 +34,8 @@ AIR, I. 2020.
 \bibitem[{{Al-Attili, A}(2021)}]{al-attili}
 {Al-Attili, A}. 2021.
 \newblock Environmental and ecological economics.
+\newblock
+  \urlprefix\url{https://www.soas.ac.uk/cedep-demos/000_P570_IEEP_K3736-Demo/unit1/page_12.html}.
 
 \bibitem[{Almond and Petersen(2020)}]{wwfindex}
 Almond, G.~M., R.E.A. and T.~Petersen. 2020.
@@ -346,12 +348,6 @@ Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. ????
 \newblock Inter research " eci home.
 \newblock \urlprefix\url{https://www.int-res.com/ecology-institute/eci-home/}.
 
-\bibitem[{Imura et~al.(2005)Imura, Yedla, Shirakawa, and
-  Memon}]{imura2005urban}
-Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. 2005.
-\newblock Urban environmental issues and trends in asia-an overview.
-\newblock International review for environmental strategies, {\bf 5}:357.
-
 \bibitem[{Institute~of Botany(2021)}]{CAS2021researchers}
 Institute~of Botany, C. A. o.~S. 2021.
 \newblock Researchers reveal regulatory mechanisms of the temperature
@@ -471,11 +467,6 @@ Liu, L., D.~Liu, D.~M. Johnson, Z.~Yi, and Y.~Huang. 2012.
 Liu, Q., Y.~Bai, N.~Cao, X.~Liu, X.~Ding, E.~Childs-Johnson, L.~v.
   Falkenhausen, T.~Jiao, Y.-K. Lee, Y.-t. Li, et~al. 2013.
 \newblock Chinese archaeology.
-
-\bibitem[{Los~Huertos(2018)}]{LosHuertos2017OverviewR}
-Los~Huertos, M. 2018.
-\newblock Overview of R.
-\newblock Pomona College.
 
 \bibitem[{Lyons et~al.(2019)Lyons, Hill, Deshong, Mooney, and
   Turpin}]{13772149520190801}
@@ -832,12 +823,6 @@ Wu, C., X.~Zhou, and B.~Xiao. 2005.
   changes in the construction of the three gorges dam and the transmission of
   s. japonicum.
 \newblock Parasit Dis Foreign Med Sciences, {\bf 32}:224--8.
-
-\bibitem[{Xie(2021)}]{knitr}
-Xie, Y. 2021.
-\newblock knitr: A General-Purpose Package for Dynamic Report Generation in R.
-\newblock \urlprefix\url{https://yihui.org/knitr/}.
-\newblock R package version 1.31.
 
 \bibitem[{Xu et~al.(2011)Xu, Tan, Yang, Li, and Su}]{xu2011impacts}
 Xu, X., Y.~Tan, G.~Yang, H.~Li, and W.~Su. 2011.

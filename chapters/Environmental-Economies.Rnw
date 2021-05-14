@@ -2,27 +2,27 @@
 
 \chapterauthor{Chhavi Monga}
 
-\section{Case Study}
+\section{Air Quality and Economics}
 
-\subsection{Amid COVID-19, air pollution remains most pressing environmental health threat: Evidence from the World Air Quality Report 2020 by IQAir}
+\subsection{COVID-19 and Environmental Health Threat}
 
 The case study below includes snippets from the 2020 World Air Quality report, published by IQAir. The goal here is to get the reader acquainted with one of the major environmental issues countries in East Asia face \citep{air2020report}. 
-
 
 Among criteria pollutants commonly measured in real time, fine particulate matter (PM2.5) is currently understood to be the most harmful to human health due to its prevalence and far-reaching health risks. Exposure to PM2.5 has been linked to negative health effects like cardiovascular disease, respiratory illness, and premature mortality. PM2.5 is defined as ambient airborne particulates that measure up to 2.5 microns in size. These particles include a range of chemical makeups and come from a range of sources. The most common human-made sources include fossil-fuel powered motor vehicles, power generation, industrial activity, agriculture and biomass burning. The microscopic size of PM2.5 allows these particles to be absorbed deep into the bloodstream upon inhalation, potentially causing far-reaching health effects like asthma, lung cancer, and heart disease. PM2.5 exposure has also been associated with low birth weight, increased acute respiratory infections, and stroke. 
 
 \begin{figure}
 \centering
-\includegraphics[width=50mm]{images/Picture7pm25.png}
-\caption{Size of PM2.5 particle: A perspective }
+\includegraphics[width=100mm]{images/Picture7pm25.png}
+\caption{Comparative size of the human hair, PM10 and PM2.5 in microns or $10^{-6}$ meters}
 \label{fig:method} \citep{air2020report}
 \end{figure}
 
-More than 90 percent of the global population breathes dangerously high levels of air pollution. Due to its ubiquity and severity, air pollution constitutes the world's biggest environmental health hazard, contributing to as many as 7 million premature deaths globally per year (more than 3 times higher than deaths associated with COVID-19). Air pollution also burdens the global economy with more than \$5 trillion in welfare losses.
-In 2020, the spread of COVID-19 raised new concerns, as exposure to particle pollution was found to increase vulnerability to the virus and its health impacts. Early reporting suggests that the proportion of COVID-19 deaths attributed to air pollution exposure ranges from 7 to 33 percent.
-In a year defined by dramatic measures taken around the world to reduce the spread of COVID-19, IQAir published its 2020 World Air Quality Report to raise awareness around air pollution - a silent killer.
-The 2020 World Air Quality report aggregates PM2.5 data from 106 countries, collected from ground-based government monitors and a growing network of validated, non-governmental air quality monitors contributed by organizations and individuals in order to learn from the world's largest air pollution database.
+More than 90\% of the global population breathes dangerously high levels of air pollution. Due to its ubiquity and severity, air pollution constitutes the world's biggest environmental health hazard, contributing to as many as 7 million premature deaths globally per year (more than 3 times higher than deaths associated with COVID-19). Air pollution also burdens the global economy with more than \$5 trillion in welfare losses.
 
+In 2020, the spread of COVID-19 raised new concerns, as exposure to particle pollution was found to increase vulnerability to the virus and its health impacts. Early reporting suggests that the proportion of COVID-19 deaths attributed to air pollution exposure ranges from 7-33\%.
+In a year defined by dramatic measures taken around the world to reduce the spread of COVID-19, IQAir published its 2020 World Air Quality Report to raise awareness around air pollution - a silent killer.
+
+The 2020 World Air Quality report aggregates PM2.5 data from 106 countries, collected from ground-based government monitors and a growing network of validated, non-governmental air quality monitors contributed by organizations and individuals in order to learn from the world's largest air pollution database.
 
 \begin{figure}
 \centering
@@ -31,7 +31,7 @@ The 2020 World Air Quality report aggregates PM2.5 data from 106 countries, coll
 costs 7.5\% of this region's annual gross domestic product (GDP)
 in welfare losses. While cities from this region comprise 42 of
 the 100 most polluted cities globally, PM2.5 concentrations are
-trending downward overall. } \citep{air2020report}
+trending downward overall \citep{air2020report}. } 
 \label{fig:method}
 \end{figure}
 
@@ -42,127 +42,120 @@ trending downward overall. } \citep{air2020report}
 \caption{Southeast Asia faces air pollution challenges largely stemming
 from rapid population growth and economic development. The
 region's energy demand has steeply increased as a result, with
-electricity demand increasing at around 6\% per year.36 The region
+electricity demand increasing at around 6\% per year.\red{36?} The region
 mostly relies on fossil fuels for energy, with oil as the leading and
 coal the fastest-growing source.
 PM2.5 emission sources in Southeast Asia vary by country and
 environment. In urban areas, dominant emission sources include
-construction, industry, and transportation. }
-\citep{air2020report}
+construction, industry, and transportation \citep{air2020report}. }
+
 \label{fig:method}
 \end{figure}
 
+Three East Asian cities observed the greatest reductions in PM2.5 emission from the sample: Singapore (-25\%), Beijing (-23\%), and Bangkok (-20\%) . 
 
-Three East Asian cities- Singapore (-25\%), Beijing (-23\%), and Bangkok (-20\%) observed the greatest reductions in PM2.5 emission from the sample. 
+\subsubsection{China Air Quality Changes}
 
-\textbf{China}
+86\% of Chinese cities experienced cleaner air than the year prior, while annual PM2.5 exposure by population fell 11\%. Despite this progress, China continues to dominate the ranking of top 100 most polluted cities globally, with 42 cities represented. Hotan, a desert oasis in Xinjiang province, ranked as the most polluted city globally, with pollution levels 11 times higher than the WHO target for annual pollution exposure (< 10 \micrograms). The city also had the highest monthly PM2.5 averages worldwide from March to June, when weather typically increases the intensity of sandstorms (with March peaking at an average 264.4 \micrograms). Beijing experienced improved air quality for its 8th consecutive year, with air pollution levels falling 11 percent from 2019. Air pollution still remains a dire concern in the Chinese capital, with 58 percent of annual days exceeding daily WHO PM2.5 targets (< 25 \micrograms).
 
-86 percent of Chinese cities experienced cleaner air than the year prior, while annual PM2.5 exposure by population fell 11 percent. Despite this progress, China continues to dominate the ranking of top 100 most polluted cities globally, with 42 cities represented. Hotan, a desert oasis in Xinjiang province, ranked as the most polluted city globally, with pollution levels 11 times higher than the WHO target for annual pollution exposure (< 10 mu per metre cubed). The city also had the highest monthly PM2.5 averages worldwide from March to June, when weather typically increases the intensity of sandstorms (with March peaking at an average 264.4 mu per metre cubed). Beijing experienced improved air quality for its 8th consecutive year, with air pollution levels falling 11 percent from 2019. Air pollution still remains a dire concern in the Chinese capital, with 58 percent of annual days exceeding daily WHO PM2.5 targets (< 25 mu per metre cubed).
+\subsubsection{South Korea Air Quality Changes}
 
-\textbf{South Korea}
+No South Korean cities achieved the WHO target for annual PM2.5 exposure (< 10 \micrograms) in 2020. Only 5 (of 60) cities in South Korea met the country's less stringent standard for annual PM2.5 of < 15 \micrograms. Despite chronically high pollution levels, South Korea did observe dramatic air quality improvements in 2020, with population-weighted PM2.5 exposure falling 21 percent. These improvements, however, are largely attributed to short-term measures intended to reduce the spread of COVID-19 and limit coal factory emissions during the polluted winter months.Long-term policy and changes in human behavior are necessary to further reduce South Korea's PM2.5 levels.
 
-No South Korean cities achieved the WHO target for annual PM2.5 exposure (< 10 mu per metre cubed) in 2020. Only 5 (of 60) cities in South Korea met the country's less stringent standard for annual PM2.5 of < 15 mu per metre cubed. Despite chronically high pollution levels, South Korea did observe dramatic air quality improvements in 2020, with population-weighted PM2.5 exposure falling 21 percent. These improvements, however, are largely attributed to short-term measures intended to reduce the spread of COVID-19 and limit coal factory emissions during the polluted winter months.Long-term policy and changes in human behavior are necessary to further reduce South Korea's PM2.5 levels.
+\subsubsection{Southeast Asia Air Quality Changes}
 
-\textbf{Southeast Asia}
+Air pollution remains a severe problem facing the Southeast Asia region: only 10.8 percent of cities here breathe air quality that meets annual PM2.5 exposure targets set by the WHO. Despite the continual health burden, 70 percent of cities in Southeast Asia observed improved air quality in 2020. Cities that did not observe direct improvements over 2019 were predominantly located in northern Thailand, which suffered from huge smoke emissions resulting from the agricultural burning season. The capital cities of Jakarta (39.6 \micrograms) and Hanoi (37.9 \micrograms) again ranked higher than notoriously polluted Beijing (37.5 \micrograms) in 2020.
 
-Air pollution remains a severe problem facing the Southeast Asia region: only 10.8 percent of cities here breathe air quality that meets annual PM2.5 exposure targets set by the WHO. Despite the continual health burden, 70 percent of cities in Southeast Asia observed improved air quality in 2020. Cities that did not observe direct improvements over 2019 were predominantly located in northern Thailand, which suffered from huge smoke emissions resulting from the agricultural burning season. The capital cities of Jakarta (39.6 mu per metre cubed) and Hanoi (37.9 mu per metre cubed) again ranked higher than notoriously polluted Beijing (37.5 mu per metre cubed) in 2020.
+\subsubsection{Global Trends in Air Quality}
 
-\textbf{Global Trends}
+Lock-down measures and changes in human behavior in response to the spread of the novel corona-virus resulted in healthier air overall in 2020. Air quality improvements over 2019 were observed in 84\% of countries (weighted by city population) and 65\% of global cities.
 
-Lockdown measures and changes in human behavior in response to the spread of the novel coronavirus resulted in healthier air overall in 2020. Air quality improvements over 2019 were observed in 84 percent of countries (weighted by city population) and 65 percent of global cities.
+The most significant air quality improvements were observed during the first lock-down period, when countries around the world mandated relatively strict social distancing measures in an effort to contain the virus.
 
-The most significant air quality improvements were observed during the first lockdown period, when countries around the world mandated relatively strict social distancing measures in an effort to contain the virus.
+Cities with higher average PM2.5 levels and denser populations tended to observe the most significant PM2.5 reductions from COVID-19 lock-down measures. Delhi (-60\%), Seoul (-54\%) and Wuhan (-44\%), for example, all observed substantial drops during their respective lock-down periods as compared to the same time frame in 2019. Los Angeles experienced a PM2.5 reduction of -31\% during its lock-down period as well as a record-breaking stretch of air quality that met WHO air quality guidelines (< 10\micrograms).
 
-Cities with higher average PM2.5 levels and denser populations tended to observe the most significant PM2.5 reductions from COVID-19 lockdown measures. Delhi (-60\%), Seoul (-54\%) and Wuhan (-44\%), for example, all observed substantial drops during their respective lockdown periods as compared to the same time frame in 2019. Los Angeles experienced a PM2.5 reduction of -31\% during its lockdown period as well as a record-breaking stretch of air quality that met WHO air quality guidelines (< 10 mu per metre cubed).
+Often, these initial improvements were short-lived. By the end of 2020, rebounds in industry and transport resulted in smaller average annual reductions (Table~\ref{tab:reductions}).
 
-Often, these initial improvements were short-lived. By the end of 2020, rebounds in industry and transport resulted in smaller average annual reductions:
+\begin{table}
+\centering
+\caption{Annual Reductions in Selected Cities}
+\label{tab:reductions}
+\begin{tabular}{lr}
+\hline
+City & Change \\\hline\hline
+Delhi & -15\% \\
+Seoul & -16\% \\
+Wuhan & -18\% \\
+Los Angeles & +15\% \\ \hline
+\end{tabular}
+\end{table}
 
-Delhi: -15\%,
-
-Seoul: -16\%,
-
-Wuhan: -18\%,
-
-Los Angeles: +15\%
-
-To isolate the effect of coronavirus-motivated changes on air quality, the Centre for Research on Energy and Clean Air (CREA) applied a ''weather correction'' to the report's dataset. The correction removed the influence of weather from observed PM2.5 levels.
+To isolate the effect of corona-virus-motivated changes on air quality, the Centre for Research on Energy and Clean Air (CREA) applied a ''weather correction'' to the report's dataset. The correction removed the influence of weather from observed PM2.5 levels.
 
 Weather can greatly influence observed PM2.5 levels by affecting how pollution coagulates (gathers and falls to the ground), disperses, and transforms as a result of chemical reactions.
 
 While the influence of weather on the dataset varies from city to city, the resulting ''de-weathered'' figure paints a clearer picture of true changes in PM2.5 levels from 2019 to 2020. This could be the result of social distancing measures for COVID-19, new air pollution policy, or changing trends in human behavior.
 
 
+\section{An Economist's View of the Environment}
 
-\section{Introduction}
+The case study presented above shows that environmental issues such as air pollution can negatively impact the overall health of an economy. However, if we look at ''progress'' in particular, we see a general upward trend in most East Asian Countries (see \ref{fig:GDPgrowth}). This is counter-intuitive, given that we just learned about the ongoing trend of bad air quality in East Asia. In what sense, then, are these countries 'growing'? How is this progress measured, and why do nation states not take into account environmental damage when calculating their growth rates? 
 
+This chapter will try to answer these questions and in this process attempt to determine a relationship between the environment and economics. Through discussing terms such as sustainable development, the Environmental Kuznet's Curve and the Social Cost of Carbon, the chapter explores the question of whether economic growth can be sustainable.
 
-The case study preseneted above shows that environmetal issues such as air pollution can negatively impact the overall health of an economy. However, if we look at ''progress'' in particular, we see a general upward trend in most East Asian Countries (see \ref{fig:GDPgrowth}). This is counterintuitive, given that we just learned about the ongoing trend of bad air quality in East Asia. In what sense, then, are these countries 'growing'? How is this progress measured, and why do nation states not take into account environmental damage when calculting their growth rates? 
-
-This chapter will try to answer these questions and in this process attempt to determine a relationship between the environemnt and economics. Through discussing terms such as sustainable development, the Environmental Kuznet's Curve and the Social Cost of Carbon, the chapter explores the question of whether economic growth can be sustainable.
-
-\section{GDP as a Primary Measure of Growth}
-\label{GDP.}
+\section{GDP as a Primary Measure of Growth}\label{sec:GDP}
 
 Most economies use 'GDP' to calculate growth, and this measure has been at the forefront of economic policy for a long time. GDP stands for Gross Domestic Product and measures the final monetary value of all goods and services produced within an economy in a year. In simpler terms, it measures total economic output or production. The GDP growth over time for countries from around the world is presented in Figure \ref{fig:GDPgrowth}. Over time, East Asia's contribution to the world GDP has increased considerably, which indicates that there has been a boost in the overall economic output of countries within this region see Figure \ref{fig:GDPgrowth}. This of course, does not take into account the extensive environmental damage that has been caused in order to achieve the economic output. 
 
-
 \begin{figure}
 \includegraphics[width=\linewidth]{images/Picture1.png}
-\caption{GDP growth over the years} 
-\citep{bolt2020maddison}
+\caption{GDP growth over the years \citep{bolt2020maddison}.} 
 \label{fig:GDPgrowth}
 \end{figure}
 
 
-Another measure, GDP per capita, provides a slightly more accurate description of the overall prosperity of a nation and is used alongside the GDP. It is calculated by dividing the GDP of a country by its population and shows how much economic production value can be attributed to each individual citizen. GDP per capita hence translates to a measure of national wealth while also serving as a prosperity measure, and can give us an idea about the standard of living of a particular country (see Figure \ref{fig:GDPerCapita}). For example, the overall GDP of China might be higher than that of Japan (see Figure \ref{fig:GDPAsia}), but that does not mean that its people are necessarily better off (monetarily). When you divide the GDP by population, you get a better picture of how much each person is earning on average (see Figure \ref{fig:GDPPerCapCJ})
-
+Another measure, GDP per capita, provides a slightly more accurate description of the overall prosperity of a nation and is used alongside the GDP. It is calculated by dividing the GDP of a country by its population and shows how much economic production value can be attributed to each individual citizen. GDP per capita hence translates to a measure of national wealth while also serving as a prosperity measure, and can give us an idea about the standard of living of a particular country (see Figure \ref{fig:GDPerCapita}). For example, the overall GDP of China might be higher than that of Japan (see Figure \ref{fig:GDPAsia}), but that does not mean that its people are necessarily better off (monetarily). When you divide the GDP by population, you get a better picture of how much each person is earning on average (Figure \ref{fig:GDPPerCapCJ}).
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/gdpPerCap.png}
-\caption{GDP per capita over the years. We see that on average, the East Asian population is economically worse off than Western populations, but is better off than Sub Saharan African populations.}
-\citep{bolt2020maddison}
+\caption{GDP per capita over the years. We see that on average, the East Asian population is economically worse off than Western populations, but is better off than Sub Saharan African populations \citep{bolt2020maddison}.}
 \label{fig:GDPerCapita}
 \end{figure}
 
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/gdpAsia.png}
-\caption{China's overall GDP higher than Japan's overall GDP.}
-\citep{world2017world}
+\caption{China's overall GDP higher than Japan's overall GDP \citep{world2017world}.}
 \label{fig:GDPAsia}
 \end{figure}
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/gdpPerCapCJ.png}
-\caption{Japan's GDP per capita  is significantly higher than China's GDP per capita despite China having a higher overall GDP.}
-\citep{world2017world}
+\caption{Japan's GDP per capita  is significantly higher than China's GDP per capita despite China having a higher overall GDP \citep{world2017world}.}
 \label{fig:GDPPerCapCJ}
 \end{figure}
-
-
 
 East Asia, including both Northeast and Southeast Asia, has undergone great industrialization and urbanization during the last decades (Mori 2013). These activities allowed the region to enjoy rapid growth compared to the West and is on its way to becoming the world's center of economic growth. As is evident in figure \ref{fig:GDPgrowth}, the GDP share of East Asia has shown an upward trend and has steadily been contributing more and more to the world GDP. Rapid economic growth has brought a sharp reduction in poverty as well, and this can be seen in Figure \ref{fig:GDPerCapita} showcased by rising per capita GDP.
 
 
-However, although industrialization and urbanization have contributed significantly to economic growth, they have brought along serious environmental degradation. Industrial plants have increased the discharge of untreated air and water pollutants and solid wastes, increasing energy demands, and numbers of automobiles have made air pollution more serious. High-emitting sectors like power, transport, construction, even agriculture, have served as the backbone in economic growth. With little to no adequate policies to control emissions, pollution from all these new and increasing sources accumulate (see Figure \ref{fig:AsiaCarbon}). ''Since air pollution is such a chronic problem in Asia, many in the region -- including some politicians -- have decided to live with it as a necessary cost in the pursuit of development, which it isn't,'' Kakuko Nagatani-Yoshida, the United Nations Environment Program regional coordinator for chemicals, waste and air quality in Bangkok, told Nikkei \citep{faulden_2021}. The result of that is why more and more cities are recording higher PM2.5 levels every yearAs evidence, today, seven of the world's 20 cities with the highest levels of particulate air pollution were located in East Asia, and 19 out of 20 were located in Asia \citep{air2020report}. Although countries like Japan have very low PM2.5 levels, Japanese megabanks like Mizuho Financial Group, Sumitomo Mitsui Group and Mitsubishi UFJ Financial Group continue to fund oil- and gas-powered projects, indirectly contributing to pollution levels across the world \citep{faulden_2021} \ref{fig:AsiaCarbon}.
+However, although industrialization and urbanization have contributed significantly to economic growth, they have brought along serious environmental degradation. Industrial plants have increased the discharge of untreated air and water pollutants and solid wastes, increasing energy demands, and numbers of automobiles have made air pollution more serious. High-emitting sectors like power, transport, construction, even agriculture, have served as the backbone in economic growth. With little to no adequate policies to control emissions, pollution from all these new and increasing sources accumulate (see Figure \ref{fig:AsiaCarbon}). ''Since air pollution is such a chronic problem in Asia, many in the region -- including some politicians -- have decided to live with it as a necessary cost in the pursuit of development, which it isn't,'' Kakuko Nagatani-Yoshida, the United Nations Environment Program regional coordinator for chemicals, waste and air quality in Bangkok, told Nikkei \citep{faulden_2021}. The result of that is why more and more cities are recording higher PM2.5 levels every year. As evidence, today, seven of the world's 20 cities with the highest levels of particulate air pollution were located in East Asia, and 19 out of 20 were located in Asia \citep{air2020report}. Although countries like Japan have very low PM2.5 levels, Japanese megabanks like Mizuho Financial Group, Sumitomo Mitsui Group and Mitsubishi UFJ Financial Group continue to fund oil- and gas-powered projects, indirectly contributing to pollution levels across the world \citep{faulden_2021} (Figure~\ref{fig:AsiaCarbon}).
 
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/AsiaCarbon.jpg}
+\includegraphics[width=.8\linewidth]{images/AsiaCarbon.jpg}
 \caption{Asian countries have some of the worst recorded pollution levels. Agricultural burning and forest fires are well recognized as a source of dangerous smog affecting many parts of Asia, compounding the industrial and transport air pollution that is a byproduct of Asia's export-led economic growth.}
 \label{fig:AsiaCarbon}
 \end{figure}
 
 \section{Environmental Economics and Ecological Economics}
 
-
-There are two main fields of study dedicated solely to studying how economies interact with the environment and the tradeoffs between economic growth and environment protection; Environmental economics and Ecological Economics. 
+There are two main fields of study dedicated solely to studying how economies interact with the environment and the trade-offs between economic growth and environment protection; Environmental economics and Ecological Economics. 
 
 Environmental Economics developed in its present form in the 1960s as a result of the intensification of pollution and the heightened awareness among the general public in Western countries about the environment and its importance to our existence \citep{al-attili}. It started becoming evident to economists that, for economic growth to be indefinitely 'sustainable', the economic system needs to be held accountable for the way it has been exploiting natural resources in order to maintain high levels of economic growth. Environmental economists therefore view the environment as a form of natural capital which performs life support, amenity, and other functions that cannot be supplied by man-made capital \citep{al-attili}. This stock of natural capital includes natural resources plus ecological systems, land and biodiversity.
 
 The growth of environmental economics in the 1970s was initially within the neo-classical paradigm, according to which consumers, workers, and firms all make a rational calculation as to what is in their own best interests. In general, this approach to the environment is concerned with issues of market failure, inappropriate resource allocation, and how to manage public goods \citep{al-attili}. In other words, little attention was paid towards the underlying relationships between the economy and the environment. 
 
-Concerns about the limits of the environmental economics approach led some environmental economists to develop what is now referred to as ecological economics. Ecological economics views the relationship of the economy and the environment as central and any analysis places economic activity within the environment (as opposed to the two being seperate). This distinction is best illustrated with reference to debates concerning sustainable development and the difference between weak and strong sustainability (SOAS). Ecological economics supports the notion of strong sustainability- a view of sustainability that assumes that not all forms of capital (ie human and natural) are perfectly substitutable (this will be discussed in the next section). The subject deems it necessary to get a more integrated picture of how human interactions with the environment have been in the past, and make predictions about future interactions. Ecological economists view humans as beings embedded in their ecological life-support system, as opposed to being separate from the environment.
+Concerns about the limits of the environmental economics approach led some environmental economists to develop what is now referred to as ecological economics. Ecological economics views the relationship of the economy and the environment as central and any analysis places economic activity within the environment (as opposed to the two being separate). This distinction is best illustrated with reference to debates concerning sustainable development and the difference between weak and strong sustainability (SOAS). Ecological economics supports the notion of strong sustainability- a view of sustainability that assumes that not all forms of capital (i.e. human and natural) are perfectly substitutable (this will be discussed in the next section). The subject deems it necessary to get a more integrated picture of how human interactions with the environment have been in the past, and make predictions about future interactions. Ecological economists view humans as beings embedded in their ecological life-support system, as opposed to being separate from the environment.
 
 
 East Asian policies have mostly relied on studies by environmental economists rather than ecological economists, which explains why they did not reflect local conditions of the environment in a particular country as they were taken from the West. Since ecological economics generally tends to support the notion that the natural environment must be nurtured and protected, as, without it, an economy and human life cannot function, this field has a more conservative perspective regarding economic activity and how it impacts the natural environment \citep{dean2014principles}. As a result, ecological economists emphasize that East Asian countries may need to rethink the standard orthodox economic concepts such as endless economic growth and want fulfillment on which their current environmental policies are based.
@@ -177,7 +170,7 @@ Weak sustainability is mostly used by economic growth theorists and environmenta
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/weakstrongsus.png}
-\caption{Differnce between weak sustainability and strong sustainability. Source: \citep{ir}}
+\caption{Difference between weak sustainability and strong sustainability. (Source: \citet{ir})}
 \label{fig:WeakStrong}
 \end{figure}
 
@@ -189,20 +182,20 @@ On the other hand, the strong sustainability emphasizes that natural capital can
 
 \section{The Growth Debate}
 
-Having acquainted ourselves with the definitions presented above, we are now equipped to understand and enagage with the very imporant and widely debated concept of whether economic growth can be sustainable. In this process, we will also determine a relationship between economic growth and environmental performance.
+Having acquainted ourselves with the definitions presented above, we are now equipped to understand and engage with the very important and widely debated concept of whether economic growth can be sustainable. In this process, we will also determine a relationship between economic growth and environmental performance.
 
 ''Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist,'' is a famous quote by economist Kenneth Boulding.
 
 
-However, economic growth, measured by GDP has been at the forefront of policymaking across the world for the past 70 years. Global output (GDP) is now more than eight times higher than it was in 1950, and if it continues to grow at the same average rate, then the world economy will be 17 times bigger in 2100 than it is today: a staggering 146-fold increase in economic scale in the space of just a few generations \citep{theeconomist}. 
+However, economic growth, measured by GDP has been at the forefront of policy making across the world for the past 70 years. Global output (GDP) is now more than eight times higher than it was in 1950, and if it continues to grow at the same average rate, then the world economy will be 17 times bigger in 2100 than it is today: a staggering 146-fold increase in economic scale in the space of just a few generations \citep{theeconomist}. 
 
-Neo classical economics, a broad theory that focuses on supply and demand as the driving forces behind the production, pricing, and consumption of goods and services, seems to take for granted that economic growth ncreases social welfare. However there has been some criticism on this assumption in recent times.
+Neo classical economics, a broad theory that focuses on supply and demand as the driving forces behind the production, pricing, and consumption of goods and services, seems to take for granted that economic growth increases social welfare. However there has been some criticism on this assumption in recent times.
 
 Since 'social welfare' is not unambiguously measurable, one can discuss endlessly the so called 'meaningful measures' of welfare. For example, just because a country's global output or GDP is growing, it does not mean that its people are always happier, and that its environment is being looked after. GDP is only measured in terms of money, and does not really take into account, for example, environmental damage, which one would argue is essential for measuring 'welfare'. To elaborate, the last 50 years have been accompanied by the degradation of an estimated 60\% of the world's ecosystems, and the Stockholm Resilience Centre at Stockholm University in 2015 \citep{stockholmresiliencecentre} identified four key areas in which human activity already lies beyond the ''safe operating space'' of the planet: climate change, land-use change, loss of biosphere integrity and overload in biogeochemical cycles (see Figure \ref{fig:planetB}). In other words, the unprecedented increase in economic activity fails to take into account the ecological constraints of a finite planet.
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/planetBound.jpg}
-\caption{Estimates of how the different control variables for seven planetary boundaries have changed from 1950 to present. The green shaded polygon represents the safe operating space. \citep{stockholmresiliencecentre}}
+\caption{Estimates of how the different control variables for seven planetary boundaries have changed from 1950 to present. The green shaded polygon represents the safe operating space \citep{stockholmresiliencecentre}.}
 \label{fig:planetB}
 \end{figure}
 
@@ -215,13 +208,13 @@ Overall EPI rankings indicate which countries are best addressing the environmen
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/EPImeas.png}
-\caption{The 2020 EPI Framework. The framework organizes 32 indicators into 11 issue categories and two policy objectives, with weights shown at each level as a percentage of the total score. \citep{epi}}
+\caption{The 2020 EPI Framework. The framework organizes 32 indicators into 11 issue categories and two policy objectives, with weights shown at each level as a percentage of the total score \citep{epi}.}
 \label{fig:EPImeas}
 \end{figure}
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/EPI.png}
-\caption{The relationship between 2020 EPI Score and GDP per capita shows a strong positive correlation between GDP per capita and EPI score, indicating that on average richer countries have a better environment. \citep{epi}}
+\caption{The relationship between 2020 EPI Score and GDP per capita shows a strong positive correlation between GDP per capita and EPI score, indicating that on average richer countries have a better environment \citep{epi}.}
 \label{fig:EPI}
 \end{figure}
 
@@ -258,19 +251,19 @@ The scenario of the Revised EKC \ref{fig:EKGCurves} on the other hand is optimis
 
 \subsection{EKG in East Asia}
 
-Asian economies are at different stages of development consisting of high-income countries, such as Japan and the Republic of Korea, middle-income countries, such as Malaysia and Thailand, and low-income countrie,such as Cambodia and Myanmar, so a particular country is expected to lie on a specified point on the Kuznets curve depending on the stage of development it is in. \citep{taguchi2013environmental} examined whether the scenarios of Conventional EKC, Race to the Bottom and Revised EKC were applicable in Asia to representative environmental indices, namely sulfur emissions and carbon emissions. He found that sulphur emissions (see Figure \ref{fig: EKasia} ) follow the expected inverted U-shape pattern of the conventional EKC, while carbon emissions tend to increase with per capita income in the observed range. As for the Race to the Bottom and Revised EKC scenarios, the latter was verified in sulphur emissions, while the former was not present in sulfur or carbon emissions.
+Asian economies are at different stages of development consisting of high-income countries, such as Japan and the Republic of Korea, middle-income countries, such as Malaysia and Thailand, and low-income countries,such as Cambodia and Myanmar, so a particular country is expected to lie on a specified point on the Kuznets curve depending on the stage of development it is in. \citep{taguchi2013environmental} examined whether the scenarios of Conventional EKC, Race to the Bottom and Revised EKC were applicable in Asia to representative environmental indices, namely sulfur emissions and carbon emissions. He found that sulphur emissions (see Figure \ref{fig: EKasia} ) follow the expected inverted U-shape pattern of the conventional EKC, while carbon emissions tend to increase with per capita income in the observed range. As for the Race to the Bottom and Revised EKC scenarios, the latter was verified in sulphur emissions, while the former was not present in sulfur or carbon emissions.
 
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/Picture4.png}
-\caption{The Environmental Kuznet's Curve in East and South-East Asia \citep{taguchi2013environmental}}
+\caption{The Environmental Kuznet's Curve in East and South-East Asia \citep{taguchi2013environmental}.}
 \label{fig: EKasia}
 \end{figure}
 
 The reason that sulfur emissions follow the conventional Kuznets curve could be attributed to policy. Local pollutants, such as sulphur emissions, are subject to regulation. In fact, the pollution controls on sulphur emissions have been promoted intensively over a broad area of Asia since the 1970s \citep{taguchi2013environmental}. According to Iwami \citep{iwami2001advantage}, the remarkable reduction of sulphur emissions in Japan from the beginning of 1970s to the mid 1980s comes from environmental regulations reinforced by central and local governments, and technological development for desulphurization and energy efficiency promoted by private companies. International regulations also influenced the sudden action taken by governments. For example, in 1972, the Stockholm Declaration came into being. This declaration represented a first major attempt at considering the global human impact on the environment, and an international attempt to address the challenge of preserving and enhancing the human environment \citep{assessment2002united}. It espouses mostly broad environmental policy goals and objectives rather than detailed normative positions.
 
 
-On the other hand, global pollutants such as carbon emissions are easily externalized, ie their effects are felt by parties other than the ones directly producing them. Thus they are not subject to regulation, mainly because they are so difficult to regulate. For example, China's C02 emissions will be felt by its neighboring countries and have a negative effect on thier air quality. This is why in the Figure \ref{fig: EKasia}, we see that carbon emissions do not follow the Conventional EKG. Regulatory frameworks on greenhouse gas were set domestically and internationally only after the Kyoto Protocol was approved in 1997. Asian countries, with the exception of Japan, are, however, non-Annex I countries and so they have no legal obligation nor incentive to reduce carbon emission \citep{yaguchi2007beyond}. Moreover, even though Japan has policies in place for reducing carbon emissions, it has not been successful in doing so, so no spillover effects (benefits) may be expected for other lower-income East Asian countries.
+On the other hand, global pollutants such as carbon emissions are easily externalized, i.e. their effects are felt by parties other than the ones directly producing them. Thus they are not subject to regulation, mainly because they are so difficult to regulate. For example, China's \carbondioxide emissions will be felt by its neighboring countries and have a negative effect on their air quality. This is why in the Figure \ref{fig: EKasia}, we see that carbon emissions do not follow the Conventional EKG. Regulatory frameworks on greenhouse gas were set domestically and internationally only after the Kyoto Protocol was approved in 1997. Asian countries, with the exception of Japan, are, however, non-Annex I countries and so they have no legal obligation nor incentive to reduce carbon emission \citep{yaguchi2007beyond}. Moreover, even though Japan has policies in place for reducing carbon emissions, it has not been successful in doing so, so no spillover effects (benefits) may be expected for other lower-income East Asian countries.
 
 
 As for the revised EKG, we see that it pertains to developing countries in East Asia for sulfur concentrations \ref{fig: EKasia}. According to Iwami \citep{iwami2001advantage}, for instance, in the early 1970s, air pollution, particularly sulphur concentration, in the large metropolitan areas of South-East Asia was less prevalent, despite rapid economic growth in their respective countries when compared with metropolitan areas of Japan. This is because their governments and firms implemented initiatives in the early stage of development; from the late 1970s to the early 1980s, Indonesia, Malaysia, the Philippines, and Thailand moved forward with establishing fundamental frameworks for environmental protection including regulations pertaining to sulfur emissions, such as laws, standards, and institutions \citep{taguchi2013environmental}.
@@ -278,11 +271,11 @@ As for the revised EKG, we see that it pertains to developing countries in East 
 To sum up the discussion we may conclude that emission control policies play an important role in lowering emissions, and countries with strong environmental policies and regulation often see a decline in their emissions.
 
 
-
 \section{Conclusion}
 
 In this chapter, we have looked at different models and theories in order to understand how countries in East Asia and around the world measure progress and growth. Progress is often measured by versions of GDP, and non-monetary factors are usually not taken into consideration. We also learned that there has been evidence that economic growth can be sustainable, as shown by the EKC and the EPI score.
-As countries in Asia continue to pursue growth, finding the right balance between growth and sustainability through effective policies and institutions will be an important theme in policymaking in the coming decades.
+
+As countries in Asia continue to pursue growth, finding the right balance between growth and sustainability through effective policies and institutions will be an important theme in policy making in the coming decades.
 
 
 
