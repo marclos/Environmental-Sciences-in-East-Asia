@@ -368,7 +368,7 @@ You can also create links to URLs or hyperlinks, e.g. \url{http://texblog.org}. 
 
 \subsection*{Bibliography generation}
 
-There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our respository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
+There will be two steps to cite our sources. First, we need to add the reference to a database, or bib file. This is titled 'References.bib' and is located in the main folder in our repository. When you add information to the bib file, be sure to paste in the reference using a bibTeX format. 
 
 Second, we'll need to place in-line citations, using \verb"\citep{knitr}", which produces \citep{knitr}, by using a key, which is knitr in this case. 
 

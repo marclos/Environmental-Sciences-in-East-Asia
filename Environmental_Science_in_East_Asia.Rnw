@@ -110,6 +110,7 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
+\begin{comment}
 <<chapterchild, child='chapters/01-guide.Rnw'>>=
 @
 
@@ -118,6 +119,7 @@ opts_knit$set(self.contained=FALSE)
  
 <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
 @
+\end{comment}
 
 \mainmatter
 
