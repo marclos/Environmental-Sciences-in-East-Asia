@@ -1,4 +1,4 @@
-\begin{thebibliography}{130}
+\begin{thebibliography}{132}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -398,6 +398,13 @@ Khawam, A. and D.~R. Flanagan. 2006.
 \newblock Solid-state kinetic models: basics and mathematical fundamentals.
 \newblock The journal of physical chemistry B, {\bf 110}:17315--17328.
 
+\bibitem[{Kimmerer(2018)}]{kimmerer2018mishkos}
+Kimmerer, R.~W. 2018.
+\newblock Mishkos kenomagwen, the lessons of grass: Restoring reciprocity with
+  the good green earth.
+\newblock Nelson and Shilling, eds., Traditional Ecological Knowledge. Learning
+  from Indigenous Practices for Environmental Sustainability, pages 27--56.
+
 \bibitem[{King et~al.(2010)King, Davidson, and
   Anderson-Berry}]{king2010disaster}
 King, D., J.~Davidson, and L.~Anderson-Berry. 2010.
@@ -545,6 +552,14 @@ NOAA. 2019{\natexlab{{\em b\/}}}.
 Norberg-Hodge, H. 2000.
 \newblock Ancient futures: learning from Ladakh.
 \newblock Random House.
+
+\bibitem[{Ortiz(2018)}]{ortiz2018indigenous}
+Ortiz, S. 2018.
+\newblock Indigenous sustainability: Language, community, wholeness, and
+  solidarity.
+\newblock In Traditional Ecological Knowledge: Learning from Indigenous
+  Practices for Environmental Sustainability, pages 85--94. Cambridge
+  University Press.
 
 \bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
   Matillano}]{coraltriangle}
