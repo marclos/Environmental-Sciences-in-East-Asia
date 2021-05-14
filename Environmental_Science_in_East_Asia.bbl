@@ -1,4 +1,4 @@
-\begin{thebibliography}{128}
+\begin{thebibliography}{130}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -290,6 +290,13 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
 \newblock Three gorges project: efforts and challenges for the environment.
 \newblock Progress in Physical Geography, {\bf 34}:741--754.
 
+\bibitem[{Gilbert(2007)}]{gilbert2007indigenous}
+Gilbert, J. 2007.
+\newblock Indigenous rights in the making: The united nations declaration on
+  the rights of indigenous peoples.
+\newblock International Journal on Minority and Group Rights, {\bf
+  14}:207--230.
+
 \bibitem[{Glibert et~al.(2005)Glibert, Seitzinger, Heil, Burkholder, Parrow,
   Codispoti, and Kelly}]{glibert2005eutrophication}
 Glibert, P.~M., S.~Seitzinger, C.~A. Heil, J.~M. Burkholder, M.~W. Parrow,
@@ -469,6 +476,12 @@ Lyons, I., R.~Hill, S.~Deshong, G.~Mooney, and G.~Turpin. 2019.
 \newblock Regional Environmental Change, {\bf 19}:1597 -- 1610.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=137721495&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{MacKay(2002)}]{mackay2002rights}
+MacKay, F. 2002.
+\newblock The rights of indigenous peoples in international law.
+\newblock Human Rights and the Environment: Conflicts and Norms in a
+  Globalizing World, pages 17--18.
 
 \bibitem[{Mainardi~Fan et~al.(2017)Mainardi~Fan, Machado Vieira~Lisboa, Gomes
   Villa~Trinidad, R{\'o}genes Monteiro~Pontes, Collischonn, Tucci, and

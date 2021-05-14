@@ -65,30 +65,28 @@ In terms of rural electrification specifically, many Asian countries made promis
 
 \begin{table} 
 
-\caption{Selected? UN Indigenous Rights Articles \red{more detail}1 column table to list things CHANGE THIS NAME MAYBE\red{reformatted, better? remove quotes; do we need all of these listed? pretty compelling, but not sure.}} 
+\caption{Selected UN Indigenous Rights Articles that directly pertain to land-use rights and are connected to hydroelectric dams \citep{mackay2002rights}. The UN Articles on Indigenous Rights is a set of guidelines the UN ratified to respect Indigenous Autonomy. Of the 46 total articles, these are the selected ones that pertain most closely to the impacts of dam construction and displacement. One of the problems with the UN and its articles is that it is difficult to enforce the guidelines and we see such violations with mega dam development \citep{gilbert2007indigenous} } 
 
 \label{tbl:UNrights} 
 
 \begin{tabular}{lp{5.5in}}\hline 
 
-Article & \\ \hline\hline 
 
-
-Article 3 & ``Indigenous peoples have the right to send determination'' \\ 
+Article 3 & Indigenous peoples have the right to send determination\\ 
 
 \rule{0pt}{3ex}
 
-Article 4 &``Indigenous peoples, in excercising their right to self-determination, have the right to autonomy 
-or self-government''\\
+Article 4 & Indigenous peoples, in excercising their right to self-determination, have the right to autonomy 
+or self-government\\
 \rule{0pt}{3ex}
-Article 5 & ``Indigenous peoples have the right to maintain and strengthen their distinct political, legal, economic, social and cultural institutions, while retaining their right to participate fully, if they so choose, in the political, economic, social and cultural life of the State.''\\
+Article 5 & Indigenous peoples have the right to maintain and strengthen their distinct political, legal, economic, social and cultural institutions, while retaining their right to participate fully, if they so choose, in the political, economic, social and cultural life of the State.\\
 
 \rule{0pt}{3ex}
- Article 7 & ``Indigenous peoples have the collective right to live in freedom, peace and security as distinct
- peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group.''\\ 
+ Article 7 & Indigenous peoples have the collective right to live in freedom, peace and security as distinct
+ peoples and shall not be subjected to any act of genocide or any other act of violence, including forcibly removing children of the group to another group.\\ 
 \rule{0pt}{3ex}
 
-Article 8 &  ``1. Indigenous peoples and individuals have the right not to be subjected to forced assimilationor destruction of their culture. 
+Article 8 &  1. Indigenous peoples and individuals have the right not to be subjected to forced assimilationor destruction of their culture. 
 
 2. States shall provide effective mechanisms for prevention of, and redress for:
 
@@ -100,29 +98,29 @@ or of their cultural values or ethnic identities;
 (c) Any form of forced population transfer which has the aim or effect of violating or undermining any of 
 their rights; 
 
-(d) Any form of forced assimilation or integration''\\
+(d) Any form of forced assimilation or integration\\
 
 \rule{0pt}{3ex}
-Article 10 & ``Indigenous peoples shall not be forcibly removed from their lands or territories. No relocation shall take place without the free, prior and informed consent of the indigenous peoples concerned and after agreement on just and fair compensation and, where possible, with the option of return.''\\ 
+Article 10 & Indigenous peoples shall not be forcibly removed from their lands or territories. No relocation shall take place without the free, prior and informed consent of the indigenous peoples concerned and after agreement on just and fair compensation and, where possible, with the option of return.\\ 
 
-
-\rule{0pt}{3ex}
-
-Article 11 & ``1. Indigenous peoples have the right to practise and revitalize their cultural traditions and customs. This includes the right to maintain, protect and develop the past, present and future manifestations of their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and visual and performing arts and literature.''\\
 
 \rule{0pt}{3ex}
 
-Article 20 & ``1. Indigenous peoples have the right to maintain and develop their political, economic and social systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and to engage freely in all their traditional and other economic activities.
-
-2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. ''\\ 
+Article 11 & 1. Indigenous peoples have the right to practise and revitalize their cultural traditions and customs. This includes the right to maintain, protect and develop the past, present and future manifestations of their cultures, such as archaeological and historical sites, artefacts, designs, ceremonies, technologies and visual and performing arts and literature.\\
 
 \rule{0pt}{3ex}
 
-Article 26 & ``1. Indigenous peoples have the right to the lands, territories and resources which they have traditionallyowned, occupied or otherwise used or acquired. 
+Article 20 & 1. Indigenous peoples have the right to maintain and develop their political, economic and social systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and to engage freely in all their traditional and other economic activities.
+
+2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. \\ 
+
+\rule{0pt}{3ex}
+
+Article 26 & 1. Indigenous peoples have the right to the lands, territories and resources which they have traditionallyowned, occupied or otherwise used or acquired. 
 
 2. Indigenous peoples have the right to own, use, develop and control the lands, territories and resources that they possess by reason of traditional ownership or other traditional occupation or use, as well as those which they have otherwise acquired. 
 
-3. States shall give legal recognition and protection to these lands, territories and resources. Such recognition shall be conducted with due respect to the customs, traditions and land tenure systems of the indigenous peoples concerned.''\\ 
+3. States shall give legal recognition and protection to these lands, territories and resources. Such recognition shall be conducted with due respect to the customs, traditions and land tenure systems of the indigenous peoples concerned.\\ 
 
 \rule{0pt}{3ex}
 
@@ -164,8 +162,7 @@ Itaipu Dam & Brazil \& \footnotesize{Paraguay/Parana R.} & 29 & 196  & 96.6 x 10
 
 
 \section{Dam Function}
-  Hydroelectric dams hold water in artificially created bodies of water, or reservoirs. To generate electricity, water is released through a turbine which spins a metal shaft--propeller--within the turbine to convert the energy of the flowing water into energy from movement, or mechanical energy (USGS). Because energy cannot be created or destroyed, the hydroelectric dams convert one form of energy into another. In this case the energy of the moving water is the converted energy. Watts are distributed to a larger electrical grid for purposes such as energy for a household's lighting \citep{jansen1983dams}. This type of turbine that turns moving water's energy into electricity is known as a hydraulic turbine (Figure~\ref{fig:USBR})
-
+  Hydroelectric dams hold water in artificially created bodies of water, or reservoirs. To generate electricity, water is released through a turbine which spins a metal shaft--propeller--within the turbine to convert the energy of the flowing water into energy from movement, or mechanical energy (USGS). Because energy cannot be created or destroyed, the hydroelectric dams convert one form of energy into another. In this case the energy of the moving water is the converted energy. Watts are distributed to a larger electrical grid for purposes such as energy for a household's lighting \citep{jansen1983dams}. This type of turbine that turns moving water's energy into electricity is known as a hydraulic turbine (Figure~\ref{fig:USBR}) 
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/hydroelectric/diagram.png}
