@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-\begin{thebibliography}{132}
-=======
-\begin{thebibliography}{48}
->>>>>>> e4e28ee0c36f2ff1b0ded4adb4e3825cc26891e8
+\begin{thebibliography}{133}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -358,7 +354,7 @@ Hoogervorst, T.~G. 2012.
 
 \bibitem[{Imura et~al.(????)Imura, Yedla, Shirakawa, and Memon}]{ir}
 Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. ????
-\newblock Inter research " eci home.
+\newblock Inter-research "eci home.
 \newblock \urlprefix\url{https://www.int-res.com/ecology-institute/eci-home/}.
 
 \bibitem[{Institute~of Botany(2021)}]{CAS2021researchers}

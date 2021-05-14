@@ -143,9 +143,6 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/invasive-species.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/coral-reefs2.Rnw'>>=
-@
-
 <<chapterchild, child='chapters/flood-pulse.Rnw'>>=
 @
 
@@ -161,7 +158,7 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/SBE-Vietnam.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/coral-reefs.Rnw'>>=
+<<chapterchild, child='chapters/coral-reefs2.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
