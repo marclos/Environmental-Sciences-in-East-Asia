@@ -1,14 +1,39 @@
-\begin{thebibliography}{116}
+\begin{thebibliography}{135}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{sto(????)}]{stockholmresiliencecentre}
+ ????
+\newblock The nine planetary boundaries.
+\newblock
+  \urlprefix\url{https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html}.
+
+\bibitem[{the(2015)}]{theeconomist}
+ 2015.
+\newblock The case for slower growth.
+\newblock
+  \urlprefix\url{https://www.economist.com/the-world-if/2015/07/30/the-case-for-slower-growth}.
+
+\bibitem[{epi(2021)}]{epi}
+ 2021.
+\newblock Welcome.
+\newblock \urlprefix\url{https://epi.yale.edu/}.
 
 \bibitem[{Aiken and Leigh(2015)}]{aiken2015dams}
 Aiken, S.~R. and C.~H. Leigh. 2015.
 \newblock Dams and indigenous peoples in malaysia: Development, displacement
   and resettlement.
 \newblock Geografiska Annaler: Series B, Human Geography, {\bf 97}:69--93.
+
+\bibitem[{AIR(2020)}]{air2020report}
+AIR, I. 2020.
+\newblock Report: Covid-19 impact on air quality in 10 major cities.
+
+\bibitem[{{Al-Attili, A}(2021)}]{al-attili}
+{Al-Attili, A}. 2021.
+\newblock Environmental and ecological economics.
 
 \bibitem[{Almond and Petersen(2020)}]{wwfindex}
 Almond, G.~M., R.E.A. and T.~Petersen. 2020.
@@ -25,6 +50,10 @@ Aquino, A. and D.~Kaczan. 2019.
 \newblock
   \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
 
+\bibitem[{Assessment(2002)}]{assessment2002united}
+Assessment, W. 2002.
+\newblock United nations environment programme.
+
 \bibitem[{Awojobi and Jenkins(2015)}]{awojobi2015were}
 Awojobi, O. and G.~P. Jenkins. 2015.
 \newblock Were the hydro dams financed by the world bank from 1976 to 2005
@@ -37,6 +66,11 @@ Ayala, C. 2009.
 \newblock Oceana USA.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Bank(2017)}]{world2017world}
+Bank, W. 2017.
+\newblock The World Bank Annual Report 2017.
+\newblock The World Bank.
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -51,6 +85,13 @@ Billington, D.~P. and D.~C. Jackson. 2006.
 \newblock Big dams of the New Deal era: A confluence of engineering and
   politics.
 \newblock University of Oklahoma Press.
+
+\bibitem[{Bolt and van Zanden(2020)}]{bolt2020maddison}
+Bolt, J. and J.~L. van Zanden. 2020.
+\newblock Maddison style estimates of the evolution of the world economy. a new
+  2020 update.
+\newblock University of Groningen, Groningen Growth and Development Centre,
+  Maddison Project Working Paper.
 
 \bibitem[{Bowen(2015)}]{bowen2015social}
 Bowen, T. 2015.
@@ -170,11 +211,22 @@ Dao, N. 2010.
   policy.
 \newblock Water Alternatives, {\bf 3}:324.
 
+\bibitem[{Dasgupta et~al.(2002)Dasgupta, Laplante, Wang, and
+  Wheeler}]{dasgupta2002confronting}
+Dasgupta, S., B.~Laplante, H.~Wang, and D.~Wheeler. 2002.
+\newblock Confronting the environmental kuznets curve.
+\newblock Journal of economic perspectives, {\bf 16}:147--168.
+
 \bibitem[{Davis(2002)}]{davis2002late}
 Davis, M. 2002.
 \newblock Late Victorian holocausts: El Nino famines and the making of the
   third world.
 \newblock Verso Books.
+
+\bibitem[{Dean et~al.(2014)}]{dean2014principles}
+Dean, E. et~al. 2014.
+\newblock Principles of Microeconomics: Scarcity and Social Provisioning.
+\newblock Open Oregon Educational Resources.
 
 \bibitem[{du~musee~de Shanghai(1996)}]{du1996university}
 du~musee~de Shanghai, B. 1996.
@@ -183,6 +235,13 @@ du~musee~de Shanghai, B. 1996.
   years: Innovation and transformation in the arts, ed. sherman e. lee, 55-68.
   new york: Solomon r. guggenheim museum, 1998.
 \newblock World Archaeology, {\bf 28}:209--19.
+
+\bibitem[{Ekins et~al.(2003)Ekins, Simon, Deutsch, Folke, and
+  De~Groot}]{ekins2003framework}
+Ekins, P., S.~Simon, L.~Deutsch, C.~Folke, and R.~De~Groot. 2003.
+\newblock A framework for the practical application of the concepts of critical
+  natural capital and strong sustainability.
+\newblock Ecological economics, {\bf 44}:165--185.
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -213,6 +272,12 @@ Fabinyi, M. 2010.
   coastal livelihoods in the calamianes islands, philippines.
 \newblock Human Ecology, {\bf 38}:415--427.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
+
+\bibitem[{Faulden(2021)}]{faulden_2021}
+Faulden, D. 2021.
+\newblock Air pollution: Asia's deadliest public health crisis isn't covid.
+\newblock \urlprefix\url{https://asia.nikkei.com
+  /Spotlight/The-Big-Story/Air-pollution-Asia-s-deadliest-public-health-crisis-isn-t-COVID}.
 
 \bibitem[{Fekete et~al.(2010)Fekete, Wisser, Kroeze, Mayorga, Bouwman,
   Wollheim, and V{\"o}r{\"o}smarty}]{fekete2010millennium}
@@ -252,6 +317,11 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
 \newblock Three gorges project: efforts and challenges for the environment.
 \newblock Progress in Physical Geography, {\bf 34}:741--754.
 
+\bibitem[{Grossman and Krueger(1991)}]{grossman1991environmental}
+Grossman, G.~M. and A.~B. Krueger. 1991.
+\newblock Environmental impacts of a north american free trade agreement.
+\newblock Technical report, National Bureau of economic research.
+
 \bibitem[{Gullen and Plungis(2013)}]{gullen2013statista}
 Gullen, A. and J.~Plungis. 2013.
 \newblock Statista.
@@ -263,13 +333,6 @@ Hagen, R.~V. and T.~Minter. 2020.
   legislation fails to protect philippine hunter-gatherers.
 \newblock Society and Natural Resources, {\bf 33}:65–82.
 
-\bibitem[{Hirsch et~al.(1995)}]{hirsch1995thailand}
-Hirsch, P. et~al. 1995.
-\newblock Thailand and the new geopolitics of southeast asia: resource and
-  environmental issues.
-\newblock Counting the costs: economic growth and environmental change in
-  Thailand., pages 235--259.
-
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
 \newblock Ethnicity and aquatic lifestyles: exploring southeast asia’s past
@@ -277,6 +340,11 @@ Hoogervorst, T.~G. 2012.
 \newblock Water History, {\bf 4}:245--265.
 \newblock
   \urlprefix\url{https://link.springer.com/article/10.1007%2Fs12685-012-0060-0}.
+
+\bibitem[{Imura et~al.(????)Imura, Yedla, Shirakawa, and Memon}]{ir}
+Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. ????
+\newblock Inter research " eci home.
+\newblock \urlprefix\url{https://www.int-res.com/ecology-institute/eci-home/}.
 
 \bibitem[{Imura et~al.(2005)Imura, Yedla, Shirakawa, and
   Memon}]{imura2005urban}
@@ -290,6 +358,12 @@ Institute~of Botany, C. A. o.~S. 2021.
   sensitivity of soil organic matter decomposition in alpine grasslands.
 \newblock
   \urlprefix\url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
+
+\bibitem[{Iwami et~al.(2001)}]{iwami2001advantage}
+Iwami, T. et~al. 2001.
+\newblock "'advantage of late-comer'in abating air-pollution: Experience in
+  east asia"(in japanese).
+\newblock Technical report, CIRJE, Faculty of Economics, University of Tokyo.
 
 \bibitem[{Jackson and Sleigh(2000)}]{jackson2000resettlement}
 Jackson, S. and A.~Sleigh. 2000.
@@ -440,6 +514,17 @@ Nelwan, M.~L. 2019.
 \newblock Schistosomiasis: life cycle, diagnosis, and control.
 \newblock Current Therapeutic Research, {\bf 91}:5--9.
 
+\bibitem[{Neumayer(2003)}]{neumayer2003weak}
+Neumayer, E. 2003.
+\newblock Weak versus strong sustainability: exploring the limits of two
+  opposing paradigms.
+\newblock Edward Elgar Publishing.
+
+\bibitem[{Neumayer(2012)}]{neumayer2012human}
+Neumayer, E. 2012.
+\newblock Human development and sustainability.
+\newblock Journal of Human Development and Capabilities, {\bf 13}.
+
 \bibitem[{Nguyen et~al.(2013)Nguyen, Tenhunen et~al.}]{nguyen2013linking}
 Nguyen, T.~T., J.~Tenhunen, et~al. 2013.
 \newblock Linking regional land use and payments for forest hydrological
@@ -585,6 +670,11 @@ Smith, K.~N. 2018.
 \newblock
   \urlprefix\url{https://www.forbes.com/sites/kionasmith/2018/11/30/everything-we-know-about-the-isolated-sentinelese-people-of-north-sentinel-island/}.
 
+\bibitem[{Solow et~al.(1993)Solow, Polasky, and Broadus}]{solow1993measurement}
+Solow, A., S.~Polasky, and J.~Broadus. 1993.
+\newblock On the measurement of biological diversity.
+\newblock Climate, {\bf 24}:60--68.
+
 \bibitem[{Spaldin et~al.(2001)Spaldin, Ravilious, and Green}]{Watlas}
 Spaldin, M., C.~Ravilious, and E.~Green. 2001.
 \newblock World Atlas of Coral Reefs, volume~3.
@@ -605,6 +695,12 @@ Suggett, D.~J. and D.~J. Smith. 2020.
 \newblock Global Change Biology, {\bf 26}:68--79.
 \newblock
   \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Taguchi(2013)}]{taguchi2013environmental}
+Taguchi, H. 2013.
+\newblock The environmental kuznets curve in asia: The case of sulphur and
+  carbon emissions.
+\newblock Asia-Pacific Development Journal, {\bf 19}:77--92.
 
 \bibitem[{Thao et~al.(2019)Thao, Khoi, Xuan, and Tychon}]{thao2019assessment}
 Thao, N. T.~T., D.~N. Khoi, T.~T. Xuan, and B.~Tychon. 2019.
@@ -748,6 +844,12 @@ Xu, X., Y.~Tan, G.~Yang, H.~Li, and W.~Su. 2011.
 \newblock Impacts of china's three gorges dam project on net primary
   productivity in the reservoir area.
 \newblock Science of the Total Environment, {\bf 409}:4656--4662.
+
+\bibitem[{Yaguchi et~al.(2007)Yaguchi, Sonobe, and Otsuka}]{yaguchi2007beyond}
+Yaguchi, Y., T.~Sonobe, and K.~Otsuka. 2007.
+\newblock Beyond the environmental kuznets curve: a comparative study of so₂
+  and co₂ emissions between japan and china.
+\newblock Environment and Development Economics, pages 445--470.
 
 \bibitem[{Zhang et~al.(2017)Zhang, Karnauskas, Donnelly, and
   Emanuel}]{zhang2017response}
