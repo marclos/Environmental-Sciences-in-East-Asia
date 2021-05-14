@@ -140,12 +140,11 @@
 \contentsline {section}{\numberline {9.1}Introduction}{65}{section.9.1}
 \contentsline {section}{\numberline {9.2}Climate and Rice Production}{66}{section.9.2}
 \contentsline {section}{\numberline {9.3}Agricultural Production and Food Insecurity}{68}{section.9.3}
-\contentsline {section}{\numberline {9.4}History of Rice Production in Myanmar}{70}{section.9.4}
-\contentsline {section}{\numberline {9.5}Implications of Climate Change on Rice Production}{71}{section.9.5}
-\contentsline {section}{\numberline {9.6}Increasing Temperatures}{71}{section.9.6}
-\contentsline {section}{\numberline {9.7}Precipitation and flooding}{74}{section.9.7}
-\contentsline {section}{\numberline {9.8}Cyclone Nargis}{75}{section.9.8}
-\contentsline {section}{\numberline {9.9}Conclusion}{75}{section.9.9}
+\contentsline {section}{\numberline {9.4}Implications of Climate Change on Rice Production}{70}{section.9.4}
+\contentsline {section}{\numberline {9.5}Increasing Temperatures}{70}{section.9.5}
+\contentsline {section}{\numberline {9.6}Precipitation and flooding}{73}{section.9.6}
+\contentsline {section}{\numberline {9.7}Cyclone Nargis}{74}{section.9.7}
+\contentsline {section}{\numberline {9.8}Conclusion}{75}{section.9.8}
 \contentsline {chapter}{\numberline {10}The Political Ecology and Economy of Rice in Myanmar}{77}{chapter.10}
 \contentsline {section}{\numberline {10.1}Introduction}{77}{section.10.1}
 \contentsline {section}{\numberline {10.2}Climate and Rice Production}{78}{section.10.2}
@@ -155,7 +154,8 @@
 \contentsline {section}{\numberline {10.6}Increasing Temperatures}{82}{section.10.6}
 \contentsline {section}{\numberline {10.7}Precipitation and flooding}{85}{section.10.7}
 \contentsline {section}{\numberline {10.8}Cyclone Nargis}{87}{section.10.8}
-\contentsline {section}{\numberline {10.9}Political History of Rice in Myanmar}{92}{section.10.9}
+\contentsline {section}{\numberline {10.9}The Modern History of Rice Production in Myanmar}{92}{section.10.9}
+\contentsline {subsection}{\numberline {10.9.1}The 19th Century--The Industrialization of Rice}{92}{subsection.10.9.1}
 \contentsline {section}{\numberline {10.10}Conclusion}{92}{section.10.10}
 \contentsline {chapter}{\numberline {11}Tropical Cyclones in the Philippines}{93}{chapter.11}
 \contentsline {section}{\numberline {11.1}Tropical Cyclones in the Philippines}{93}{section.11.1}
