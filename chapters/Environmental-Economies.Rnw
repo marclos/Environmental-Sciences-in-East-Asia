@@ -13,13 +13,14 @@ Among criteria pollutants commonly measured in real time, fine particulate matte
 \begin{figure}
 \centering
 \includegraphics[width=100mm]{images/Picture7pm25.png}
-\caption{Comparative size of the human hair, PM10 and PM2.5 in microns or $10^{-6}$ meters}
-\label{fig:method} \citep{air2020report}
+\caption{Comparative size of the human hair, PM10 and PM2.5 in microns or $10^{-6}$ meters \citep{air2020report}.}
+\label{fig:PMsize} 
 \end{figure}
 
 More than 90\% of the global population breathes dangerously high levels of air pollution. Due to its ubiquity and severity, air pollution constitutes the world's biggest environmental health hazard, contributing to as many as 7 million premature deaths globally per year (more than 3 times higher than deaths associated with COVID-19). Air pollution also burdens the global economy with more than \$5 trillion in welfare losses.
 
 In 2020, the spread of COVID-19 raised new concerns, as exposure to particle pollution was found to increase vulnerability to the virus and its health impacts. Early reporting suggests that the proportion of COVID-19 deaths attributed to air pollution exposure ranges from 7-33\%.
+
 In a year defined by dramatic measures taken around the world to reduce the spread of COVID-19, IQAir published its 2020 World Air Quality Report to raise awareness around air pollution - a silent killer.
 
 The 2020 World Air Quality report aggregates PM2.5 data from 106 countries, collected from ground-based government monitors and a growing network of validated, non-governmental air quality monitors contributed by organizations and individuals in order to learn from the world's largest air pollution database.
@@ -32,7 +33,7 @@ costs 7.5\% of this region's annual gross domestic product (GDP)
 in welfare losses. While cities from this region comprise 42 of
 the 100 most polluted cities globally, PM2.5 concentrations are
 trending downward overall \citep{air2020report}. } 
-\label{fig:method}
+\label{fig:AirPollitonDeaths}
 \end{figure}
 
 
@@ -49,7 +50,7 @@ PM2.5 emission sources in Southeast Asia vary by country and
 environment. In urban areas, dominant emission sources include
 construction, industry, and transportation \citep{air2020report}. }
 
-\label{fig:method}
+\label{fig:PM25_country}
 \end{figure}
 
 Three East Asian cities observed the greatest reductions in PM2.5 emission from the sample: Singapore (-25\%), Beijing (-23\%), and Bangkok (-20\%) . 

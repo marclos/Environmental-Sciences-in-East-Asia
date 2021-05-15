@@ -16,15 +16,11 @@ Japan is a unique case study in plastic consumption and recycling in East Asia. 
 
 Waste management became a mounting problem in the face of urbanization, particularly beginning after World War Two, when there was little waste management infrastructure and waste was dumped into waterways or left in the open, attracting pests and spreading disease \citep{hcswm}. Landfills began to overflow during industrialization, and illegal dumping caused human and environmental health crises, including the Minamata disease of the 50s. Illegally dumped mercury from a chemical factory contaminated fish and as people ate it, they suffered neurological symptoms impacting eyesight and hearing \citep{hcswm}. 
 
-%<<<<<<< HEAD
-%Japan is a unique case study in plastic consumption and pollution in East Asia. Not only is Japan the second largest consumer of single use plastics in the world after the United States citeJohnston 2020 \red{here's an example citation that has a key to the bib file \citep{REF}}, but it is also one of the foremost\red{how about, ``it leads? the world\ldots -- making it an active verb!} recyclers in the world citeMcCurry 2011 with 84 percent of 2018`\red{use single quote instead '}s collected plastic ending up recycled citePWMI 2019. In the face of this impressive percentage, defining what exactly the Japanese government means by ``recycling''\red{good use of quote symbols!} is significant in revealing the social justice issues associated with this process.
-%=======
 \begin{figure}
 \includegraphics{JapanPlastics/wealthwaste.png}
-\caption{This chart demonstrates waste production and national disposable income from 1955 to 1980. There is a distinct positive correlation between income and waste production. Source: \cite{hcswm}.}
+\caption{This chart demonstrates waste production and national disposable income from 1955 to 1980. There is a distinct positive correlation between income and waste production (Source: \citet{hcswm}).}
 \label{fig:wealthwaste}
 \end{figure}
-%>>>>>>> 8215f3ee9f5bde7ba81ec43ab4c1d319557e4ff6
 
 Japan has the third largest economy in the world \citep{lee2021} despite ranking 62nd in land area \citep{worldometer}, creating a situation of high consumption with minimal disposal space, an issue faced worldwide, but exemplified on such a small archipelago. To cope with issues of waste storage space, Japan began building incinerators inside cities in the 1960s, and today, Japan has the most advanced incineration infrastructure in the world \citep{hcswm}, while only one percent of waste ends up in landfills \citep{sturmer2018}. Incinerators reduce waste volume to one-twentieth of its original size \citep{sturmer2018}.
 
