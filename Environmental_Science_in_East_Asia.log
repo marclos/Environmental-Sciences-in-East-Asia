@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  15 MAY 2021 12:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  15 MAY 2021 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1995,7 +1995,7 @@ File: images/Vietnam/saltwaterintrusion.jpeg Graphic file (type jpg)
 
 <use images/Vietnam/saltwaterintrusion.jpeg>
 Package pdftex.def Info: images/Vietnam/saltwaterintrusion.jpeg used on input l
-ine 2218.
+ine 2220.
 (pdftex.def)             Requested size: 433.62pt x 243.81609pt.
 
 Overfull \hbox (4.99316pt too wide) has occurred while \output is active
@@ -2009,7 +2009,7 @@ File: images/Vietnam/mocmonremard.jpg Graphic file (type jpg)
 
 <use images/Vietnam/mocmonremard.jpg>
 Package pdftex.def Info: images/Vietnam/mocmonremard.jpg used on input line 225
-0.
+2.
 (pdftex.def)             Requested size: 433.62pt x 243.90898pt.
 
 Overfull \hbox (4.99316pt too wide) has occurred while \output is active
@@ -2023,7 +2023,7 @@ File: images/Vietnam/floatingmarket.jpeg Graphic file (type jpg)
 
 <use images/Vietnam/floatingmarket.jpeg>
 Package pdftex.def Info: images/Vietnam/floatingmarket.jpeg used on input line 
-2278.
+2280.
 (pdftex.def)             Requested size: 433.62pt x 325.17891pt.
  [125]
 Overfull \hbox (4.99316pt too wide) has occurred while \output is active
@@ -2045,7 +2045,7 @@ Chapter 12.
 File: images/CoralAnatomy.jpg Graphic file (type jpg)
 
 <use images/CoralAnatomy.jpg>
-Package pdftex.def Info: images/CoralAnatomy.jpg used on input line 2354.
+Package pdftex.def Info: images/CoralAnatomy.jpg used on input line 2356.
 (pdftex.def)             Requested size: 336.05284pt x 224.20685pt.
 
 
@@ -2055,7 +2055,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/reeffoodweb.png Graphic file (type png)
 
 <use images/reeffoodweb.png>
-Package pdftex.def Info: images/reeffoodweb.png used on input line 2371.
+Package pdftex.def Info: images/reeffoodweb.png used on input line 2373.
 (pdftex.def)             Requested size: 336.05284pt x 244.858pt.
 
 
@@ -2066,7 +2066,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/urchin.jpg Graphic file (type jpg)
 
 <use images/urchin.jpg>
-Package pdftex.def Info: images/urchin.jpg used on input line 2382.
+Package pdftex.def Info: images/urchin.jpg used on input line 2384.
 (pdftex.def)             Requested size: 433.62pt x 208.29912pt.
 
 
@@ -2080,7 +2080,7 @@ Underfull \vbox (badness 2253) has occurred while \output is active []
 File: images/reefcycles.png Graphic file (type png)
 
 <use images/reefcycles.png>
-Package pdftex.def Info: images/reefcycles.png used on input line 2395.
+Package pdftex.def Info: images/reefcycles.png used on input line 2397.
 (pdftex.def)             Requested size: 303.53267pt x 280.60881pt.
 
 
@@ -2091,7 +2091,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/reefmap.png Graphic file (type png)
 
 <use images/reefmap.png>
-Package pdftex.def Info: images/reefmap.png used on input line 2409.
+Package pdftex.def Info: images/reefmap.png used on input line 2411.
 (pdftex.def)             Requested size: 260.17464pt x 191.79372pt.
 
 
@@ -2105,7 +2105,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/acidification2_med.jpg Graphic file (type jpg)
 
 <use images/acidification2_med.jpg>
-Package pdftex.def Info: images/acidification2_med.jpg used on input line 2463.
+Package pdftex.def Info: images/acidification2_med.jpg used on input line 2465.
 
 (pdftex.def)             Requested size: 433.62pt x 171.96613pt.
  [137 <./images/acidification2_med.jpg>]
@@ -2113,7 +2113,7 @@ Package pdftex.def Info: images/acidification2_med.jpg used on input line 2463.
 File: images/coralbleach.png Graphic file (type png)
 
 <use images/coralbleach.png>
-Package pdftex.def Info: images/coralbleach.png used on input line 2483.
+Package pdftex.def Info: images/coralbleach.png used on input line 2485.
 (pdftex.def)             Requested size: 260.17464pt x 173.44823pt.
 
 
@@ -2124,7 +2124,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/cyanidefishing.jpg Graphic file (type jpg)
 
 <use images/cyanidefishing.jpg>
-Package pdftex.def Info: images/cyanidefishing.jpg used on input line 2518.
+Package pdftex.def Info: images/cyanidefishing.jpg used on input line 2520.
 (pdftex.def)             Requested size: 303.53267pt x 202.53308pt.
 
 
@@ -2135,7 +2135,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/plasticsuff.jpg Graphic file (type jpg)
 
 <use images/plasticsuff.jpg>
-Package pdftex.def Info: images/plasticsuff.jpg used on input line 2546.
+Package pdftex.def Info: images/plasticsuff.jpg used on input line 2548.
 (pdftex.def)             Requested size: 303.53267pt x 159.35426pt.
 
 
@@ -2144,7 +2144,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [142]
 
 Package natbib Warning: Citation `2615280620070801' on page 143 undefined on in
-put line 2559.
+put line 2561.
 
 
 Underfull \vbox (badness 2564) has occurred while \output is active []
@@ -2157,14 +2157,14 @@ Underfull \vbox (badness 6893) has occurred while \output is active []
 File: images/coraldisease.png Graphic file (type png)
 
 <use images/coraldisease.png>
-Package pdftex.def Info: images/coraldisease.png used on input line 2587.
+Package pdftex.def Info: images/coraldisease.png used on input line 2589.
 (pdftex.def)             Requested size: 303.53267pt x 228.29669pt.
  [146 <./images/coraldisease.png>] [147]
 <images/tagfish.png, id=3043, 366.36874pt x 366.36874pt>
 File: images/tagfish.png Graphic file (type png)
 
 <use images/tagfish.png>
-Package pdftex.def Info: images/tagfish.png used on input line 2614.
+Package pdftex.def Info: images/tagfish.png used on input line 2616.
 (pdftex.def)             Requested size: 281.85034pt x 281.86441pt.
 
 
@@ -2178,14 +2178,14 @@ Underfull \vbox (badness 5331) has occurred while \output is active []
 File: images/sentpeeps.png Graphic file (type png)
 
 <use images/sentpeeps.png>
-Package pdftex.def Info: images/sentpeeps.png used on input line 2649.
+Package pdftex.def Info: images/sentpeeps.png used on input line 2651.
 (pdftex.def)             Requested size: 390.25534pt x 219.30992pt.
  [150] [151 <./images/sentpeeps.png>]
 <images/coralrestore.jpg, id=3118, 1003.75pt x 752.8125pt>
 File: images/coralrestore.jpg Graphic file (type jpg)
 
 <use images/coralrestore.jpg>
-Package pdftex.def Info: images/coralrestore.jpg used on input line 2665.
+Package pdftex.def Info: images/coralrestore.jpg used on input line 2667.
 (pdftex.def)             Requested size: 303.53267pt x 227.64894pt.
 
 
@@ -2196,20 +2196,20 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/reefbigchillin.png Graphic file (type png)
 
 <use images/reefbigchillin.png>
-Package pdftex.def Info: images/reefbigchillin.png used on input line 2694.
+Package pdftex.def Info: images/reefbigchillin.png used on input line 2696.
 (pdftex.def)             Requested size: 390.25534pt x 204.94324pt.
  [155 <./images/reefbigchillin.png>] [156
 
 ]
 Chapter 13.
 [157]
-Overfull \hbox (43.01361pt too wide) in paragraph at lines 2730--2731
+Overfull \hbox (43.01361pt too wide) in paragraph at lines 2732--2733
 \T1/cmr/m/n/10 The hu-man health ef-fects of air pol-lu-tants are part of what 
 cer-tain chem-i-cals as air [][MLH: “][]pollution.[][MLH:
  []
 
 
-Overfull \hbox (10.29938pt too wide) in paragraph at lines 2730--2731
+Overfull \hbox (10.29938pt too wide) in paragraph at lines 2732--2733
 \T1/cmr/m/n/10 ”][] [][MLH: see guides][]These ef-fects have been widely stud
 -ied in many dif-fer-ent parts of the world.[][MLH:
  []
@@ -2222,26 +2222,26 @@ Chapter 14.
 File: images/Picture7pm25.png Graphic file (type png)
 
 <use images/Picture7pm25.png>
-Package pdftex.def Info: images/Picture7pm25.png used on input line 2801.
+Package pdftex.def Info: images/Picture7pm25.png used on input line 2803.
 (pdftex.def)             Requested size: 284.52756pt x 157.69911pt.
  [163]
 <images/Picture8EA.png, id=3216, 469.2732pt x 206.6922pt>
 File: images/Picture8EA.png Graphic file (type png)
 
 <use images/Picture8EA.png>
-Package pdftex.def Info: images/Picture8EA.png used on input line 2816.
+Package pdftex.def Info: images/Picture8EA.png used on input line 2818.
 (pdftex.def)             Requested size: 469.27205pt x 206.69168pt.
 
-Overfull \hbox (35.65205pt too wide) in paragraph at lines 2816--2821
+Overfull \hbox (35.65205pt too wide) in paragraph at lines 2818--2823
  [][] 
  []
 
 File: images/Picture8EA.png Graphic file (type png)
 <use images/Picture8EA.png>
-Package pdftex.def Info: images/Picture8EA.png used on input line 2828.
+Package pdftex.def Info: images/Picture8EA.png used on input line 2830.
 (pdftex.def)             Requested size: 469.27205pt x 206.69168pt.
 
-Overfull \hbox (35.65205pt too wide) in paragraph at lines 2828--2837
+Overfull \hbox (35.65205pt too wide) in paragraph at lines 2830--2839
  [][] 
  []
 
@@ -2256,27 +2256,27 @@ Underfull \vbox (badness 5460) has occurred while \output is active []
 File: images/Picture1.png Graphic file (type png)
 
 <use images/Picture1.png>
-Package pdftex.def Info: images/Picture1.png used on input line 2898.
+Package pdftex.def Info: images/Picture1.png used on input line 2900.
 (pdftex.def)             Requested size: 433.62pt x 305.85896pt.
 
 <images/gdpPerCap.png, id=3262, 3412.75pt x 2409.0pt>
 File: images/gdpPerCap.png Graphic file (type png)
 
 <use images/gdpPerCap.png>
-Package pdftex.def Info: images/gdpPerCap.png used on input line 2907.
+Package pdftex.def Info: images/gdpPerCap.png used on input line 2909.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
  <images/gdpAsia.png, id=3267, 3412.75pt x 2409.0pt>
 File: images/gdpAsia.png Graphic file (type png)
 
 <use images/gdpAsia.png>
-Package pdftex.def Info: images/gdpAsia.png used on input line 2914.
+Package pdftex.def Info: images/gdpAsia.png used on input line 2916.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
 
 <images/gdpPerCapCJ.png, id=3272, 3412.75pt x 2409.0pt>
 File: images/gdpPerCapCJ.png Graphic file (type png)
 
 <use images/gdpPerCapCJ.png>
-Package pdftex.def Info: images/gdpPerCapCJ.png used on input line 2920.
+Package pdftex.def Info: images/gdpPerCapCJ.png used on input line 2922.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
  [167] [168 <./images/Picture1.png>] [169 <./images/gdpPerCap.png>] [170 <./ima
 ges/gdpAsia.png>] [171 <./images/gdpPerCapCJ.png>]
@@ -2284,10 +2284,10 @@ ges/gdpAsia.png>] [171 <./images/gdpPerCapCJ.png>]
 File: images/AsiaCarbon.jpg Graphic file (type jpg)
 
 <use images/AsiaCarbon.jpg>
-Package pdftex.def Info: images/AsiaCarbon.jpg used on input line 2932.
+Package pdftex.def Info: images/AsiaCarbon.jpg used on input line 2934.
 (pdftex.def)             Requested size: 346.89731pt x 384.79308pt.
 
-Overfull \hbox (6.35956pt too wide) in paragraph at lines 2943--2944
+Overfull \hbox (6.35956pt too wide) in paragraph at lines 2945--2946
 []\T1/cmr/m/n/10 The growth of en-vi-ron-men-tal eco-nomics in the 1970s was in
 i-tially within the neo-classical paradigm,
  []
@@ -2297,17 +2297,17 @@ i-tially within the neo-classical paradigm,
 File: images/weakstrongsus.png Graphic file (type png)
 
 <use images/weakstrongsus.png>
-Package pdftex.def Info: images/weakstrongsus.png used on input line 2959.
+Package pdftex.def Info: images/weakstrongsus.png used on input line 2961.
 (pdftex.def)             Requested size: 433.62pt x 233.13599pt.
  [174 <./images/weakstrongsus.png>]
 <images/planetBound.jpg, id=3372, 1626.075pt x 697.60625pt>
 File: images/planetBound.jpg Graphic file (type jpg)
 
 <use images/planetBound.jpg>
-Package pdftex.def Info: images/planetBound.jpg used on input line 2984.
+Package pdftex.def Info: images/planetBound.jpg used on input line 2986.
 (pdftex.def)             Requested size: 433.62pt x 186.02502pt.
 
-Overfull \hbox (6.80641pt too wide) in paragraph at lines 2989--2989
+Overfull \hbox (6.80641pt too wide) in paragraph at lines 2991--2991
 []\T1/cmr/bx/n/14.4 Case Study: The En-vi-ron-men-tal Per-for-mance In-dex (EPI
 ) 
  []
@@ -2316,17 +2316,17 @@ Overfull \hbox (6.80641pt too wide) in paragraph at lines 2989--2989
 File: images/EPImeas.png Graphic file (type png)
 
 <use images/EPImeas.png>
-Package pdftex.def Info: images/EPImeas.png used on input line 2997.
+Package pdftex.def Info: images/EPImeas.png used on input line 2999.
 (pdftex.def)             Requested size: 433.62pt x 377.35037pt.
  <images/EPI.png, id=3396, 911.405pt x 796.9775pt>
 File: images/EPI.png Graphic file (type png)
 
 <use images/EPI.png>
-Package pdftex.def Info: images/EPI.png used on input line 3003.
+Package pdftex.def Info: images/EPI.png used on input line 3005.
 (pdftex.def)             Requested size: 433.62pt x 379.18845pt.
 
 
-LaTeX Warning: Reference `GDP.' on page 176 undefined on input line 3008.
+LaTeX Warning: Reference `GDP.' on page 176 undefined on input line 3010.
 
 [176 <./images/planetBound.jpg>]
 Overfull \hbox (104.61942pt too wide) has occurred while \output is active
@@ -2339,7 +2339,7 @@ VIRONMENTAL ECONOMISTS \T1/cmr/m/n/10 177
 File: images/Picture2.png Graphic file (type png)
 
 <use images/Picture2.png>
-Package pdftex.def Info: images/Picture2.png used on input line 3020.
+Package pdftex.def Info: images/Picture2.png used on input line 3022.
 (pdftex.def)             Requested size: 433.62pt x 324.55777pt.
 
 Overfull \hbox (104.61942pt too wide) has occurred while \output is active
@@ -2352,18 +2352,18 @@ VIRONMENTAL ECONOMISTS \T1/cmr/m/n/10 179
 File: images/Picture3.png Graphic file (type png)
 
 <use images/Picture3.png>
-Package pdftex.def Info: images/Picture3.png used on input line 3034.
+Package pdftex.def Info: images/Picture3.png used on input line 3036.
 (pdftex.def)             Requested size: 433.62pt x 289.3862pt.
  [180 <./images/Picture3.png>]
 <images/Picture4.png, id=3462, 458.6736pt x 608.9952pt>
 File: images/Picture4.png Graphic file (type png)
 
 <use images/Picture4.png>
-Package pdftex.def Info: images/Picture4.png used on input line 3045.
+Package pdftex.def Info: images/Picture4.png used on input line 3047.
 (pdftex.def)             Requested size: 433.62pt x 575.74512pt.
 
 
-LaTeX Warning: Float too large for page by 18.58513pt on input line 3048.
+LaTeX Warning: Float too large for page by 18.58513pt on input line 3050.
 
 [181] [182 <./images/Picture4.png>] [183] [184
 
@@ -2377,7 +2377,7 @@ Underfull \vbox (badness 3547) has occurred while \output is active []
 File: JapanPlastics/wealthwaste.png Graphic file (type png)
 
 <use JapanPlastics/wealthwaste.png>
-Package pdftex.def Info: JapanPlastics/wealthwaste.png used on input line 3091.
+Package pdftex.def Info: JapanPlastics/wealthwaste.png used on input line 3093.
 
 (pdftex.def)             Requested size: 336.25543pt x 292.09052pt.
  [186 <./JapanPlastics/wealthwaste.png>]
@@ -2385,7 +2385,7 @@ Package pdftex.def Info: JapanPlastics/wealthwaste.png used on input line 3091.
 File: JapanPlastics/groceries.png Graphic file (type png)
 
 <use JapanPlastics/groceries.png>
-Package pdftex.def Info: JapanPlastics/groceries.png used on input line 3111.
+Package pdftex.def Info: JapanPlastics/groceries.png used on input line 3113.
 (pdftex.def)             Requested size: 283.8233pt x 213.52446pt.
 
 Underfull \vbox (badness 3260) has occurred while \output is active []
@@ -2395,14 +2395,14 @@ Underfull \vbox (badness 3260) has occurred while \output is active []
 File: JapanPlastics/Rcycle.png Graphic file (type png)
 
 <use JapanPlastics/Rcycle.png>
-Package pdftex.def Info: JapanPlastics/Rcycle.png used on input line 3141.
+Package pdftex.def Info: JapanPlastics/Rcycle.png used on input line 3143.
 (pdftex.def)             Requested size: 317.98721pt x 198.742pt.
  [188]
 <JapanPlastics/legalhis.png, id=3647, 912.40875pt x 517.935pt>
 File: JapanPlastics/legalhis.png Graphic file (type png)
 
 <use JapanPlastics/legalhis.png>
-Package pdftex.def Info: JapanPlastics/legalhis.png used on input line 3150.
+Package pdftex.def Info: JapanPlastics/legalhis.png used on input line 3152.
 (pdftex.def)             Requested size: 433.62pt x 246.14021pt.
 
 
@@ -2414,7 +2414,7 @@ File: images/JapanPlastics/incinerator.png Graphic file (type png)
 
 <use images/JapanPlastics/incinerator.png>
 Package pdftex.def Info: images/JapanPlastics/incinerator.png used on input lin
-e 3168.
+e 3170.
 (pdftex.def)             Requested size: 433.62pt x 243.97333pt.
 
 
@@ -2435,17 +2435,17 @@ t>
 File: images/Circular-Images/septictank_image.png Graphic file (type png)
  <use images/Circular-Images/septictank_image.png>
 Package pdftex.def Info: images/Circular-Images/septictank_image.png used on in
-put line 3284.
+put line 3286.
 (pdftex.def)             Requested size: 191.71577pt x 141.5284pt.
 
 <images/Circular-Images/Methane_levels.png, id=3903, 380.42125pt x 181.67876pt>
 File: images/Circular-Images/Methane_levels.png Graphic file (type png)
 <use images/Circular-Images/Methane_levels.png>
 Package pdftex.def Info: images/Circular-Images/Methane_levels.png used on inpu
-t line 3293.
+t line 3295.
 (pdftex.def)             Requested size: 380.4203pt x 181.6783pt.
  [198 <./images/Circular-Images/septictank_image.png>]
-Overfull \hbox (2.88708pt too wide) in paragraph at lines 3306--3307
+Overfull \hbox (2.88708pt too wide) in paragraph at lines 3308--3309
 []\T1/cmr/m/n/10 The DVC la-trine is sim-ple, eas-ily con-structed, re-quires m
 od-er-ate main-te-nance, is cost-effective($70
  []
@@ -2456,7 +2456,7 @@ File: images/Circular-Images/DVC_image.png Graphic file (type png)
 
 <use images/Circular-Images/DVC_image.png>
 Package pdftex.def Info: images/Circular-Images/DVC_image.png used on input lin
-e 3312.
+e 3314.
 (pdftex.def)             Requested size: 311.16174pt x 269.00433pt.
  [200 <./images/Circular-Images/DVC_image.png>] [201] [202]
 <images/Circular-Images/phytoremediation.png, id=4034, 455.7025pt x 161.60374pt
@@ -2464,10 +2464,10 @@ e 3312.
 File: images/Circular-Images/phytoremediation.png Graphic file (type png)
  <use images/Circular-Images/phytoremediation.png>
 Package pdftex.def Info: images/Circular-Images/phytoremediation.png used on in
-put line 3352.
+put line 3354.
 (pdftex.def)             Requested size: 455.70137pt x 161.60335pt.
 
-Overfull \hbox (22.08138pt too wide) in paragraph at lines 3352--3353
+Overfull \hbox (22.08138pt too wide) in paragraph at lines 3354--3355
 [][] 
  []
 
@@ -2477,7 +2477,7 @@ File: images/Circular-Images/HandyPod_image.png Graphic file (type png)
 
 <use images/Circular-Images/HandyPod_image.png>
 Package pdftex.def Info: images/Circular-Images/HandyPod_image.png used on inpu
-t line 3363.
+t line 3365.
 (pdftex.def)             Requested size: 238.8919pt x 208.77946pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2489,10 +2489,10 @@ File: images/Circular-Images/Danshui_image.png Graphic file (type png)
 
 <use images/Circular-Images/Danshui_image.png>
 Package pdftex.def Info: images/Circular-Images/Danshui_image.png used on input
- line 3383.
+ line 3385.
 (pdftex.def)             Requested size: 249.93314pt x 296.10551pt.
  [206 <./images/Circular-Images/Danshui_image.png>] [207]
-Overfull \hbox (37.35664pt too wide) in paragraph at lines 3409--3409
+Overfull \hbox (37.35664pt too wide) in paragraph at lines 3411--3411
 []\T1/cmr/bx/n/14.4 Further Re-search Needed: Lin-ear Chem-i-cal Waste一``Fore
 ver
  []
@@ -2503,7 +2503,7 @@ t>
 File: images/Circular-Images/CircularEconomy_image.png Graphic file (type png)
  <use images/Circular-Images/CircularEconomy_image.png>
 Package pdftex.def Info: images/Circular-Images/CircularEconomy_image.png used 
-on input line 3433.
+on input line 3435.
 (pdftex.def)             Requested size: 305.13924pt x 228.85443pt.
  [210 <./images/Circular-Images/CircularEconomy_image.png>] [211
 
@@ -3102,12 +3102,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3455.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3457.
 [239]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3455.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3457.
  (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3455.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3455.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3457.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3457.
 
 Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
 not changed.
@@ -3161,7 +3161,7 @@ st/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /cm-super/sftt1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (251 pages, 41339971 b
+Output written on Environmental_Science_in_East_Asia.pdf (251 pages, 41339976 b
 ytes).
 PDF statistics:
  4862 PDF objects out of 5155 (max. 8388607)
