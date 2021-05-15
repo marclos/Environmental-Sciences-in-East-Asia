@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  15 MAY 2021 14:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  15 MAY 2021 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2340,7 +2340,11 @@ Package pdftex.def Info: images/HK-air-pollution/deepwater-bay-hong-kong.jpeg u
 sed on input line 2888.
 (pdftex.def)             Requested size: 433.62pt x 325.21935pt.
 
-<images/HK-air-pollution/HONG-KONG-PUBPRIV-MAP.jpg, id=3585, 397.80478pt x 291.
+
+LaTeX Warning: Reference `Fig. 8' on page 169 undefined on input line 2893.
+
+
+<images/HK-air-pollution/HONG-KONG-PUBPRIV-MAP.jpg, id=3584, 397.80478pt x 291.
 63823pt>
 File: images/HK-air-pollution/HONG-KONG-PUBPRIV-MAP.jpg Graphic file (type jpg)
 
@@ -2354,7 +2358,7 @@ Underfull \vbox (badness 4765) has occurred while \output is active []
  [169]
 [170 <./images/HK-air-pollution/deepwater-bay-hong-kong.jpeg>] [171 <./images/H
 K-air-pollution/HONG-KONG-PUBPRIV-MAP.jpg>]
-<images/HK-air-pollution/hong-kong-open-spaces.jpg, id=3627, 411.136pt x 308.35
+<images/HK-air-pollution/hong-kong-open-spaces.jpg, id=3626, 411.136pt x 308.35
 2pt>
 File: images/HK-air-pollution/hong-kong-open-spaces.jpg Graphic file (type jpg)
 
@@ -2364,7 +2368,7 @@ Package pdftex.def Info: images/HK-air-pollution/hong-kong-open-spaces.jpg used
 (pdftex.def)             Requested size: 433.62pt x 325.2189pt.
  [172] [173 <./images/HK-air-pollution/hong-kong-open-spaces.jpg>] [174]
 Chapter 14.
-<images/Picture7pm25.png, id=3672, 204.2832pt x 113.223pt>
+<images/Picture7pm25.png, id=3671, 204.2832pt x 113.223pt>
 File: images/Picture7pm25.png Graphic file (type png)
 
 <use images/Picture7pm25.png>
@@ -2373,7 +2377,7 @@ Package pdftex.def Info: images/Picture7pm25.png used on input line 2955.
  [175
 
 ]
-<images/Picture8EA.png, id=3683, 469.2732pt x 206.6922pt>
+<images/Picture8EA.png, id=3682, 469.2732pt x 206.6922pt>
 File: images/Picture8EA.png Graphic file (type png)
 
 <use images/Picture8EA.png>
@@ -2400,27 +2404,27 @@ Underfull \vbox (badness 2951) has occurred while \output is active []
 Underfull \vbox (badness 5460) has occurred while \output is active []
 
  [178]
-<images/Picture1.png, id=3720, 469.2732pt x 330.9966pt>
+<images/Picture1.png, id=3719, 469.2732pt x 330.9966pt>
 File: images/Picture1.png Graphic file (type png)
 
 <use images/Picture1.png>
 Package pdftex.def Info: images/Picture1.png used on input line 3052.
 (pdftex.def)             Requested size: 433.62pt x 305.85896pt.
 
-<images/gdpPerCap.png, id=3728, 3412.75pt x 2409.0pt>
+<images/gdpPerCap.png, id=3727, 3412.75pt x 2409.0pt>
 File: images/gdpPerCap.png Graphic file (type png)
 
 <use images/gdpPerCap.png>
 Package pdftex.def Info: images/gdpPerCap.png used on input line 3061.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
- <images/gdpAsia.png, id=3733, 3412.75pt x 2409.0pt>
+ <images/gdpAsia.png, id=3732, 3412.75pt x 2409.0pt>
 File: images/gdpAsia.png Graphic file (type png)
 
 <use images/gdpAsia.png>
 Package pdftex.def Info: images/gdpAsia.png used on input line 3068.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
 
-<images/gdpPerCapCJ.png, id=3738, 3412.75pt x 2409.0pt>
+<images/gdpPerCapCJ.png, id=3737, 3412.75pt x 2409.0pt>
 File: images/gdpPerCapCJ.png Graphic file (type png)
 
 <use images/gdpPerCapCJ.png>
@@ -2428,7 +2432,7 @@ Package pdftex.def Info: images/gdpPerCapCJ.png used on input line 3074.
 (pdftex.def)             Requested size: 433.62pt x 306.08664pt.
  [179] [180 <./images/Picture1.png>] [181 <./images/gdpPerCap.png>] [182 <./ima
 ges/gdpAsia.png>] [183 <./images/gdpPerCapCJ.png>]
-<images/AsiaCarbon.jpg, id=3785, 370.5042pt x 410.9754pt>
+<images/AsiaCarbon.jpg, id=3784, 370.5042pt x 410.9754pt>
 File: images/AsiaCarbon.jpg Graphic file (type jpg)
 
 <use images/AsiaCarbon.jpg>
@@ -2441,14 +2445,14 @@ i-tially within the neo-classical paradigm,
  []
 
 [184] [185 <./images/AsiaCarbon.jpg>]
-<images/weakstrongsus.png, id=3806, 853.1875pt x 458.71375pt>
+<images/weakstrongsus.png, id=3805, 853.1875pt x 458.71375pt>
 File: images/weakstrongsus.png Graphic file (type png)
 
 <use images/weakstrongsus.png>
 Package pdftex.def Info: images/weakstrongsus.png used on input line 3113.
 (pdftex.def)             Requested size: 433.62pt x 233.13599pt.
  [186 <./images/weakstrongsus.png>]
-<images/planetBound.jpg, id=3839, 1626.075pt x 697.60625pt>
+<images/planetBound.jpg, id=3838, 1626.075pt x 697.60625pt>
 File: images/planetBound.jpg Graphic file (type jpg)
 
 <use images/planetBound.jpg>
@@ -2460,13 +2464,13 @@ Overfull \hbox (6.80641pt too wide) in paragraph at lines 3143--3143
 ) 
  []
 
-[187] <images/EPImeas.png, id=3857, 897.3525pt x 780.9175pt>
+[187] <images/EPImeas.png, id=3856, 897.3525pt x 780.9175pt>
 File: images/EPImeas.png Graphic file (type png)
 
 <use images/EPImeas.png>
 Package pdftex.def Info: images/EPImeas.png used on input line 3151.
 (pdftex.def)             Requested size: 433.62pt x 377.35037pt.
- <images/EPI.png, id=3862, 911.405pt x 796.9775pt>
+ <images/EPI.png, id=3861, 911.405pt x 796.9775pt>
 File: images/EPI.png Graphic file (type png)
 
 <use images/EPI.png>
@@ -2483,7 +2487,7 @@ VIRONMENTAL ECONOMISTS \T1/cmr/m/n/10 189
  []
 
 [189 <./images/EPImeas.png>] [190 <./images/EPI.png>]
-<images/Picture2.png, id=3887, 469.2732pt x 351.2322pt>
+<images/Picture2.png, id=3886, 469.2732pt x 351.2322pt>
 File: images/Picture2.png Graphic file (type png)
 
 <use images/Picture2.png>
@@ -2496,14 +2500,14 @@ VIRONMENTAL ECONOMISTS \T1/cmr/m/n/10 191
  []
 
 [191 <./images/Picture2.png>]
-<images/Picture3.png, id=3915, 469.2732pt x 313.17pt>
+<images/Picture3.png, id=3914, 469.2732pt x 313.17pt>
 File: images/Picture3.png Graphic file (type png)
 
 <use images/Picture3.png>
 Package pdftex.def Info: images/Picture3.png used on input line 3188.
 (pdftex.def)             Requested size: 433.62pt x 289.3862pt.
  [192 <./images/Picture3.png>]
-<images/Picture4.png, id=3928, 458.6736pt x 608.9952pt>
+<images/Picture4.png, id=3927, 458.6736pt x 608.9952pt>
 File: images/Picture4.png Graphic file (type png)
 
 <use images/Picture4.png>
@@ -2521,43 +2525,46 @@ Chapter 15.
 Underfull \vbox (badness 3547) has occurred while \output is active []
 
  [197]
-<JapanPlastics/wealthwaste.png, id=4000, 336.25626pt x 292.09125pt>
-File: JapanPlastics/wealthwaste.png Graphic file (type png)
+<images/JapanPlastics/wealthwaste.png, id=3999, 336.25626pt x 292.09125pt>
+File: images/JapanPlastics/wealthwaste.png Graphic file (type png)
 
-<use JapanPlastics/wealthwaste.png>
-Package pdftex.def Info: JapanPlastics/wealthwaste.png used on input line 3245.
-
+<use images/JapanPlastics/wealthwaste.png>
+Package pdftex.def Info: images/JapanPlastics/wealthwaste.png used on input lin
+e 3245.
 (pdftex.def)             Requested size: 336.25543pt x 292.09052pt.
- [198 <./JapanPlastics/wealthwaste.png>]
-<JapanPlastics/groceries.png, id=4054, 283.824pt x 213.525pt>
-File: JapanPlastics/groceries.png Graphic file (type png)
+ [198 <./images/JapanPlastics/wealthwaste.png>]
+<images/JapanPlastics/groceries.png, id=4053, 283.824pt x 213.525pt>
+File: images/JapanPlastics/groceries.png Graphic file (type png)
 
-<use JapanPlastics/groceries.png>
-Package pdftex.def Info: JapanPlastics/groceries.png used on input line 3265.
+<use images/JapanPlastics/groceries.png>
+Package pdftex.def Info: images/JapanPlastics/groceries.png used on input line 
+3265.
 (pdftex.def)             Requested size: 283.8233pt x 213.52446pt.
 
 Underfull \vbox (badness 3260) has occurred while \output is active []
 
- [199 <./JapanPlastics/groceries.png>]
-<JapanPlastics/Rcycle.png, id=4094, 317.988pt x 198.7425pt>
-File: JapanPlastics/Rcycle.png Graphic file (type png)
+ [199 <./images/JapanPlastics/groceries.png>]
+<images/JapanPlastics/Rcycle.png, id=4093, 317.988pt x 198.7425pt>
+File: images/JapanPlastics/Rcycle.png Graphic file (type png)
 
-<use JapanPlastics/Rcycle.png>
-Package pdftex.def Info: JapanPlastics/Rcycle.png used on input line 3295.
+<use images/JapanPlastics/Rcycle.png>
+Package pdftex.def Info: images/JapanPlastics/Rcycle.png used on input line 329
+5.
 (pdftex.def)             Requested size: 317.98721pt x 198.742pt.
  [200]
-<JapanPlastics/legalhis.png, id=4114, 912.40875pt x 517.935pt>
-File: JapanPlastics/legalhis.png Graphic file (type png)
+<images/JapanPlastics/legalhis.png, id=4113, 912.40875pt x 517.935pt>
+File: images/JapanPlastics/legalhis.png Graphic file (type png)
 
-<use JapanPlastics/legalhis.png>
-Package pdftex.def Info: JapanPlastics/legalhis.png used on input line 3304.
+<use images/JapanPlastics/legalhis.png>
+Package pdftex.def Info: images/JapanPlastics/legalhis.png used on input line 3
+304.
 (pdftex.def)             Requested size: 433.62pt x 246.14021pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[201 <./JapanPlastics/Rcycle.png>]
-<images/JapanPlastics/incinerator.png, id=4152, 865.2325pt x 486.81876pt>
+[201 <./images/JapanPlastics/Rcycle.png>]
+<images/JapanPlastics/incinerator.png, id=4151, 865.2325pt x 486.81876pt>
 File: images/JapanPlastics/incinerator.png Graphic file (type png)
 
 <use images/JapanPlastics/incinerator.png>
@@ -2571,14 +2578,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [202 <./JapanPlastics/legalhis.png>] [203 <./images/JapanPlastics/incinerator.
-png>]
-[204] [205] [206]
+ [202 <./images/JapanPlastics/legalhis.png>] [203 <./images/JapanPlastics/incin
+erator.png>] [204] [205] [206]
 Chapter 16.
 [207
 
 ] [208] [209]
-<images/Circular-Images/septictank_image.png, id=4360, 191.71625pt x 141.52875p
+<images/Circular-Images/septictank_image.png, id=4359, 191.71625pt x 141.52875p
 t>
 File: images/Circular-Images/septictank_image.png Graphic file (type png)
  <use images/Circular-Images/septictank_image.png>
@@ -2586,7 +2592,7 @@ Package pdftex.def Info: images/Circular-Images/septictank_image.png used on in
 put line 3438.
 (pdftex.def)             Requested size: 191.71577pt x 141.5284pt.
 
-<images/Circular-Images/Methane_levels.png, id=4370, 380.42125pt x 181.67876pt>
+<images/Circular-Images/Methane_levels.png, id=4369, 380.42125pt x 181.67876pt>
 File: images/Circular-Images/Methane_levels.png Graphic file (type png)
 <use images/Circular-Images/Methane_levels.png>
 Package pdftex.def Info: images/Circular-Images/Methane_levels.png used on inpu
@@ -2599,7 +2605,7 @@ od-er-ate main-te-nance, is cost-effective($70
  []
 
 [211 <./images/Circular-Images/Methane_levels.png>]
-<images/Circular-Images/DVC_image.png, id=4410, 311.1625pt x 269.005pt>
+<images/Circular-Images/DVC_image.png, id=4409, 311.1625pt x 269.005pt>
 File: images/Circular-Images/DVC_image.png Graphic file (type png)
 
 <use images/Circular-Images/DVC_image.png>
@@ -2607,7 +2613,7 @@ Package pdftex.def Info: images/Circular-Images/DVC_image.png used on input lin
 e 3466.
 (pdftex.def)             Requested size: 311.16174pt x 269.00433pt.
  [212 <./images/Circular-Images/DVC_image.png>] [213] [214]
-<images/Circular-Images/phytoremediation.png, id=4502, 455.7025pt x 161.60374pt
+<images/Circular-Images/phytoremediation.png, id=4501, 455.7025pt x 161.60374pt
 >
 File: images/Circular-Images/phytoremediation.png Graphic file (type png)
  <use images/Circular-Images/phytoremediation.png>
@@ -2620,7 +2626,7 @@ Overfull \hbox (22.08138pt too wide) in paragraph at lines 3506--3507
  []
 
 [215 <./images/Circular-Images/phytoremediation.png>]
-<images/Circular-Images/HandyPod_image.png, id=4528, 238.8925pt x 208.78pt>
+<images/Circular-Images/HandyPod_image.png, id=4527, 238.8925pt x 208.78pt>
 File: images/Circular-Images/HandyPod_image.png Graphic file (type png)
 
 <use images/Circular-Images/HandyPod_image.png>
@@ -2628,7 +2634,7 @@ Package pdftex.def Info: images/Circular-Images/HandyPod_image.png used on inpu
 t line 3517.
 (pdftex.def)             Requested size: 238.8919pt x 208.77946pt.
  [216 <./images/Circular-Images/HandyPod_image.png>]
-<images/Circular-Images/Danshui_image.png, id=4551, 249.93375pt x 296.10625pt>
+<images/Circular-Images/Danshui_image.png, id=4550, 249.93375pt x 296.10625pt>
 File: images/Circular-Images/Danshui_image.png Graphic file (type png)
 
 <use images/Circular-Images/Danshui_image.png>
@@ -2648,7 +2654,7 @@ ER CHEMICALS'' \T1/cmr/m/n/10 221
  []
 
 [221]
-<images/Circular-Images/CircularEconomy_image.png, id=4656, 305.14pt x 228.855p
+<images/Circular-Images/CircularEconomy_image.png, id=4655, 305.14pt x 228.855p
 t>
 File: images/Circular-Images/CircularEconomy_image.png Graphic file (type png)
  <use images/Circular-Images/CircularEconomy_image.png>
@@ -3339,12 +3345,12 @@ LaTeX Warning: There were undefined references.
 ### bottom level 
 Here is how much of TeX's memory you used:
  32383 strings out of 494820
- 614858 string characters out of 3178050
- 669902 words of memory out of 3000000
- 33852 multiletter control sequences out of 15000+200000
+ 614986 string characters out of 3178050
+ 670902 words of memory out of 3000000
+ 33853 multiletter control sequences out of 15000+200000
  33392 words of font info for 89 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 56i,10n,73p,4004b,1630s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,10n,73p,4004b,1631s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
 r-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
 nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
@@ -3377,11 +3383,11 @@ st/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /cm-super/sftt1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (271 pages, 46504276 b
+Output written on Environmental_Science_in_East_Asia.pdf (271 pages, 46504387 b
 ytes).
 PDF statistics:
- 5405 PDF objects out of 6186 (max. 8388607)
- 4778 compressed objects within 48 object streams
+ 5404 PDF objects out of 6186 (max. 8388607)
+ 4777 compressed objects within 48 object streams
  1012 named destinations out of 1200 (max. 500000)
  2368 words of extra memory for PDF output out of 10000 (max. 10000000)
 

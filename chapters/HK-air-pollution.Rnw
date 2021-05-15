@@ -114,7 +114,7 @@ Private housing, in general, allows for a certain degree of choice that is not a
 \begin{figure}
 \includegraphics[width=\linewidth]{images/HK-air-pollution/HONG-KONG-PUBPRIV-MAP}
 \caption{\citet{fan2012differential} sampling of public and private housing throughout Hong Kong}
-\label{Fig. 8}
+\label{fig:HK-pubrprivMap}
 \end{figure}
 
 The residential mobility of Hong Kong's private housing market is the cause of more environmental injustice. \citet{fan2012differential} found that differential exposure of vehicular air pollution among different levels of socio-economic status existed in private housing, but did not exist in public housing. This may be because affluent private residents have the capacity to change their housing preferences and prioritize environmental quality \citep{fan2012differential}. 
@@ -135,7 +135,7 @@ Furthermore, urban streets can be categorized as either open streets or street c
 \begin{figure}
 \includegraphics[width=\linewidth]{images/HK-air-pollution/hong-kong-open-spaces}
 \caption{An open space at Mong Kok's Langham Place Mall. Photo: Wikicommons}
-\label{Fig. 9}
+\label{fig:HK-openspace}
 \end{figure}
 
 \section{Environmental Activism in Hong Kong}

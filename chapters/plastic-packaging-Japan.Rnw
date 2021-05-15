@@ -17,7 +17,7 @@ Japan is a unique case study in plastic consumption and recycling in East Asia. 
 Waste management became a mounting problem in the face of urbanization, particularly beginning after World War Two, when there was little waste management infrastructure and waste was dumped into waterways or left in the open, attracting pests and spreading disease \citep{hcswm}. Landfills began to overflow during industrialization, and illegal dumping caused human and environmental health crises, including the Minamata disease of the 50s. Illegally dumped mercury from a chemical factory contaminated fish and as people ate it, they suffered neurological symptoms impacting eyesight and hearing \citep{hcswm}. 
 
 \begin{figure}
-\includegraphics{JapanPlastics/wealthwaste.png}
+\includegraphics{images/JapanPlastics/wealthwaste.png}
 \caption{This chart demonstrates waste production and national disposable income from 1955 to 1980. There is a distinct positive correlation between income and waste production (Source: \citet{hcswm}).}
 \label{fig:wealthwaste}
 \end{figure}
@@ -36,8 +36,8 @@ To this end, anthropologist Gavin Whitelaw decided to only consume food from kon
 
 
 \begin{figure}[h]
-%\includegraphics[width=\linewidth]{JapanPlastics/groceries.png}
-\includegraphics{JapanPlastics/groceries.png}
+%\includegraphics[width=\linewidth]{images/JapanPlastics/groceries.png}
+\includegraphics{images/JapanPlastics/groceries.png}
 \caption{Here are plastic wrapped fruits that you could find in konbini or other grocery stores in Japan. Source: \citep{denyer2019}.}
 \label{fig:konbini}
 \end{figure}
@@ -66,8 +66,8 @@ While microplastics and other ``mismanaged'' plastic waste pose health problems 
 \section{What Does Recycling \emph{Really} Mean?}
 
 \begin{figure}[h]
-%\includegraphics[width=\linewidth]{JapanPlastics/Rcycle.png}
-\includegraphics{JapanPlastics/Rcycle.png}
+%\includegraphics[width=\linewidth]{images/JapanPlastics/Rcycle.png}
+\includegraphics{images/JapanPlastics/Rcycle.png}
 \caption{This graph offers the catergories in which Japan disposes of discarded plastic. As you can see, most discarded plastic ends up in some recycling category. For the purpose of this chapter, lets unpack the ``Incineration'' and ``Exported for recycling'' categories. Source: \citep{denyer2019}.}
 \label{fig:rcycle}
 \end{figure}
@@ -76,7 +76,7 @@ While microplastics and other ``mismanaged'' plastic waste pose health problems 
 
 Japan has plethora laws to ensure waste is treated and recycled properly \ref{fig:legalhis}. Individuals in Japan tend to be fastidious about sorting their recycling into an average of nine categories, most homes even display a calendar of when the municipality will pick up each category \citep{jaramillo}. The time consuming individual efforts like washing, deconstructing, and sorting of recycling \citep{jaramillo} don't always reflect what happens further down the recycling line when waste is incinerated or shipped to other countries. 
 \begin{figure}[h]
-\includegraphics[width=\linewidth]{JapanPlastics/legalhis.png}
+\includegraphics[width=\linewidth]{images/JapanPlastics/legalhis.png}
 \caption{This chart demonstrates Japan's extensive waste management legislation and the major events that inspired it. Source:\citep{hcswm}.}
 \label{fig:legalhis}
 \end{figure}
