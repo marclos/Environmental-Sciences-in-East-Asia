@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
-Reallocated field_info (elt_size=4) to 11576 items from 5000.
+Reallocated field_info (elt_size=4) to 12104 items from 5000.
 Database file #1: References.bib
 Database file #2: marctest.bib
 Warning--I didn't find a database entry for "seekins2009state"
@@ -63,45 +63,45 @@ Warning--empty year in usgs; set to ????
 Warning--empty publisher in whitelaw_konbini-nation_2018
 Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
-You've used 272 entries,
+You've used 294 entries,
             2710 wiz_defined-function locations,
-            2013 strings with 57767 characters,
-and the built_in function-call counts, 124210 in all, are:
-= -- 11731
-> -- 6598
-< -- 196
-+ -- 2291
-- -- 1945
-* -- 9286
-:= -- 23343
-add.period$ -- 1124
-call.type$ -- 272
-change.case$ -- 1999
-chr.to.int$ -- 268
-cite$ -- 342
-duplicate$ -- 5665
-empty$ -- 8423
-format.name$ -- 2518
-if$ -- 24409
+            2120 strings with 61671 characters,
+and the built_in function-call counts, 134915 in all, are:
+= -- 12771
+> -- 7136
+< -- 214
++ -- 2469
+- -- 2101
+* -- 10090
+:= -- 25293
+add.period$ -- 1211
+call.type$ -- 294
+change.case$ -- 2161
+chr.to.int$ -- 290
+cite$ -- 364
+duplicate$ -- 6165
+empty$ -- 9159
+format.name$ -- 2732
+if$ -- 26548
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 211
-newline$ -- 1396
-num.names$ -- 1062
-pop$ -- 2594
+missing$ -- 230
+newline$ -- 1504
+num.names$ -- 1150
+pop$ -- 2808
 preamble$ -- 1
-purify$ -- 1728
+purify$ -- 1868
 quote$ -- 0
-skip$ -- 3504
+skip$ -- 3823
 stack$ -- 0
-substring$ -- 5880
-swap$ -- 505
-text.length$ -- 16
+substring$ -- 6461
+swap$ -- 578
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2370
+type$ -- 2565
 warning$ -- 56
-while$ -- 1012
+while$ -- 1111
 width$ -- 0
-write$ -- 3459
+write$ -- 3736
 (There were 58 warnings)
