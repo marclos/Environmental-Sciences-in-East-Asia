@@ -86,6 +86,8 @@
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\carbondioxide}{CO$_2$~}
+\newcommand{\nitrous}{N$_2$O~}
+\newcommand{\methane}{CH$_4$~}
 \newcommand{\kms}{km$^2$}
 \newcommand{\micrograms}{$\mu$g~m$^{-3}$}
 
@@ -126,7 +128,7 @@ opts_knit$set(self.contained=FALSE)
 \end{comment}
 
 \mainmatter
-\begin{comment}
+
 <<chapterchild, child='chapters/earth-system.Rnw'>>=
 @
 
@@ -150,7 +152,7 @@ opts_knit$set(self.contained=FALSE)
 
 <<chapterchild, child='chapters/hydroelectric-dams.Rnw'>>=
 @
-\end{comment}
+
 <<chapterchild, child='chapters/Myanmar-rice.Rnw'>>=
 @
 

@@ -2,11 +2,12 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
+Reallocated field_info (elt_size=4) to 11096 items from 5000.
 Database file #1: References.bib
-<<<<<<< HEAD
 Database file #2: marctest.bib
 Warning--I didn't find a database entry for "seekins2009state"
 Warning--I didn't find a database entry for "2615280620070801"
+Warning--to sort, need author, editor, or key in cabi2021
 Warning--to sort, need author or key in theeconomist
 Warning--to sort, need author or key in stockholmresiliencecentre
 Warning--to sort, need author or key in epi
@@ -19,6 +20,7 @@ Warning--empty title in
 Warning--empty journal in 
 Warning--empty year in worldbank_blog; set to ????
 Warning--empty year in stockholmresiliencecentre; set to ????
+Warning--empty author and editor in cabi2021
 Warning--empty year in acs; set to ????
 Warning--empty chapter and pages in acs
 Warning--empty publisher in acs
@@ -30,10 +32,12 @@ Warning--empty year in eia; set to ????
 Warning--empty year in environmental_and_energy_study_institute_(eesi); set to ????
 Warning--empty year in e_p_a; set to ????
 Warning--empty year in fao; set to ????
+Warning--empty journal in nationalwildlifefederation2021
 Warning--empty year in ir; set to ????
 Warning--empty year in ipen; set to ????
 Warning--empty year in kulkari; set to ????
 Warning--empty year in liu; set to ????
+Warning--empty journal in liu2013chinese
 Warning--empty year in matthew; set to ????
 Warning--empty journal in mccoy2020organic
 Warning--empty year in ministry_of_foreign_affairs; set to ????
@@ -43,7 +47,9 @@ Warning--empty year in nzdl; set to ????
 Warning--empty year in oregonstate; set to ????
 Warning--empty publisher in coraltriangle
 Warning--empty journal in pebler
+Warning--empty journal in severnini2014power
 Warning--empty publisher in Watlas
+Warning--empty journal in thorin2014basics
 Warning--empty year in un; set to ????
 Warning--empty year in UNpopulation; set to ????
 Warning--empty year in united_nations; set to ????
@@ -52,107 +58,45 @@ Warning--empty year in usgs; set to ????
 Warning--empty publisher in whitelaw_konbini-nation_2018
 Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
-You've used 180 entries,
+You've used 252 entries,
             2710 wiz_defined-function locations,
-            1557 strings with 40696 characters,
-and the built_in function-call counts, 77506 in all, are:
-= -- 7448
-> -- 3800
-< -- 136
-+ -- 1336
-- -- 1108
-* -- 5595
-:= -- 14716
-add.period$ -- 755
-call.type$ -- 180
-change.case$ -- 1271
-chr.to.int$ -- 176
-cite$ -- 237
-duplicate$ -- 3637
-empty$ -- 5316
-format.name$ -- 1446
-if$ -- 15202
+            1921 strings with 54296 characters,
+and the built_in function-call counts, 114490 in all, are:
+= -- 10818
+> -- 6057
+< -- 181
++ -- 2110
+- -- 1786
+* -- 8547
+:= -- 21551
+add.period$ -- 1044
+call.type$ -- 252
+change.case$ -- 1845
+chr.to.int$ -- 248
+cite$ -- 317
+duplicate$ -- 5223
+empty$ -- 7770
+format.name$ -- 2305
+if$ -- 22484
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 112
-newline$ -- 939
-num.names$ -- 698
-pop$ -- 1608
+missing$ -- 193
+newline$ -- 1298
+num.names$ -- 982
+pop$ -- 2375
 preamble$ -- 1
-purify$ -- 1086
+purify$ -- 1595
 quote$ -- 0
-skip$ -- 2244
+skip$ -- 3225
 stack$ -- 0
-substring$ -- 3591
-swap$ -- 286
-text.length$ -- 9
+substring$ -- 5422
+swap$ -- 451
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1587
-warning$ -- 45
-while$ -- 636
+type$ -- 2196
+warning$ -- 51
+while$ -- 932
 width$ -- 0
-write$ -- 2299
-(There were 47 warnings)
-=======
-Warning--to sort, need author, editor, or key in cabi2021
-Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
-while executing---line 1402 of file ecology.bst
-Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
-while executing---line 1402 of file ecology.bst
-Warning--to sort, need author, editor, or key in cabi2020
-Warning--empty author and editor in cabi2020
-Warning--empty author and editor in cabi2021
-Warning--empty publisher in RAR
-Warning--empty journal in nationalwildlifefederation2021
-Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
-while executing---line 1492 of file ecology.bst
-Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
-while executing---line 1492 of file ecology.bst
-Warning--empty year in noaaclimate.gov; set to ????
-Warning--empty publisher in norton2004strange
-Warning--empty publisher in coraltriangle
-Warning--empty publisher in Watlas
-You've used 76 entries,
-            2710 wiz_defined-function locations,
-            1047 strings with 20223 characters,
-and the built_in function-call counts, 35481 in all, are:
-= -- 3325
-> -- 1822
-< -- 51
-+ -- 627
-- -- 534
-* -- 2682
-:= -- 6615
-add.period$ -- 336
-call.type$ -- 76
-change.case$ -- 545
-chr.to.int$ -- 75
-cite$ -- 90
-duplicate$ -- 1617
-empty$ -- 2502
-format.name$ -- 700
-if$ -- 7024
-int.to.chr$ -- 2
-int.to.str$ -- 1
-missing$ -- 79
-newline$ -- 418
-num.names$ -- 296
-pop$ -- 726
-preamble$ -- 1
-purify$ -- 482
-quote$ -- 0
-skip$ -- 1004
-stack$ -- 0
-substring$ -- 1754
-swap$ -- 144
-text.length$ -- 3
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 642
-warning$ -- 10
-while$ -- 279
-width$ -- 0
-write$ -- 1019
-(There were 4 error messages)
->>>>>>> 0565cdd0b5a21c4db39a56a3c1a80594e6877465
+write$ -- 3211
+(There were 53 warnings)
