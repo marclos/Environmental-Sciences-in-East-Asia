@@ -28,7 +28,7 @@
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
 \usepackage{soul}
-
+\usepackage{comment}
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
 %\usepackage{appendix}
@@ -117,7 +117,7 @@ opts_knit$set(self.contained=FALSE)
 @
 
 \mainmatter
-
+\begin{comment}
 <<chapterchild, child='chapters/earth-system.Rnw'>>=
 @
 
@@ -141,7 +141,7 @@ opts_knit$set(self.contained=FALSE)
 
 <<chapterchild, child='chapters/hydroelectric-dams.Rnw'>>=
 @
-
+\end{comment}
 <<chapterchild, child='chapters/Myanmar-rice.Rnw'>>=
 @
 

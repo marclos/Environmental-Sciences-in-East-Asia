@@ -1,0 +1,113 @@
+\contentsline {section}{\numberline {0.1}Guiding Principles}{v}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Context and Positionality}{v}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Goals}{v}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}Rationale}{v}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Activity}{v}{subsection.0.1.4}
+\contentsline {section}{\numberline {0.2}East Asia and the World}{vi}{section.0.2}
+\contentsline {section}{\numberline {0.3}Acknowledgments}{vi}{section.0.3}
+\contentsline {chapter}{\LaTeX Guide}{vii}{chapter*.3}
+\contentsline {subsubsection}{R Chunks}{vii}{section*.7}
+\contentsline {section}{\numberline {0.4}Setting Up Book Project--Type Setting w/ \LaTeX }{viii}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}Latex Book Class}{viii}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {0.4.2}Creating equations}{x}{subsection.0.4.2}
+\contentsline {subsubsection}{Theorems, etc}{x}{section*.14}
+\contentsline {subsection}{\numberline {0.4.3}minibox X}{xii}{subsection.0.4.3}
+\contentsline {chapter}{Template Chapter Title}{xv}{chapter*.31}
+\contentsline {section}{\numberline {0.5}Section Heading}{xv}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Subsection Headings}{xv}{subsection.0.5.1}
+\contentsline {subsubsection}{Optional Subsubsection Headings}{xv}{section*.32}
+\contentsline {section}{\numberline {0.6}Goals of this template}{xv}{section.0.6}
+\contentsline {subsection}{\numberline {0.6.1}Learning \LaTeX }{xv}{subsection.0.6.1}
+\contentsline {subsection}{\numberline {0.6.2}Placing figure}{xv}{subsection.0.6.2}
+\contentsline {subsubsection}{R Created Figures}{xv}{section*.33}
+\contentsline {subsubsection}{Floating Figures from External Sources}{xvii}{section*.35}
+\contentsline {subsection}{\numberline {0.6.3}Adding Citations}{xvii}{subsection.0.6.3}
+\contentsline {chapter}{Nora's Practice Sessions}{xix}{chapter*.37}
+\contentsline {section}{\numberline {0.7}Testing Various Push and Pull Options}{xix}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}What Factors Drive Land Use Change?}{xix}{subsection.0.7.1}
+\contentsline {chapter}{\numberline {1}The Political Ecology and Economy of Rice in Myanmar}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Climate and Rice Production}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Agricultural Production and Food Insecurity}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Implications of Climate Change on Rice Production}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Increasing Temperatures}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Sea Level Rise}{9}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Precipitation and flooding}{9}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Cyclone Nargis}{11}{section.1.5}
+\contentsline {section}{\numberline {1.6}The Modern History of Rice Production in Myanmar}{15}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}The 19th Century--The Industrialization of Rice}{15}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}The 20th Century--Rice Production in an Era of Political Transition}{16}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}The 21st Century-The Slow Process of Liberalization}{17}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}Conclusion}{18}{section.1.7}
+\contentsline {chapter}{\numberline {2}Tropical Cyclones in the Philippines}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Tropical Cyclones in the Philippines}{19}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}A Storm is Coming}{19}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Agriculture and Cyclone Vulnerability?}{19}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Ready or Not}{21}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Philippine Disaster Mitigation}{21}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}A Changing Game}{26}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Tropical Cyclones and Climate Change}{26}{subsection.2.1.6}
+\contentsline {chapter}{\numberline {3}Climate Infrastructure in Vietnam}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introductory}{31}{section.3.1}
+\contentsline {section}{\numberline {3.2}Conclusion}{31}{section.3.2}
+\contentsline {chapter}{\numberline {4}Coral Reefs, Ecosystem Services, and Indigenous Peoples}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Coral Reef Ecosystem Functioning and Interactions}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Coral Reefs: An Introduction}{33}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Coral Functioning}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Reef Organisms and Trophic Interactions}{35}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Necessary Climate and Nutrients}{36}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Southeast Asian Reefs by Country}{36}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Climate Change and Its Effects on Coral Reefs}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The Indigenous Paradox}{36}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Rising Sea Level}{37}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Ocean Warming and Acidification}{38}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Coral Bleaching}{38}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Unsustainable Fishing Practices}{39}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}The Live Reef Fish Trade}{39}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cyanide and Blast Fishing}{40}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Economic Drivers and Indigenous Contributions}{41}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Reefs Pollutants}{42}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Marine Debris and Ocean Contaminants}{42}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Development, Industrialization, and the Agta}{43}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Deforestation and Agriculture}{44}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Coral Diseases}{45}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Reef Ecosystem Services}{46}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Biomedicine}{46}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Food Sources}{46}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Tourism and the Tagbanua}{47}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Coastline Protection}{48}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}The Sentinelese People}{49}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}Reef Restoration, Protection, and Conservation}{49}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Ecosystem Based Adaptations}{49}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Marine Protected Areas}{51}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Intersectional Efforts}{51}{subsection.4.6.3}
+\contentsline {section}{\numberline {4.7}Coral Reefs: Conclusion}{52}{section.4.7}
+\contentsline {chapter}{\numberline {5}Waste Management for a Circular Economy}{65}{chapter.5}
+\contentsline {section}{\numberline {5.1}Life-Cycle}{65}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Collection}{65}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Transport}{65}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Biomimicry}{65}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Circularity}{65}{subsection.5.2.1}
+\contentsline {chapter}{\numberline {6}Air Pollution \& Social Justice in Hong Kong}{67}{chapter.6}
+\contentsline {section}{\numberline {6.1}Opening}{68}{section.6.1}
+\contentsline {section}{\numberline {6.2}A Brief Overview of Hong Kong}{68}{section.6.2}
+\contentsline {section}{\numberline {6.3}Hong Kong's History}{68}{section.6.3}
+\contentsline {section}{\numberline {6.4}Air Pollution in Hong Kong}{68}{section.6.4}
+\contentsline {section}{\numberline {6.5}Air Pollution and Human Health}{68}{section.6.5}
+\contentsline {section}{\numberline {6.6}Population Density, Income Inequality, and Housing}{68}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Income Inequality and Zoning Laws}{68}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Public Housing}{68}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Economic Mobility}{68}{subsection.6.6.3}
+\contentsline {section}{\numberline {6.7}Indoor Air Pollution}{68}{section.6.7}
+\contentsline {section}{\numberline {6.8}Open Spaces and Other Patterns of Environmental Inequity}{68}{section.6.8}
+\contentsline {section}{\numberline {6.9}Environmental Activism in Hong Kong}{68}{section.6.9}
+\contentsline {section}{\numberline {6.10}Beyond Hong Kong}{68}{section.6.10}
+\contentsline {section}{\numberline {6.11}Beyond Hong Kong}{68}{section.6.11}
+\contentsline {chapter}{\numberline {7}Plastic and Packaging in Japan}{71}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introductiona and Goals?}{71}{section.7.1}
+\contentsline {section}{\numberline {7.2}Plastic Pollution and Waste Management in East Asia}{71}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Statistics/comparisons}{71}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}History of plastic waste issues in East Asia}{71}{subsection.7.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{71}{section*.66}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{71}{section*.67}
+\contentsline {part}{I\hspace {1em}Backmatter}{73}{part.1}
