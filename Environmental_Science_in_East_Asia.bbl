@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 \begin{thebibliography}{272}
+=======
+\begin{thebibliography}{138}
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -117,6 +121,7 @@ Aquino, A. and D.~Kaczan. 2019.
 \newblock
   \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
 
+<<<<<<< HEAD
 \bibitem[{Arshad(2016)}]{arshad_2016}
 Arshad, A. 2016.
 \newblock 140m in se-asia do not have clean water.
@@ -132,6 +137,18 @@ Attenborough, D. 2020.
 \newblock A Life on Our Planet: My Witness Statement and a Vision for the
   Future.
 \newblock Random House.
+=======
+\bibitem[{Ascher(2021)}]{ascher_2021}
+Ascher, W. 2021.
+\newblock Pro-poor development in southeast asia.
+
+\bibitem[{Ashourian et~al.(2013)Ashourian, Cherati, Zin, Niknam, Mokhtar, and
+  Anwari}]{ashourian2013optimal}
+Ashourian, M., S.~Cherati, A.~M. Zin, N.~Niknam, A.~Mokhtar, and M.~Anwari.
+  2013.
+\newblock Optimal green energy management for island resorts in malaysia.
+\newblock Renewable energy, {\bf 51}:36--45.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Awojobi and Jenkins(2015)}]{awojobi2015were}
 Awojobi, O. and G.~P. Jenkins. 2015.
@@ -146,6 +163,7 @@ Ayala, C. 2009.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
 
+<<<<<<< HEAD
 \bibitem[{Baldwin(2010)}]{Baldwin2010great}
 Baldwin, A. 2010.
 \newblock Great Migrations: Born To Move.
@@ -167,6 +185,13 @@ Bauman, B. 2019.
 \newblock Why plastics can be garbage for the climate.
 \newblock
   \urlprefix\url{https://yaleclimatemediaforum.org/2019/08/how-plastics-contribute-to-climate-change/}.
+=======
+\bibitem[{Bambawale et~al.(2011)Bambawale, D'Agostino, and
+  Sovacool}]{bambawale2011realizing}
+Bambawale, M.~J., A.~L. D'Agostino, and B.~K. Sovacool. 2011.
+\newblock Realizing rural electrification in southeast asia: lessons from laos.
+\newblock Energy for Sustainable Development, {\bf 15}:41--48.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -176,6 +201,7 @@ Beck, M. 2019.
 \newblock
   \urlprefix\url{http://theconversation.com/coral-reefs-provide-flood-protection-worth-1-8-billion-every-year-its-time-to-protect-them-116636}.
 
+<<<<<<< HEAD
 \bibitem[{Ben-Ari et~al.(1990)Ben-Ari, Moeran, and
   Valentine}]{ben-ari_unwrapping_1990}
 Ben-Ari, E., B.~Moeran, and J.~Valentine. 1990.
@@ -189,6 +215,18 @@ Ben-Ari, E., B.~Moeran, and J.~Valentine. 1990.
 Berendes, D.~M., P.~J. Yang, A.~Lai, D.~Hu, and J.~Brown. 2018.
 \newblock Estimation of global recoverable human and animal faecal biomass.
 \newblock \urlprefix\url{https://www.nature.com/articles/s41893-018-0167-0}.
+=======
+\bibitem[{Begum et~al.(2015)Begum, Sohag, Abdullah, and Jaafar}]{begum2015co2}
+Begum, R.~A., K.~Sohag, S.~M.~S. Abdullah, and M.~Jaafar. 2015.
+\newblock Co2 emissions, energy consumption, economic and population growth in
+  malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 41}:594--601.
+
+\bibitem[{Bilgen(2014)}]{bilgen2014structure}
+Bilgen, S. 2014.
+\newblock Structure and environmental impact of global energy consumption.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 38}:890--902.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Billington and Jackson(2006)}]{billington2006big}
 Billington, D.~P. and D.~C. Jackson. 2006.
@@ -196,6 +234,7 @@ Billington, D.~P. and D.~C. Jackson. 2006.
   politics.
 \newblock University of Oklahoma Press.
 
+<<<<<<< HEAD
 \bibitem[{Bird(2012)}]{bird_will_nodate}
 Bird, W. 2012.
 \newblock Will {Fish}-{Loving} {Japan} {Embrace} {Sustainable} {Seafood}?
@@ -215,6 +254,12 @@ Bolt, J. and J.~L. van Zanden. 2020.
   2020 update.
 \newblock University of Groningen, Groningen Growth and Development Centre,
   Maddison Project Working Paper.
+=======
+\bibitem[{Bodley(2014)}]{bodley2014victims}
+Bodley, J.~H. 2014.
+\newblock Victims of progress.
+\newblock Rowman \& Littlefield.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Bowen(2015)}]{bowen2015social}
 Bowen, T. 2015.
@@ -344,11 +389,18 @@ Choy, Y.~K. 2004.
   dam-induced development strategy-the bakun experience.
 \newblock Pacific Affairs, pages 50--68.
 
+<<<<<<< HEAD
 \bibitem[{Cole et~al.(2009)Cole, Phuc, and Collett}]{cole_phuc_collett_2009}
 Cole, B., P.~D. Phuc, and J.~Collett. 2009.
 \newblock A qualitative and physical investigation of a double-vault composting
   latrine programme in northern vietnam.
 \newblock Waterlines, {\bf 28}:333–342.
+=======
+\bibitem[{Chua and Oh(2011)}]{chua2011green}
+Chua, S.~C. and T.~H. Oh. 2011.
+\newblock Green progress and prospect in malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 15}:2850--2861.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Cooke et~al.(2017)Cooke, Nordensvard, Saat, Urban, and
   Siciliano}]{cooke2017limits}
@@ -407,6 +459,7 @@ Davis, M. 2002.
   third world.
 \newblock Verso Books.
 
+<<<<<<< HEAD
 \bibitem[{Dean et~al.(2014)}]{dean2014principles}
 Dean, E. et~al. 2014.
 \newblock Principles of Microeconomics: Scarcity and Social Provisioning.
@@ -424,6 +477,13 @@ Denyer, S. 2019.
   plastic pollution.
 \newblock
   \urlprefix\url{https://www.washingtonpost.com/world/asia_pacific/japan-wraps-everything-in-plastic-now-it-wants-to-fight-against-plastic-pollution/2019/06/18/463fa73c-7298-11e9-9331-30bc5836f48e_story.html}.
+=======
+\bibitem[{Doyle and Gilbert(2015)}]{doyle2015indigenous}
+Doyle, C. and J.~Gilbert. 2015.
+\newblock Indigenous peoples and globalization: From'development
+  aggression'to'self-determined development.
+\newblock Available at SSRN 2552408.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{du~musee~de Shanghai(1996)}]{du1996university}
 du~musee~de Shanghai, B. 1996.
@@ -433,6 +493,7 @@ du~musee~de Shanghai, B. 1996.
   new york: Solomon r. guggenheim museum, 1998.
 \newblock World Archaeology, {\bf 28}:209--19.
 
+<<<<<<< HEAD
 \bibitem[{Edmonson(2011)}]{edmonson2011}
 Edmonson, S. 2011.
 \newblock Height—{Good} {For} {Basketball}, {Bad} {For} {Air}.
@@ -453,6 +514,13 @@ Ekins, P., S.~Simon, L.~Deutsch, C.~Folke, and R.~De~Groot. 2003.
 \newblock A framework for the practical application of the concepts of critical
   natural capital and strong sustainability.
 \newblock Ecological economics, {\bf 44}:165--185.
+=======
+\bibitem[{Edelstein and Kleese(1995)}]{edelstein1995cultural}
+Edelstein, M.~R. and D.~A. Kleese. 1995.
+\newblock Cultural relativity of impact assessment: Native hawaiian opposition
+  to geothermal energy development.
+\newblock Society \& Natural Resources, {\bf 8}:19--31.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -581,6 +649,7 @@ Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
 \newblock Three gorges project: efforts and challenges for the environment.
 \newblock Progress in Physical Geography, {\bf 34}:741--754.
 
+<<<<<<< HEAD
 \bibitem[{Fu et~al.(2017)Fu, Schleifer, and Zhong}]{fu_schleifer_zhong_2017}
 Fu, X., L.~Schleifer, and L.~Zhong. 2017.
 \newblock Wastewater: The best hidden energy source you've never heard of.
@@ -609,6 +678,21 @@ Greenpeace, M. 2018.
 Grossman, G.~M. and A.~B. Krueger. 1991.
 \newblock Environmental impacts of a north american free trade agreement.
 \newblock Technical report, National Bureau of economic research.
+=======
+\bibitem[{Gilbert(2007)}]{gilbert2007indigenous}
+Gilbert, J. 2007.
+\newblock Indigenous rights in the making: The united nations declaration on
+  the rights of indigenous peoples.
+\newblock International Journal on Minority and Group Rights, {\bf
+  14}:207--230.
+
+\bibitem[{Glibert et~al.(2005)Glibert, Seitzinger, Heil, Burkholder, Parrow,
+  Codispoti, and Kelly}]{glibert2005eutrophication}
+Glibert, P.~M., S.~Seitzinger, C.~A. Heil, J.~M. Burkholder, M.~W. Parrow,
+  L.~A. Codispoti, and V.~Kelly. 2005.
+\newblock Eutrophication.
+\newblock Oceanography, {\bf 18}:198.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Gullen and Plungis(2013)}]{gullen2013statista}
 Gullen, A. and J.~Plungis. 2013.
@@ -800,10 +884,23 @@ Keller, B., D.~Gleason, E.~Mcleod, C.~Woodley, S.~Airam{\'e}, B.~Causey,
   marine protected areas.
 \newblock Environmental Management, {\bf 44}:1069 -- 1088.
 
+\bibitem[{Keong(2005)}]{keong2005energy}
+Keong, C.~Y. 2005.
+\newblock Energy demand, economic growth, and energy efficiency—the bakun
+  dam-induced sustainable energy policy revisited.
+\newblock Energy policy, {\bf 33}:679--689.
+
 \bibitem[{Khawam and Flanagan(2006)}]{khawam2006solid}
 Khawam, A. and D.~R. Flanagan. 2006.
 \newblock Solid-state kinetic models: basics and mathematical fundamentals.
 \newblock The journal of physical chemistry B, {\bf 110}:17315--17328.
+
+\bibitem[{Kimmerer(2018)}]{kimmerer2018mishkos}
+Kimmerer, R.~W. 2018.
+\newblock Mishkos kenomagwen, the lessons of grass: Restoring reciprocity with
+  the good green earth.
+\newblock Nelson and Shilling, eds., Traditional Ecological Knowledge. Learning
+  from Indigenous Practices for Environmental Sustainability, pages 27--56.
 
 \bibitem[{King et~al.(2010)King, Davidson, and
   Anderson-Berry}]{king2010disaster}
@@ -840,6 +937,7 @@ Kravitz, J., M.~Nyaphisi, R.~Mandel, and E.~Petersen. 1999.
   lesotho highlands: water quality, sanitation, and village health.
 \newblock Bulletin of the World Health Organization, {\bf 77}:829.
 
+<<<<<<< HEAD
 \bibitem[{Kulkari(????)}]{kulkari}
 Kulkari, B. ????
 \newblock Phytoremediation process, water hyacinth, sewage treatment plants.
@@ -861,6 +959,13 @@ Lanting, F. 2021.
 \newblock National Geographic.
 \newblock
   \urlprefix\url{https://www.nationalgeographic.org/encyclopedia/biodiversity/}.
+=======
+\bibitem[{LaoDong and Review(2020)}]{laodong}
+LaoDong and E.~Review. 2020.
+\newblock Vietnam achieves poverty reduction goals.
+\newblock
+  \urlprefix\url{http://laodongxahoi.net/vietnam-achieves-poverty-reduction-goals-1318065.html}.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
 Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
@@ -868,12 +973,21 @@ Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
   perspective.
 \newblock Geosciences Journal, {\bf 21}:951--969.
 
+<<<<<<< HEAD
 \bibitem[{Lee(2021)}]{lee2021}
 Lee, Y.~N. 2021.
 \newblock Here are the 10 biggest economies in the world before the pandemic vs
   now.
 \newblock
   \urlprefix\url{https://www.cnbc.com/2021/04/21/coronavirus-worlds-10-biggest-economies-before-covid-pandemic-vs-now.html}.
+=======
+\bibitem[{Lee et~al.(2015)Lee, Viswanathan, and Ali}]{lee2015compensation}
+Lee, W.~C., K.~K. Viswanathan, and J.~Ali. 2015.
+\newblock Compensation policy in a large development project: the case of the
+  bakun hydroelectric dam.
+\newblock International Journal of Water Resources Development, {\bf
+  31}:64--72.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Lemp{\'e}ri{\`e}re(2017)}]{lemperiere2017dams}
 Lemp{\'e}ri{\`e}re, F. 2017.
@@ -934,12 +1048,20 @@ Lyons, I., R.~Hill, S.~Deshong, G.~Mooney, and G.~Turpin. 2019.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=137721495&site=ehost-live&scope=site&custid=s8438901}.
 
+<<<<<<< HEAD
 \bibitem[{Mahoney(2020)}]{mahoney_japans_nodate}
 Mahoney, L. 2020.
 \newblock Japan’s plastic addiction is affecting oceans and burdening marine
   life.
 \newblock
   \urlprefix\url{https://japantoday.com/category/features/opinions/japan%E2%80%99s-plastic-addiction-is-affecting-oceans-and-burdening-marine-life}.
+=======
+\bibitem[{MacKay(2002)}]{mackay2002rights}
+MacKay, F. 2002.
+\newblock The rights of indigenous peoples in international law.
+\newblock Human Rights and the Environment: Conflicts and Norms in a
+  Globalizing World, pages 17--18.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Mainardi~Fan et~al.(2017)Mainardi~Fan, Machado Vieira~Lisboa, Gomes
   Villa~Trinidad, R{\'o}genes Monteiro~Pontes, Collischonn, Tucci, and
@@ -984,6 +1106,7 @@ McClanahan, T.~R. and N.~A. Muthiga. 2016.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/15-1492.1}.
 
+<<<<<<< HEAD
 \bibitem[{McCoy(2019)}]{mccoy2019}
 McCoy, T. 2019.
 \newblock In a world drowning in trash, these cities have slashed waste by 80
@@ -1036,6 +1159,13 @@ Mordor. ????
 \newblock Asia-pacific biopesticides market: Share: Analysis (2020 - 2025).
 \newblock
   \urlprefix\url{https://www.mordorintelligence.com/industry-reports/asia-pacific-biopesticides-market-industry}.
+=======
+\bibitem[{Merme et~al.(2014)Merme, Ahlers, and Gupta}]{merme2014private}
+Merme, V., R.~Ahlers, and J.~Gupta. 2014.
+\newblock Private equity, public affair: Hydropower financing in the mekong
+  basin.
+\newblock Global Environmental Change, {\bf 24}:20--29.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Morin(2014)}]{Morin_2014}
 Morin, R. 2014.
@@ -1139,6 +1269,7 @@ Norberg-Hodge, H. 2000.
 \newblock Ancient futures: learning from Ladakh.
 \newblock Random House.
 
+<<<<<<< HEAD
 \bibitem[{NRDC(1991)}]{nrdc}
 NRDC, o. 1991.
 \newblock The principles of envrionmental justice.
@@ -1166,6 +1297,15 @@ on~Dams, W.~C. 2000.
 \newblock Dams and development: A new framework for decision-making: The report
   of the world commission on dams.
 \newblock Earthscan.
+=======
+\bibitem[{Ortiz(2018)}]{ortiz2018indigenous}
+Ortiz, S. 2018.
+\newblock Indigenous sustainability: Language, community, wholeness, and
+  solidarity.
+\newblock In Traditional Ecological Knowledge: Learning from Indigenous
+  Practices for Environmental Sustainability, pages 85--94. Cambridge
+  University Press.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{OregonState(????)}]{oregonstate}
 OregonState. ????
@@ -1493,6 +1633,7 @@ Tseng, Y.-J., S.-K. Wang, and C.-Y. Duh. 2013.
 \newblock Marine Drugs, {\bf 11}:3288–3296.
 \newblock \urlprefix\url{http://dx.doi.org/10.3390/md11093288}.
 
+<<<<<<< HEAD
 \bibitem[{Turner(1999)}]{turner1999realizable}
 Turner, J.~A. 1999.
 \newblock A realizable renewable energy future.
@@ -1549,6 +1690,24 @@ Vachaud, G., F.~Quertamp, T.~S.~H. Phan, T.~D.~T. Ngoc, T.~Nguyen, X.~L. Luu,
   A.~T. Nguyen, and N.~Gratiot. 2019.
 \newblock Flood-related risks in ho chi minh city and ways of mitigation.
 \newblock Journal of Hydrology, {\bf 573}:1021--1027.
+=======
+\bibitem[{US~EPA(2017)}]{USEPA_2017}
+US~EPA, O. 2017.
+\newblock Threats to coral reefs.
+\newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
+
+\bibitem[{USBR(2020)}]{usbr}
+USBR. 2020.
+\newblock
+  \urlprefix\url{https://search.usa.gov/search?affiliate=Reclamation&query=hydropower}.
+
+\bibitem[{Van~Ruijven et~al.(2012)Van~Ruijven, Schers, and van
+  Vuuren}]{van2012model}
+Van~Ruijven, B.~J., J.~Schers, and D.~P. van Vuuren. 2012.
+\newblock Model-based scenarios for rural electrification in developing
+  countries.
+\newblock Energy, {\bf 38}:386--397.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Ventura(2016)}]{ventura2016small}
 Ventura, T. 2016.
@@ -1562,18 +1721,32 @@ Verjee, M.~A. 2019.
   mortality.
 \newblock Research and reports in tropical medicine, {\bf 10}:153.
 
+<<<<<<< HEAD
 \bibitem[{Vincent et~al.(2007)Vincent, Goettel, and
   Lazarovits}]{vincent2007biological}
 Vincent, C., M.~S. Goettel, and G.~Lazarovits. 2007.
 \newblock Biological control: a global perspective: case studies from around
   the world.
 \newblock Cabi.
+=======
+\bibitem[{Viet.gov(2021)}]{daknong}
+Viet.gov. 2021.
+\newblock About daknong.
+\newblock
+  \urlprefix\url{https://daknong.gov.vn/vi/web/dak-nong-english/about-daknong/-/view_content/284279-natural-resource.html}.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Vinh et~al.(2014)Vinh, Ouillon, Thanh, and Chu}]{vinh2014impact}
 Vinh, V., S.~Ouillon, T.~Thanh, and L.~Chu. 2014.
 \newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
   the red river basin and delta.
 \newblock Hydrology and Earth System Sciences, {\bf 18}:3987--4005.
+
+\bibitem[{Vu et~al.(2014)Vu, Ouillon, Tran, and La}]{vu2014impact}
+Vu, D., S.~Ouillon, D.~Tran, and V.~La. 2014.
+\newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
+  the red river basin and delta.
+\newblock Hydrology \& Earth System Sciences Discussions, {\bf 11}.
 
 \bibitem[{Waldstein(1997)}]{waldstein1997schistosoma}
 Waldstein, A. 1997.
@@ -1592,6 +1765,7 @@ Warren, J.~F. 2018.
   since the seventeenth century.
 \newblock International Review of Environmental History, {\bf 4}:27--44.
 
+<<<<<<< HEAD
 \bibitem[{Wassmann et~al.(2004)Wassmann, Hien, Hoanh, and
   Tuong}]{wassmann2004sea}
 Wassmann, R., N.~X. Hien, C.~T. Hoanh, and T.~P. Tuong. 2004.
@@ -1605,6 +1779,13 @@ Watson, B. 2016.
 \newblock
   \urlprefix\url{http://www.theguardian.com/sustainable-business/2016/jun/14/green-waste-distribution-methods-recycling-plastic-oil-epa}.
 \newblock Section: Guardian Sustainable Business.
+=======
+\bibitem[{WCD(2000)}]{world2000dams}
+WCD. 2000.
+\newblock World Commission on Dams--Dams and development: A new framework for
+  decision-making: The report of the world commission on dams.
+\newblock Earthscan.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Weeks et~al.(2010)Weeks, Russ, Alcala, and White}]{10.2307/40603378}
 Weeks, R., G.~R. Russ, A.~C. Alcala, and A.~T. White. 2010.
@@ -1636,6 +1817,7 @@ Westoby, R., S.~Becken, A.~Laria, and Prieto. 2020.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
 
+<<<<<<< HEAD
 \bibitem[{Wetlands(2019)}]{wetlands_2019}
 Wetlands. 2019.
 \newblock Floating villages and the handypod.
@@ -1660,6 +1842,12 @@ WHO. ????
 wilkie. ????
 \newblock Frequently asked questions (biogas faq).
 \newblock \urlprefix\url{https://biogas.ifas.ufl.edu/FAQ.asp}.
+=======
+\bibitem[{Williams and Dubash(2004)}]{williams2004asian}
+Williams, J.~H. and N.~K. Dubash. 2004.
+\newblock Asian electricity reform in historical perspective.
+\newblock Pacific Affairs, pages 411--436.
+>>>>>>> 897d32581826efcaf530b6e81f6bc425979c3489
 
 \bibitem[{Williams et~al.(2007)Williams, Coles, and
   Primavera}]{williams2007lesson}
