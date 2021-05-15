@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-\begin{thebibliography}{294}
-=======
-\begin{thebibliography}{60}
->>>>>>> fa168e7951c0eeaf72b10eeab9872753a2e3815e
+\begin{thebibliography}{296}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -568,7 +564,6 @@ Fabinyi, M. 2010.
 \newblock Human Ecology, {\bf 38}:415--427.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
 
-<<<<<<< HEAD
 \bibitem[{FAO(????)}]{fao}
 FAO. ????
 \newblock Food loss and food waste.
@@ -596,6 +591,12 @@ Fekete, B.~M., D.~Wisser, C.~Kroeze, E.~Mayorga, L.~Bouwman, W.~M. Wollheim,
   climate and hydrological alterations.
 \newblock Global Biogeochemical Cycles, {\bf 24}.
 
+\bibitem[{Feynman et~al.(1965)Feynman, Leighton, and
+  Sands}]{feynman1965feynman}
+Feynman, R.~P., R.~B. Leighton, and M.~Sands. 1965.
+\newblock The feynman lectures on physics; vol. i.
+\newblock American Journal of Physics, {\bf 33}:750--752.
+
 \bibitem[{Folch(2019)}]{folch2019hydropolitics}
 Folch, C. 2019.
 \newblock Hydropolitics: The Itaipu Dam, sovereignty, and the engineering of
@@ -606,13 +607,6 @@ Folch, C. 2019.
 for Science~Education, C. ????
 \newblock Monsoons.
 \newblock \urlprefix\url{https://scied.ucar.edu/learning-zone/storms/monsoons}.
-=======
-\bibitem[{Feynman et~al.(1965)Feynman, Leighton, and
-  Sands}]{feynman1965feynman}
-Feynman, R.~P., R.~B. Leighton, and M.~Sands. 1965.
-\newblock The feynman lectures on physics; vol. i.
-\newblock American Journal of Physics, {\bf 33}:750--752.
->>>>>>> fa168e7951c0eeaf72b10eeab9872753a2e3815e
 
 \bibitem[{Fox and
   Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
@@ -1642,7 +1636,6 @@ US~EPA, O. 2017{\natexlab{{\em b\/}}}.
 \newblock Threats to coral reefs.
 \newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
 
-<<<<<<< HEAD
 \bibitem[{USBR(2020)}]{usbr}
 USBR. 2020.
 \newblock
@@ -1667,17 +1660,16 @@ Vachaud, G., F.~Quertamp, T.~S.~H. Phan, T.~D.~T. Ngoc, T.~Nguyen, X.~L. Luu,
 \newblock Flood-related risks in ho chi minh city and ways of mitigation.
 \newblock Journal of Hydrology, {\bf 573}:1021--1027.
 
+\bibitem[{Valera(2014)}]{valera2014sea}
+Valera, S. 2014.
+\newblock The sea washed it away.
+
 \bibitem[{Van~Ruijven et~al.(2012)Van~Ruijven, Schers, and van
   Vuuren}]{van2012model}
 Van~Ruijven, B.~J., J.~Schers, and D.~P. van Vuuren. 2012.
 \newblock Model-based scenarios for rural electrification in developing
   countries.
 \newblock Energy, {\bf 38}:386--397.
-=======
-\bibitem[{Valera(2014)}]{valera2014sea}
-Valera, S. 2014.
-\newblock The sea washed it away.
->>>>>>> fa168e7951c0eeaf72b10eeab9872753a2e3815e
 
 \bibitem[{Ventura(2016)}]{ventura2016small}
 Ventura, T. 2016.

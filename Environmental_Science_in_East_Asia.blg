@@ -2,10 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
-Reallocated field_info (elt_size=4) to 12104 items from 5000.
+Reallocated field_info (elt_size=4) to 12176 items from 5000.
 Database file #1: References.bib
 Database file #2: marctest.bib
 Warning--I didn't find a database entry for "seekins2009state"
+Warning--I didn't find a database entry for "emanuel2006hurricane"
 Warning--I didn't find a database entry for "2615280620070801"
 Warning--to sort, need author, editor, or key in cabi2021
 Warning--to sort, need author or key in theeconomist
@@ -60,48 +61,49 @@ Warning--empty year in UNpopulation; set to ????
 Warning--empty year in united_nations; set to ????
 Warning--empty year in purdue; set to ????
 Warning--empty year in usgs; set to ????
+Warning--empty journal in valera2014sea
 Warning--empty publisher in whitelaw_konbini-nation_2018
 Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
-You've used 294 entries,
+You've used 296 entries,
             2710 wiz_defined-function locations,
-            2120 strings with 61671 characters,
-and the built_in function-call counts, 134915 in all, are:
-= -- 12771
-> -- 7136
-< -- 214
-+ -- 2469
-- -- 2101
-* -- 10090
-:= -- 25293
-add.period$ -- 1211
-call.type$ -- 294
-change.case$ -- 2161
-chr.to.int$ -- 290
-cite$ -- 364
-duplicate$ -- 6165
-empty$ -- 9159
-format.name$ -- 2732
-if$ -- 26548
+            2132 strings with 61958 characters,
+and the built_in function-call counts, 135807 in all, are:
+= -- 12855
+> -- 7178
+< -- 215
++ -- 2487
+- -- 2113
+* -- 10157
+:= -- 25459
+add.period$ -- 1218
+call.type$ -- 296
+change.case$ -- 2175
+chr.to.int$ -- 292
+cite$ -- 367
+duplicate$ -- 6208
+empty$ -- 9222
+format.name$ -- 2748
+if$ -- 26720
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 230
-newline$ -- 1504
-num.names$ -- 1150
-pop$ -- 2808
+missing$ -- 232
+newline$ -- 1513
+num.names$ -- 1158
+pop$ -- 2828
 preamble$ -- 1
-purify$ -- 1868
+purify$ -- 1880
 quote$ -- 0
-skip$ -- 3823
+skip$ -- 3848
 stack$ -- 0
-substring$ -- 6461
-swap$ -- 578
+substring$ -- 6512
+swap$ -- 581
 text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2565
-warning$ -- 56
-while$ -- 1111
+type$ -- 2583
+warning$ -- 57
+while$ -- 1119
 width$ -- 0
-write$ -- 3736
-(There were 58 warnings)
+write$ -- 3759
+(There were 60 warnings)
