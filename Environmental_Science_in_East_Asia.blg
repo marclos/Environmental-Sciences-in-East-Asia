@@ -2,8 +2,9 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
-Reallocated field_info (elt_size=4) to 12176 items from 5000.
+Reallocated field_info (elt_size=4) to 13112 items from 5000.
 Database file #1: References.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: marctest.bib
 Warning--I didn't find a database entry for "seekins2009state"
 Warning--I didn't find a database entry for "emanuel2006hurricane"
@@ -34,15 +35,21 @@ Warning--empty publisher in RAR
 Warning--empty year in eia; set to ????
 Warning--empty year in environmental_and_energy_study_institute_(eesi); set to ????
 Warning--empty year in e_p_a; set to ????
+Warning--empty journal in govhk3
 Warning--empty year in fao; set to ????
 Warning--empty journal in nationalwildlifefederation2021
 Warning--empty year in centerforscienceeducation; set to ????
+Warning--empty journal in govhk2
+Warning--empty journal in govhk1
 Warning--empty year in ir; set to ????
+Warning--empty year in hedleyenvind; set to ????
+Warning--empty journal in hedleyenvind
 Warning--empty year in ipen; set to ????
 Warning--empty publisher in isderion_2013
 Warning--empty year in kulkari; set to ????
 Warning--empty year in liu; set to ????
 Warning--empty journal in liu2013chinese
+Warning--empty year in lohvision; set to ????
 Warning--empty journal in margulis2010economics
 Warning--empty year in matthew; set to ????
 Warning--empty journal in mccoy2020organic
@@ -50,6 +57,7 @@ Warning--empty year in ministry_of_foreign_affairs; set to ????
 Warning--empty year in mordor; set to ????
 Warning--empty year in noaaclimate.gov; set to ????
 Warning--empty year in nzdl; set to ????
+Warning--empty journal in olsen2015
 Warning--empty year in oregonstate; set to ????
 Warning--empty publisher in coraltriangle
 Warning--empty journal in pebler
@@ -65,45 +73,47 @@ Warning--empty journal in valera2014sea
 Warning--empty publisher in whitelaw_konbini-nation_2018
 Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
-You've used 296 entries,
+Warning--empty journal in wong2018
+Warning--empty journal in yiu2017
+You've used 335 entries,
             2710 wiz_defined-function locations,
-            2132 strings with 61958 characters,
-and the built_in function-call counts, 135807 in all, are:
-= -- 12855
-> -- 7178
-< -- 215
-+ -- 2487
-- -- 2113
-* -- 10157
-:= -- 25459
-add.period$ -- 1218
-call.type$ -- 296
-change.case$ -- 2175
-chr.to.int$ -- 292
-cite$ -- 367
-duplicate$ -- 6208
-empty$ -- 9222
-format.name$ -- 2748
-if$ -- 26720
-int.to.chr$ -- 5
+            2329 strings with 69573 characters,
+and the built_in function-call counts, 156369 in all, are:
+= -- 14744
+> -- 8420
+< -- 243
++ -- 2918
+- -- 2488
+* -- 11820
+:= -- 29246
+add.period$ -- 1375
+call.type$ -- 335
+change.case$ -- 2490
+chr.to.int$ -- 330
+cite$ -- 415
+duplicate$ -- 7078
+empty$ -- 10566
+format.name$ -- 3216
+if$ -- 30751
+int.to.chr$ -- 6
 int.to.str$ -- 1
-missing$ -- 232
-newline$ -- 1513
-num.names$ -- 1158
-pop$ -- 2828
+missing$ -- 275
+newline$ -- 1708
+num.names$ -- 1314
+pop$ -- 3240
 preamble$ -- 1
-purify$ -- 1880
+purify$ -- 2158
 quote$ -- 0
-skip$ -- 3848
+skip$ -- 4375
 stack$ -- 0
-substring$ -- 6512
-swap$ -- 581
-text.length$ -- 20
+substring$ -- 7622
+swap$ -- 675
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2583
-warning$ -- 57
-while$ -- 1119
+type$ -- 2922
+warning$ -- 66
+while$ -- 1291
 width$ -- 0
-write$ -- 3759
-(There were 60 warnings)
+write$ -- 4256
+(There were 69 warnings)
