@@ -1,4 +1,4 @@
-\begin{thebibliography}{134}
+\begin{thebibliography}{136}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -433,6 +433,12 @@ Kravitz, J., M.~Nyaphisi, R.~Mandel, and E.~Petersen. 1999.
   lesotho highlands: water quality, sanitation, and village health.
 \newblock Bulletin of the World Health Organization, {\bf 77}:829.
 
+\bibitem[{LaoDong and Review(2020)}]{laodong}
+LaoDong and E.~Review. 2020.
+\newblock Vietnam achieves poverty reduction goals.
+\newblock
+  \urlprefix\url{http://laodongxahoi.net/vietnam-achieves-poverty-reduction-goals-1318065.html}.
+
 \bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
 Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
 \newblock Fifty years of groundwater science in korea: a review and
@@ -768,6 +774,12 @@ Vinh, V., S.~Ouillon, T.~Thanh, and L.~Chu. 2014.
 \newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
   the red river basin and delta.
 \newblock Hydrology and Earth System Sciences, {\bf 18}:3987--4005.
+
+\bibitem[{Vu et~al.(2014)Vu, Ouillon, Tran, and La}]{vu2014impact}
+Vu, D., S.~Ouillon, D.~Tran, and V.~La. 2014.
+\newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
+  the red river basin and delta.
+\newblock Hydrology \& Earth System Sciences Discussions, {\bf 11}.
 
 \bibitem[{Waldstein(1997)}]{waldstein1997schistosoma}
 Waldstein, A. 1997.

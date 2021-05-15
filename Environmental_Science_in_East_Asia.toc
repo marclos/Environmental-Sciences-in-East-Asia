@@ -137,7 +137,7 @@
 \contentsline {subsection}{\numberline {8.4.4}Eutrophication}{70}{subsection.8.4.4}
 \contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{70}{section.8.5}
 \contentsline {subsection}{\numberline {8.5.1}Cultural Sites}{72}{subsection.8.5.1}
-\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{73}{section.8.6}
+\contentsline {section}{\numberline {8.6}Vietnam and the Hoa Binh Dam}{72}{section.8.6}
 \contentsline {section}{\numberline {8.7}Long Lawen and Long Liam}{75}{section.8.7}
 \contentsline {subsection}{\numberline {8.7.1}Conclusion}{76}{subsection.8.7.1}
 \contentsline {chapter}{\numberline {9}The Political Ecology and Economy of Rice in Myanmar}{79}{chapter.9}
