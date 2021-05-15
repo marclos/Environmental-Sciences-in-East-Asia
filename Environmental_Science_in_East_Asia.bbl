@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{60}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -138,6 +138,12 @@ Fabinyi, M. 2010.
   coastal livelihoods in the calamianes islands, philippines.
 \newblock Human Ecology, {\bf 38}:415--427.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
+
+\bibitem[{Feynman et~al.(1965)Feynman, Leighton, and
+  Sands}]{feynman1965feynman}
+Feynman, R.~P., R.~B. Leighton, and M.~Sands. 1965.
+\newblock The feynman lectures on physics; vol. i.
+\newblock American Journal of Physics, {\bf 33}:750--752.
 
 \bibitem[{Fox and
   Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
@@ -362,6 +368,10 @@ Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
 US~EPA, O. 2017.
 \newblock Threats to coral reefs.
 \newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
+
+\bibitem[{Valera(2014)}]{valera2014sea}
+Valera, S. 2014.
+\newblock The sea washed it away.
 
 \bibitem[{Ventura(2016)}]{ventura2016small}
 Ventura, T. 2016.
