@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
+The style file: ecology.bst
+Database file #1: References.bib
+Database file #2: marctest.bib
+Warning--I didn't find a database entry for "seekins2009state"
+Warning--to sort, need author or key in theeconomist
+Warning--to sort, need author or key in stockholmresiliencecentre
+Warning--to sort, need author or key in epi
+Warning--to sort, need author or key in 
+Warning--empty author in 
+Warning--empty year in ; set to ????
+Warning--empty title in 
+Warning--empty journal in 
+Warning--empty year in stockholmresiliencecentre; set to ????
+Warning--empty journal in assessment2002united
+Warning--empty publisher in RAR
+Warning--empty year in ir; set to ????
+Warning--empty journal in liu2013chinese
+Warning--empty year in noaaclimate.gov; set to ????
+Warning--empty publisher in coraltriangle
+Warning--empty journal in severnini2014power
+Warning--empty publisher in Watlas
+Warning--empty journal in thorin2014basics
+Warning--empty publisher in whitelaw_konbini-nation_2018
+You've used 182 entries,
+            2710 wiz_defined-function locations,
+            1591 strings with 41307 characters,
+and the built_in function-call counts, 86368 in all, are:
+= -- 8151
+> -- 4681
+< -- 128
++ -- 1617
+- -- 1387
+* -- 6584
+:= -- 16140
+add.period$ -- 771
+call.type$ -- 182
+change.case$ -- 1372
+chr.to.int$ -- 180
+cite$ -- 209
+duplicate$ -- 3867
+empty$ -- 5823
+format.name$ -- 1779
+if$ -- 17003
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 154
+newline$ -- 956
+num.names$ -- 714
+pop$ -- 1688
+preamble$ -- 1
+purify$ -- 1183
+quote$ -- 0
+skip$ -- 2407
+stack$ -- 0
+substring$ -- 4323
+swap$ -- 362
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1593
+warning$ -- 19
+while$ -- 705
+width$ -- 0
+write$ -- 2373
+(There were 20 warnings)
