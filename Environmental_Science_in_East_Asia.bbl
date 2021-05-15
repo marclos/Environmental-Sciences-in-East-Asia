@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{84}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -19,12 +19,24 @@ Aquino, A. and D.~Kaczan. 2019.
 \newblock
   \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
 
+\bibitem[{Aung-Thwin and Aung-Thwin(2013)}]{aung2013history}
+Aung-Thwin, M. and M.~Aung-Thwin. 2013.
+\newblock A history of Myanmar since ancient times: Traditions and
+  transformations.
+\newblock Reaktion Books.
+
 \bibitem[{Ayala(2009)}]{Ayala_2009}
 Ayala, C. 2009.
 \newblock Effects of ocean acidification on corals.
 \newblock Oceana USA.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Bayazit(2015)}]{bayazit2015nonstationarity}
+Bayazit, M. 2015.
+\newblock Nonstationarity of hydrological records and recent trends in trend
+  analysis: a state-of-the-art review.
+\newblock Environmental Processes, {\bf 2}:527--542.
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -39,6 +51,14 @@ Bowen, T. 2015.
 \newblock Social protection and disaster risk management in the Philippines:
   the case of typhoon Yolanda (Haiyan).
 \newblock The World Bank.
+
+\bibitem[{Brakenridge et~al.(2017)Brakenridge, Syvitski, Niebuhr, Overeem,
+  Higgins, Kettner, and Prades}]{brakenridge2017design}
+Brakenridge, G., J.~Syvitski, E.~Niebuhr, I.~Overeem, S.~Higgins, A.~Kettner,
+  and L.~Prades. 2017.
+\newblock Design with nature: Causation and avoidance of catastrophic flooding,
+  myanmar.
+\newblock Earth-science reviews, {\bf 165}:81--109.
 
 \bibitem[{Brandl et~al.(2019)Brandl, Rasher, Côté, Casey, Darling, Lefcheck,
   and Duffy}]{https://doi.org/10.1002/fee.2088}
@@ -80,6 +100,11 @@ Capistrano, R. C.~G. 2010.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48260001&site=ehost-live&scope=site&custid=s8438901}.
 
+\bibitem[{Chen et~al.(2012)Chen, McCarl, and Chang}]{chen2012climate}
+Chen, C.-C., B.~McCarl, and C.-C. Chang. 2012.
+\newblock Climate change, sea level rise and rice: global market implications.
+\newblock Climatic change, {\bf 110}:543--560.
+
 \bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and
   Li}]{https://doi.org/10.1029/2018JC014534}
 Chen, T., G.~Roff, L.~McCook, J.~Zhao, and S.~Li. 2018.
@@ -103,11 +128,25 @@ CORAL. 2021.
 \newblock
   \urlprefix\url{https://coral.org/coral-reefs-101/coral-reef-ecology/}.
 
+\bibitem[{Dasgupta et~al.(2009)Dasgupta, Laplante, Murray, and
+  Wheeler}]{dasgupta2009sea}
+Dasgupta, S., B.~Laplante, S.~Murray, and D.~Wheeler. 2009.
+\newblock Sea-level rise and storm surges: A comparative analysis of impacts in
+  developing countries.
+\newblock World Bank Policy Research Working Paper Series, Vol.
+
 \bibitem[{Davis(2002)}]{davis2002late}
 Davis, M. 2002.
 \newblock Late Victorian holocausts: El Nino famines and the making of the
   third world.
 \newblock Verso Books.
+
+\bibitem[{Elkharouf and Pritchard(2019)}]{elkharouf2019grassroot}
+Elkharouf, O. and B.~Pritchard. 2019.
+\newblock How do grassroot ngos in rural myanmar express their visions for the
+  food system? food security and food sovereignty as entangled narratives
+  within ngo struggles and strategies.
+\newblock Asia Pacific Viewpoint, {\bf 60}:402--415.
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -147,6 +186,50 @@ Fox, H.~E. and R.~L. Caldwell. 2006.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
 
+\bibitem[{Fujita(2016)}]{fujita2016agriculture}
+Fujita, K. 2016.
+\newblock Agriculture and rural development strategy in myanmar: With a focus
+  on the rice sector.
+\newblock In The Myanmar Economy, pages 97--129. Springer.
+
+\bibitem[{Furuichi et~al.(2009)Furuichi, Win, and
+  Wasson}]{furuichi2009discharge}
+Furuichi, T., Z.~Win, and R.~J. Wasson. 2009.
+\newblock Discharge and suspended sediment transport in the ayeyarwady river,
+  myanmar: centennial and decadal changes.
+\newblock Hydrological Processes: An International Journal, {\bf
+  23}:1631--1641.
+
+\bibitem[{Furuya et~al.(2014)Furuya, Kobayashi, and
+  Yamauchi}]{furuya2014impacts}
+Furuya, J., S.~Kobayashi, and K.~Yamauchi. 2014.
+\newblock Impacts of climate change on rice market and production capacity in
+  the lower mekong basin.
+\newblock Paddy and water environment, {\bf 12}:255--274.
+
+\bibitem[{Goldman(2021)}]{Goldman.2019}
+Goldman, R. 2021.
+\newblock Myamar's coup and violence, explained.
+\newblock
+  \urlprefix\url{https://www.nytimes.com/article/myanmar-news-protests-coup.html}.
+
+\bibitem[{Gupta et~al.(2012)Gupta, Kao, and Dai}]{gupta2012role}
+Gupta, H., S.-J. Kao, and M.~Dai. 2012.
+\newblock The role of mega dams in reducing sediment fluxes: A case study of
+  large asian rivers.
+\newblock Journal of Hydrology, {\bf 464}:447--458.
+
+\bibitem[{Hajek and Edmonds(2014)}]{hajek2014river}
+Hajek, E.~A. and D.~Edmonds. 2014.
+\newblock Is river avulsion style controlled by floodplain morphodynamics?
+\newblock Geology, {\bf 42}:199--202.
+
+\bibitem[{Hlaing et~al.(2019)Hlaing, Htet, Dibley, and Lin}]{hlaing2019chronic}
+Hlaing, L.~M., M.~K. Htet, M.~Dibley, and H.~Lin. 2019.
+\newblock Chronic undernutrition and food insecurity among children and
+  adolescent girls in myanmar (p04-052-19).
+\newblock Current developments in nutrition, {\bf 3}:nzz051--P04.
+
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
 \newblock Ethnicity and aquatic lifestyles: exploring southeast asia’s past
@@ -160,6 +243,11 @@ Hoogervorst, T.~G. 2012.
 Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. 2005.
 \newblock Urban environmental issues and trends in asia-an overview.
 \newblock International review for environmental strategies, {\bf 5}:357.
+
+\bibitem[{Karim et~al.(1997)Karim, Fracheboud, and Stamp}]{karim1997heat}
+Karim, M., Y.~Fracheboud, and P.~Stamp. 1997.
+\newblock Heat tolerance of maize with reference to some physiological
+  characteristics.
 
 \bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
   Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
@@ -183,6 +271,13 @@ Klock, J.~S. 1995.
 \newblock Agricultural and forest policies of the american colonial regime in
   ifugao territory, luzon, philippines, 1901-1945.
 \newblock Philippine quarterly of culture and society, {\bf 23}:3--19.
+
+\bibitem[{Kravtsova et~al.(2009)Kravtsova, Mikhailov, and
+  Kidyaeva}]{kravtsova2009hydrological}
+Kravtsova, V., V.~Mikhailov, and V.~Kidyaeva. 2009.
+\newblock Hydrological regime, morphological features and natural territorial
+  complexes of the irrawaddy river delta (myanmar).
+\newblock Water resources, {\bf 36}:243--260.
 
 \bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
 Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
@@ -211,6 +306,12 @@ Lyons, I., R.~Hill, S.~Deshong, G.~Mooney, and G.~Turpin. 2019.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=137721495&site=ehost-live&scope=site&custid=s8438901}.
 
+\bibitem[{Macan-Maker(2008)}]{Macan-Maker.2008}
+Macan-Maker, M. 2008.
+\newblock Females hit worst by cyclone nargis.
+\newblock
+  \urlprefix\url{https://reliefweb.int/report/myanmar/myanmar-females-hit-worst-cyclone-nargis}.
+
 \bibitem[{McClanahan and Muthiga(2016)}]{https://doi.org/10.1890/15-1492.1}
 McClanahan, T.~R. and N.~A. Muthiga. 2016.
 \newblock Geographic extent and variation of a coral reef trophic cascade.
@@ -224,6 +325,13 @@ Morin, R. 2014.
 \newblock The New York Times.
 \newblock
   \urlprefix\url{https://www.nytimes.com/2014/11/25/science/a-lifesaving-transplant-for-coral-reefs.html}.
+
+\bibitem[{Myint(2018)}]{myint2018myanmar}
+Myint, T. 2018.
+\newblock Myanmar’s rice industry and policies towards value addition and
+  export.
+\newblock FFTC Agricultural Policy Platform (FFTC-AP), Food and Fertilizer
+  Technology Center for the Asian and Pacific Region.
 
 \bibitem[{Naing et~al.(2008)Naing, Kingsbury, Buerkert, and
   Finckh}]{naing2008survey}
@@ -250,6 +358,19 @@ NOAA. 2019{\natexlab{{\em b\/}}}.
 \newblock
   \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
 
+\bibitem[{Oh-e et~al.(2007)Oh-e, Saitoh, and Kuroda}]{oh2007effects}
+Oh-e, I., K.~Saitoh, and T.~Kuroda. 2007.
+\newblock Effects of high temperature on growth, yield and dry-matter
+  production of rice grown in the paddy field.
+\newblock Plant production science, {\bf 10}:412--422.
+
+\bibitem[{Omori et~al.(2020)Omori, Sakai, Miyamoto, Itou, Oo, and
+  Hirano}]{omori2020assessment}
+Omori, K., T.~Sakai, J.~Miyamoto, A.~Itou, A.~N. Oo, and A.~Hirano. 2020.
+\newblock Assessment of paddy fields’ damage caused by cyclone nargis using
+  modis time-series images (2004--2013).
+\newblock Paddy and Water Environment, pages 1--11.
+
 \bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
   Matillano}]{coraltriangle}
 Palma, J., J.~Manula, J.~P. Gaudiano, and M.~Matillano. 2014.
@@ -266,6 +387,15 @@ Pearce, F. 2003.
 Pelton, B. 2017.
 \newblock Why reefs matter.
 \newblock \urlprefix\url{https://marine.unc.edu/reefs-matter/}.
+
+\bibitem[{Peng et~al.(2004)Peng, Huang, Sheehy, Laza, Visperas, Zhong, Centeno,
+  Khush, and Cassman}]{peng2004rice}
+Peng, S., J.~Huang, J.~E. Sheehy, R.~C. Laza, R.~M. Visperas, X.~Zhong, G.~S.
+  Centeno, G.~S. Khush, and K.~G. Cassman. 2004.
+\newblock Rice yields decline with higher night temperature from global
+  warming.
+\newblock Proceedings of the National Academy of Sciences, {\bf
+  101}:9971--9975.
 
 \bibitem[{Persoon and
   Minter(2020)}]{RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:420111}
@@ -298,6 +428,12 @@ Scott, C. 2018.
 \newblock
   \urlprefix\url{https://newheavenreefconservation.org/marine-blog/147-artificial-reefs-what-works-and-what-doesn-t}.
 
+\bibitem[{Seekins(2009)}]{seekins2009state}
+Seekins, D. 2009.
+\newblock State, society and natural disaster: cyclone nargis in myanmar
+  (burma).
+\newblock Asian Journal of Social Science, {\bf 37}:717--737.
+
 \bibitem[{Shafir et~al.(2007)Shafir, Van~Rijn, and
   Rinkevich}]{2615280620070801}
 Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
@@ -307,6 +443,18 @@ Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=26152806&site=ehost-live&scope=site&custid=s8438901}.
 
+\bibitem[{Sinnarong et~al.(2019)Sinnarong, Chen, McCarl, and
+  Tran}]{sinnarong2019estimating}
+Sinnarong, N., C.-C. Chen, B.~McCarl, and B.-L. Tran. 2019.
+\newblock Estimating the potential effects of climate change on rice production
+  in thailand.
+\newblock Paddy and Water Environment, {\bf 17}:761--769.
+
+\bibitem[{Siok-Hwa(2012)}]{siok2012rice}
+Siok-Hwa, C. 2012.
+\newblock The Rice Industry of Burma, 1852-1940:(First Reprint 2012).
+\newblock Institute of Southeast Asian Studies.
+
 \bibitem[{Smith(2018)}]{Smith}
 Smith, K.~N. 2018.
 \newblock Everything we know about the isolated sentinelese people of north
@@ -314,6 +462,11 @@ Smith, K.~N. 2018.
 \newblock Forbes.
 \newblock
   \urlprefix\url{https://www.forbes.com/sites/kionasmith/2018/11/30/everything-we-know-about-the-isolated-sentinelese-people-of-north-sentinel-island/}.
+
+\bibitem[{Smith(1991)}]{smith1991burma}
+Smith, M. 1991.
+\newblock Burma: Insurgency and the politics of ethnicity.
+\newblock Zed Books.
 
 \bibitem[{Spaldin et~al.(2001)Spaldin, Ravilious, and Green}]{Watlas}
 Spaldin, M., C.~Ravilious, and E.~Green. 2001.
@@ -335,6 +488,14 @@ Suggett, D.~J. and D.~J. Smith. 2020.
 \newblock Global Change Biology, {\bf 26}:68--79.
 \newblock
   \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Syvitski et~al.(2009)Syvitski, Kettner, Overeem, Hutton, Hannon,
+  Brakenridge, Day, V{\"o}r{\"o}smarty, Saito, Giosan
+  et~al.}]{syvitski2009sinking}
+Syvitski, J.~P., A.~J. Kettner, I.~Overeem, E.~W. Hutton, M.~T. Hannon, G.~R.
+  Brakenridge, J.~Day, C.~V{\"o}r{\"o}smarty, Y.~Saito, L.~Giosan, et~al. 2009.
+\newblock Sinking deltas due to human activities.
+\newblock Nature Geoscience, {\bf 2}:681--686.
 
 \bibitem[{Thompson(2018)}]{Thompson}
 Thompson, A. 2018.
@@ -401,6 +562,12 @@ Xie, Y. 2021.
 \newblock knitr: A General-Purpose Package for Dynamic Report Generation in R.
 \newblock \urlprefix\url{https://yihui.org/knitr/}.
 \newblock R package version 1.31.
+
+\bibitem[{Xiong et~al.(2017)Xiong, Ling, Huang, and Peng}]{xiong2017meta}
+Xiong, D., X.~Ling, J.~Huang, and S.~Peng. 2017.
+\newblock Meta-analysis and dose-response analysis of high temperature effects
+  on rice yield and quality.
+\newblock Environmental and Experimental Botany, {\bf 141}:1--9.
 
 \bibitem[{Zhang et~al.(2017)Zhang, Karnauskas, Donnelly, and
   Emanuel}]{zhang2017response}
