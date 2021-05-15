@@ -1,4 +1,4 @@
-\begin{thebibliography}{136}
+\begin{thebibliography}{138}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -28,6 +28,13 @@ Aquino, A. and D.~Kaczan. 2019.
 \bibitem[{Ascher(2021)}]{ascher_2021}
 Ascher, W. 2021.
 \newblock Pro-poor development in southeast asia.
+
+\bibitem[{Ashourian et~al.(2013)Ashourian, Cherati, Zin, Niknam, Mokhtar, and
+  Anwari}]{ashourian2013optimal}
+Ashourian, M., S.~Cherati, A.~M. Zin, N.~Niknam, A.~Mokhtar, and M.~Anwari.
+  2013.
+\newblock Optimal green energy management for island resorts in malaysia.
+\newblock Renewable energy, {\bf 51}:36--45.
 
 \bibitem[{Awojobi and Jenkins(2015)}]{awojobi2015were}
 Awojobi, O. and G.~P. Jenkins. 2015.
@@ -164,6 +171,11 @@ Choy, Y.~K. 2004.
 \newblock Sustainable development and the social and cultural impact of a
   dam-induced development strategy-the bakun experience.
 \newblock Pacific Affairs, pages 50--68.
+
+\bibitem[{Chua and Oh(2011)}]{chua2011green}
+Chua, S.~C. and T.~H. Oh. 2011.
+\newblock Green progress and prospect in malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 15}:2850--2861.
 
 \bibitem[{Cooke et~al.(2017)Cooke, Nordensvard, Saat, Urban, and
   Siciliano}]{cooke2017limits}

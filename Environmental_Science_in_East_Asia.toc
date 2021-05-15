@@ -132,7 +132,7 @@
 \contentsline {subsection}{\numberline {8.4.3}Schistosomiasis}{66}{subsection.8.4.3}
 \contentsline {subsubsection}{Temperature}{67}{section*.88}
 \contentsline {subsubsection}{Breeding Patterns and Resettlement}{67}{section*.89}
-\contentsline {subsubsection}{Snail Dispersal}{67}{section*.91}
+\contentsline {subsubsection}{Snail Dispersal}{69}{section*.91}
 \contentsline {subsubsection}{Health Infrastructure}{70}{section*.93}
 \contentsline {subsection}{\numberline {8.4.4}Eutrophication}{70}{subsection.8.4.4}
 \contentsline {section}{\numberline {8.5}Social Systems and Infrastructure}{70}{section.8.5}
