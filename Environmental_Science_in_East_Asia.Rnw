@@ -30,7 +30,10 @@
 \usepackage{amssymb}%
 \usepackage{soul}
 \usepackage{comment}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 126dbbbd5b991bcc977adb9b87ef5faf2d9f4cb6
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
 %\usepackage{appendix}
@@ -126,7 +129,7 @@ opts_knit$set(self.contained=FALSE)
 \end{comment}
 
 \mainmatter
-
+\begin{comment}
 <<chapterchild, child='chapters/earth-system.Rnw'>>=
 @
 
@@ -150,7 +153,7 @@ opts_knit$set(self.contained=FALSE)
 
 <<chapterchild, child='chapters/hydroelectric-dams.Rnw'>>=
 @
-
+\end{comment}
 <<chapterchild, child='chapters/Myanmar-rice.Rnw'>>=
 @
 
