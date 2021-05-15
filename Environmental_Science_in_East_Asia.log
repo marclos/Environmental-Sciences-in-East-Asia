@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  26 APR 2021 22:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.5.9)  15 MAY 2021 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1261,7 +1261,7 @@ tim
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
-(./Environmental_Science_in_East_Asia.aux)
+No file Environmental_Science_in_East_Asia.aux.
 \openout1 = `Environmental_Science_in_East_Asia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
@@ -1278,7 +1278,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 97.
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -1393,9 +1392,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 97.
 LaTeX Info: Redefining \pageref on input line 97.
 LaTeX Info: Redefining \nameref on input line 97.
-
-(./Environmental_Science_in_East_Asia.out)
-(./Environmental_Science_in_East_Asia.out)
 \@outlinefile=\write5
 \openout5 = `Environmental_Science_in_East_Asia.out'.
 
@@ -1425,46 +1421,23 @@ ia.glo on input line 100.
 
 
 ]
-(./Environmental_Science_in_East_Asia.toc
-Overfull \hbox (0.61095pt too wide) detected at line 16
- []\T1/cmr/m/n/10 xvii
- []
 
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-Overfull \hbox (0.61095pt too wide) detected at line 17
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 19
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 20
- []\T1/cmr/m/n/10 xvii
- []
-
-
-Overfull \hbox (0.61095pt too wide) detected at line 21
- []\T1/cmr/m/n/10 xvii
- []
-
-[1
-
-] [2] [3] [4])
 \tf@toc=\write7
 \openout7 = `Environmental_Science_in_East_Asia.toc'.
 
- [5] [6
+[1
 
-] [7] [8]
+] [2
+
+] [3] [4]
 Overfull \hbox (4.58984pt too wide) in paragraph at lines 158--159
 \T1/cmr/m/n/10 In the past, I used L[]T[]Xto make pub-li-ca-tion qual-ity text.
  In fact, many pre-fer writ-ing in L[]T[]Xbecause
  []
 
-[9
+[5
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 199.
@@ -1488,15 +1461,34 @@ Overfull \hbox (39.31111pt too wide) in paragraph at lines 209--210
 s $[]$, $[]$, $[]$,
  []
 
-[10]
+[6]
+
+LaTeX Warning: Reference `tab:tableofsymbols' on page vii undefined on input li
+ne 254.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11] [12] [13]
+[7]
+
+LaTeX Warning: Reference `eqn10' on page viii undefined on input line 298.
+
+
+LaTeX Warning: Reference `eqn20' on page viii undefined on input line 299.
+
+[8]
+
+LaTeX Warning: Reference `fig:plot' on page ix undefined on input line 423.
+
+[9]
+
+LaTeX Warning: Reference `fig:co2-graphic' on page x undefined on input line 44
+9.
+
 
 Package xcolor Warning: Incompatible color definition on input line 453.
 
-<figure/maunaloa-1.pdf, id=1050, 505.89pt x 505.89pt>
+<figure/maunaloa-1.pdf, id=141, 505.89pt x 505.89pt>
 File: figure/maunaloa-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa-1.pdf>
@@ -1504,39 +1496,97 @@ Package pdftex.def Info: figure/maunaloa-1.pdf used on input line 454.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
 
 
-LaTeX Warning: Reference `fig:maunaloa' on page xiv undefined on input line 475
-.
+LaTeX Warning: Reference `ch:critical-zone' on page x undefined on input line 4
+75.
 
-[14] [15 <./figure/maunaloa-1.pdf>] [16]
+
+LaTeX Warning: Reference `fig:maunaloa' on page x undefined on input line 475.
+
+
+Package natbib Warning: Citation `knitr' on page x undefined on input line 483.
+
+
+
+Package natbib Warning: Citation `knitr' on page x undefined on input line 485.
+
+
+
+Package natbib Warning: Citation `LosHuertos2017OverviewR' on page x undefined 
+on input line 485.
+
+[10] [11 <./figure/maunaloa-1.pdf>] [12]
+
+LaTeX Warning: Reference `sec:settingup' on page xiii undefined on input line 5
+28.
+
+
+LaTeX Warning: Reference `sub:mathchar' on page xiii undefined on input line 53
+0.
+
+
+LaTeX Warning: Reference `subsub:optionalsubsub' on page xiii undefined on inpu
+t line 535.
+
+
+LaTeX Warning: Reference `ch:guide' on page xiii undefined on input line 541.
+
+
+LaTeX Warning: Reference `fig:pressure' on page xiii undefined on input line 55
+1.
+
 
 Package xcolor Warning: Incompatible color definition on input line 555.
 
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 557.
-<figure/fig:pressure-1.pdf, id=1098, 505.89pt x 505.89pt>
+<figure/fig:pressure-1.pdf, id=179, 505.89pt x 505.89pt>
 File: figure/fig:pressure-1.pdf Graphic file (type pdf)
 
 <use figure/fig:pressure-1.pdf>
 Package pdftex.def Info: figure/fig:pressure-1.pdf used on input line 560.
 (pdftex.def)             Requested size: 433.62pt x 433.62885pt.
- [17
+ [13
 
-] [18 <./figure/fig:pressure-1.pdf>]
-<images/Lee-Vadose.png, id=1119, 949.5475pt x 411.5375pt>
+] [14 <./figure/fig:pressure-1.pdf>]
+
+LaTeX Warning: Reference `fig:vadose' on page xv undefined on input line 572.
+
+<images/Lee-Vadose.png, id=204, 949.5475pt x 411.5375pt>
 File: images/Lee-Vadose.png Graphic file (type png)
 
 <use images/Lee-Vadose.png>
 Package pdftex.def Info: images/Lee-Vadose.png used on input line 575.
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
- [19 <./images/Lee-Vadose.png>] [20
 
-] [21] [22
+
+Package natbib Warning: Citation `lee2017fifty' on page xv undefined on input l
+ine 576.
+
+
+Package natbib Warning: Citation `lee2017fifty' on page xv undefined on input l
+ine 576.
+
+
+Package natbib Warning: Citation `imura2005urban' on page xv undefined on input
+ line 587.
+
+
+Package natbib Warning: Citation `imura2005urban' on page xv undefined on input
+ line 589.
+
+[15 <./images/Lee-Vadose.png>] [16
+
+] [17] [18
 
 ]
 Chapter 1.
 
-<images/earth-system/earth-rad-budget-nasa-erbe.png, id=1151, 746.79pt x 558.08
-5pt>
+LaTeX Warning: Reference `fig:earthbudget' on page 1 undefined on input line 63
+6.
+
+
+<images/earth-system/earth-rad-budget-nasa-erbe.png, id=229, 746.79pt x 558.085
+pt>
 File: images/earth-system/earth-rad-budget-nasa-erbe.png Graphic file (type png
 )
  <use images/earth-system/earth-rad-budget-nasa-erbe.png>
@@ -1544,8 +1594,13 @@ Package pdftex.def Info: images/earth-system/earth-rad-budget-nasa-erbe.png use
 d on input line 639.
 (pdftex.def)             Requested size: 433.62pt x 324.0472pt.
 
-<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=1154, 476.78125pt
- x 421.575pt>
+
+LaTeX Warning: Reference `fig:em-entering' on page 1 undefined on input line 64
+8.
+
+
+<images/earth-system/em-radiation-atmosph-depth-stsci.jpg, id=231, 476.78125pt 
+x 421.575pt>
 File: images/earth-system/em-radiation-atmosph-depth-stsci.jpg Graphic file (ty
 pe jpg)
  <use images/earth-system/em-radiation-atmosph-depth-stsci.jpg>
@@ -1553,8 +1608,13 @@ Package pdftex.def Info: images/earth-system/em-radiation-atmosph-depth-stsci.j
 pg used on input line 651.
 (pdftex.def)             Requested size: 433.62pt x 383.43442pt.
 
-<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=1156, 21
-5.1293pt x 140.50633pt>
+
+LaTeX Warning: Reference `fig:carbonpools' on page 1 undefined on input line 67
+2.
+
+
+<images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg, id=232, 215
+.1293pt x 140.50633pt>
 File: images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg Graphic
  file (type jpg)
 
@@ -1580,7 +1640,7 @@ l.678 \end{figure}
 LaTeX Warning: Reference `fig:longtermcarbon' on page 4 undefined on input line
  682.
 
-<images/earth-system/long-term-carbon.png, id=1171, 436.63126pt x 252.945pt>
+<images/earth-system/long-term-carbon.png, id=253, 436.63126pt x 252.945pt>
 File: images/earth-system/long-term-carbon.png Graphic file (type png)
 
 <use images/earth-system/long-term-carbon.png>
@@ -1593,17 +1653,38 @@ LaTeX Warning: Reference `fig:soilcarbon' on page 4 undefined on input line 696
 .
 
 [4 <./images/earth-system/Carbon-reservoirs-and-cycles-in-the-Earth.jpg>]
-<images/earth-system/Q10-SOC-Regulation.jpg, id=1181, 367.3725pt x 243.15843pt>
+<images/earth-system/Q10-SOC-Regulation.jpg, id=264, 367.3725pt x 243.15843pt>
 File: images/earth-system/Q10-SOC-Regulation.jpg Graphic file (type jpg)
+
 <use images/earth-system/Q10-SOC-Regulation.jpg>
 Package pdftex.def Info: images/earth-system/Q10-SOC-Regulation.jpg used on inp
 ut line 701.
 (pdftex.def)             Requested size: 433.62pt x 287.02835pt.
 
 
+Package natbib Warning: Citation `Qineaau1218' on page 5 undefined on input lin
+e 702.
+
+
+Package natbib Warning: Citation `CAS2021researchers' on page 5 undefined on in
+put line 702.
+
+
+Package natbib Warning: Citation `Qineaau1218' on page 5 undefined on input lin
+e 702.
+
+
+Package natbib Warning: Citation `CAS2021researchers' on page 5 undefined on in
+put line 702.
+
+
+LaTeX Warning: Reference `fig:maunaloa2' on page 5 undefined on input line 713.
+
+
+
 Package xcolor Warning: Incompatible color definition on input line 717.
 
-<figure/maunaloa3-1.pdf, id=1191, 505.89pt x 505.89pt>
+<figure/maunaloa3-1.pdf, id=265, 505.89pt x 505.89pt>
 File: figure/maunaloa3-1.pdf Graphic file (type pdf)
 
 <use figure/maunaloa3-1.pdf>
@@ -1619,7 +1700,7 @@ Chapter 2.
 
 ]
 Chapter 3.
-<images/critical-zone/criticalzone.jpg, id=1232, 411.5375pt x 301.125pt>
+<images/critical-zone/criticalzone.jpg, id=309, 411.5375pt x 301.125pt>
 File: images/critical-zone/criticalzone.jpg Graphic file (type jpg)
 
 <use images/critical-zone/criticalzone.jpg>
@@ -1627,7 +1708,11 @@ Package pdftex.def Info: images/critical-zone/criticalzone.jpg used on input li
 ne 761.
 (pdftex.def)             Requested size: 433.62pt x 317.28412pt.
  [11] [12 <./images/critical-zone/criticalzone.jpg>]
-<images/critical-zone/groundwater.png, id=1244, 285.065pt x 183.68625pt>
+
+LaTeX Warning: Reference `fig:groundwater' on page 13 undefined on input line 7
+76.
+
+<images/critical-zone/groundwater.png, id=324, 285.065pt x 183.68625pt>
 File: images/critical-zone/groundwater.png Graphic file (type png)
 
 <use images/critical-zone/groundwater.png>
@@ -1635,18 +1720,35 @@ Package pdftex.def Info: images/critical-zone/groundwater.png used on input lin
 e 783.
 (pdftex.def)             Requested size: 285.0643pt x 183.68578pt.
  [13 <./images/critical-zone/groundwater.png>]
-<images/critical-zone/Lee-Vadose.png, id=1258, 949.5475pt x 411.5375pt>
+
+Package natbib Warning: Citation `lee2017fifty' on page 14 undefined on input l
+ine 832.
+
+<images/critical-zone/Lee-Vadose.png, id=337, 949.5475pt x 411.5375pt>
 File: images/critical-zone/Lee-Vadose.png Graphic file (type png)
 
 <use images/critical-zone/Lee-Vadose.png>
 Package pdftex.def Info: images/critical-zone/Lee-Vadose.png used on input line
  835.
 (pdftex.def)             Requested size: 433.62pt x 187.93433pt.
- [14] [15 <./images/critical-zone/Lee-Vadose.png>] [16
+
+
+Package natbib Warning: Citation `lee2017fifty' on page 14 undefined on input l
+ine 836.
+
+
+Package natbib Warning: Citation `lee2017fifty' on page 14 undefined on input l
+ine 836.
+
+[14] [15 <./images/critical-zone/Lee-Vadose.png>] [16
 
 ]
 Chapter 4.
-<images/land-use/Shenzhen-cityscape.png, id=1279, 1285.80376pt x 442.65375pt>
+
+LaTeX Warning: Reference `fig:shenzhen' on page 17 undefined on input line 848.
+
+
+<images/land-use/Shenzhen-cityscape.png, id=354, 1285.80376pt x 442.65375pt>
 File: images/land-use/Shenzhen-cityscape.png Graphic file (type png)
 
 <use images/land-use/Shenzhen-cityscape.png>
@@ -1654,7 +1756,11 @@ Package pdftex.def Info: images/land-use/Shenzhen-cityscape.png used on input l
 ine 851.
 (pdftex.def)             Requested size: 433.62pt x 149.27774pt.
  [17] [18 <./images/land-use/Shenzhen-cityscape.png>] [19] [20]
-<images/land-use/Bonelli_Erosion_Map.png, id=1300, 731.73375pt x 442.65375pt>
+
+LaTeX Warning: Reference `fig:Bonelli Erosion Map' on page 21 undefined on inpu
+t line 898.
+
+<images/land-use/Bonelli_Erosion_Map.png, id=384, 731.73375pt x 442.65375pt>
 File: images/land-use/Bonelli_Erosion_Map.png Graphic file (type png)
 
 <use images/land-use/Bonelli_Erosion_Map.png>
@@ -1662,7 +1768,11 @@ Package pdftex.def Info: images/land-use/Bonelli_Erosion_Map.png used on input
 line 901.
 (pdftex.def)             Requested size: 433.62pt x 262.31168pt.
  [21] [22 <./images/land-use/Bonelli_Erosion_Map.png>] [23] [24]
-<images/land-use/LUC-SOC-Table.png, id=1326, 944.52875pt x 226.8475pt>
+
+LaTeX Warning: Reference `fig:LUC-SOC-Table' on page 25 undefined on input line
+ 955.
+
+<images/land-use/LUC-SOC-Table.png, id=412, 944.52875pt x 226.8475pt>
 File: images/land-use/LUC-SOC-Table.png Graphic file (type png)
 
 <use images/land-use/LUC-SOC-Table.png>
@@ -1680,15 +1790,24 @@ LaTeX Warning: Reference `can we do a figure to help explain this?' on page 26
 undefined on input line 968.
 
 [26 <./images/land-use/LUC-SOC-Table.png>]
-<images/land-use/Climate-Smart-Soils.png, id=1342, 1010.77625pt x 408.52625pt>
+
+LaTeX Warning: Reference `fig:Climate-Smart-Soils' on page 27 undefined on inpu
+t line 974.
+
+<images/land-use/Climate-Smart-Soils.png, id=427, 1010.77625pt x 408.52625pt>
 File: images/land-use/Climate-Smart-Soils.png Graphic file (type png)
 
 <use images/land-use/Climate-Smart-Soils.png>
 Package pdftex.def Info: images/land-use/Climate-Smart-Soils.png used on input 
 line 977.
 (pdftex.def)             Requested size: 433.62pt x 175.25768pt.
- [27 <./images/land-use/Climate-Smart-Soils.png>] [28]
-<images/land-use/Loess-Comparison.png, id=1355, 1253.68375pt x 346.29375pt>
+ [27 <./images/land-use/Climate-Smart-Soils.png>]
+
+LaTeX Warning: Reference `fig:Loess-Comparison' on page 28 undefined on input l
+ine 1004.
+
+[28]
+<images/land-use/Loess-Comparison.png, id=443, 1253.68375pt x 346.29375pt>
 File: images/land-use/Loess-Comparison.png Graphic file (type png)
 
 <use images/land-use/Loess-Comparison.png>
@@ -1701,351 +1820,1364 @@ Chapter 5.
 
 ] [32] [33] [34] [35] [36]
 Chapter 6.
+<images/biodiversity/biodiversity-image.jpg, id=495, 2007.5pt x 1362.08875pt>
+File: images/biodiversity/biodiversity-image.jpg Graphic file (type jpg)
+
+<use images/biodiversity/biodiversity-image.jpg>
+Package pdftex.def Info: images/biodiversity/biodiversity-image.jpg used on inp
+ut line 1085.
+(pdftex.def)             Requested size: 433.62pt x 294.19432pt.
+
+
+Package natbib Warning: Citation `lanting_2021' on page 37 undefined on input l
+ine 1086.
+
+
+Package natbib Warning: Citation `lanting_2021' on page 37 undefined on input l
+ine 1086.
+
+
+LaTeX Warning: Reference `fig:Lanting' on page 37 undefined on input line 1090.
+
+
+
+Package natbib Warning: Citation `brooker_2017chapter' on page 37 undefined on 
+input line 1090.
+
+
+Package natbib Warning: Citation `brooker_2017chapter' on page 37 undefined on 
+input line 1090.
+
+
+Package natbib Warning: Citation `brooker_2017chapter' on page 37 undefined on 
+input line 1090.
+
 [37
 
-] [38
+] [38 <./images/biodiversity/biodiversity-image.jpg>]
+
+Package natbib Warning: Citation `Attenborough2020life' on page 39 undefined on
+ input line 1092.
+
+
+Package natbib Warning: Citation `Keddy2001competition' on page 39 undefined on
+ input line 1096.
+
+
+Package natbib Warning: Citation `Keddy2001competition' on page 39 undefined on
+ input line 1096.
+
+
+Package natbib Warning: Citation `Keddy2001competition' on page 39 undefined on
+ input line 1096.
+
+<images/biodiversity/hot-spot.jpg, id=509, 1626.075pt x 833.1125pt>
+File: images/biodiversity/hot-spot.jpg Graphic file (type jpg)
+
+<use images/biodiversity/hot-spot.jpg>
+Package pdftex.def Info: images/biodiversity/hot-spot.jpg used on input line 10
+99.
+(pdftex.def)             Requested size: 433.62pt x 222.1594pt.
+
+
+Package natbib Warning: Citation `britannica2020conservation' on page 39 undefi
+ned on input line 1100.
+
+
+Package natbib Warning: Citation `britannica2020conservation' on page 39 undefi
+ned on input line 1100.
+
+
+LaTeX Warning: Reference `fig:britannica' on page 39 undefined on input line 11
+04.
+
+
+Package natbib Warning: Citation `britannica2020conservation' on page 39 undefi
+ned on input line 1104.
+
+[39]
+
+Package natbib Warning: Citation `peh2010invasive' on page 40 undefined on inpu
+t line 1110.
+
+[40 <./images/biodiversity/hot-spot.jpg>]
+
+Package natbib Warning: Citation `peh2010invasive' on page 41 undefined on inpu
+t line 1112.
+
+
+LaTeX Warning: Reference `fig:CABI' on page 41 undefined on input line 1114.
+
+
+Package natbib Warning: Citation `cabi2021' on page 41 undefined on input line 
+1114.
+
+
+Package natbib Warning: Citation `carlsson2004invading' on page 41 undefined on
+ input line 1114.
+
+<images/biodiversity/golden-apple-snail.jpg, id=520, 301.125pt x 282.05376pt>
+File: images/biodiversity/golden-apple-snail.jpg Graphic file (type jpg)
+
+<use images/biodiversity/golden-apple-snail.jpg>
+Package pdftex.def Info: images/biodiversity/golden-apple-snail.jpg used on inp
+ut line 1117.
+(pdftex.def)             Requested size: 433.62pt x 406.19582pt.
+
+
+Package natbib Warning: Citation `cabi2021' on page 41 undefined on input line 
+1118.
+
+
+Package natbib Warning: Citation `cabi2021' on page 41 undefined on input line 
+1118.
+
+<images/biodiversity/burmese-python.jpg, id=521, 1076.02pt x 717.68124pt>
+File: images/biodiversity/burmese-python.jpg Graphic file (type jpg)
+
+<use images/biodiversity/burmese-python.jpg>
+Package pdftex.def Info: images/biodiversity/burmese-python.jpg used on input l
+ine 1127.
+(pdftex.def)             Requested size: 433.62pt x 289.21379pt.
+
+
+Package natbib Warning: Citation `frazier2019thesnakes' on page 41 undefined on
+ input line 1128.
+
+
+Package natbib Warning: Citation `frazier2019thesnakes' on page 41 undefined on
+ input line 1128.
+
+
+LaTeX Warning: Reference `fig:python' on page 41 undefined on input line 1132.
+
+
+Package natbib Warning: Citation `frazier2019thesnakes' on page 41 undefined on
+ input line 1132.
+
+[41] [42 <./images/biodiversity/golden-apple-snail.jpg>] [43 <./images/biodiver
+sity/burmese-python.jpg>]
+
+Package natbib Warning: Citation `scott2020' on page 44 undefined on input line
+ 1134.
+
+
+Package natbib Warning: Citation `scott2020' on page 44 undefined on input line
+ 1134.
+
+
+Package natbib Warning: Citation `nationalwildlifefederation2021' on page 44 un
+defined on input line 1134.
+
+
+<images/biodiversity/guam-snake-invasive.png, id=538, 532.99126pt x 333.245pt>
+File: images/biodiversity/guam-snake-invasive.png Graphic file (type png)
+
+<use images/biodiversity/guam-snake-invasive.png>
+Package pdftex.def Info: images/biodiversity/guam-snake-invasive.png used on in
+put line 1137.
+(pdftex.def)             Requested size: 433.62pt x 271.1219pt.
+
+
+Package natbib Warning: Citation `rodda2007biology' on page 44 undefined on inp
+ut line 1138.
+
+
+Package natbib Warning: Citation `rodda2007biology' on page 44 undefined on inp
+ut line 1138.
+
+
+LaTeX Warning: Reference `fig:guam' on page 44 undefined on input line 1142.
+
+
+Package natbib Warning: Citation `rodda2007biology' on page 44 undefined on inp
+ut line 1142.
+
+[44 <./images/biodiversity/guam-snake-invasive.png>]
+<images/biodiversity/crabs-and-ants.png, id=545, 1031.855pt x 524.96124pt>
+File: images/biodiversity/crabs-and-ants.png Graphic file (type png)
+
+<use images/biodiversity/crabs-and-ants.png>
+Package pdftex.def Info: images/biodiversity/crabs-and-ants.png used on input l
+ine 1145.
+(pdftex.def)             Requested size: 433.62pt x 220.60237pt.
+
+
+Package natbib Warning: Citation `Baldwin2010great' on page 45 undefined on inp
+ut line 1146.
+
+
+Package natbib Warning: Citation `Baldwin2010great' on page 45 undefined on inp
+ut line 1146.
+
+
+LaTeX Warning: Reference `fig:crabs' on page 45 undefined on input line 1150.
+
+
+Package natbib Warning: Citation `Baldwin2010great' on page 45 undefined on inp
+ut line 1150.
+
+
+Package natbib Warning: Citation `peh2010invasive' on page 45 undefined on inpu
+t line 1152.
+
+
+Package natbib Warning: Citation `peh2010invasive' on page 45 undefined on inpu
+t line 1152.
+
+[45 <./images/biodiversity/crabs-and-ants.png>]
+
+Package natbib Warning: Citation `frazier2019thesnakes' on page 46 undefined on
+ input line 1158.
+
+
+Package natbib Warning: Citation `frazier2019thesnakes' on page 46 undefined on
+ input line 1158.
+
+
+Package natbib Warning: Citation `vincent2007biological' on page 46 undefined o
+n input line 1160.
+
+
+Package natbib Warning: Citation `vincent2007biological' on page 46 undefined o
+n input line 1162.
+
+
+Package natbib Warning: Citation `norton2004strange' on page 46 undefined on in
+put line 1164.
+
+
+Package natbib Warning: Citation `vincent2007biological' on page 46 undefined o
+n input line 1164.
+
+[46] <images/biodiversity/table.png, id=557, 466.74374pt x 513.92pt>
+File: images/biodiversity/table.png Graphic file (type png)
+
+<use images/biodiversity/table.png>
+Package pdftex.def Info: images/biodiversity/table.png used on input line 1167.
+
+(pdftex.def)             Requested size: 433.62pt x 477.47014pt.
+
+
+Package natbib Warning: Citation `steininger2013biology' on page 47 undefined o
+n input line 1168.
+
+
+Package natbib Warning: Citation `steininger2013biology' on page 47 undefined o
+n input line 1168.
+
+
+LaTeX Warning: Reference `fig:table' on page 47 undefined on input line 1172.
+
+
+Package natbib Warning: Citation `steininger2013biology' on page 47 undefined o
+n input line 1172.
+
+<images/biodiversity/nesting-box.png, id=558, 513.92pt x 411.5375pt>
+File: images/biodiversity/nesting-box.png Graphic file (type png)
+
+<use images/biodiversity/nesting-box.png>
+Package pdftex.def Info: images/biodiversity/nesting-box.png used on input line
+ 1175.
+(pdftex.def)             Requested size: 433.62pt x 347.24019pt.
+
+
+Package natbib Warning: Citation `singh2016nesting' on page 47 undefined on inp
+ut line 1176.
+
+
+Package natbib Warning: Citation `singh2016nesting' on page 47 undefined on inp
+ut line 1176.
+
+
+Package natbib Warning: Citation `singh2016nesting' on page 47 undefined on inp
+ut line 1180.
+
+
+Package natbib Warning: Citation `singh2016nesting' on page 47 undefined on inp
+ut line 1180.
+
+
+Package natbib Warning: Citation `scott2020' on page 47 undefined on input line
+ 1182.
+
+
+Package natbib Warning: Citation `scott2020' on page 47 undefined on input line
+ 1182.
+
+
+Package natbib Warning: Citation `scott2020' on page 47 undefined on input line
+ 1182.
+
+
+Package natbib Warning: Citation `cabi2020' on page 47 undefined on input line 
+1186.
+
+[47] [48 <./images/biodiversity/table.png>] [49 <./images/biodiversity/nesting-
+box.png>] [50]
+Chapter 7.
+
+Package natbib Warning: Citation `Smith' on page 51 undefined on input line 119
+8.
+
+[51
 
 ]
-Chapter 7.
-[39] [40]
+
+Package natbib Warning: Citation `RAR' on page 52 undefined on input line 1204.
+
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 52 undefined 
+on input line 1210.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 52 undefined 
+on input line 1212.
+
+
+Package natbib Warning: Citation `noaa' on page 52 undefined on input line 1214
+.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 52 
+undefined on input line 1214.
+
+[52]
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 53 undefined 
+on input line 1218.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1890/15-1492.1' on page 53
+ undefined on input line 1226.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1890/15-1492.1' on page 53
+ undefined on input line 1228.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 53 
+undefined on input line 1232.
+
+
 Underfull \vbox (badness 1881) has occurred while \output is active []
 
- [41]
-[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58] <images/reeffoodweb.png, id=1742, 469.755pt x 342.27875pt>
+ [53]
+
+Package natbib Warning: Citation `wwfindex' on page 54 undefined on input line 
+1245.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 54 undefined on 
+input line 1245.
+
+
+Package natbib Warning: Citation `13772149520190801' on page 54 undefined on in
+put line 1247.
+
+
+LaTeX Warning: Reference `sub:ie' on page 54 undefined on input line 1249.
+
+
+Package natbib Warning: Citation `13772149520190801' on page 54 undefined on in
+put line 1249.
+
+[54]
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 55 undefined 
+on input line 1253.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1029/2018JC014534' on page
+ 55 undefined on input line 1255.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 55 undefined on 
+input line 1255.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 55 undefined on 
+input line 1257.
+
+[55]
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 56 undefined on 
+input line 1261.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 56 undefined on 
+input line 1261.
+
+
+Package natbib Warning: Citation `Ayala_2009' on page 56 undefined on input lin
+e 1261.
+
+
+Package natbib Warning: Citation `Ayala_2009' on page 56 undefined on input lin
+e 1263.
+
+
+Package natbib Warning: Citation `wwfindex' on page 56 undefined on input line 
+1265.
+
+
+LaTeX Warning: Reference `sub:cd' on page 56 undefined on input line 1267.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 56 undefined on 
+input line 1267.
+
+
+Package natbib Warning: Citation `wwfindex' on page 56 undefined on input line 
+1267.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1111/gcb.14871' on page 56
+ undefined on input line 1271.
+
+[56]
+
+Package natbib Warning: Citation `https://doi.org/10.1111/gcb.14871' on page 57
+ undefined on input line 1273.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1111/gcb.14871' on page 57
+ undefined on input line 1275.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 57 undefined 
+on input line 1281.
+
+
+Package natbib Warning: Citation `10.2307/40603032' on page 57 undefined on inp
+ut line 1283.
+
+[57]
+
+Package natbib Warning: Citation `10.2307/40603032' on page 58 undefined on inp
+ut line 1285.
+
+
+Package natbib Warning: Citation `10.2307/40603032' on page 58 undefined on inp
+ut line 1287.
+
+
+Package natbib Warning: Citation `wwfcyanide' on page 58 undefined on input lin
+e 1291.
+
+
+Package natbib Warning: Citation `970313024119970301' on page 58 undefined on i
+nput line 1293.
+
+
+Package natbib Warning: Citation `wwfcyanide' on page 58 undefined on input lin
+e 1295.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1890/1051-0761(2006)016[16
+31:RFBFOC]2.0.CO;2' on page 58 undefined on input line 1299.
+
+[58]
+
+Package natbib Warning: Citation `https://doi.org/10.1890/1051-0761(2006)016[16
+31:RFBFOC]2.0.CO;2' on page 59 undefined on input line 1301.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1890/1051-0761(2006)016[16
+31:RFBFOC]2.0.CO;2' on page 59 undefined on input line 1303.
+
+
+Package natbib Warning: Citation `boatpeople' on page 59 undefined on input lin
+e 1308.
+
+
+Package natbib Warning: Citation `boatpeople' on page 59 undefined on input lin
+e 1310.
+
+
+Package natbib Warning: Citation `boatpeople' on page 59 undefined on input lin
+e 1312.
+
+[59]
+
+Package natbib Warning: Citation `4884777420100401' on page 60 undefined on inp
+ut line 1318.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 60 undefined 
+on input line 1320.
+
+
+Package natbib Warning: Citation `USEPA_2017' on page 60 undefined on input lin
+e 1320.
+
+
+Package natbib Warning: Citation `4884777420100401' on page 60 undefined on inp
+ut line 1320.
+
+
+Package natbib Warning: Citation `12907334620180601' on page 60 undefined on in
+put line 1322.
+
+
+Package natbib Warning: Citation `12907334620180601' on page 60 undefined on in
+put line 1324.
+
+[60]
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 61 undefined 
+on input line 1326.
+
+
+Package natbib Warning: Citation `4884777420100401' on page 61 undefined on inp
+ut line 1326.
+
+
+Package natbib Warning: Citation `USEPA_2017' on page 61 undefined on input lin
+e 1326.
+
+
+Package natbib Warning: Citation `4884777420100401' on page 61 undefined on inp
+ut line 1328.
+
+
+Package natbib Warning: Citation `2615280620070801' on page 61 undefined on inp
+ut line 1328.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 61 undefined 
+on input line 1332.
+
+
+Package natbib Warning: Citation `USEPA_2017' on page 61 undefined on input lin
+e 1332.
+
+
+Package natbib Warning: Citation `USEPA_2017' on page 61 undefined on input lin
+e 1334.
+
+[61]
+
+Package natbib Warning: Citation `RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:4
+20111' on page 62 undefined on input line 1336.
+
+
+Package natbib Warning: Citation `RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:4
+20111' on page 62 undefined on input line 1340.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 62 undefined 
+on input line 1342.
+
+
+Package natbib Warning: Citation `4884777420100401' on page 62 undefined on inp
+ut line 1344.
+
+[62]
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 63 undefined on 
+input line 1349.
+
+
+Package natbib Warning: Citation `Thompson' on page 63 undefined on input line 
+1351.
+
+
+Package natbib Warning: Citation `coraldiseasenoaa' on page 63 undefined on inp
+ut line 1353.
+
+
+Package natbib Warning: Citation `AndrewWBruckner_1970' on page 63 undefined on
+ input line 1359.
+
+[63]
+
+Package natbib Warning: Citation `AndrewWBruckner_1970' on page 64 undefined on
+ input line 1361.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 64 undefined 
+on input line 1361.
+
+
+Package natbib Warning: Citation `AndrewWBruckner_1970' on page 64 undefined on
+ input line 1361.
+
+
+Package natbib Warning: Citation `AndrewWBruckner_1970' on page 64 undefined on
+ input line 1363.
+
+
+Package natbib Warning: Citation `noaa' on page 64 undefined on input line 1367
+.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 64 undefined 
+on input line 1367.
+
+
+Package natbib Warning: Citation `RAR' on page 64 undefined on input line 1367.
+
+
+
+Package natbib Warning: Citation `coraltriangle' on page 64 undefined on input 
+line 1369.
+
+[64]
+
+Package natbib Warning: Citation `4826000120100501' on page 65 undefined on inp
+ut line 1371.
+
+
+Package natbib Warning: Citation `4826000120100501' on page 65 undefined on inp
+ut line 1373.
+
+
+Package natbib Warning: Citation `wwfindex' on page 65 undefined on input line 
+1378.
+
+
+Package natbib Warning: Citation `reeftourism' on page 65 undefined on input li
+ne 1378.
+
+
+Package natbib Warning: Citation `reeftourism' on page 65 undefined on input li
+ne 1380.
+
+
+Package natbib Warning: Citation `reeftourism' on page 65 undefined on input li
+ne 1382.
+
+
+Package natbib Warning: Citation `4826000120100501' on page 65 undefined on inp
+ut line 1383.
+
+[65]
+
+LaTeX Warning: Reference `sub:mdoc' on page 66 undefined on input line 1385.
+
+
+Package natbib Warning: Citation `reeftourism' on page 66 undefined on input li
+ne 1385.
+
+
+Package natbib Warning: Citation `coralreefalliance_2021' on page 66 undefined 
+on input line 1385.
+
+
+Package natbib Warning: Citation `reeftourism' on page 66 undefined on input li
+ne 1385.
+
+
+Package natbib Warning: Citation `wwfindex' on page 66 undefined on input line 
+1391.
+
+
+Package natbib Warning: Citation `Beck' on page 66 undefined on input line 1391
+.
+
+
+Package natbib Warning: Citation `Pelton_2017' on page 66 undefined on input li
+ne 1391.
+
+
+Package natbib Warning: Citation `Beck' on page 66 undefined on input line 1393
+.
+
+[66]
+
+Package natbib Warning: Citation `Smith' on page 67 undefined on input line 139
+9.
+
+
+Package natbib Warning: Citation `Smith' on page 67 undefined on input line 140
+1.
+
+
+Package natbib Warning: Citation `14551496520201201' on page 67 undefined on in
+put line 1407.
+
+
+Package natbib Warning: Citation `14551496520201201' on page 67 undefined on in
+put line 1409.
+
+
+Package natbib Warning: Citation `cgarden' on page 67 undefined on input line 1
+411.
+
+
+Package natbib Warning: Citation `Morin_2014' on page 67 undefined on input lin
+e 1411.
+
+[67]
+
+Package natbib Warning: Citation `areef' on page 68 undefined on input line 141
+3.
+
+
+Package natbib Warning: Citation `areef' on page 68 undefined on input line 141
+5.
+
+
+Package natbib Warning: Citation `14551496520201201' on page 68 undefined on in
+put line 1417.
+
+
+Package natbib Warning: Citation `10.2307/40603378' on page 68 undefined on inp
+ut line 1421.
+
+
+Package natbib Warning: Citation `Keller2009ClimateCC' on page 68 undefined on 
+input line 1421.
+
+
+Package natbib Warning: Citation `cgarden' on page 68 undefined on input line 1
+421.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1111/conl.12698' on page 6
+8 undefined on input line 1422.
+
+[68]
+
+Package natbib Warning: Citation `4826000120100501' on page 69 undefined on inp
+ut line 1424.
+
+
+Package natbib Warning: Citation `13772149520190801' on page 69 undefined on in
+put line 1428.
+
+
+Package natbib Warning: Citation `Marinescienceresilientcommunities' on page 69
+ undefined on input line 1430.
+
+[69]
+
+Package natbib Warning: Citation `Marinescienceresilientcommunities' on page 70
+ undefined on input line 1432.
+
+<images/reeffoodweb.png, id=692, 469.755pt x 342.27875pt>
 File: images/reeffoodweb.png Graphic file (type png)
 
 <use images/reeffoodweb.png>
-Package pdftex.def Info: images/reeffoodweb.png used on input line 1337.
+Package pdftex.def Info: images/reeffoodweb.png used on input line 1445.
 (pdftex.def)             Requested size: 433.62pt x 315.95003pt.
 
-<images/reefcycles.png, id=1747, 292.09125pt x 270.00874pt>
+
+Package natbib Warning: Citation `https://doi.org/10.1890/15-1492.1' on page 70
+ undefined on input line 1446.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1890/15-1492.1' on page 70
+ undefined on input line 1446.
+
+<images/reefcycles.png, id=693, 292.09125pt x 270.00874pt>
 File: images/reefcycles.png Graphic file (type png)
 
 <use images/reefcycles.png>
-Package pdftex.def Info: images/reefcycles.png used on input line 1343.
+Package pdftex.def Info: images/reefcycles.png used on input line 1451.
 (pdftex.def)             Requested size: 433.62pt x 400.87563pt.
 
-<images/reefmap.png, id=1756, 469.755pt x 346.29375pt>
-File: images/reefmap.png Graphic file (type png)
 
-<use images/reefmap.png>
-Package pdftex.def Info: images/reefmap.png used on input line 1349.
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 70 
+undefined on input line 1452.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 70 
+undefined on input line 1452.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 70 
+undefined on input line 1452.
+
+
+Package natbib Warning: Citation `https://doi.org/10.1002/fee.2088' on page 70 
+undefined on input line 1452.
+
+<images/reefmap.png, id=694, 469.755pt x 346.29375pt>
+File: images/reefmap.png Graphic file (type png)
+ <use images/reefmap.png>
+Package pdftex.def Info: images/reefmap.png used on input line 1457.
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
 
 
+Package natbib Warning: Citation `Watlas' on page 70 undefined on input line 14
+58.
+
+
+Package natbib Warning: Citation `Watlas' on page 70 undefined on input line 14
+58.
+
+
 Package caption Warning: \captionsetup{subtype*=...} or \subcaptionof
-(caption)                outside box or environment on input line 1356.
+(caption)                outside box or environment on input line 1464.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: \subcaption
-(caption)                outside box or environment on input line 1356.
+(caption)                outside box or environment on input line 1464.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (38.44318pt too wide) in paragraph at lines 1358--1373
+Package natbib Warning: Citation `Watlas' on page 70 undefined on input line 14
+64.
+
+
+Package natbib Warning: Citation `Watlas' on page 70 undefined on input line 14
+64.
+
+
+Overfull \hbox (38.44318pt too wide) in paragraph at lines 1466--1481
 [][] 
  []
 
-<images/acidification2_med.jpg, id=1765, 820.06375pt x 325.215pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/acidification2_med.jpg, id=695, 820.06375pt x 325.215pt>
 File: images/acidification2_med.jpg Graphic file (type jpg)
 
 <use images/acidification2_med.jpg>
-Package pdftex.def Info: images/acidification2_med.jpg used on input line 1376.
+Package pdftex.def Info: images/acidification2_med.jpg used on input line 1484.
 
 (pdftex.def)             Requested size: 433.62pt x 171.96613pt.
 
-<images/coralbleach.png, id=1766, 469.755pt x 313.17pt>
+<images/coralbleach.png, id=696, 469.755pt x 313.17pt>
 File: images/coralbleach.png Graphic file (type png)
 
 <use images/coralbleach.png>
-Package pdftex.def Info: images/coralbleach.png used on input line 1382.
+Package pdftex.def Info: images/coralbleach.png used on input line 1490.
 (pdftex.def)             Requested size: 433.62pt x 289.08037pt.
 
-<images/cyanidefishing.jpg, id=1767, 1134.2375pt x 756.8275pt>
+<images/cyanidefishing.jpg, id=697, 1134.2375pt x 756.8275pt>
 File: images/cyanidefishing.jpg Graphic file (type jpg)
 
 <use images/cyanidefishing.jpg>
-Package pdftex.def Info: images/cyanidefishing.jpg used on input line 1388.
+Package pdftex.def Info: images/cyanidefishing.jpg used on input line 1496.
 (pdftex.def)             Requested size: 433.62pt x 289.32967pt.
 
-<images/coraldisease.png, id=1768, 469.755pt x 353.32pt>
+<images/coraldisease.png, id=698, 469.755pt x 353.32pt>
 File: images/coraldisease.png Graphic file (type png)
 
 <use images/coraldisease.png>
-Package pdftex.def Info: images/coraldisease.png used on input line 1394.
+Package pdftex.def Info: images/coraldisease.png used on input line 1502.
 (pdftex.def)             Requested size: 433.62pt x 326.14198pt.
 
-<images/sentpeeps.png, id=1769, 469.755pt x 263.98625pt>
+<images/sentpeeps.png, id=699, 469.755pt x 263.98625pt>
 File: images/sentpeeps.png Graphic file (type png)
 
 <use images/sentpeeps.png>
-Package pdftex.def Info: images/sentpeeps.png used on input line 1400.
+Package pdftex.def Info: images/sentpeeps.png used on input line 1508.
 (pdftex.def)             Requested size: 433.62pt x 243.67993pt.
 
-<images/tagfish.png, id=1770, 366.36874pt x 366.36874pt>
+<images/tagfish.png, id=700, 366.36874pt x 366.36874pt>
 File: images/tagfish.png Graphic file (type png)
 
 <use images/tagfish.png>
-Package pdftex.def Info: images/tagfish.png used on input line 1406.
+Package pdftex.def Info: images/tagfish.png used on input line 1514.
 (pdftex.def)             Requested size: 433.62pt x 433.64745pt.
 
-<images/reefbigchillin.png, id=1779, 399.4925pt x 209.78375pt>
+
+Package natbib Warning: Citation `4826000120100501' on page 70 undefined on inp
+ut line 1515.
+
+
+Package natbib Warning: Citation `4826000120100501' on page 70 undefined on inp
+ut line 1515.
+
+
+Package natbib Warning: Citation `4826000120100501' on page 70 undefined on inp
+ut line 1515.
+
+
+Package natbib Warning: Citation `4826000120100501' on page 70 undefined on inp
+ut line 1515.
+
+<images/reefbigchillin.png, id=701, 399.4925pt x 209.78375pt>
 File: images/reefbigchillin.png Graphic file (type png)
 
 <use images/reefbigchillin.png>
-Package pdftex.def Info: images/reefbigchillin.png used on input line 1412.
+Package pdftex.def Info: images/reefbigchillin.png used on input line 1520.
 (pdftex.def)             Requested size: 433.62pt x 227.71542pt.
- [59] [60 <./images/reeffoodweb.png>] [61 <./images/reefcycles.png>] [62 <./ima
-ges/reefmap.png>] [63 <./images/acidification2_med.jpg>] [64 <./images/coralble
-ach.png>] [65 <./images/cyanidefishing.jpg>]
-[66 <./images/coraldisease.png>] [67 <./images/sentpeeps.png>] [68 <./images/ta
-gfish.png>] [69 <./images/reefbigchillin.png>] [70
-
-]
+ [70] [71 <./images/reeffoodweb.png>] [72 <./images/reefcycles.png>] [73 <./ima
+ges/reefmap.png>] [74 <./images/acidification2_med.jpg>] [75 <./images/coralble
+ach.png>] [76 <./images/cyanidefishing.jpg>]
+[77 <./images/coraldisease.png>] [78 <./images/sentpeeps.png>] [79 <./images/ta
+gfish.png>] [80 <./images/reefbigchillin.png>]
 Chapter 8.
-[71] [72
+[81
+
+] [82
 
 ]
 Chapter 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73]
+ [83]
 Overfull \vbox (50.51433pt too high) has occurred while \output is active []
 
 
-[74] [75] [76
+[84] [85] [86
 
 ]
 Chapter 10.
-[77] [78
+[87] [88
 
 ]
 Chapter 11.
 
-Overfull \hbox (99.95755pt too wide) in paragraph at lines 1498--1505
+Overfull \hbox (99.95755pt too wide) in paragraph at lines 1606--1613
 \T1/cmr/m/n/10 the sub-sec-tion #s if you want][] [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79]
-[80] <images/hydroelectric/Dam-chart.png, id=1896, 785.93625pt x 191.71625pt>
+ [89]
+[90]
+
+LaTeX Warning: Reference `tbl:bigdams' on page 91 undefined on input line 1654.
+
+
+<images/hydroelectric/Dam-chart.png, id=838, 785.93625pt x 191.71625pt>
 File: images/hydroelectric/Dam-chart.png Graphic file (type png)
 
 <use images/hydroelectric/Dam-chart.png>
 Package pdftex.def Info: images/hydroelectric/Dam-chart.png used on input line 
-1550.
+1658.
 (pdftex.def)             Requested size: 433.62pt x 105.77774pt.
- [81 <./images/hydroelectric/Dam-chart.png>] <images/hydroelectric/diagram.png,
- id=1905, 469.755pt x 307.1475pt>
+
+
+LaTeX Warning: Reference `fig:USBR' on page 91 undefined on input line 1665.
+
+[91 <./images/hydroelectric/Dam-chart.png>]
+<images/hydroelectric/diagram.png, id=848, 469.755pt x 307.1475pt>
 File: images/hydroelectric/diagram.png Graphic file (type png)
 
 <use images/hydroelectric/diagram.png>
-Package pdftex.def Info: images/hydroelectric/diagram.png used on input line 15
-61.
+Package pdftex.def Info: images/hydroelectric/diagram.png used on input line 16
+69.
 (pdftex.def)             Requested size: 433.62pt x 283.52115pt.
- [82 <./images/hydroelectric/diagram.png>] [83] [84] [85]
+ [92 <./images/hydroelectric/diagram.png>] [93] [94] [95]
 Underfull \vbox (badness 1454) has occurred while \output is active []
 
- [86]
-[87] <images/schis-life.png, id=1944, 845.0772pt x 597.432pt>
+ [96]
+[97]
+
+LaTeX Warning: Reference `fig:schis' on page 98 undefined on input line 1781.
+
+<images/schis-life.png, id=893, 845.0772pt x 597.432pt>
 File: images/schis-life.png Graphic file (type png)
 
 <use images/schis-life.png>
-Package pdftex.def Info: images/schis-life.png used on input line 1676.
+Package pdftex.def Info: images/schis-life.png used on input line 1784.
 (pdftex.def)             Requested size: 433.62pt x 306.54596pt.
 
-<images/schis-map.png, id=1945, 469.755pt x 346.29375pt>
+<images/schis-map.png, id=894, 469.755pt x 346.29375pt>
 File: images/schis-map.png Graphic file (type png)
 
 <use images/schis-map.png>
-Package pdftex.def Info: images/schis-map.png used on input line 1688.
+Package pdftex.def Info: images/schis-map.png used on input line 1796.
 (pdftex.def)             Requested size: 433.62pt x 319.65619pt.
- [88] [89 <./images/schis-life.png>] [90 <./images/schis-map.png>] [91] [92] [9
-3] [94] [95] [96]
+ [98] [99 <./images/schis-life.png>] [100 <./images/schis-map.png>] [101] [102]
+ [103] [104] [105] [106]
 Chapter 12.
-[97
+[107
 
-] <images/myanmar/Image1.jpg, id=1994, 805.0075pt x 722.7pt>
+] <images/myanmar/Image1.jpg, id=952, 805.0075pt x 722.7pt>
 File: images/myanmar/Image1.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image1.jpg>
-Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1791.
+Package pdftex.def Info: images/myanmar/Image1.jpg used on input line 1899.
 (pdftex.def)             Requested size: 433.62pt x 389.28177pt.
 
-<images/myanmar/Image2.jpg, id=1995, 1381.16pt x 817.0525pt>
+<images/myanmar/Image2.jpg, id=953, 1381.16pt x 817.0525pt>
 File: images/myanmar/Image2.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image2.jpg>
-Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1798.
+Package pdftex.def Info: images/myanmar/Image2.jpg used on input line 1906.
 (pdftex.def)             Requested size: 433.62pt x 256.51266pt.
 
-<images/myanmar/Image3.jpg, id=1996, 156.585pt x 324.21124pt>
+<images/myanmar/Image3.jpg, id=954, 156.585pt x 324.21124pt>
 File: images/myanmar/Image3.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image3.jpg>
-Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1805.
+Package pdftex.def Info: images/myanmar/Image3.jpg used on input line 1913.
 (pdftex.def)             Requested size: 216.81pt x 448.9258pt.
- [98] [99 <./images/myanmar/Image1.jpg>]
-[100 <./images/myanmar/Image2.jpg>] [101 <./images/myanmar/Image3.jpg>]
+
+
+LaTeX Warning: Reference `ch:floodpulse' on page 108 undefined on input line 19
+17.
+
+[108] [109 <./images/myanmar/Image1.jpg>] [110 <./images/myanmar/Image2.jpg>]
+[111 <./images/myanmar/Image3.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102]
-<images/myanmar/Image4.jpg, id=2021, 284.06125pt x 178.6675pt>
+ [112]
+<images/myanmar/Image4.jpg, id=982, 284.06125pt x 178.6675pt>
 File: images/myanmar/Image4.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image4.jpg>
-Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1832.
+Package pdftex.def Info: images/myanmar/Image4.jpg used on input line 1940.
 (pdftex.def)             Requested size: 433.62pt x 272.76332pt.
- [103] [104 <./images/myanmar/Image4.jpg>]
-<images/myanmar/Image5.jpg, id=2032, 301.125pt x 168.63pt>
+ [113] [114 <./images/myanmar/Image4.jpg>]
+<images/myanmar/Image5.jpg, id=995, 301.125pt x 168.63pt>
 File: images/myanmar/Image5.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image5.jpg>
-Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1839.
+Package pdftex.def Info: images/myanmar/Image5.jpg used on input line 1947.
 (pdftex.def)             Requested size: 433.62pt x 242.85016pt.
 
 Underfull \vbox (badness 5345) has occurred while \output is active []
 
- [105 <./images/myanmar/Image5.jpg>]
-<images/myanmar/Image6.jpg, id=2038, 568.1225pt x 324.21124pt>
+ [115 <./images/myanmar/Image5.jpg>]
+<images/myanmar/Image6.jpg, id=1001, 568.1225pt x 324.21124pt>
 File: images/myanmar/Image6.jpg Graphic file (type jpg)
 
 <use images/myanmar/Image6.jpg>
-Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1848.
+Package pdftex.def Info: images/myanmar/Image6.jpg used on input line 1956.
 (pdftex.def)             Requested size: 433.62pt x 247.46178pt.
- [106 <./images/myanmar/Image6.jpg>] [107]
-[108
+ [116 <./images/myanmar/Image6.jpg>] [117]
+[118
 
 ]
 Chapter 13.
-[109]
+
+Package natbib Warning: Citation `warren2018typhoons' on page 119 undefined on 
+input line 1997.
+
+
+Package natbib Warning: Citation `warren2018typhoons' on page 119 undefined on 
+input line 1997.
+
+
+Package natbib Warning: Citation `ventura2016small' on page 119 undefined on in
+put line 1998.
+
+
+Package natbib Warning: Citation `ventura2016small' on page 119 undefined on in
+put line 1998.
+
+
+Package natbib Warning: Citation `ventura2016small' on page 119 undefined on in
+put line 1998.
+
+
+Package natbib Warning: Citation `ventura2016small' on page 119 undefined on in
+put line 1998.
+
+
+Package natbib Warning: Citation `ventura2016small' on page 119 undefined on in
+put line 1998.
+
+
+Package natbib Warning: Citation `klock1995agricultural' on page 119 undefined 
+on input line 1998.
+
+
+Package natbib Warning: Citation `davis2002late' on page 119 undefined on input
+ line 1999.
+
+
+Package natbib Warning: Citation `warren2018typhoons' on page 119 undefined on 
+input line 2000.
+
+
+Package natbib Warning: Citation `warren2018typhoons' on page 119 undefined on 
+input line 2001.
+
+
+Package natbib Warning: Citation `warren2018typhoons' on page 119 undefined on 
+input line 2001.
+
+[119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [110]
-<images/tropical-cyclones/boat.jpg, id=2092, 938.00438pt x 301.8778pt>
+ [120]
+<images/tropical-cyclones/boat.jpg, id=1033, 938.00438pt x 301.8778pt>
 File: images/tropical-cyclones/boat.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/boat.jpg>
-Package pdftex.def Info: images/tropical-cyclones/boat.jpg used on input line 1
-903.
+Package pdftex.def Info: images/tropical-cyclones/boat.jpg used on input line 2
+011.
 (pdftex.def)             Requested size: 433.62pt x 139.5518pt.
- [111]
-<images/tropical-cyclones/reliefchart.jpg, id=2101, 551.05875pt x 345.54094pt>
+
+
+LaTeX Warning: Reference `fig:figure-1' on page 121 undefined on input line 201
+7.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 121 undefined on inp
+ut line 2021.
+
+[121]
+<images/tropical-cyclones/reliefchart.jpg, id=1040, 551.05875pt x 345.54094pt>
 File: images/tropical-cyclones/reliefchart.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/reliefchart.jpg>
 Package pdftex.def Info: images/tropical-cyclones/reliefchart.jpg used on input
- line 1917.
+ line 2025.
 (pdftex.def)             Requested size: 433.62pt x 271.90929pt.
- [112 <./images/tropical-cyclones/boat.jpg>] [113 <./images/tropical-cyclones/r
-eliefchart.jpg>]
-<images/tropical-cyclones/povertystatus.jpg, id=2131, 620.3175pt x 533.74406pt>
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2031.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2031.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2031.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2032.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2032.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2033.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2033.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2034.
+
+
+Package natbib Warning: Citation `bowen2015social' on page 122 undefined on inp
+ut line 2034.
+
+[122 <./images/tropical-cyclones/boat.jpg>] [123 <./images/tropical-cyclones/re
+liefchart.jpg>]
+<images/tropical-cyclones/povertystatus.jpg, id=1052, 620.3175pt x 533.74406pt>
 File: images/tropical-cyclones/povertystatus.jpg Graphic file (type jpg)
 <use images/tropical-cyclones/povertystatus.jpg>
 Package pdftex.def Info: images/tropical-cyclones/povertystatus.jpg used on inp
-ut line 1933.
+ut line 2041.
 (pdftex.def)             Requested size: 227.62083pt x 195.85335pt.
- [114]
-Underfull \vbox (badness 7151) has occurred while \output is active []
 
- [115 <./images/tropical-cyclones/povertystatus.jpg>]
-<images/tropical-cyclones/cycloneanatomy.jpg, id=2167, 602.25pt x 409.53pt>
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2048.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2048.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2049.
+
+
+Package natbib Warning: Citation `williams2007lesson' on page 124 undefined on 
+input line 2049.
+
+
+Package natbib Warning: Citation `williams2007lesson' on page 124 undefined on 
+input line 2049.
+
+
+Package natbib Warning: Citation `williams2007lesson' on page 124 undefined on 
+input line 2049.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2049.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2049.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2050.
+
+
+Package natbib Warning: Citation `king2010disaster' on page 124 undefined on in
+put line 2050.
+
+[124]
+Underfull \vbox (badness 2119) has occurred while \output is active []
+
+ [125 <./images/tropical-cyclones/povertystatus.jpg>]
+<images/tropical-cyclones/cycloneanatomy.jpg, id=1064, 602.25pt x 409.53pt>
 File: images/tropical-cyclones/cycloneanatomy.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/cycloneanatomy.jpg>
 Package pdftex.def Info: images/tropical-cyclones/cycloneanatomy.jpg used on in
-put line 1955.
+put line 2063.
 (pdftex.def)             Requested size: 227.62596pt x 154.78566pt.
 
-Overfull \hbox (134.49286pt too wide) in paragraph at lines 1960--1962
+
+Package natbib Warning: Citation `emanuel1987dependence' on page 126 undefined 
+on input line 2068.
+
+
+Package natbib Warning: Citation `emanuel2006hurricanes' on page 126 undefined 
+on input line 2068.
+
+
+Overfull \hbox (134.49286pt too wide) in paragraph at lines 2068--2070
 \T1/cmtt/m/n/10 researchgate . net / figure / Carnot-[]cycle-[]Figure-[]5-[]Str
 ucture-[]of-[]a-[]hurricane-[]Air-[]is-[]cooled-[]through-[]convection-[]by _
  []
 
-[116]
-<images/tropical-cyclones/carnotcycle.jpg, id=2181, 771.63281pt x 523.9575pt>
+[126]
+
+Package natbib Warning: Citation `emanuel2006hurricanes' on page 127 undefined 
+on input line 2073.
+
+<images/tropical-cyclones/carnotcycle.jpg, id=1074, 771.63281pt x 523.9575pt>
 File: images/tropical-cyclones/carnotcycle.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/carnotcycle.jpg>
 Package pdftex.def Info: images/tropical-cyclones/carnotcycle.jpg used on input
- line 1969.
+ line 2077.
 (pdftex.def)             Requested size: 341.4269pt x 231.83719pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117 <./images/tropical-cyclones/cycloneanatomy.jpg>]
-<images/tropical-cyclones/climatemodel.jpg, id=2203, 457.71pt x 435.87843pt>
+Package natbib Warning: Citation `emanuel2005increasing' on page 127 undefined 
+on input line 2082.
+
+
+Package natbib Warning: Citation `emanuel2005increasing' on page 127 undefined 
+on input line 2084.
+
+
+Package natbib Warning: Citation `zhang2017response' on page 127 undefined on i
+nput line 2085.
+
+
+Package natbib Warning: Citation `emanuel2013downscaling' on page 127 undefined
+ on input line 2085.
+
+
+Package natbib Warning: Citation `chen2021typhoons' on page 127 undefined on in
+put line 2085.
+
+
+Package natbib Warning: Citation `noaaclimate.gov' on page 127 undefined on inp
+ut line 2085.
+
+[127 <./images/tropical-cyclones/cycloneanatomy.jpg>]
+<images/tropical-cyclones/climatemodel.jpg, id=1082, 457.71pt x 435.87843pt>
 File: images/tropical-cyclones/climatemodel.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/climatemodel.jpg>
 Package pdftex.def Info: images/tropical-cyclones/climatemodel.jpg used on inpu
-t line 1981.
+t line 2089.
 (pdftex.def)             Requested size: 227.61826pt x 216.76146pt.
- [118 <./images/tropical-cyclones/carnotcycle.jpg>]
-<images/tropical-cyclones/pdigraph.jpg, id=2229, 532.23843pt x 424.58624pt>
+
+
+Package natbib Warning: Citation `noaaclimate.gov' on page 128 undefined on inp
+ut line 2094.
+
+
+Package natbib Warning: Citation `emanuel2013downscaling' on page 128 undefined
+ on input line 2097.
+
+
+Package natbib Warning: Citation `chen2021typhoons' on page 128 undefined on in
+put line 2097.
+
+
+Package natbib Warning: Citation `zhang2017response' on page 128 undefined on i
+nput line 2097.
+
+
+Package natbib Warning: Citation `emanuel2013downscaling' on page 128 undefined
+ on input line 2097.
+
+
+Package natbib Warning: Citation `chen2021typhoons' on page 128 undefined on in
+put line 2097.
+
+
+Package natbib Warning: Citation `emanuel1987dependence' on page 128 undefined 
+on input line 2097.
+
+[128 <./images/tropical-cyclones/carnotcycle.jpg>]
+<images/tropical-cyclones/pdigraph.jpg, id=1088, 532.23843pt x 424.58624pt>
 File: images/tropical-cyclones/pdigraph.jpg Graphic file (type jpg)
 
 <use images/tropical-cyclones/pdigraph.jpg>
 Package pdftex.def Info: images/tropical-cyclones/pdigraph.jpg used on input li
-ne 1993.
+ne 2101.
 (pdftex.def)             Requested size: 227.6155pt x 181.57729pt.
- [119 <./images/tropical-cyclones/climatemodel.jpg>] [120 <./images/tropical-cy
+ [129 <./images/tropical-cyclones/climatemodel.jpg>] [130 <./images/tropical-cy
 clones/pdigraph.jpg>]
 Chapter 14.
-[121
+[131
 
-] [122
+] [132
 
 ]
 Chapter 15.
-[123] [124
+[133] [134
 
 ]
 Chapter 16.
 
-Overfull \hbox (4.61096pt too wide) in paragraph at lines 2123--2124
+Overfull \hbox (4.61096pt too wide) in paragraph at lines 2231--2232
 [][][]$\T1/cmtt/m/n/10 https : / / www . dw . com / en / whose-[]fault-[]is-[]p
 lastic-[]waste-[]in-[]the-[]ocean / a-[]49745660$[][] \T1/cmr/m/n/10 (found
  []
 
-[125]
-Overfull \hbox (54.76465pt too wide) in paragraph at lines 2147--2148
+[135]
+Overfull \hbox (54.76465pt too wide) in paragraph at lines 2255--2256
 [][][]$\T1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 10
  . 1002 / 1099-[]1522(200003 / 04 ) 13 : 2 % 3C45 :: AID-[]PTS496 %
  []
 
-[126] [127
+[136] [137
 
 
-] [128]
+] [138]
 No file Environmental_Science_in_East_Asia.gls.
-(./Environmental_Science_in_East_Asia.bbl [129] [130
+(./Environmental_Science_in_East_Asia.bbl [139] [140
 
 ]
-Underfull \hbox (badness 1082) in paragraph at lines 8--13
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
+[]\T1/cmr/m/n/10 2020.  Man-ag-ing In-va-sive Species in Se-lected For-est Ecos
+ys-tems of South
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
+\T1/cmr/m/n/10 East Asia.  CAB In-ter-na-tional.  URL [][]$\T1/cmtt/m/n/10 http
+s : / / www . cabi . org / projects /
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 22--27
 []\T1/cmr/m/n/10 Almond, G. M., R.E.A. and T. Pe-tersen. 2020.  Liv-ing planet 
 re-port 2020 bend-ing the
  []
 
 
-Overfull \hbox (9.30084pt too wide) in paragraph at lines 15--21
+Overfull \hbox (9.30084pt too wide) in paragraph at lines 29--35
 \T1/cmtt/m/n/10 marine-[]science-[]healthy-[]reefs-[]and-[]resilient-[]communit
 ies-[]21-[]years-[]coremap-[]indonesia$[][]\T1/cmr/m/n/10 . 
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 30--36
+Underfull \hbox (badness 3407) in paragraph at lines 55--61
 []\T1/cmr/m/n/10 Beck, M. 2019.  Coral reefs pro-vide flood pro-tec-tion worth 
 $1.8 bil-lion ev-ery year-
  []
 
 
-Overfull \hbox (96.28033pt too wide) in paragraph at lines 30--36
+Overfull \hbox (96.28033pt too wide) in paragraph at lines 55--61
 \T1/cmtt/m/n/10 coral-[]reefs-[]provide-[]flood-[]protection-[]worth-[]1-[]8-[]
 billion-[]every-[]year-[]its-[]time-[]to-[]protect-[]them-[]116636$[][]\T1/cmr/
 m/n/10 . 
@@ -2054,8 +3186,8 @@ m/n/10 .
 
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
- [131]
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
+ [141]
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
 []\T1/cmr/m/n/10 CORAL. 2021.  Coral reef ecol-ogy.  URL [][]$\T1/cmtt/m/n/10 h
 ttps : / / coral . org / coral-[]reefs-[]101 /
  []
@@ -2063,29 +3195,32 @@ ttps : / / coral . org / coral-[]reefs-[]101 /
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132]
+ [142]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [133]
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
+ [143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144]
+Underfull \hbox (badness 10000) in paragraph at lines 325--330
 []\T1/cmr/m/n/10 Pearce, F. 2003.  Cyanide: an easy but deadly way to catch fis
 h.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
+Underfull \hbox (badness 10000) in paragraph at lines 325--330
 \T1/cmr/m/n/10 World Wildlife Foun-da-tion.  URL [][]$\T1/cmtt/m/n/10 https : /
  / wwf . panda . org / wwf _ news / ?5563 /
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 289--294
+Underfull \hbox (badness 1701) in paragraph at lines 367--372
 \T1/cmr/m/n/10 ing corals to mi-croplas-tic ex-po-sure.  En-vi-ron-men-tal Pol-
 lu-tion, \T1/cmr/bx/n/10 237\T1/cmr/m/n/10 :955 -- 960.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--294
+Underfull \hbox (badness 10000) in paragraph at lines 367--372
 [][]$\T1/cmtt/m/n/10 http : / / search . ebscohost . com . ccl . idm . oclc . o
 rg / login . aspx ? direct = true&AuthType =
  []
@@ -2093,77 +3228,98 @@ rg / login . aspx ? direct = true&AuthType =
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134]
-Underfull \hbox (badness 10000) in paragraph at lines 296--301
+ [145]
+Underfull \hbox (badness 10000) in paragraph at lines 374--379
 \T1/cmtt/m/n/10 ccl . idm . oclc . org / login . aspx ? direct = true&AuthType 
 = sso&db = 8gh&AN = 9703130241&site =
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 303--308
+Underfull \hbox (badness 3189) in paragraph at lines 387--392
 []\T1/cmr/m/n/10 Scott, C. 2018.  Ar-ti-fi-cial reefs: What works and what does
 -n’t.  New Heaven
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 319--325
+Underfull \hbox (badness 2717) in paragraph at lines 415--421
 \T1/cmr/m/n/10 tinel is-land.  Forbes.  URL [][]$\T1/cmtt/m/n/10 https : / / ww
 w . forbes . com / sites / kionasmith / 2018 / 11 / 30 /
  []
 
 
-Overfull \hbox (15.04956pt too wide) in paragraph at lines 319--325
+Overfull \hbox (15.04956pt too wide) in paragraph at lines 415--421
 \T1/cmtt/m/n/10 everything-[]we-[]know-[]about-[]the-[]isolated-[]sentinelese-[
 ]people-[]of-[]north-[]sentinel-[]island/$[][]\T1/cmr/m/n/10 . 
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 355--360
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146]
+Underfull \hbox (badness 2564) in paragraph at lines 458--463
 []\T1/cmr/m/n/10 Todd, P. A., O. Xueyuan, and C. Loke Ming. 2010.  Im-pacts of 
 pol-lu-tion on ma-
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 355--360
+Underfull \hbox (badness 3482) in paragraph at lines 458--463
 \T1/cmr/m/n/10 rine life in south-east asia.  Bio-di-ver-sity & Con-ser-va-tion
 , \T1/cmr/bx/n/10 19\T1/cmr/m/n/10 :1063 -- 1082.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--360
+Underfull \hbox (badness 10000) in paragraph at lines 458--463
 [][]$\T1/cmtt/m/n/10 http : / / search . ebscohost . com . ccl . idm . oclc . o
 rg / login . aspx ? direct = true&AuthType =
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 362--365
+Underfull \hbox (badness 1728) in paragraph at lines 465--468
 []\T1/cmr/m/n/10 US EPA, O. 2017.  Threats to coral reefs.  URL [][]$\T1/cmtt/m
 /n/10 https : / / www . epa . gov / coral-[]reefs /
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [135]
-Underfull \hbox (badness 10000) in paragraph at lines 387--392
+Underfull \hbox (badness 10000) in paragraph at lines 497--502
 \T1/cmtt/m/n/10 login . aspx ? direct = true&AuthType = sso&db = 8gh&AN = 14551
 4965&site = ehost-[]live&scope =
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147])
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2276.
+[148]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2276.
+ (./Environmental_Science_in_East_Asia.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2168.
- [136]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2168.
- (./Environmental_Science_in_East_Asia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2168.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2168.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2276.
 
-Package rerunfilecheck Info: File `Environmental_Science_in_East_Asia.out' has 
-not changed.
-(rerunfilecheck)             Checksum: A4205FF57B91C77CFDFB4DE7988EF334;13886.
 
+
+Package rerunfilecheck Warning: File `Environmental_Science_in_East_Asia.out' h
+as changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Environmental_Science_in_East_Asia.
+out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  29DC3E7617B1E0A4F3AAF2EB3E4FD102;14246.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
@@ -2171,13 +3327,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 1000 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 30742 strings out of 494820
- 577863 string characters out of 3178050
- 649714 words of memory out of 3000000
- 32754 multiletter control sequences out of 15000+200000
- 49074 words of font info for 138 fonts, out of 3000000 for 9000
+ 30693 strings out of 494820
+ 578391 string characters out of 3178050
+ 633590 words of memory out of 3000000
+ 32667 multiletter control sequences out of 15000+200000
+ 48293 words of font info for 137 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 56i,11n,73p,3632b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,73p,3632b,1188s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
 r-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
 nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
@@ -2195,36 +3351,35 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
-per/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfb
-x2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
-frm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl0700.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/cm-super/sftt1000.pfb>
-Output written on Environmental_Science_in_East_Asia.pdf (160 pages, 15882510 b
+texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
+per/sfbx2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfb
+x2488.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1000.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2074
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl0700.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/cm-super/sftt1000.pfb>
+Output written on Environmental_Science_in_East_Asia.pdf (168 pages, 25674041 b
 ytes).
 PDF statistics:
- 2644 PDF objects out of 2984 (max. 8388607)
- 2324 compressed objects within 24 object streams
- 524 named destinations out of 1000 (max. 500000)
- 1657 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1615 PDF objects out of 1728 (max. 8388607)
+ 1308 compressed objects within 14 object streams
+ 563 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

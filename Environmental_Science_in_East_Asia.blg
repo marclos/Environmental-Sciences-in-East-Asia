@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
+The style file: ecology.bst
+Database file #1: References.bib
+Warning--to sort, need author, editor, or key in cabi2021
+Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
+while executing---line 1402 of file ecology.bst
+Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
+while executing---line 1402 of file ecology.bst
+Warning--to sort, need author, editor, or key in cabi2020
+Warning--empty author and editor in cabi2020
+Warning--empty author and editor in cabi2021
+Warning--empty publisher in RAR
+Warning--empty journal in nationalwildlifefederation2021
+Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
+while executing---line 1492 of file ecology.bst
+Name 1 in "Frazier, Ian, and Steffens, Gena" has a comma at the end for entry frazier2019thesnakes
+while executing---line 1492 of file ecology.bst
+Warning--empty year in noaaclimate.gov; set to ????
+Warning--empty publisher in norton2004strange
+Warning--empty publisher in coraltriangle
+Warning--empty publisher in Watlas
+You've used 76 entries,
+            2710 wiz_defined-function locations,
+            1047 strings with 20223 characters,
+and the built_in function-call counts, 35481 in all, are:
+= -- 3325
+> -- 1822
+< -- 51
++ -- 627
+- -- 534
+* -- 2682
+:= -- 6615
+add.period$ -- 336
+call.type$ -- 76
+change.case$ -- 545
+chr.to.int$ -- 75
+cite$ -- 90
+duplicate$ -- 1617
+empty$ -- 2502
+format.name$ -- 700
+if$ -- 7024
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 79
+newline$ -- 418
+num.names$ -- 296
+pop$ -- 726
+preamble$ -- 1
+purify$ -- 482
+quote$ -- 0
+skip$ -- 1004
+stack$ -- 0
+substring$ -- 1754
+swap$ -- 144
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 642
+warning$ -- 10
+while$ -- 279
+width$ -- 0
+write$ -- 1019
+(There were 4 error messages)

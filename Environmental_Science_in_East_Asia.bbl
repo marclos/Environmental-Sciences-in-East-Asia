@@ -1,8 +1,22 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{76}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{cab(2020)}]{cabi2020}
+ 2020.
+\newblock Managing Invasive Species in Selected Forest Ecosystems of South East
+  Asia.
+\newblock CAB International.
+\newblock
+  \urlprefix\url{https://www.cabi.org/projects/managing-invasive-species-in-selected-forest-ecosystems-of-south-east-asia/}.
+
+\bibitem[{cab(2021)}]{cabi2021}
+ 2021.
+\newblock Pomacea Canaliculata (Golden Apple Snail).
+\newblock CAB International.
+\newblock \urlprefix\url{https://www.cabi.org/isc/datasheet/68490}.
 
 \bibitem[{Almond and Petersen(2020)}]{wwfindex}
 Almond, G.~M., R.E.A. and T.~Petersen. 2020.
@@ -19,12 +33,23 @@ Aquino, A. and D.~Kaczan. 2019.
 \newblock
   \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
 
+\bibitem[{Attenborough(2020)}]{Attenborough2020life}
+Attenborough, D. 2020.
+\newblock A Life on Our Planet: My Witness Statement and a Vision for the
+  Future.
+\newblock Random House.
+
 \bibitem[{Ayala(2009)}]{Ayala_2009}
 Ayala, C. 2009.
 \newblock Effects of ocean acidification on corals.
 \newblock Oceana USA.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Baldwin(2010)}]{Baldwin2010great}
+Baldwin, A. 2010.
+\newblock Great Migrations: Born To Move.
+\newblock Disney Plus.
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -49,6 +74,11 @@ Brandl, S.~J., D.~B. Rasher, I.~M. Côté, J.~M. Casey, E.~S. Darling, J.~S.
 \newblock Frontiers in Ecology and the Environment, {\bf 17}:445--454.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.2088}.
+
+\bibitem[{Brooker et~al.(2017)Brooker, Widmaier, Graham, and
+  Stiling}]{brooker_2017chapter}
+Brooker, R., E.~Widmaier, L.~Graham, and P.~Stiling. 2017.
+\newblock Chapter 60: Biodiversity and conservation biology.
 
 \bibitem[{Bruckner(2002)}]{AndrewWBruckner_1970}
 Bruckner, A.~W. 2002.
@@ -79,6 +109,13 @@ Capistrano, R. C.~G. 2010.
 \newblock Marine Policy, {\bf 34}:453--460.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48260001&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Carlsson et~al.(2004)Carlsson, Br{\"o}nmark, and
+  Hansson}]{carlsson2004invading}
+Carlsson, N.~O., C.~Br{\"o}nmark, and L.-A. Hansson. 2004.
+\newblock Invading herbivory: the golden apple snail alters ecosystem
+  functioning in asian wetlands.
+\newblock Ecology, {\bf 85}:1575--1580.
 
 \bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and
   Li}]{https://doi.org/10.1029/2018JC014534}
@@ -139,6 +176,12 @@ Fabinyi, M. 2010.
 \newblock Human Ecology, {\bf 38}:415--427.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
 
+\bibitem[{Federation(2021)}]{nationalwildlifefederation2021}
+Federation, N.~W. 2021.
+\newblock The great lakes.
+\newblock
+  \urlprefix\url{https://www.nwf.org/Educational-Resources/Wildlife-Guide/Wild-Places/Great-Lakes}.
+
 \bibitem[{Fox and
   Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
 Fox, H.~E. and R.~L. Caldwell. 2006.
@@ -146,6 +189,11 @@ Fox, H.~E. and R.~L. Caldwell. 2006.
 \newblock Ecological Applications, {\bf 16}:1631--1635.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
+
+\bibitem[{Frazier and Steffens(2019)}]{frazier2019thesnakes}
+Frazier, I. and G.~Steffens. 2019.
+\newblock The snakes that ate florida.
+\newblock Smithsonian Magazine.
 
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
@@ -167,6 +215,11 @@ Institute~of Botany, C. A. o.~S. 2021.
   sensitivity of soil organic matter decomposition in alpine grasslands.
 \newblock
   \urlprefix\url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
+
+\bibitem[{Keddy(2001)}]{Keddy2001competition}
+Keddy, P.~A. 2001.
+\newblock The Competition.
+\newblock Kluwer Academic Publishers.
 
 \bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
   Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
@@ -190,6 +243,13 @@ Klock, J.~S. 1995.
 \newblock Agricultural and forest policies of the american colonial regime in
   ifugao territory, luzon, philippines, 1901-1945.
 \newblock Philippine quarterly of culture and society, {\bf 23}:3--19.
+
+\bibitem[{Lanting(2021)}]{lanting_2021}
+Lanting, F. 2021.
+\newblock Grasshoppers.
+\newblock National Geographic.
+\newblock
+  \urlprefix\url{https://www.nationalgeographic.org/encyclopedia/biodiversity/}.
 
 \bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
 Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
@@ -250,6 +310,12 @@ NOAA. 2019{\natexlab{{\em b\/}}}.
 \newblock
   \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
 
+\bibitem[{Norton(2004)}]{norton2004strange}
+Norton, E. 2004.
+\newblock Strange Days on Planet Earth: Invaders.
+\newblock
+  \urlprefix\url{http://www.infocobuild.com/books-and-films/nature/strange-days-on-planet-earth.html}.
+
 \bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
   Matillano}]{coraltriangle}
 Palma, J., J.~Manula, J.~P. Gaudiano, and M.~Matillano. 2014.
@@ -261,6 +327,11 @@ Pearce, F. 2003.
 \newblock World Wildlife Foundation.
 \newblock
   \urlprefix\url{https://wwf.panda.org/wwf_news/?5563/Cyanide-an-easy-but-deadly-way-to-catch-fish}.
+
+\bibitem[{Peh(2010)}]{peh2010invasive}
+Peh, K. S.-H. 2010.
+\newblock Invasive species in southeast asia: the knowledge so far.
+\newblock Biodiversity and Conservation, {\bf 19}:1083--1099.
 
 \bibitem[{Pelton(2017)}]{Pelton_2017}
 Pelton, B. 2017.
@@ -275,6 +346,13 @@ Persoon, G.~A. and T.~Minter. 2020.
 \newblock Sustainability, {\bf 12}:1--23.
 \newblock
   \urlprefix\url{https://ideas.repec.org/a/gam/jsusta/v12y2020i19p7983-d420111.html}.
+
+\bibitem[{Pimm(2020)}]{britannica2020conservation}
+Pimm, S.~L. 2020.
+\newblock Conservation.
+\newblock Encyclopaedia Britannica, Inc.
+\newblock
+  \urlprefix\url{https://www.britannica.com/science/conservation-ecology}.
 
 \bibitem[{Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
   Yang}]{Qineaau1218}
@@ -299,12 +377,24 @@ Renaud, C. 1997.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
 
+\bibitem[{Rodda and Savidge(2007)}]{rodda2007biology}
+Rodda, G.~H. and J.~A. Savidge. 2007.
+\newblock Biology and impacts of pacific island invasive species. 2. boiga
+  irregularis, the brown tree snake (reptilia: Colubridae) 1.
+\newblock Pacific Science, {\bf 61}:307--324.
+
 \bibitem[{Scott(2018)}]{areef}
 Scott, C. 2018.
 \newblock Artificial reefs: What works and what doesn’t.
 \newblock New Heaven Reef Conservation Program.
 \newblock
   \urlprefix\url{https://newheavenreefconservation.org/marine-blog/147-artificial-reefs-what-works-and-what-doesn-t}.
+
+\bibitem[{Scott and Isang(2020)}]{scott2020}
+Scott, C. and M.~Isang. 2020.
+\newblock So great, so fragile: Great lakes, lake michigan health depend on
+  keeping invasive species out.
+\newblock abc7 chicago.
 
 \bibitem[{Shafir et~al.(2007)Shafir, Van~Rijn, and
   Rinkevich}]{2615280620070801}
@@ -314,6 +404,12 @@ Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
 \newblock Environmental Science \& Technology, {\bf 41}:5571 -- 5574.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=26152806&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Singh et~al.(2016)Singh, Bhatt, Sethi, and Dadwal}]{singh2016nesting}
+Singh, A., D.~Bhatt, V.~K. Sethi, and N.~Dadwal. 2016.
+\newblock Nesting success of the oriental magpie robin copsychus saularis in
+  nest boxes and tree cavities.
+\newblock Wildlife Biology, {\bf 22}:277--283.
 
 \bibitem[{Smith(2018)}]{Smith}
 Smith, K.~N. 2018.
@@ -335,6 +431,13 @@ Spalding, M., L.~Burke, S.~A.Wood, J.~Ashpole, J.~Hutchisone, and P.~Ermgassen.
   2017.
 \newblock Mapping the global value and distribution of coral reef tourism.
 \newblock Marine Policy, {\bf 82}:104--113.
+
+\bibitem[{Steininger et~al.(2013)Steininger, Wright, Ding, and
+  Wheeler}]{steininger2013biology}
+Steininger, M., S.~Wright, J.~Ding, and G.~Wheeler. 2013.
+\newblock Biology and host range of heterapoderopsis bicallosicollis: a
+  potential biological control agent for chinese tallow triadica sebifera.
+\newblock Biocontrol Science and Technology, {\bf 23}:816--828.
 
 \bibitem[{Suggett and Smith(2020)}]{https://doi.org/10.1111/gcb.14871}
 Suggett, D.~J. and D.~J. Smith. 2020.
@@ -368,6 +471,13 @@ Ventura, T. 2016.
 \newblock From small farms to progressive plantations: the trajectory of land
   reform in the american colonial philippines, 1900--1916.
 \newblock Agricultural History, {\bf 90}:459--483.
+
+\bibitem[{Vincent et~al.(2007)Vincent, Goettel, and
+  Lazarovits}]{vincent2007biological}
+Vincent, C., M.~S. Goettel, and G.~Lazarovits. 2007.
+\newblock Biological control: a global perspective: case studies from around
+  the world.
+\newblock Cabi.
 
 \bibitem[{Warren(2018)}]{warren2018typhoons}
 Warren, J.~F. 2018.
