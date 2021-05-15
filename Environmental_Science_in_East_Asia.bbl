@@ -1,9 +1,177 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{65}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[()]{}
+
+
+\bibitem[wor()]{worldbank}
+A low-priced water reuse process that also delivers renewable energy in rural
+  areas.
+\newblock URL
+  \url{https://blogs.worldbank.org/water/low-priced-water-reuse-process-also-delivers-renewable-energy-rural-areas}.
+
+\bibitem[bbc(2019)]{bbc_news_2019}
+Taiwan country profile, Feb 2019.
+\newblock URL \url{https://www.bbc.com/news/world-asia-16164639}.
+
+\bibitem[ACS()]{acs}
+ACS.
+\newblock \emph{ChemMatters Demystifying Everday Chemisty Teachers Guide}.
+
+\bibitem[Aguainc(2015)]{aguainc_2015}
+Aguainc.
+\newblock Turning dumps into oases-this startup is shaping the future of water
+  management - unreasonable, May 2015.
+\newblock URL \url{https://unreasonablegroup.com/articles/agua-inc/}.
+
+\bibitem[Akpan(2014)]{akpan_2014}
+Nsikan Akpan.
+\newblock Floating toilets that clean themselves grow on a lake, Dec 2014.
+\newblock URL
+  \url{http://www.npr.org/sections/goatsandsoda/2014/12/23/371862099/floating-toilets-that-clean-themselves-grow-on-a-lake.}
+
+\bibitem[Ali et~al.(2020)Ali, Abbas, Rizwan, Zaheer, Yava{\c{s}}, {\"U}nay,
+  Abdel-Daim, Bin-Jumah, Hasanuzzaman, and Kalderis]{ali2020application}
+Shafaqat Ali, Zohaib Abbas, Muhammad Rizwan, Ihsan~Elahi Zaheer, {\.I}lkay
+  Yava{\c{s}}, Ayd{\i}n {\"U}nay, Mohamed~M Abdel-Daim, May Bin-Jumah, Mirza
+  Hasanuzzaman, and Dimitris Kalderis.
+\newblock Application of floating aquatic plants in phytoremediation of heavy
+  metals polluted water: a review.
+\newblock \emph{Sustainability}, 12\penalty0 (5):\penalty0 1927, 2020.
+
+\bibitem[Andriani et~al.(2015)Andriani, Wresta, Saepudin, and
+  Prawara]{andriani2015review}
+Dian Andriani, Arini Wresta, Aep Saepudin, and Budi Prawara.
+\newblock A review of recycling of human excreta to energy through biogas
+  generation: Indonesia case.
+\newblock \emph{Energy Procedia}, 68:\penalty0 219--225, 2015.
+
+\bibitem[aquatech()]{aquatech}
+aquatech.
+\newblock Biogas: an untapped energy source to avert a climate crisis?
+\newblock URL
+  \url{https://www.aquatechtrade.com/news/wastewater/biogas-energy-source-to-avert-climate-change/}.
+
+\bibitem[Arshad(2016)]{arshad_2016}
+Arlina Arshad.
+\newblock 140m in se-asia do not have clean water, Nov 2016.
+\newblock URL
+  \url{https://www.straitstimes.com/asia/se-asia/140m-in-se-asia-do-not-have-clean-water}.
+
+\bibitem[Berendes et~al.(2018)Berendes, Yang, Lai, Hu, and
+  Brown]{berendes_yang_lai_hu_brown_2018}
+David~M. Berendes, Patricia~J. Yang, Amanda Lai, David Hu, and Joe Brown.
+\newblock Estimation of global recoverable human and animal faecal biomass, Nov
+  2018.
+\newblock URL \url{https://www.nature.com/articles/s41893-018-0167-0}.
+
+\bibitem[Bown()]{bown}
+Cathy Bown.
+\newblock Household hazardous products and hazardous waste: A summary for
+  consumers.
+
+\bibitem[Braungart et~al.(2011)Braungart, McDonough, and
+  Kroese]{braungart_mcdonough_kroese_2011}
+Michael Braungart, William McDonough, and Helen~Stenfert Kroese.
+\newblock \emph{Cradle to cradle: afval=voedsel}.
+\newblock Search Knowledge, 2011.
+
+\bibitem[Cole et~al.(2009)Cole, Phuc, and Collett]{cole_phuc_collett_2009}
+Ben Cole, Pham~Duc Phuc, and John Collett.
+\newblock A qualitative and physical investigation of a double-vault composting
+  latrine programme in northern vietnam.
+\newblock \emph{Waterlines}, 28\penalty0 (4):\penalty0 333–342, 2009.
+\newblock \doi{10.3362/1756-3488.2009.033}.
+
+\bibitem[EIA()]{eia}
+EIA.
+\newblock U.s. energy information administration - eia - independent statistics
+  and analysis.
+\newblock URL
+  \url{https://www.eia.gov/energyexplained/biomass/landfill-gas-and-biogas.php#:~:text=Biogas
+  is an energy-rich,and carbon dioxide (CO2).}
+
+\bibitem[Environmental and
+  (EESI)()]{environmental_and_energy_study_institute_(eesi)}
+Environmental and Energy Study~Institute (EESI).
+\newblock Fact sheet: Biogas: Converting waste to energy.
+\newblock URL
+  \url{https://www.eesi.org/papers/view/fact-sheet-biogasconverting-waste-to-energy}.
+
+\bibitem[epa()]{e_p_a}
+epa.
+\newblock Improvements to the u.s. wastewater methane and nitrous oxide
+  emissions estimates.
+\newblock \emph{U.S. Environmental Protection Agency}.
+
+\bibitem[EPA(2018)]{epa_2018}
+EPA.
+\newblock Reducing pfas in drinking water with treatment technologies, Dec
+  2018.
+\newblock URL
+  \url{https://www.epa.gov/sciencematters/reducing-pfas-drinking-water-treatment-technologies}.
+
+\bibitem[EPA(2020)]{epa_2020}
+EPA.
+\newblock Septic systems and drinking water, Aug 2020.
+\newblock URL
+  \url{https://www.epa.gov/septic/septic-systems-and-drinking-water}.
+
+\bibitem[FAO()]{fao}
+FAO.
+\newblock Food loss and food waste.
+\newblock URL
+  \url{http://www.fao.org/food-loss-and-food-waste/flw-data)#:~:text=One-third
+  of food produced,1.3 billion tonnes per year.}
+
+\bibitem[Fu et~al.(2017)Fu, Schleifer, and Zhong]{fu_schleifer_zhong_2017}
+Xiaotian Fu, Leah Schleifer, and Lijin Zhong.
+\newblock Wastewater: The best hidden energy source you've never heard of, Mar
+  2017.
+\newblock URL
+  \url{https://www.wri.org/insights/wastewater-best-hidden-energy-source-youve-never-heard}.
+
+\bibitem[Hersher(2019)]{hersher_2019}
+Rebecca Hersher.
+\newblock Scientists dig into hard questions about the fluorinated pollutants
+  known as pfas, Apr 2019.
+\newblock URL
+  \url{https://www.npr.org/sections/health-shots/2019/04/22/708863848/scientists-dig-into-hard-questions-about-the-fluorinated-pollutants-known-as-pfa}.
+
+\bibitem[Hubbard et~al.(2014)Hubbard, Hynes, Erlandson, and
+  Bailey]{hubbard2014biochemistry}
+Michelle Hubbard, Russell~K Hynes, Martin Erlandson, and Karen~L Bailey.
+\newblock The biochemistry behind biopesticide efficacy.
+\newblock \emph{Sustainable Chemical Processes}, 2\penalty0 (1):\penalty0 1--8,
+  2014.
+
+\bibitem[Hughes(2019)]{hughes_2019}
+Jon Hughes.
+\newblock Press release: Biogas can fill important place in climate emergency
+  agenda says un climate change, Jul 2019.
+\newblock URL
+  \url{https://www.worldbiogasassociation.org/press-release-biogas-can-fill-important-place-in-climate-emergency-agenda-says-un-climate-change/}.
+
+\bibitem[Hung et~al.(2007)Hung, Gong, Chen, Hsieh, Santschi, Wade, and
+  Sericano]{hung2007relationships}
+Chin-Chang Hung, Gwo-Ching Gong, Hung-Yu Chen, Hwey-Lian Hsieh, Peter~H
+  Santschi, Terry~L Wade, and Jose~L Sericano.
+\newblock Relationships between pesticides and organic carbon fractions in
+  sediments of the danshui river estuary and adjacent coastal areas of taiwan.
+\newblock \emph{Environmental Pollution}, 148\penalty0 (2):\penalty0 546--554,
+  2007.
+
+\bibitem[Huynh et~al.(2021)Huynh, Harada, Fujii, Nguyen, Hoang, and
+  Huynh]{huynh}
+Loi~Tan Huynh, Hidenori Harada, Shigeo Fujii, Lien Pham~Hong Nguyen,
+  Thu-Huong~Thi Hoang, and Hai~Trung Huynh.
+\newblock Greenhouse gas emissions from blackwater septic systems.
+\newblock \emph{Environmental science \& technology}, 55\penalty0 (2):\penalty0
+  1209--1217, 2021.
 
 \bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
 Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
@@ -18,16 +186,121 @@ Chinese Academy of~Sciences Institute~of Botany.
 \newblock URL
   \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
+\bibitem[IPEN()]{ipen}
+IPEN.
+\newblock Pfas.
+\newblock URL \url{https://ipen.org/tags/pfas}.
+
+\bibitem[Kaur(2020)]{kaur2020role}
+Leela Kaur.
+\newblock Role of phytoremediation strategies in removal of heavy metals.
+\newblock \emph{Emerging Issues in the Water Environment during Anthropocene},
+  pages 223--259, 2020.
+
+\bibitem[Kulkari()]{kulkari}
+B.V Kulkari.
+\newblock Phytoremediation process, water hyacinth, sewage treatment plants.
+\newblock URL
+  \url{https://www.fibre2fashion.com/industry-article/3390/phytoremediation-of-textile-process-effluent-by-using-water-hyacinth-a-polishing-treatment}.
+
+\bibitem[Land et~al.(2018)Land, De~Wit, Bignert, Cousins, Herzke, Johansson,
+  and Martin]{land2018effect}
+Magnus Land, Cynthia~A De~Wit, Anders Bignert, Ian~T Cousins, Dorte Herzke,
+  Jana~H Johansson, and Jonathan~W Martin.
+\newblock What is the effect of phasing out long-chain per-and polyfluoroalkyl
+  substances on the concentrations of perfluoroalkyl acids and their precursors
+  in the environment? a systematic review.
+\newblock \emph{Environmental Evidence}, 7\penalty0 (1):\penalty0 1--32, 2018.
+
 \bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
 Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
 \newblock Fifty years of groundwater science in korea: a review and
   perspective.
 \newblock \emph{Geosciences Journal}, 21\penalty0 (6):\penalty0 951--969, 2017.
 
+\bibitem[Liu()]{liu}
+C~Liu.
+\newblock Innovative sludge-to-energy plant makes a breakthrough in china.
+\newblock URL
+  \url{https://www.newsecuritybeat.org/2016/05/innovative-sludge-to-energy-plant-breakthrough-china/}.
+
 \bibitem[Los~Huertos(2018)]{LosHuertos2017OverviewR}
 Marc Los~Huertos.
 \newblock \emph{Overview of R}.
 \newblock Pomona College, 2018.
+
+\bibitem[MarketWatch(2021)]{marketwatch_2021}
+MarketWatch.
+\newblock Vietnam biopesticides market share ,size 2021 global opportunities,
+  trends, regional overview, global growth, leading company analysis, and key
+  country forecast to 2024, Apr 2021.
+\newblock URL
+  \url{https://www.marketwatch.com/press-release/vietnam-biopesticides-market-share-size-2021-global-opportunities-trends-regional-overview-global-growth-leading-company-analysis-and-key-country-forecast-to-2024-2021-04-06}.
+
+\bibitem[Matthew()]{matthew}
+Keegan Matthew.
+\newblock The rivers that 'breathe' greenhouse gases.
+\newblock URL
+  \url{https://www.bbc.com/future/article/20210323-climate-change-the-rivers-that-breathe-greenhouse-gases}.
+
+\bibitem[McCoy et~al.(2020)McCoy, Frank, et~al.]{mccoy2020organic}
+Tim McCoy, Daniel Frank, et~al.
+\newblock Organic vs. conventional (synthetic) pesticides: Advantages and
+  disadvantages.
+\newblock 2020.
+
+\bibitem[Ministry~of Foreign~Affairs()]{ministry_of_foreign_affairs}
+Republic of China~(Taiwan) Ministry~of Foreign~Affairs.
+\newblock Pesticide problems.
+
+\bibitem[Misachi(2018)]{misachi_2018}
+John Misachi.
+\newblock What percentage of the earth's water is drinkable?, Feb 2018.
+\newblock URL
+  \url{http://www.worldatlas.com/articles/what-percentage-of-the-earth-s-water-is-drinkable.html.}
+
+\bibitem[Mordor()]{mordor}
+Mordor.
+\newblock Asia-pacific biopesticides market: Share: Analysis (2020 - 2025).
+\newblock URL
+  \url{https://www.mordorintelligence.com/industry-reports/asia-pacific-biopesticides-market-industry}.
+
+\bibitem[Mustafa and Hayder(2020)]{mustafa2020recent}
+Hauwa~M Mustafa and Gasim Hayder.
+\newblock Recent studies on applications of aquatic weed plants in
+  phytoremediation of wastewater: A review article.
+\newblock \emph{Ain Shams Engineering Journal}, 2020.
+
+\bibitem[Nicolopoulou-Stamati et~al.(2016)Nicolopoulou-Stamati, Maipas,
+  Kotampasi, Stamatis, and Hens]{nicolopoulou2016chemical}
+Polyxeni Nicolopoulou-Stamati, Sotirios Maipas, Chrysanthi Kotampasi,
+  Panagiotis Stamatis, and Luc Hens.
+\newblock Chemical pesticides and human health: the urgent need for a new
+  concept in agriculture.
+\newblock \emph{Frontiers in public health}, 4:\penalty0 148, 2016.
+
+\bibitem[NZDL()]{nzdl}
+NZDL.
+\newblock URL
+  \url{http://www.nzdl.org/cgi-bin/library?e=d-00000-00---off-0cdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&cl=CL2.7&d=HASH01126ded49ea86cbd5af6b15.4.2.14%3E.}
+
+\bibitem[OregonState()]{oregonstate}
+OregonState.
+\newblock A. history of pesticide use.
+\newblock URL \url{http://people.oregonstate.edu/~muirp/pesthist.htm}.
+
+\bibitem[Pebler(2015)]{pebler}
+Paul~T Pebler.
+\newblock Double vault composting latrines in rural paraguay: Feasible
+  construction and optimal use.
+\newblock 2015.
+
+\bibitem[Perkins(2019)]{perkins_2019}
+T~Perkins.
+\newblock Biosolids: mix human waste with toxic chemicals, then spread on
+  crops, Oct 2019.
+\newblock URL
+  \url{https://www.theguardian.com/environment/2019/oct/05/biosolids-toxic-chemicals-pollution}.
 
 \bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
   Yang]{Qineaau1218}
@@ -38,6 +311,104 @@ Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
 \newblock \emph{Science Advances}, 5\penalty0 (7), 2019.
 \newblock \doi{10.1126/sciadv.aau1218}.
 \newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
+
+\bibitem[Sharma et~al.(2019)Sharma, Kumar, Thukral, and
+  Bhardwaj]{sharma2019responses}
+A~Sharma, V~Kumar, AK~Thukral, and R~Bhardwaj.
+\newblock Responses of plants to pesticide toxicity: An overview.
+\newblock \emph{Planta Daninha}, 37, 2019.
+
+\bibitem[Sharp and SharpReporter@5thEstate(2019)]{sharp_2019}
+Business Sharp and June 17th 2019~Morgan SharpReporter@5thEstate.
+\newblock What you should know about the circular economy, Nov 2019.
+\newblock URL
+  \url{https://www.nationalobserver.com/2019/06/17/news/what-you-should-know-about-circular-economy}.
+
+\bibitem[Smith()]{smith}
+P~Smith.
+\newblock 8: Agriculture.
+\newblock URL \url{https://www.ipcc.ch/report/ar4/wg3/agriculture/}.
+
+\bibitem[Stephenson and Black(2014)]{stephenson2014one}
+Chloe Stephenson and Colin~R Black.
+\newblock One step forward, two steps back: the evolution of phytoremediation
+  into commercial technologies.
+\newblock \emph{Bioscience Horizons: The International Journal of Student
+  Research}, 7, 2014.
+
+\bibitem[Supeck(2019)]{supeck_2019}
+Supeck.
+\newblock The history of the septic system, Oct 2019.
+\newblock URL
+  \url{https://supeckseptic.com/blog/the-history-of-the-septic-system/#:~:text=Jean%2DLouis%20Mouras%20invented%20the,emptied%20from%20time%20to%20time.}
+
+\bibitem[Thuy et~al.(2012)Thuy, Van~Geluwe, Nguyen, and Van~der
+  Bruggen]{thuy2012current}
+Pham~Thi Thuy, Steven Van~Geluwe, Viet-Anh Nguyen, and Bart Van~der Bruggen.
+\newblock Current pesticide practices and environmental issues in vietnam:
+  management challenges for sustainable use of pesticides for tropical crops in
+  (south-east) asia to avoid environmental pollution.
+\newblock \emph{Journal of Material Cycles and Waste Management}, 14\penalty0
+  (4):\penalty0 379--387, 2012.
+
+\bibitem[UN({\natexlab{a}})]{u-n}
+UN.
+\newblock Growing at a slower pace, world population is expected to reach 9.7
+  billion in 2050 and could peak at nearly 11 billion around 2100 | un desa
+  department of economic and social affairs, {\natexlab{a}}.
+
+\bibitem[UN({\natexlab{b}})]{un}
+UN.
+\newblock The dublin principles on water and the environment, {\natexlab{b}}.
+\newblock URL
+  \url{http://www.futurelearn.com/info/courses/sustainability-society-and-you/0/steps/4626.}
+
+\bibitem[UN({\natexlab{c}})]{united_nations}
+UN.
+\newblock Quality and wastewater: Un-water, {\natexlab{c}}.
+\newblock URL
+  \url{https://www.unwater.org/water-facts/quality-and-wastewater/#:~:text=Challenges%20and%20opportunities&amp;text=The%20availability%20of%20safe%20and,water%20resources%20around%20the%20world.}
+
+\bibitem[University()]{purdue}
+Purdue University.
+\newblock On-site wastewater disposal and public health.
+
+\bibitem[USGS()]{usgs}
+USGS.
+\newblock URL
+  \url{http://www.usgs.gov/special-topic/water-science-school/science/a-visit-a-wastewater-treatment-plant?qt-science_center_objects=0#qt-science_center_objects.}
+
+\bibitem[Usta(2013)]{usta2013microorganisms}
+Canan Usta.
+\newblock Microorganisms in biological pest control—a review (bacterial toxin
+  application and effect of environmental factors).
+\newblock In \emph{Current progress in biological research}, pages 287--317.
+  InTech Rijeka, 2013.
+
+\bibitem[Wetlands(2019)]{wetlands_2019}
+Wetlands.
+\newblock Floating villages and the handypod, May 2019.
+\newblock URL
+  \url{https://wetlandswork.com/products-and-services/sanitation-in-challenging-environments/handy-pods/}.
+
+\bibitem[WHO()]{who}
+WHO.
+\newblock 2.1 billion people lack safe drinking water at home, more than twice
+  as many lack safe sanitation.
+\newblock URL
+  \url{https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation}.
+
+\bibitem[wilkie()]{wilkie}
+wilkie.
+\newblock Frequently asked questions (biogas faq).
+\newblock URL \url{https://biogas.ifas.ufl.edu/FAQ.asp}.
+
+\bibitem[WRI(2015)]{wri_2015}
+WRI.
+\newblock Chinese cities begin turning sludge into energy, Dec 2015.
+\newblock URL
+  \url{https://www.wri.org/outcomes/chinese-cities-begin-turning-sludge-energy#:~:text=Sludge-to-energy
+  systems are,gas – all while saving money.}
 
 \bibitem[Xie(2021)]{knitr}
 Yihui Xie.

@@ -80,17 +80,29 @@
 \contentsline {chapter}{\numberline {11}Climate Infrastructure in Vietnam}{27}{chapter.11}
 \contentsline {section}{\numberline {11.1}Introductory}{27}{section.11.1}
 \contentsline {section}{\numberline {11.2}Conclusion}{27}{section.11.2}
-\contentsline {chapter}{\numberline {12}Waste Management for a Circular Economy}{29}{chapter.12}
-\contentsline {section}{\numberline {12.1}Life-Cycle}{29}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Collection}{29}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Transport}{29}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Biomimicry}{29}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Circularity}{29}{subsection.12.2.1}
-\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{31}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{31}{section.13.1}
-\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{31}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{31}{subsection.13.2.1}
-\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{31}{subsection.13.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{31}{section*.39}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{31}{section*.40}
-\contentsline {part}{I\hspace {1em}Backmatter}{33}{part.1}
+\contentsline {chapter}{\numberline {12}Wastewater Management for a Circular Economy}{29}{chapter.12}
+\contentsline {section}{\numberline {12.1}Overview}{29}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Linear Economy}{30}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Circular Economy}{30}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Water Is Life}{31}{section.12.2}
+\contentsline {section}{\numberline {12.3}Wastewater Systems}{31}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}Open Defecation: Linear}{31}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Septic Systems: Linear}{31}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Vietnam’s Double-Vault Latrine: A Circular Treatment Comparison To Septic Systems }{33}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.4}Municipal Utility Sewage Treatment: Linear}{35}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.5}The Anaerobic Digester and Biogas: Circular Sewage Treatment}{35}{subsection.12.3.5}
+\contentsline {subsection}{\numberline {12.3.6}Phytoremediation: Wastewater Circularity}{37}{subsection.12.3.6}
+\contentsline {section}{\numberline {12.4}Linear Chemicals in Wastewater: Pesticides in Taiwan}{39}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Pesticides in Taipei Food Toxicology: (further research is needed for drinking water)}{41}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}Circular Biopesticides: An Alternative To Hazardous Synthetic Pesticides}{42}{subsection.12.4.2}
+\contentsline {section}{\numberline {12.5}Further Research Needed: Linear Chemical Waste一``Forever Chemicals''}{43}{section.12.5}
+\contentsline {subsection}{\numberline {12.5.1}Household Products}{43}{subsection.12.5.1}
+\contentsline {section}{\numberline {12.6}Conclusion}{44}{section.12.6}
+\contentsline {chapter}{\numberline {13}Plastic and Packaging in Japan}{45}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introductiona and Goals?}{45}{section.13.1}
+\contentsline {section}{\numberline {13.2}Plastic Pollution and Waste Management in East Asia}{45}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Statistics/comparisons}{45}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}History of plastic waste issues in East Asia}{45}{subsection.13.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{45}{section*.46}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{45}{section*.47}
+\contentsline {part}{I\hspace {1em}Backmatter}{47}{part.1}
