@@ -1,4 +1,4 @@
-\chapter{Hydroelectric Dams in East Asia}
+\chapter{The Sorrow of East Asia: Hydropower and Dam Development}
 
 \chapterauthor{Quyen Hoang Ballagh}
 
@@ -165,7 +165,7 @@ Itaipu Dam & Brazil \& \footnotesize{Paraguay/Parana R.} & 29 & 196  & 96.6 x 10
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/hydroelectric/diagram.png}
-\caption{The reservoir or body of water is often called the headwater. Water travels down to the forebay, then into a sloped area called the penstock where it reaches the turbine then the tailwater is released into the afterbay. The afterbay is lower than the forebay to allow gravity to move the water to generate electricity for the turbine to collect \citep{us bureau of reclamation}.}
+\caption{The reservoir or body of water is often called the headwater. Water travels down to the forebay, then into a sloped area called the penstock where it reaches the turbine then the tailwater is released into the afterbay. The afterbay is lower than the forebay to allow gravity to move the water to generate electricity for the turbine to collect \citep{usbr}.}
 \label{fig:USBR}
 \end{figure}
 
@@ -375,9 +375,15 @@ The Three Gorges Reservoir is fed primarily by the Yangtze River. There have bee
 \end{figure}
 
   
-  Dak Nong for example is located in Vietnam in the central highlands in a mountainous region with generally nutrient rich soils due to high levels of\red{map with soils?} basalt which makes it ideal for farming and many of the people in the Dak Nong province farm coffee, rubber, cashews, sugar cane, and pepper trees. Around 85\% of the population lives in rural areas and it is one of the poorest provinces in Vietnam. Furthermore, the Vietnamese government made it a priority to bring electricity to Indigenous and rural communities in 2004 to reach 100\% of households by 2020 but these goals were not met. Instead, rampant dam construction has occurred at the expense of the Indigenous populations the Vietnamese government tried [and failed] to bring electricity to and they instead ravaged local ecology in the name of progress and energy \citep{thao2019assessment}.
+  Dak Nong for example is located in Vietnam in the central highlands in a mountainous region with generally nutrient rich soils due to high levels of basalt which makes it ideal for farming and many of the people in the Dak Nong province farm coffee, rubber, cashews, sugar cane, and pepper trees (Figure~\ref{fig:refbasalt}). Around 85\% of the population lives in rural areas and it is one of the poorest provinces in Vietnam. Furthermore, the Vietnamese government made it a priority to bring electricity to Indigenous and rural communities in 2004 to reach 100\% of households by 2020 but these goals were not met. Instead, rampant dam construction has occurred at the expense of the Indigenous populations the Vietnamese government tried [and failed] to bring electricity to and they instead ravaged local ecology in the name of progress and energy \citep{thao2019assessment}.
   
-  The dams in this area caused damage to forests and altered river streams and flow speeds, causing sedimentation and erosion which threatened the biodiversity of the rivers and surrounding areas.\red{good, can you give explicit examples?} The 200-kilometer Hoa Binh Dam displaced 58,000 people, 79\% of whom belonged to ethnic minority groups including the Muong, Tay, Dao, Thai Trang and Thai Den \citep{dao2010dam}. The dam destroyed 20,800 hectares of farmland, crop fields, and forests which were crucial to traditional production and subsistence practices of the rural poor in the area \citep{nguyen2013linking}. 
+      \begin{figure}
+\includegraphics[width=\linewidth]{images/hydroelectric/basalt}
+\caption{This is an image of the basalt red soils in the Dak Nong Province. 47\% of the province's land is used for agriculture such as rubber, coffee, tea, pepper, rice, and corn. The Basaltic Red Soil is rich in nutrients because of the high concentration of basaltic stone \citep{daknong}. }
+\label{fig:refbasalt}
+\end{figure}
+  
+  The dams in this area caused damage to forests and altered river streams and flow speeds, causing sedimentation and erosion which threatened the biodiversity of the rivers and surrounding areas. An impact statement regarding the sedimentation of the Hoa Binh Dam explained that the dam trapped up to 88\% of annual sediment which cut annual sediment delivery to the Hoa Binh delta downstream in half. The decrease downstream of the dam caused an increase in sedimentation in other river basins and watersheds, including the Haiphong harbor in Cam estuary, and the Van Maren connected to the Ba Lat coastal area. Both regions experienced alterations to sediment upstream and downstream of the dam. Furthermore, the 200-kilometer Hoa Binh Dam displaced 58,000 people, 79\% of whom belonged to ethnic minority groups including the Muong, Tay, Dao, Thai Trang and Thai Den \citep{dao2010dam}. The dam destroyed 20,800 hectares of farmland, crop fields, and forests which were crucial to traditional production and subsistence practices of the rural poor in the area \citep{nguyen2013linking}. 
   
   The Muong people for example are the second largest ethnic minority in Vietnam and the largest ethnic minority in the Indochina region. They rely on agrarian farming with crops such as rice. They rely on local resources for subsistence including crops, hunting, and raising animals. They also engage with tourists and western economies to some extent as they gather wood and cinnamon for trade with those outside their communities. The destroyed farmland and crop fields were incredibly destructive for the Muong living in the region impacted by the Hoa Binh dam as it stripped necessary farmland and forests necessary for subsistence as well as products to trade \citep{trang2004local}.
   

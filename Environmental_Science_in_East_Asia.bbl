@@ -1,4 +1,4 @@
-\begin{thebibliography}{132}
+\begin{thebibliography}{134}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -733,6 +733,11 @@ US~EPA, O. 2017.
 \newblock Threats to coral reefs.
 \newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
 
+\bibitem[{USBR(2020)}]{usbr}
+USBR. 2020.
+\newblock
+  \urlprefix\url{https://search.usa.gov/search?affiliate=Reclamation&query=hydropower}.
+
 \bibitem[{Van~Ruijven et~al.(2012)Van~Ruijven, Schers, and van
   Vuuren}]{van2012model}
 Van~Ruijven, B.~J., J.~Schers, and D.~P. van Vuuren. 2012.
@@ -751,6 +756,12 @@ Verjee, M.~A. 2019.
 \newblock Schistosomiasis: Still a cause of significant morbidity and
   mortality.
 \newblock Research and reports in tropical medicine, {\bf 10}:153.
+
+\bibitem[{Viet.gov(2021)}]{daknong}
+Viet.gov. 2021.
+\newblock About daknong.
+\newblock
+  \urlprefix\url{https://daknong.gov.vn/vi/web/dak-nong-english/about-daknong/-/view_content/284279-natural-resource.html}.
 
 \bibitem[{Vinh et~al.(2014)Vinh, Ouillon, Thanh, and Chu}]{vinh2014impact}
 Vinh, V., S.~Ouillon, T.~Thanh, and L.~Chu. 2014.
@@ -774,6 +785,12 @@ Warren, J.~F. 2018.
 \newblock Typhoons and droughts: Food shortages and famine in the philippines
   since the seventeenth century.
 \newblock International Review of Environmental History, {\bf 4}:27--44.
+
+\bibitem[{WCD(2000)}]{world2000dams}
+WCD. 2000.
+\newblock World Commission on Dams--Dams and development: A new framework for
+  decision-making: The report of the world commission on dams.
+\newblock Earthscan.
 
 \bibitem[{Weeks et~al.(2010)Weeks, Russ, Alcala, and White}]{10.2307/40603378}
 Weeks, R., G.~R. Russ, A.~C. Alcala, and A.~T. White. 2010.
@@ -822,12 +839,6 @@ Wilmsen, B. 2018.
 \newblock Damming china’s rivers to expand its cities: the urban livelihoods
   of rural people displaced by the three gorges dam.
 \newblock Urban Geography, {\bf 39}:345--366.
-
-\bibitem[{World(2000)}]{world2000dams}
-World, o.~D., Commission. 2000.
-\newblock Dams and development: A new framework for decision-making: The report
-  of the world commission on dams.
-\newblock Earthscan.
 
 \bibitem[{Wu et~al.(2005)Wu, Zhou, and Xiao}]{wu2005comprehensive}
 Wu, C., X.~Zhou, and B.~Xiao. 2005.
