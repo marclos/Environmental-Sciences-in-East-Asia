@@ -1,9 +1,52 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bangalore et~al.(2019)Bangalore, Smith, and
+  Veldkamp]{bangalore2019exposure}
+Mook Bangalore, Andrew Smith, and Ted Veldkamp.
+\newblock Exposure to floods, climate change, and poverty in vietnam.
+\newblock \emph{Economics of Disasters and Climate Change}, 3\penalty0
+  (1):\penalty0 79--99, 2019.
+
+\bibitem[Bolay et~al.(1997)Bolay, Cartoux, Cunha, Du, and
+  Bassand]{bolay1997sustainable}
+Jean-Claude Bolay, Sophie Cartoux, Antonio Cunha, Thai Thi~Ngoc Du, and Michel
+  Bassand.
+\newblock Sustainable development and urban growth: Precarious habitat and
+  water management in ho chi minh city, vietnam.
+\newblock \emph{Habitat International}, 21\penalty0 (2):\penalty0 185--197,
+  1997.
+
+\bibitem[Bradford()]{bradford}
+Nick Bradford.
+\newblock \emph{Saltwater Intrusion}.
+\newblock URL \url{https://www.neefusa.org/file/saltwater-intrusion}.
+
+\bibitem[Evers and Pathirana(2018)]{evers2018adaptation}
+Jaap Evers and Assela Pathirana.
+\newblock Adaptation to climate change in the mekong river basin: introduction
+  to the special issue, 2018.
+
+\bibitem[for Science~Education()]{centerforscienceeducation}
+Center for Science~Education.
+\newblock Monsoons.
+\newblock URL \url{https://scied.ucar.edu/learning-zone/storms/monsoons}.
+
+\bibitem[Fund(2009)]{scff2009climate}
+The Special Climate~Change Fund.
+\newblock Climate resilient infrastructure planning and coastal development in
+  vietnam.
+\newblock \emph{United Nations Development Program}, 2009.
+
+\bibitem[Garschagen and Kraas(2011)]{garschagen2011urban}
+Matthias Garschagen and Frauke Kraas.
+\newblock Urban climate change adaptation in the context of transformation:
+  lessons from vietnam.
+\newblock In \emph{Resilient cities}, pages 131--139. Springer, 2011.
 
 \bibitem[Hens et~al.(2018)Hens, Thinh, Hanh, Cuong, Lan, Van~Thanh, and
   Le]{hens2018sea}
@@ -13,6 +56,13 @@ Luc Hens, Nguyen~An Thinh, Tran~Hong Hanh, Ngo~Sy Cuong, Tran~Dinh Lan, Nguyen
   synthesis.
 \newblock \emph{Vietnam Journal of Earth Sciences}, 40\penalty0 (2):\penalty0
   126--152, 2018.
+
+\bibitem[Huong and Pathirana(2013)]{huong2013urbanization}
+Huynh Thi~Lan Huong and Assela Pathirana.
+\newblock Urbanization and climate change impacts on future urban flooding in
+  can tho city, vietnam.
+\newblock \emph{Hydrology and Earth System Sciences}, 17\penalty0 (1):\penalty0
+  379--394, 2013.
 
 \bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
 Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
@@ -27,16 +77,72 @@ Chinese Academy of~Sciences Institute~of Botany.
 \newblock URL
   \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
+\bibitem[Isderion(2013)]{isderion_2013}
+Isderion.
+\newblock \emph{Floating Market Can Tho}.
+\newblock Apr 2013.
+\newblock URL
+  \url{https://commons.wikimedia.org/wiki/File:Floating_Market_Can_Tho1.jpg}.
+
 \bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
 Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
 \newblock Fifty years of groundwater science in korea: a review and
   perspective.
 \newblock \emph{Geosciences Journal}, 21\penalty0 (6):\penalty0 951--969, 2017.
 
+\bibitem[Lohmann and Lechtenfeld(2015)]{lohmann2015effect}
+Steffen Lohmann and Tobias Lechtenfeld.
+\newblock The effect of drought on health outcomes and health expenditures in
+  rural vietnam.
+\newblock \emph{World development}, 72:\penalty0 432--448, 2015.
+
 \bibitem[Los~Huertos(2018)]{LosHuertos2017OverviewR}
 Marc Los~Huertos.
 \newblock \emph{Overview of R}.
 \newblock Pomona College, 2018.
+
+\bibitem[Margulis et~al.(2010)Margulis, Hughes, Schneider, Pandey, Narain, and
+  Kemeny]{margulis2010economics}
+Sergio Margulis, Gordon Hughes, Robert Schneider, Kiran Pandey, Urvashi Narain,
+  and Thomas Kemeny.
+\newblock Economics of adaptation to climate change: Synthesis report.
+\newblock 2010.
+
+\bibitem[Nellemann et~al.(2011)Nellemann, Verma, and
+  Hislop]{nellemann2011women}
+Christian Nellemann, Ritu Verma, and Lawrence Hislop.
+\newblock Women at the frontline of climate change: Gender risks and hopes.
+\newblock \emph{A Rapid Response Assessment. United Nations Environment
+  Programme, GRID-Arendal}, 2011.
+
+\bibitem[Nguyen(2015)]{nguyen2015deltaic}
+Phuong~Nga Nguyen.
+\newblock \emph{Deltaic urbanism for living with flooding in Southern Vietnam}.
+\newblock PhD thesis, Queensland University of Technology, 2015.
+
+\bibitem[Nguyen et~al.(2017)Nguyen, Pittock, and Nguyen]{nguyen2017integration}
+Thu~Thi Nguyen, Jamie Pittock, and Bich~Huong Nguyen.
+\newblock Integration of ecosystem-based adaptation to climate change policies
+  in viet nam.
+\newblock \emph{Climatic change}, 142\penalty0 (1-2):\penalty0 97--111, 2017.
+
+\bibitem[of~Resources and Environment(2010)]{monre2010climate}
+Ministry of~Resources and Environment.
+\newblock Climate change and sea level rise scenarios for vietnam.
+\newblock \emph{Ministry of Natural resources and Environment. Hanoi, Vietnam},
+  2010.
+
+\bibitem[Office(2009)]{who2004report}
+World Health Organization Western Pacific~Regional Office.
+\newblock Report on morbidity and mortality from flooding in central viet nam
+  2003.
+\newblock \emph{Emergency and Humanitarian Action Programme}, 2009.
+
+\bibitem[Pink(2016)]{pink2016vietnam}
+Ross~Michael Pink.
+\newblock Vietnam: A struggle against climate-change drought.
+\newblock In \emph{Water Rights in Southeast Asia and India}, pages 207--225.
+  Springer, 2016.
 
 \bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
   Yang]{Qineaau1218}
@@ -48,10 +154,12 @@ Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
 \newblock \doi{10.1126/sciadv.aau1218}.
 \newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
-\bibitem[Ref(Year)]{ref}
-Ref.
-\newblock {REFERENCE}({S}) {TO} {BE} {ADDED}.
-\newblock \emph{.}, Year.
+\bibitem[Vachaud et~al.(2019)Vachaud, Quertamp, Phan, Ngoc, Nguyen, Luu,
+  Nguyen, and Gratiot]{vachaud2019flood}
+Georges Vachaud, Fanny Quertamp, Thi San~Ha Phan, Tien Dung~Tran Ngoc, Thong
+  Nguyen, Xuan~Loc Luu, Anh~Tuan Nguyen, and Nicolas Gratiot.
+\newblock Flood-related risks in ho chi minh city and ways of mitigation.
+\newblock \emph{Journal of Hydrology}, 573:\penalty0 1021--1027, 2019.
 
 \bibitem[Xie(2021)]{knitr}
 Yihui Xie.
@@ -59,5 +167,11 @@ Yihui Xie.
   in R}, 2021.
 \newblock URL \url{https://yihui.org/knitr/}.
 \newblock R package version 1.31.
+
+\bibitem[Yarina(2018)]{yarina2018}
+Lizzie Yarina.
+\newblock Your sea wall won't save you, Mar 2018.
+\newblock URL
+  \url{https://placesjournal.org/article/your-sea-wall-wont-save-you/?cn-reloaded=1}.
 
 \end{thebibliography}

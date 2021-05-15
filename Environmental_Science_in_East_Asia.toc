@@ -84,31 +84,35 @@
 \contentsline {section}{\numberline {11.1}What are Typhoons?}{27}{section.11.1}
 \contentsline {chapter}{\numberline {12}Climate Change Adaptation and Infrastructure in Vietnam}{29}{chapter.12}
 \contentsline {section}{\numberline {12.1}Introduction}{29}{section.12.1}
-\contentsline {section}{\numberline {12.2}Climate Change Impacts on Vietnam}{29}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Flooding}{29}{subsection.12.2.1}
-\contentsline {subsection}{\numberline {12.2.2}Drought}{31}{subsection.12.2.2}
-\contentsline {subsection}{\numberline {12.2.3}Sea Level Rise}{31}{subsection.12.2.3}
-\contentsline {subsection}{\numberline {12.2.4}Urbanization}{31}{subsection.12.2.4}
-\contentsline {section}{\numberline {12.3}Current Adaptation Plans and Policies}{32}{section.12.3}
-\contentsline {subsection}{\numberline {12.3.1}Strengthening Barriers and Existing Infrastructure}{32}{subsection.12.3.1}
-\contentsline {subsection}{\numberline {12.3.2}Implementing Effective Policy and Encouraging Collaboration}{32}{subsection.12.3.2}
-\contentsline {subsection}{\numberline {12.3.3}Ecosystems Based Adaptation}{33}{subsection.12.3.3}
-\contentsline {subsubsection}{Three Facets of Adaptation Policy}{33}{section*.37}
-\contentsline {section}{\numberline {12.4}Case Studies in Two Vietnamese Cities}{33}{section.12.4}
-\contentsline {subsection}{\numberline {12.4.1}Can Tho}{33}{subsection.12.4.1}
-\contentsline {section}{\numberline {12.5}Climate Vulnerable Groups in Vietnam}{33}{section.12.5}
-\contentsline {subsection}{\numberline {12.5.1}Women and Climate}{33}{subsection.12.5.1}
-\contentsline {chapter}{\numberline {13}Waste Management for a Circular Economy}{35}{chapter.13}
-\contentsline {section}{\numberline {13.1}Life-Cycle}{35}{section.13.1}
-\contentsline {subsection}{\numberline {13.1.1}Collection}{35}{subsection.13.1.1}
-\contentsline {subsection}{\numberline {13.1.2}Transport}{35}{subsection.13.1.2}
-\contentsline {section}{\numberline {13.2}Biomimicry}{35}{section.13.2}
-\contentsline {subsection}{\numberline {13.2.1}Circularity}{35}{subsection.13.2.1}
-\contentsline {chapter}{\numberline {14}Plastic and Packaging in Japan}{37}{chapter.14}
-\contentsline {section}{\numberline {14.1}Introductiona and Goals?}{37}{section.14.1}
-\contentsline {section}{\numberline {14.2}Plastic Pollution and Waste Management in East Asia}{37}{section.14.2}
-\contentsline {subsection}{\numberline {14.2.1}Statistics/comparisons}{37}{subsection.14.2.1}
-\contentsline {subsection}{\numberline {14.2.2}History of plastic waste issues in East Asia}{37}{subsection.14.2.2}
-\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{37}{section*.41}
-\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{37}{section*.42}
-\contentsline {part}{I\hspace {1em}Backmatter}{39}{part.1}
+\contentsline {section}{\numberline {12.2}Climate Change Impacts on Vietnam}{30}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Flooding}{30}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}Drought}{30}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.3}Sea Level Rise}{32}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.4}Urbanization}{33}{subsection.12.2.4}
+\contentsline {section}{\numberline {12.3}Current Adaptation Plans and Policies}{33}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}Strengthening Barriers and Existing Infrastructure}{33}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Implementing Effective Policy and Encouraging Collaboration}{33}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Ecosystems Based Adaptation}{34}{subsection.12.3.3}
+\contentsline {subsubsection}{Three Facets of Adaptation Policy}{35}{section*.38}
+\contentsline {section}{\numberline {12.4}Case Studies in Two Cities}{35}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Can Tho}{35}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}Ho Chi Minh City}{37}{subsection.12.4.2}
+\contentsline {section}{\numberline {12.5}Climate Vulnerable Groups in Vietnam}{37}{section.12.5}
+\contentsline {subsection}{\numberline {12.5.1}Women and Climate}{37}{subsection.12.5.1}
+\contentsline {subsection}{\numberline {12.5.2}Children and Climate}{38}{subsection.12.5.2}
+\contentsline {subsection}{\numberline {12.5.3}Migration and Climate in Vietnam}{38}{subsection.12.5.3}
+\contentsline {section}{\numberline {12.6}Conclusion}{38}{section.12.6}
+\contentsline {chapter}{\numberline {13}Waste Management for a Circular Economy}{39}{chapter.13}
+\contentsline {section}{\numberline {13.1}Life-Cycle}{39}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Collection}{39}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}Transport}{39}{subsection.13.1.2}
+\contentsline {section}{\numberline {13.2}Biomimicry}{39}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Circularity}{39}{subsection.13.2.1}
+\contentsline {chapter}{\numberline {14}Plastic and Packaging in Japan}{41}{chapter.14}
+\contentsline {section}{\numberline {14.1}Introductiona and Goals?}{41}{section.14.1}
+\contentsline {section}{\numberline {14.2}Plastic Pollution and Waste Management in East Asia}{41}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Statistics/comparisons}{41}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.2}History of plastic waste issues in East Asia}{41}{subsection.14.2.2}
+\contentsline {subsubsection}{Are specific companies/industries responsible responsible}{41}{section*.40}
+\contentsline {subsubsection}{Where in the world did the ubiquitous usage of single use plastics come from?}{41}{section*.41}
+\contentsline {part}{I\hspace {1em}Backmatter}{43}{part.1}
