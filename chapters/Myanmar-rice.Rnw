@@ -1,4 +1,3 @@
-
 \chapter{The Political Ecology and Economy of Rice in Myanmar}
 
 \chapterauthor{Lucas Florsheim}
@@ -146,6 +145,7 @@ As more infrastructure was established and land was cleared for agriculture, ric
 
 In 1947 the British granted Burma complete independence, but the state of political stability that had defined the country for the previous 20 years continued. Several ethnic-based communist insurgencies ensued in the 14 years between independence and the creation of the Burma Socialist Programme Party (BSPP), which marked the start of the era of military controlled government in the country (A History of Myanmar since ancient times, aung-thwin). The constant state of political unrest and the amount of damaged infrastructure from the second world war left Myanmar's agricultural economy devastated.
 
+<<<<<<< HEAD
 The 1950s were a transformative period for rice production in Myanmar as land use and land tenure were altered drastically. In 1953, the Agricultural Land Act was enacted, and the government seized any plot of agricultural land larger than 50 acres for redistribution (Fujita, 2016). The act also prohibited the sale, rental, mortgage, and transfer of this new nationalized farmland, which essentially cemented the working class as agricultural laborers by preventing them from becoming tenant farmers (Fujita, 2016). This program exacerbated a growing class divide as the government avoided redistributing land to those who had never owned land previously as they feared that these farmers would fail to produce sufficient quantities of paddy (Fujita, 2016).
 
 When the BSPP formally took control in 1962 they introduced an agricultural. This new procurement system was met with a level of resistance by some agricultural communities, but the BSPP responded by seizing the land from resistors and redistributing it to more cooperative farmers (Fujita, 2016). The procurement system was largely ineffective as it caused rice exports to decline, and only by accepting foreign aid was the BSPP able to keep the rice industry afloat throughout the 1970s (Fujita, 2016).
@@ -174,3 +174,6 @@ As the onset of the climate crisis continues over the next century, scientists h
 The 2021 coup is evidence that while it is easy to highlight the agricultural technologies and reform that is needed, Myanmar’s complicated political history and continued political instability will hinder its ability to adapt in the face of the climate crisis. However, if a democratic government is successfully established in Myanmar, other Southeast Asian countries may look to Myanmar to lead the way as the country can set a precedent by sustainably developing the large intact landscapes that show economic and ecological promise throughout the country. 
 
 
+=======
+>>>>>>> 149df0d4458d93bbad63d78a5c964710539d2e04
+>>>>>>> lucasflorsheim-EA30e21
