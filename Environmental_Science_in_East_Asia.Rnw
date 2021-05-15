@@ -111,6 +111,9 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/PermissionForm.Rnw'>>=
+@
+
 \begin{comment}
 <<chapterchild, child='chapters/01-guide.Rnw'>>=
 @
