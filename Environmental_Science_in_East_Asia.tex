@@ -486,15 +486,37 @@ For example, here's an example of a pretty good figure, and you can find the cod
 
 
 
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in createDataPartition(., p = 0.8, list = FALSE): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in eval(expr, envir, enclos): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in is.data.frame(data): object 'maunaloa' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in summary(model): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in predict(., test.data): object 'model' not found}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in mean((pred - obs)\textasciicircum{}2, na.rm = na.rm): object 'predictions' not found}}\end{kframe}
+\end{knitrout}
 
 In the case of Figure~\ref{fig:co2-graphic}, we can a create a figure that has all of the characteristics listed above, except perhaps ADA. Creating a "alt text" for the figure is something we might want to consider -- For now a decent caption about what the reader is seing is super helpful. 
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Concentrations (Mauna Loa, HI). Data demonstrate the CO$2$ concentrations are increases, but that a seasonal impact is embedded in the long-term trend. Source: Scripps/NOAA.}
 \label{fig:co2-graphic}
@@ -773,9 +795,10 @@ The combined contribution from geologic and biosphere carbon in the atmosphere i
 
 \begin{figure}
 \begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
-\includegraphics[width=\maxwidth]{figure/maunaloa3-1} 
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in ggplot(train.data, aes(decimal.date, average)): object 'train.data' not found}}\end{kframe}
 \end{knitrout}
 \caption{Carbon Dioxide Measure on Mauna Loa, HI}
 \label{fig:maunaloa2}
@@ -1506,6 +1529,7 @@ Article 3 & ``Indigenous peoples have the right to send determination'' \\
 
 \rule{0pt}{3ex}
 
+<<<<<<< HEAD
 Article 4 &``Indigenous peoples, in excercising their right to self-determination, have the right to autonomy 
 or self-government''\\
 \rule{0pt}{3ex}
@@ -1543,6 +1567,144 @@ Article 11 & ``1. Indigenous peoples have the right to practise and revitalize t
 Article 20 & ``1. Indigenous peoples have the right to maintain and develop their political, economic and social systems or institutions, to be secure in the enjoyment of their own means of subsistence and development, and to engage freely in all their traditional and other economic activities.
 
 2. Indigenous peoples deprived of their means of subsistence and development are entitled to just and fair redress. ''\\ 
+=======
+\chapter{Climate Change Adaptation and Infrastructure in Vietnam}
+
+\chapterauthor{Jay Scott}
+
+\section{Introduction}
+
+As a low-lying, coastal nation with heavy dependence on its two river deltas, Vietnam is a country with severe risk factors for climate-related disaster. Even without the added effects of sea level rise, Vietnam frequently experiences typhoons during its wet season, at an average of 4-6 times each year \citep{scff2009climate}. Current dike systems aren’t strong enough and their effectiveness will only worsen with increased storm surges \citep{garschagen2011urban}. An increase in runoff could have a catastrophic impact on rural rice economies, with an estimated reduction in yields of 12\% and 24\% in the Mekong and Red River Deltas, respectively \citep{evers2018adaptation}. Rural residents rely on the rivers as their main source of drinking water, and both rivers are at risk from the construction of hydroelectric dam projects, saltwater intrusion, and increased demand for irrigation \citep{evers2018adaptation}. Vietnam’s urban population is steadily on the rise as well, growing from 20\% of the population to 30\% from 1985 to 2009 \citep{margulis2010economics}. This number is expected to continue to rise, as people migrate to Vietnam’s cities for economic opportunities, with estimates expecting cities to account for 57\% of the country’s population by 2050 \citep{garschagen2011urban}. This unprecedented increase in Vietnam’s urban population has the potential to overwhelm local governments, which have struggled with a simultaneous decentralization and tight control from Vietnam’s federal government \citep{garschagen2011urban}. Additionally, Vietnam does not guarantee its citizens the right to free speech, making community input virtually nonexistent in environmental policy \citep{nguyen2015deltaic}. While climate change is a new issue for Vietnam, it is a country that is uniquely adapted to floods \citep{nguyen2015deltaic}. The future of infrastructure the country will either build on this history, or forge a new path as Vietnam seeks to improve its standing internationally through economic development. 
+
+\section{Climate Change Impacts on Vietnam}
+
+\subsection{Flooding}
+
+Most of Vietnam has a wet and dry season, bar the northernmost regions of the country . Unlike the four distinct seasons experienced in other parts of the world, Vietnam’s close proximity to the equator means its temperature rarely fluctuates, making the idea of “summer” and “winter” inadequate to describe conditions. “Wet” and “dry” are used as descriptors instead, and the seasons directly relate to the sun’s position over either the Northern or Southern hemisphere \citep{centerforscienceeducation}.
+
+During the wet monsoon season, the warm air holds more water droplets, and flooding occurs along the coast and river deltas. Flooding is something that Vietnam has been adapted to over centuries. In the Mekong River Delta, there are a variety of housing types adapted to floods, including boat houses, floating houses, and stilted houses \citep{nguyen2015deltaic}. Farmers almost exclusively planted rice resistant to floods until the 1990s, when funding from the World Bank helped build dikes in order to produce a second rice crop during the rainy season \citep{nguyen2015deltaic}.
+
+While these adaptations have proved sufficient in the past, they may not be enough to protect against current and future conditions. A 2018 study found that 33\% of Vietnam’s population is currently exposed to a 25-year flood, and cautioned that climate change could increase this number of exposed to up to 46\% \citep{bangalore2019exposure}Figure~\ref{fig:floodrisk}
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/Vietnam/floodriskovertimemap}
+\caption{This map shows the number of people impacted currently in the case of a 25-year flood on the left, shows a future number of people impacted on the right. \citep{bangalore2019exposure}}
+\label{fig:floodrisk}
+\end{figure}
+
+Flooding can have a profound impact on health. Incidences of drowning are relatively low compared to indirect health effects of flooding, such as diarrheal and skin diseases \citep{who2004report}. Because floods can decrease access to clean water, families respond by either washing foods less, or using subpar sources of water, hence the effect on disease \citep{who2004report}. In addition, Commune Health Services (CHS), an important part of Vietnamese healthcare, can become damaged during floods, worsening epidemics \citep{who2004report}.
+
+In urban areas, floods have a major economic impact, shutting down roadways and preventing people from leaving their homes \citep{margulis2010economics}. 
+
+\subsection{Drought}
+In addition to its wet season, Vietnam has a long dry season that is expected to become even more dry with the addition of climate change. While drought risk is everywhere, it is especially concentrated in Vietnam’s mountainous regions \citep{lohmann2015effect}. 
+
+Drought has a negative impact on human health, that is especially pronounced amongst children and young girls in particular. A 2001 study found that children aged 12-24 months during a drought were an average of 1.5-2cm shorter than children born during average conditions \citep{lohmann2015effect}. A separate 2009 study found that women born during years with higher rainfall were taller and had higher academic achievement than those born under average conditions \citep{lohmann2015effect}. This suggests that there are long-term effects of drought on children that continue after the rains return. 
+
+Many rural homes are constructed of highly flammable materials, such as the aforementioned stilted houses constructed using melaleuca trees, and fires can spread quickly during the dry season \citep{margulis2010economics}. 
+
+Vietnam’s most important crop, rice accounts for 47\% of all agricultural production and is very water intensive \citep{margulis2010economics}. As a staple crop, many rural households' economic stability is highly dependent on the year’s harvest. Evidence shows that in areas most affected by the drought, yields dropped 40\% under drought conditions \citep{lohmann2015effect}. Those who plant successful rice crops that year benefit from rice’s higher selling price, but there is a net negative effect on rice growers \citep{lohmann2015effect}. Aside from rice, aquaculture, specifically of catfish and shrimp, is important to rural economies and drought poses a risk to their cultivation \citep{margulis2010economics}. 
+
+\subsection{Sea Level Rise}
+Vietnam’s long coast makes it particularly susceptible to the consequences of sea level rise. The coastline has been rising at about the global average of 3mm per year \citep{huong2013urbanization}. If this rate is stable, Vietnam is expected to experience 75 cm of sea level rise by the end of the 21st century \citep{monre2010climate}. This will have wide ranging effects, one of the most damaging being saltwater intrusion \citep{hens2018sea}. Salinization occurs when sea water, with it’s high salt content, vertically infiltrates through soil and contaminates underground sources of fresh water \citep{hens2018sea}. A higher sea level will bring seawater higher up the water table, causing this effect. Figure~\ref{fig:saltwater}
+
+\begin{figure}[h!]
+\includegraphics[width=\linewidth]{images/Vietnam/saltwaterintrusion}
+\caption{This graphic by the National Environmental Education Foundation visualizes the process of saltwater intrusion. \citep{bradford}}
+\label{fig:saltwater}
+\end{figure}
+
+A 1 meter rise in sea level is estimated to affect 11 percent of Vietnam’s population and 5\% of total land area \citep{scff2009climate}. To combat this, the government has invested 280 Million VAT into building and fortifying sea dikes \citep{scff2009climate}. While sea dikes can be important elements of adaptation strategy, especially in Northern Vietnam which does not have a long history of floods, this strategy is not always suitable \citep{nguyen2015deltaic}. In his dissertation “Deltaic Urbanism or Living With Flooding in Southern Vietnam”, Phuong Nga Nguyen argues that the ideology of nation building, along with the Vietnamese’ government’s interest in increasing the productivity of rice, has been a contributing factor in the construction of dams in the Mekong Delta \citep{nguyen2015deltaic}. Nguyen believes the communities along the delta are well-adapted to flooding and don’t require much in the way of physical barriers. 
+
+A rise in sea level could increase the severity of floods \citep{huong2013urbanization}. When sea levels rise, the area flooded can creep inland \citep{hens2018sea}. This exposes areas that previously weren’t exposed to flooding and therefore less adapted to its effects \citep{hens2018sea}. 
+
+\subsection{Urbanization}
+
+As climate events, economic conditions, and other factors force people out of agricultural villages, more Vietnamese are migrating to cities \citep{margulis2010economics}. Generally, urbanization increases flood risk because it concentrates the population into small areas and forces quick land use changes \citep{huong2013urbanization}.  The growing proportion of urban Vietnamese poses an issue for infrastructure already vulnerable to weather events during the monsoon season. 
+
+For example, the rapid development of former wetlands in Ho Chi Minh City (HCMC) has led to poor drainage, exacerbating flooding brought on by storms \citep{vachaud2019flood}. These areas, in particular Phu My Hung and Thu Thiem, are considered undesirable places to live and are occupied almost exclusively by poor migrants, creating environmental inequality \citep{vachaud2019flood}. This issue and others will be discussed later in this chapter in the section on Ho Chi Minh City.
+
+The urbanization of rural areas can often damage local aquifers as new residents drill for drinking water \citep{margulis2010economics}. The urban poor are one of the most vulnerable populations to climate disaster as they often have substandard housing, and rely on jobs in the informal economy that come with varied levels of stability \citep{margulis2010economics}. 
+
+\section{Current Adaptation Plans and Policies}
+
+\subsection{Strengthening Barriers and Existing Infrastructure}
+
+The World Bank and United Nations Development Program have both allocated funds to improve existing physical infrastructure in Vietnam. In 2009, the UNDP funded a 180 million dollar project to enhance climate infrastructure, with 168 million specifically dedicated to erecting barriers like seawalls and dikes \citep{scff2009climate}. 
+
+The United Nations, the World Bank, and Vietnam’s federal government, all prioritize physical infrastructure, in their approach to climate adaptation. While physical infrastructure is crucial in many areas of Vietnam, large-scale projects such as dikes and seawalls can have the effect of evicting the poorest and most vulnerable residents of a community. In HCMC, new plans for a ring dike around the city could displace as many as 1500 people \citep{yarina2018}. Historically, small canals were used to redirect water to the Saigon river, and the city’s residents took advantage of flooding with small rice crops and aquaculture operations \citep{yarina2018}. This less invasive approach to infrastructure is important and should be taken into consideration by governments and NGOs. 
+
+\subsection{Implementing Effective Policy and Encouraging Collaboration}
+
+In addition to improving physical infrastructure, the UNDP also allocated funds to an exhaustive review of existing environmental policy, especially in rural coastal communities. The UNDP identified several social obstacles to effective climate policy in Vietnam \citep{scff2009climate}. 
+
+Vietnam’s climate change policy is handled by three separate government agencies: the Ministry of Agricultural Development (MARD), the Ministry of Construction (MOC), and the Ministry of Natural Resources and the Environment (MONRE). Historically, there has been a lack of collaboration between the three agencies. Construction of climate-resilient infrastructure is handled by MOC, while natural disaster relief is the responsibility of MARD \citep{scff2009climate}. Climate change preparedness and mitigation is under the scope of MONRE \citep{scff2009climate}. These three agencies work, for the most part, independently of each other \citep{garschagen2011urban}Figure~\ref{fig:mocmonremard}. In addition, local MOCs and MONREs exist in each province that are under the purview of provincial governments, not the federal MOC and MONRE. These smaller bureaus often work independently of each other with only minimal communication between them and the larger federal ministries \citep{garschagen2011urban}.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/Vietnam/mocmonremard}
+\caption{This organizational map explains the structure and purpose of the three separate federal agencies responsible for climate infrastructure and adaptation.}
+\label{fig:mocmonremard}
+\end{figure}
+
+The United Nations Development Program identified that institutional knowledge of climate change was lacking, and that administrators were somewhat unwilling to integrate climate into their policy and operations \citep{scff2009climate}. Local governments were also noted as being indifferent to climate change, not seeing it as a larger threat than already common monsoons and other extreme weather events \citep{scff2009climate}. 
+
+\subsection{Ecosystems Based Adaptation}
+
+Ecosystems Based Adaptation, also known as EBA, is an approach to climate adaptation that prioritizes strengthening existing ecosystems. In Vietnam, this usually means strengthening ecosystems to protect against floods, landslides, and land degradation \citep{nguyen2017integration}. 
+
+Mangrove forests have historically provided protection during storm surges and their revitalization could be a key part of Vietnam’s EBA. Additionally, forest conservation can aid in retaining soil nutrients and prevent landslides \citep{nguyen2017integration}. 
+
+EBA often comes with co-benefits that can be economic, sociocultural, and promote biodiversity \citep{nguyen2017integration}. Despite the effectiveness and affordability of EBA, it is often overlooked in favor of new physical infrastructure \citep{nguyen2017integration}\citep{nguyen2015deltaic}. A lack of coordination between provinces and between the aforementioned MONRE, MOC, and MARD can make it difficult to effectively integrate EBA into policy \citep{garschagen2011urban}.
+
+
+\subsubsection{Three Facets of Adaptation Policy}
+
+The Vietnamese government has outlined three approaches to climate change: full protection, adaptation, and withdrawal \citep{monre2010climate}. Full protection is the use of physical infrastructure to completely insulate an area. This is seen as an option for important economic centers in cities or cultural landmarks, but can often exclude the poorest residents of these cities \citep{nguyen2015deltaic}\citep{yarina2018}. Adaptation is the prediction and acceptance of some climate-related losses, and the design of new systems compatible with a changed climate. Adaptation is important in the agricultural sector, as farmers find solutions to integrate climate change into their practices \citep{scff2009climate}. Withdrawal is complete avoidance of climate events by vacating an area extremely at-risk for climate impacts \citep{scff2009climate}\citep{monre2010climate}. Withdrawal could result in the unequal displacement of poor Vietnamese.
+
+\section{Case Studies in Two Cities}
+
+\subsection{Can Tho}
+Can Tho is the largest city on Vietnam’s Mekong river delta, currently at a population of 1.8 million \citep{huong2013urbanization}.  This is up from 1.2 million just eight years ago in 2013, and this rapid pace of urbanization has produced an urban heat island effect \citep{huong2013urbanization}. As discussed in the section on flooding, warmer air holds more water and in turn increases rainfall. This has already been recorded in Can Tho \citep{huong2013urbanization}. The city sits at a low elevation, an average of only 60-80 cm above sea level \citep{huong2013urbanization}. Can Tho City is unique in its use of water as a primary means of transport and way of life. Its residents are uniquely adapted to living with floods, but also at risk for increasingly worse floods brought on by climate change \citep{nguyen2015deltaic}. 
+
+Currently, there are plans underway to build large concrete barriers along the Can Tho River, which is an important part of city life and culture \citep{nguyen2015deltaic}. There are two floating markets that take place on the river, and many people live in houseboats and floating houses on the river \citep{nguyen2015deltaic}Figure~\ref{fig:floatingmarket}. Barriers would invariably change the way residents interact with the river and move through the city.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{images/Vietnam/floatingmarket}
+\caption{This is a photo of one of Can Tho's Floating Markets.\citep{isderion_2013}}
+\label{fig:floatingmarket}
+\end{figure}
+
+Forced evacuation is occurring in some sections of the city, with the government offering plots of land on higher ground to those living closest to the river \citep {evers2018adaptation}\citep{nguyen2015deltaic}. However, there is evidence that residents who are relocated move back to their previous homes. Nguyen (2015) interviewed relocated families and around 60\% of them had moved back to their homes along the riverside. 
+
+The Vietnamese federal government classified Can Tho as a first class city in 2015. This gave the federal government more control over Can Tho’s development, and priorities are firmly on the side of economic development \citep{evers2018adaptation}. Flooding, which long-time residents accept as a way of life, is not conducive to the kind of economic development projects the government wants to undertake in order to attract tourists and foreign companies \citep{nguyen2015deltaic}. As a result, Can Tho is a city being pulled in two directions. On one side are residents who lack political representation, and on the other side is the Vietnamese government, seeking to increase economic opportunity in the country as a whole.
+
+\subsection{Ho Chi Minh City}
+
+Ho Chi Minh City, formerly known as Saigon, is the largest city in Vietnam and its main economic center \citep{margulis2010economics}. Much like Can Tho, the city’s lifeblood is the Saigon river, which serves transportation, recreational, and economic purposes \citep{vachaud2019flood}. During the Nguyen Dynasty from the late 18th to 19th centuries, canals were constructed across the city as flood management tools \citep{vachaud2019flood}. In the early 19th century, France colonized Vietnam and by the mid-1800s, the canals were being filled in and converted to tree-lined boulevards meant to mimic the landscape of the River Seine \citep{vachaud2019flood}\citep{yarina2018}. This was disastrous for flood management and has not been corrected. The remaining canals left from the dynastic era became an open air sewage system, and they still serve this purpose today \citep{vachaud2019flood}.
+
+HCMC is a prime example of the quickly growing population of urban Vietnamese, as mentioned in the introduction. During the war era, HCMC, known as Saigon, was part of South Vietnam. South Vietnamese were encouraged to populate cities, and those original residents from the war era are some of the longest residents of the city \citep{bolay1997sustainable}. When Vietnam was reunified in 1975, this policy was reversed as the new government seeked to relieve pressure on the densely populated urban areas, and rebuild the decimated rural economy \citep{bolay1997sustainable}. This effort was largely unsuccessful, and today, HCMC has a population of almost 9 million (Census 2019). 
+
+Today’s Ho Chi Minh City faces major problems in regards to flooding. 65\% of its land area is less than 1.5 meter above sea level \citep{vachaud2019flood}. Technical solutions call for seawalls and dikes in hopes of fully protecting the city; however, this full protection doesn’t extend to everyone \citep{yarina2018}. The Ho Chi Minh City Adaptation Strategy, produced by MONRE in partnership with the Dutch government, seeks to fashion HCMC in the image of Rotterdam \citep{yarina2018}. A major element of this plan is a 2 billion dollar ring dike ensconcing the heart of the city, a complex system including sluice gates and canals. This proposal drew criticism, however, for its exorbitant cost and its potential to worsen flooding in communities on the unprotected side of the dike \citep{yarina2018}. 
+
+As mentioned in the section on urbanization, HCMC’s historical landscape consisted of wetlands and swamps that provided ecosystem services such as drainage, protection against coastal erosion, and flood control \citep{bolay1997sustainable}\citep{vachaud2019flood}. As the city has expanded, many of these former wetlands have been developed and can no longer serve this purpose. Their extremely low elevation makes them undesirable places to live, and as a result they are occupied by the poorest residents of the city \citep{margulis2010economics}.
+
+In many ways, the environmental problems in Ho Chi Minh City can be seen as a microcosm of the complex challenges facing Vietnam’s growing cities. A lack of investment in basic public services, especially access to clean water and sewage treatment, has persisted in the city. The government also prioritizes the construction of new types of infrastructure over historically used methods of flood control \citep{nguyen2015deltaic}\citep{yarina2018}. 
+
+\section{Climate Vulnerable Groups in Vietnam}
+
+\subsection{Women and Climate}
+Women in Vietnam are an especially climate-vulnerable group. 60\% of Vietnamese women rely on agriculture as their primary source of income, compared to a little under 50\% of men \citep{margulis2010economics}. Therefore, heavy rainfall and storms’ impact on agriculture is more severely felt. Furthermore, many women being the sole person carrying the financial burden in their households. Anecdotal evidence points to women being more likely to put other family members first during climate disasters, at the expense of their own well-being \citep{nellemann2011women}. Additionally, many women in Vietnam lack basic swimming skills as young girls are not encouraged to learn to swim. This leads many to die avoidable deaths in survivable flooding conditions \citep{margulis2010economics}. 
+
+\subsection{Children and Climate}
+Children are a climate-vulnerable group in Vietnam, not only because of the immediate threat of flooding, but also because of their still developing immune systems that are highly susceptible to water-borne illnesses that spread after floods \citep{margulis2010economics}\citep{pink2016vietnam}. Children’s natural inclination to play outside can expose them to pollutants in the air and water \citep{margulis2010economics}. Extreme weather events can interrupt schooling and impact the success of a child long-term \citep{lohmann2015effect}.
+
+\subsection{Migration and Climate in Vietnam}
+Not only is climate a major driver of internal migration in Vietnam, it also exposes migrants to environmental hazards caused by climate change \citep{margulis2010economics}. As Vietnam’s agricultural sector continues to produce diminishing returns, many Vietnamese people are leaving the countryside for large cities, with the hope of securing financial opportunities less reliant on the environment \citep{margulis2010economics}.
+
+ In Vietnam, moving required permission from the federal government until the mid-90s, and the difficulty of receiving this permission led many Vietnamese to migrate to cities without it \citep{bolay1997sustainable}. Today, moving requires registration under the National Household Registration System, and many migrants never go through this step \citep{margulis2010economics}. As a result, many of the rural to urban migrants are considered “undocumented” and are more likely to hold exploitative, dangerous, or unstable jobs in informal economy \citep{margulis2010economics}. 
+
+Migrants often live in substandard housing that is extremely vulnerable to weather events. The poorly managed nature of urban sprawl in Vietnam’s cities can eliminate ecosystem services formerly provided by surrounding wetlands or forests \citep{vachaud2019flood}.
+>>>>>>> 249b29a0d9b2092a875cacdc1b145c59632fb624
 
 \rule{0pt}{3ex}
 
@@ -1558,6 +1720,10 @@ Article 29 & ``1. Indigenous peoples have the right to the conservation and prot
 
 \hline 
 
+<<<<<<< HEAD
+=======
+Having persevered through colonialism and a war that literally split the country in two, Vietnam now faces yet another threat to its survival: climate change. How the country will adapt to climate change has yet to be seen. The government envisions high tech physical infrastructure, but hasn’t yet been able to make meaningful progress in implementing its ambitious ideas. While the lack of free speech in Vietnam makes it difficult to gauge the sentiments of its citizens, it seems many do not have the same vision for the country. What is clear is that unlike many countries that will be heavily impacted by climate change, Vietnam has experience in coping with extreme weather events.
+>>>>>>> 249b29a0d9b2092a875cacdc1b145c59632fb624
 
 \end{tabular} 
 
