@@ -4,25 +4,12 @@
 
 \section{Example of a Place: Urbanization and Land Use Change in Shenzhen, China}
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is\red{passive voice} a particularly interesting place to begin analyzing land use change. A study\red{is the study itself important or the results? It can be both, but in the intro, I would avoid jumping into studies per se} analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.) (Figure~\ref{fig:shenzhen}). Regardless of potential impacts, it cannot \red{passive voice} be ignored that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1\red{remove reference?}, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
-=======
 Following the late 20th century reform period, China has embarked on a mass urban renewal project transforming swaths of vegetated land into areas serving the country’s growing urban needs. Considered among China's most innovative, modern cities, Shenzhen has blossomed from the products of land use change. In 12 years between 1996 and 2006, the region saw a significant drop in arable land (covered by grassland or forests) from 51.36\% to 45.72\% \citep{qian2016urban} (Figure~\ref{fig:shenzhen}). Land use change, regardless of its impacts, is nevertheless occurring at a rapid pace. This phenomenon might be particularly felt in areas of Southeast Asia undergoing similar urbanization processes as China (the scope of this chapter), but it is certainly relevant worldwide. By paying attention to rising land use changes, we can understand how such processes, while a contributing factor to growing civilization, are nevertheless coupled with cascading environmental and social impacts. How does land use change both regionally and locally affect the environment, and thus its people?
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/Shenzhen-cityscape.png}
 \caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014 \citep{qian2016urban}.}
 \label{fig:shenzhen}
-=======
-Following the late 20th century reform period, China has embarked on a mass urban renewal project, and so it is a particularly interesting place to begin analyzing land use change. A study analyzing land use change in Shenzhen recorded a significant drop in arable land (covered by grassland or forests) between 1996 to 2006 from 51.36\% to 45.72\% (Qian et al.). Regardless of potential impacts, it cannot be ignored that the land is changing at a rapid pace. This phenomenon, reflected in Figure 1, may be particularly felt in South East Asia, as is the scope of this chapter, but is certainly relevant worldwide. How does land use change affect the environment?
-
-\begin{figure}
-\includegraphics[width=\linewidth]{graphics/Shenzhen.jpg}
-\caption{(A) Shenzhen cityscape, China. (B) Change in construction land within Shenzhen from 1979, 1986, 2005, and 2014.}
-\label{figure:Shenzen}
->>>>>>> 9950ef7f2d62b63596fbe655911c553259acffe2
 \end{figure}
 
 As most scholars would agree, we are no longer situated in the Holocene, but have entered into a new and still-evolving geological age. ``Anthropocene'' describes how human activities have made massive ecological impacts on the world like no other time in our world's history. It is a period of ``irreversible destabilization of the global climate system—an impending climate crisis'' \citep{whyte2018indigenous}. Another version of this age is described as the ``Capitalocene'' which highlights how it is not just human activity, but specifically the capitalist economic system our colonialist Western society depends upon, that has shaped the conditions for such global change. Yet another term circulating in academia is introduced by theorist Donna Haraway: the ``Chthulucene'' \citep{haraway2016staying}. With roots derived from the word \emph{chthonic}, describing the worlds beneath our feet, Chthulucene understands our place amongst a deeply connected, multi-species realm. It argues that, to mitigate the global change humans have caused, we must transcend beyond our human activities and economic structure to interact with the world differently.
@@ -94,24 +81,11 @@ US and USSR sensor series launched in the 1960s beckoned in a new era of Earth o
 
 Still, the history of remote sensing cannot be understood without analyzing its use in producing and controlling knowledge to monitor and manage global resources and populations. After all, the purpose behind remote sensing is deeply tied to map-making and cartography, which itself has a fundamentally colonial history. During the Western world's Age of Exploration, or Age of Information, between the 15th and 18th centuries, Europe financed global expeditions not only to conquer and colonize, but to gather information on the land's resources and people \citep{bennett2020pixel}. In this way, maps were used to classify life for the purposes of exploitations. They were used to mark territory, regardless of local dynamics, for the use of settlers. Maps, then, were essential to the imperialist settler colonial state in dominating a land. As noted by University of Hong Kong Geography professor Mia Bennet, the quest for information is ``an activity critical to empire'' \citep{bennett2020pixel}. If so, what then must be true to our current quest for information? What must we be critical of if remote sensing is just another rendition, albeit modernized, version of the colonizing tactics of those in power?
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Figure~\ref{fig:Bonelli Erosion Map}\red{I generally put a tilde in between the ref and Fig because is make a "prettier" spacing}
-
-\begin{figure}
-\includegraphics[width=\linewidth]{images/land-use/Bonelli_Erosion_Map.png}
-=======
-\begin{figure}
-\includegraphics[width=\linewidth]{graphics/Bonelli-Erosion-Map.jpg}
->>>>>>> 9950ef7f2d62b63596fbe655911c553259acffe2
-\caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world (Borelli, et al.).}
-=======
 Additionally, a key component to colonial mapmaking was the arbitrary creation of boundaries. Remote sensing analyses can fall into a similar ``territorial trap'' that disregards how human activities, resources, and environmental change occurs as natural flows that transcend transnational boundaries \citep{bennett2020pixel}. By working within discrete state boundaries, data and resulting maps can reproduce certain narratives, particularly ones that suppress developing countries over developed ones.We can see this in the map below (Figure~\ref{fig:Bonelli Erosion Map}) on soil erosion rates and vulnerabilities across the globe, dictated by national boundaries. While developing countries are illustrated in red, indicating high rates of soil erosion and land degradation, developed Western countries look perfectly clean. This example is just one in a long line of historical misrepresentations of local occurrences that are ever-more complex than what can (and molded to) be portrayed in bordered images. Systems of remote sensing must strive to actively dismantle the colonial, militaristic foundation it is so strongly built upon.
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/Bonelli_Erosion_Map.png}
 \caption{Global land use change and soil erosion estimates, measured on a scale of severity by colors green (low erosion risk) to red (high erosion risk). As denoted by the red color, Southeast Asia is expected to experience a higher risk of soil erosion compared to other regions in the world \citep{borrelli2017assessment}.}
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 \label{fig:Bonelli Erosion Map}
 \end{figure}
 
@@ -285,18 +259,6 @@ Where C is the mean concentration of Cs$^{137}$ in soil layer i, $\rho$ is the m
 
 \subsubsection{Profile Depth}
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Figure \ref{fig:LUC-SOC-Table}
-
-\begin{figure}
-\includegraphics[width=\linewidth]{images/land-use/LUC-SOC-Table.png}
-=======
-\begin{figure}
-\includegraphics[width=\linewidth]{images/LUC SOC Table.jpg}
->>>>>>> 9950ef7f2d62b63596fbe655911c553259acffe2
-\caption{Comparison of land use change types on years to reach equilibrium, predicted change rates of soil organic carbon stock after 20 and 100 years, and average initial stock value (Poeplau et al., 2011). Note the rapid rates of deforestation (values 17 and 23) compared to longer predicted rates of reforestation land use changes.}
-=======
 Not only do soil characteristics change by topography and slope position, but they also change through the soil profile \emph{within} those features. If it is important to understand processes across regional slopes, then it is just as critical to analyze the same conditions across soil horizons within those landscapes. In this subsection, we will delve even deeper into the complexities of SOM characteristics within erosional landscapes on a more detailed scale. As has been stated, given its importance to various processes within the critical zone, an apt measurement to examine spatial variation in soil characteristics is SOC.
 
 At shallow depths, precipitation and temperature are primary drivers of SOC content. In a study conducted along an 860km transect line at 86 sites within the Loess Plateau region from south to north, precipitation did indeed have a clear effect on SOC \citep{jia2017soil}. On average, SOC decreases from south to north along the rainfall gradient, where both rainfall and thus SOC are lowest in the north. Two relationships to precipitation are responsible for this result: vegetation growth and clay content. Precipitation is a major factor of vegetation growth, which inputs organic C into the soil for greater average SOC. Similarly, clay content is associated with greater soil moisture from precipitation and contributes to greater SOC sequestration by stabilizing it in aggregate structures. Across all land use types from forestland, grassland, to cropland, precipitation thus is a strong determining factor to how much SOC is readily available in the topsoil's uppermost A horizon.
@@ -316,7 +278,6 @@ Understanding shifting land uses on carbon cycling is particularly important to 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/LUC-SOC-Table.png}
 \caption{Comparison of land use change types on years to reach equilibrium, predicted change rates of soil organic carbon stock after 20 and 100 years, and average initial stock value \citep{poeplau2011temporal}. Note the rapid rates of deforestation (values 17 and 23) compared to longer predicted rates of reforestation land use changes.}
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 \label{fig:LUC-SOC-Table}
 \end{figure}
 
@@ -338,18 +299,6 @@ Much of the recent soil degradation within the Loess Plateau has been a result o
 
 This is particularly important in a region like Northeast China where the land provides 30\% of total national maize production for a crop already being one of the biggest food crops in the country. Differences in production potentials can be measured by yield: potential yield is the theoretical ``ceiling'' yield for a given place, partially dependent upon its specific environmental conditions, under perfect management. In general, the yield gap between the potential and actual is usually constrained by 1) non-controllable factors (i.e. environmental conditions, access to technology) 2) agronomic and 3) socioeconomic factors \citep{liu2016narrowing}. Compared to other areas of improvement, such as chosen crop variety, the largest potential for increased yield is found to be associated with management practices. These practices move away from intensive systems towards regenerative or conservationist strategies, including the incorporation of crop residue and low-to-no-till practices that combat shallow topsoil.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Figure \ref{fig:Climate-Smart-Soils}
-
-\begin{figure}
-\includegraphics[width=\linewidth]{images/land-use/Climate-Smart-Soils.png}
-=======
-\begin{figure}
-\includegraphics[width=\linewidth]{graphics/Climate-Smart-Soils.jpg}
->>>>>>> 9950ef7f2d62b63596fbe655911c553259acffe2
-\caption{Integrated strategy of scientific research, management practices, and widespread implementation of GHG-mitigation-driven agricultural systems (Paustian et al., 2019).}
-=======
 One of the biggest biotic constraints on actual yields are diseases and pests, including root-parasitic nematodes. \citet{suong2019impact} contrasted conventional plough-based tillage rice farming practices to a direct-seeding mulch-based rice cropping system (described closely to practices of regenerative agriculture) based on population densities of root-parasitic nematodes. They found that while nematode population densities were significantly higher in the regenerative system than the conventional system, the rice yields were still higher. These results thus show how regenerative systems improve soil fertility and quality both for more productive plants and microbial communities; the higher-nutrient-dense soil not only provided a better environment for microbial biodiversity and nematofauna, but it was moreover productive enough to compensate for any plant damage from the nematodes. These results add to the immense body of research and knowledge that the level of microbidoviersity is a key indicator for soil health. Any land use system that supports this life, then, is most beneficial and sustainable.
 
 Sustainable, regenerative, conservation, or permaculture-based land systems are all names for a common approach in using the land. This approach has the potential to not only ensure food security, but most importantly, has the ability to sustain soil health, promote carbon sequestration (along with other nutrients), decrease GHG emissions, and protect functional ecosystems that then can provide humanity various services. Regenerative agriculture presents an alternative approach characterized by no-to-minimal soil disturbance, diverse crop rotation, and residue retention to enhance nutrient cycling (Figure~\ref{fig:Climate-Smart-Soils}). In short, this integrated, holistic management of land is meant to mimic the natural world--rather than interfere with intensive systems, it is meant to work with existing natural systems.
@@ -357,7 +306,6 @@ Sustainable, regenerative, conservation, or permaculture-based land systems are 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/Climate-Smart-Soils.png}
 \caption{Integrated strategy of scientific research, management practices, and widespread implementation of GHG-mitigation-driven agricultural systems \citep{paustian2016climate}.}
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 \label{fig:Climate-Smart-Soils}
 \end{figure}
 
@@ -389,26 +337,12 @@ Recent studies have shown that soil indices such as erosion control and C seques
 
 Plants exist in environments through finite balances of resource dynamics. While increasing vegetation cover is attributed to many positive effects mentioned above, it also essentially requires water consumption from the soil. The hydrological cycle within a plant environment thus depends on whether or not plant transpiration, consumption, and transpiration exceed the rate of precipitation and water content \citep{jia2017soil}. Normally, this is balanced by plants that create soil conditions adequate for water retention that overrides the amount of water it consumes. However, since any change gives rise to a response, if roots uptake more water than readily available, negative consequences are inflicted upon the environment. Namely, excessive depletion of water resources, most often by afforestation plots, are correlated with soil desiccation and further ecological degradation. Unfortunately, it also has the potential to change local hydrological dynamics involving eco-transpiration, infiltration, runoff, and groundwater recharge \citep{jia2017soil}. While shallow soil layers are directly impacted by rainfall events, deeper layers are even more influenced by sustained consumption of vegetation \citep{feng2017ecosystem}. Vegetation, for better or for worse, has significant implications into the soil moisture content and greater hydrological cycle. This hydrological balance is ever more important in semi-arid to arid regions such as the Loess Plateau where water is already scarce.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Beginning in the 1960s, mass efforts have been made to restore the Loess Plateau. After all, one must only look to the neighboring provinces with rich environments,\red{how does one look and see this? not obvious to me how\ldots, perhaps with remote sensing?} such as Sichuan, to realize the potential of such efforts. The primary goal of these endeavors were, and continue to be, increase biomass and biodiversity in all ways within the environment. Methods include terracing of the hills that level out parts of the steep slopes, natural vegetation rehabilitation to restore soil productivity, and additional efforts in check dams for sediment control. A study analyzing the Loess Plateau rehabilitation reflected a trend of increased retention of water in the land, especially since 2000, seen through decreased streamflow and sediment concentration into the Yellow River. (have to regain access to the article—will input figures and explanations of the science here)\red{great!}. While restoration is actively being worked upon on a comparatively small area in the big region, the Loess Plateau rehabilitation effort is representative of the true potential to restore massively degraded land from harmful land usage (Figure~\ref{fig:Loess-Comparison}).
-
-\begin{figure}
-\includegraphics[width=\linewidth]{images/land-use/Loess-Comparison.png}
-=======
-\begin{figure}
-\includegraphics[width=\linewidth]{graphics/Loess-Comparison.jpg}
->>>>>>> 9950ef7f2d62b63596fbe655911c553259acffe2
-\caption{Comparison of Loess Plateau from 1995 to 2009 (Liu).}
-\label{fig:Loess-Comparison}
-=======
 Like any soil development index, SMC is a function of climate (temperature, precipitation, wind), woil properties (texture, OM, porosity, aggregation, bulk density), topography (slope, steepness, face position), and land cover features \citep{jia2017soil}. Since the 1980s, total crop area in Northeast China has greatly increased, including crops such as wheat, potato, and oats \citep{liu2015agriculture}. As can be expected, these intensive crops have been correlated with decreasing trends of SMC in comparison to ``pristine pastures'' that exhibit an opposite positive trend in SMC (Figure~\ref{fig:crops}) \citep{liu2015agriculture}. The clear indication is that vegetation, maybe even over other indices, results in particularly strong implications for SMC. Afforestation vegetation choices are no different.
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/land-use/crops.png}
 \caption{Total crop area in northern China from 1980 to 2010 (left); average variation of volumetric soil moisture in topsoil of potato, wheat, and oat crop fields compared to pristine pastures in Northeast China (Wuchuan Agricultural Meteorology Observation Station) from 1983 to 2009 (right) \citep{liu2015agriculture}.}
 \label{fig:crops}
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 \end{figure}
 
 Non-native plants that are deep-rooted and require substantially more water than the environment can provide, especially in a warming dryer climate, dessicate the soil. Under most non-native afforestation types, soil moisture storage therefore consistently decreases within 100cm of the topsoil \citep{jian2015effects}. High-density planting of non-native species ill-fit to arid conditions dessicate soil layers by sucking up all moisture content, which has obvious implications for additional ecosystem services such as C sequestration, limiting vegetation growth, and degenerating the habitat \citep{jia2017soil}. While a broader variety of plant species may be able to improve C sequestration and enhance erosion control, their reforestation efforts are unsustainable if they do not also support water retention. In this way, soil moisture is a strong regulating force behind further ecosystem services, especially in water-limited ecosystems like the Loess Plateau.
@@ -432,4 +366,3 @@ Ultimately, remote sensing can provide critical knowledge of the Loess Plateau, 
 In this chapter, we have learned about land use change, how it is measured through remote sensing, processes that have impacted the specifical erosional landscape of China's Loess Plateau, and how efforts of restoration continue to shape its ecosystem services.
 
 Now having finished this section, the most important question for us all becomes: \emph{with this information in hand, how can we move beyond the theoretical confines of this chapter to actually initiate sustainable land use change on local, regional, and global scales? How can we utilize the powers of (critical) remote sensing to do so?}
-

@@ -2,8 +2,12 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
-Reallocated field_info (elt_size=4) to 13112 items from 5000.
+Reallocated field_info (elt_size=4) to 14432 items from 5000.
 Database file #1: References.bib
+Warning--entry type for "liu_documentary" isn't style-file defined
+--line 1418 of file References.bib
+Warning--entry type for "remote_earth" isn't style-file defined
+--line 1527 of file References.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: marctest.bib
 Warning--I didn't find a database entry for "seekins2009state"
@@ -31,6 +35,8 @@ Warning--empty journal in assessment2002united
 Warning--empty year in bown; set to ????
 Warning--empty year in bradford; set to ????
 Warning--empty publisher in bradford
+Warning--empty year in britannicamissiles; set to ????
+Warning--empty journal in britannicamissiles
 Warning--empty publisher in RAR
 Warning--empty year in eia; set to ????
 Warning--empty year in environmental_and_energy_study_institute_(eesi); set to ????
@@ -41,6 +47,7 @@ Warning--empty journal in nationalwildlifefederation2021
 Warning--empty year in centerforscienceeducation; set to ????
 Warning--empty journal in govhk2
 Warning--empty journal in govhk1
+Warning--empty journal in graham_NASA
 Warning--empty year in ir; set to ????
 Warning--empty year in hedleyenvind; set to ????
 Warning--empty journal in hedleyenvind
@@ -55,6 +62,8 @@ Warning--empty year in matthew; set to ????
 Warning--empty journal in mccoy2020organic
 Warning--empty year in ministry_of_foreign_affairs; set to ????
 Warning--empty year in mordor; set to ????
+Warning--empty year in smithsonian; set to ????
+Warning--empty journal in smithsonian
 Warning--empty year in noaaclimate.gov; set to ????
 Warning--empty year in nzdl; set to ????
 Warning--empty journal in olsen2015
@@ -63,10 +72,13 @@ Warning--empty publisher in coraltriangle
 Warning--empty journal in pebler
 Warning--empty journal in severnini2014power
 Warning--empty publisher in Watlas
+Warning--empty journal in suong2019impact
 Warning--empty journal in thorin2014basics
 Warning--empty year in un; set to ????
 Warning--empty year in UNpopulation; set to ????
 Warning--empty year in united_nations; set to ????
+Warning--empty year in cornell_soils; set to ????
+Warning--empty journal in humboldt
 Warning--empty year in purdue; set to ????
 Warning--empty year in usgs; set to ????
 Warning--empty journal in valera2014sea
@@ -75,45 +87,45 @@ Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
 Warning--empty journal in wong2018
 Warning--empty journal in yiu2017
-You've used 335 entries,
+You've used 390 entries,
             2710 wiz_defined-function locations,
-            2329 strings with 69573 characters,
-and the built_in function-call counts, 156369 in all, are:
-= -- 14744
-> -- 8420
-< -- 243
-+ -- 2918
-- -- 2488
-* -- 11820
-:= -- 29246
-add.period$ -- 1375
-call.type$ -- 335
-change.case$ -- 2490
-chr.to.int$ -- 330
-cite$ -- 415
-duplicate$ -- 7078
-empty$ -- 10566
-format.name$ -- 3216
-if$ -- 30751
-int.to.chr$ -- 6
+            2609 strings with 80286 characters,
+and the built_in function-call counts, 185562 in all, are:
+= -- 17398
+> -- 10292
+< -- 278
++ -- 3555
+- -- 3055
+* -- 14208
+:= -- 34669
+add.period$ -- 1603
+call.type$ -- 390
+change.case$ -- 2946
+chr.to.int$ -- 382
+cite$ -- 478
+duplicate$ -- 8316
+empty$ -- 12394
+format.name$ -- 3922
+if$ -- 36468
+int.to.chr$ -- 9
 int.to.str$ -- 1
-missing$ -- 275
-newline$ -- 1708
-num.names$ -- 1314
-pop$ -- 3240
+missing$ -- 331
+newline$ -- 1990
+num.names$ -- 1534
+pop$ -- 3816
 preamble$ -- 1
-purify$ -- 2158
+purify$ -- 2560
 quote$ -- 0
-skip$ -- 4375
+skip$ -- 5118
 stack$ -- 0
-substring$ -- 7622
-swap$ -- 675
-text.length$ -- 24
+substring$ -- 9025
+swap$ -- 822
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2922
-warning$ -- 66
-while$ -- 1291
+type$ -- 3408
+warning$ -- 74
+while$ -- 1521
 width$ -- 0
-write$ -- 4256
-(There were 69 warnings)
+write$ -- 4969
+(There were 79 warnings)

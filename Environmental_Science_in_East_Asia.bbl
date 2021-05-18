@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-\begin{thebibliography}{335}
-=======
-\begin{thebibliography}{113}
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+\begin{thebibliography}{390}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-<<<<<<< HEAD
 \bibitem[{(????)}]{}
  ????
 
@@ -46,6 +41,13 @@
  2021.
 \newblock Welcome.
 \newblock \urlprefix\url{https://epi.yale.edu/}.
+
+\bibitem[{Abdullah et~al.(2016)Abdullah, Feagin, Musawi, Whisenant, and
+  Popescu}]{abdullah2016use}
+Abdullah, M.~M., R.~A. Feagin, L.~Musawi, S.~Whisenant, and S.~Popescu. 2016.
+\newblock The use of remote sensing to develop a site history for restoration
+  planning in an arid landscape.
+\newblock Restoration Ecology, {\bf 24}:91--99.
 
 \bibitem[{ACS(????)}]{acs}
 ACS. ????
@@ -93,14 +95,6 @@ Ali, S., Z.~Abbas, M.~Rizwan, I.~E. Zaheer, {\.I}.~Yava{\c{s}}, A.~{\"U}nay,
 \newblock Application of floating aquatic plants in phytoremediation of heavy
   metals polluted water: a review.
 \newblock Sustainability, {\bf 12}:1927.
-=======
-\bibitem[{Abdullah et~al.(2016)Abdullah, Feagin, Musawi, Whisenant, and
-  Popescu}]{abdullah2016use}
-Abdullah, M.~M., R.~A. Feagin, L.~Musawi, S.~Whisenant, and S.~Popescu. 2016.
-\newblock The use of remote sensing to develop a site history for restoration
-  planning in an arid landscape.
-\newblock Restoration Ecology, {\bf 24}:91--99.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Almond and Petersen(2020)}]{wwfindex}
 Almond, G.~M., R.E.A. and T.~Petersen. 2020.
@@ -109,7 +103,6 @@ Almond, G.~M., R.E.A. and T.~Petersen. 2020.
 \newblock
   \urlprefix\url{https://f.hubspotusercontent20.net/hubfs/4783129/LPR/PDFs/ENGLISH-FULL.pdf}.
 
-<<<<<<< HEAD
 \bibitem[{Andriani et~al.(2015)Andriani, Wresta, Saepudin, and
   Prawara}]{andriani2015review}
 Andriani, D., A.~Wresta, A.~Saepudin, and B.~Prawara. 2015.
@@ -117,19 +110,18 @@ Andriani, D., A.~Wresta, A.~Saepudin, and B.~Prawara. 2015.
   generation: Indonesia case.
 \newblock Energy Procedia, {\bf 68}:219--225.
 
-\bibitem[{aquatech(????)}]{aquatech}
-aquatech. ????
-\newblock Biogas: an untapped energy source to avert a climate crisis?
-\newblock
-  \urlprefix\url{https://www.aquatechtrade.com/news/wastewater/biogas-energy-source-to-avert-climate-change/}.
-=======
 \bibitem[{Angulo-Martinez et~al.(2012)Angulo-Martinez, Beguer{\'\i}a, Navas,
   and Machin}]{angulo2012splash}
 Angulo-Martinez, M., S.~Beguer{\'\i}a, A.~Navas, and J.~Machin. 2012.
 \newblock Splash erosion under natural rainfall on three soil types in ne
   spain.
 \newblock Geomorphology, {\bf 175}:38--44.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+
+\bibitem[{aquatech(????)}]{aquatech}
+aquatech. ????
+\newblock Biogas: an untapped energy source to avert a climate crisis?
+\newblock
+  \urlprefix\url{https://www.aquatechtrade.com/news/wastewater/biogas-energy-source-to-avert-climate-change/}.
 
 \bibitem[{Aquino and Kaczan(2019)}]{Marinescienceresilientcommunities}
 Aquino, A. and D.~Kaczan. 2019.
@@ -179,7 +171,6 @@ Ayala, C. 2009.
 \newblock
   \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
 
-<<<<<<< HEAD
 \bibitem[{Baldwin(2010)}]{Baldwin2010great}
 Baldwin, A. 2010.
 \newblock Great Migrations: Born To Move.
@@ -202,18 +193,17 @@ Bank, W. 2017.
 \newblock The World Bank Annual Report 2017.
 \newblock The World Bank.
 
-\bibitem[{Bauman(2019)}]{bauman2019}
-Bauman, B. 2019.
-\newblock Why plastics can be garbage for the climate.
-\newblock
-  \urlprefix\url{https://yaleclimatemediaforum.org/2019/08/how-plastics-contribute-to-climate-change/}.
-=======
 \bibitem[{Bauer(2020)}]{bauer2020remote}
 Bauer, M.~E. 2020.
 \newblock Remote sensing of environment: History, philosophy, approach and
   contributions, 1969--2019.
 \newblock Remote Sensing of Environment, {\bf 237}:111522.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+
+\bibitem[{Bauman(2019)}]{bauman2019}
+Bauman, B. 2019.
+\newblock Why plastics can be garbage for the climate.
+\newblock
+  \urlprefix\url{https://yaleclimatemediaforum.org/2019/08/how-plastics-contribute-to-climate-change/}.
 
 \bibitem[{Beck(2019)}]{Beck}
 Beck, M. 2019.
@@ -223,7 +213,6 @@ Beck, M. 2019.
 \newblock
   \urlprefix\url{http://theconversation.com/coral-reefs-provide-flood-protection-worth-1-8-billion-every-year-its-time-to-protect-them-116636}.
 
-<<<<<<< HEAD
 \bibitem[{Begum et~al.(2015)Begum, Sohag, Abdullah, and Jaafar}]{begum2015co2}
 Begum, R.~A., K.~Sohag, S.~M.~S. Abdullah, and M.~Jaafar. 2015.
 \newblock Co2 emissions, energy consumption, economic and population growth in
@@ -237,6 +226,12 @@ Ben-Ari, E., B.~Moeran, and J.~Valentine. 1990.
   {Perspective}.
 \newblock Manchester University Press.
 \newblock Google-Books-ID: aYC7AAAAIAAJ.
+
+\bibitem[{Bennett(2020)}]{bennett2020pixel}
+Bennett, M.~M. 2020.
+\newblock Is a pixel worth 1000 words? critical remote sensing and china's belt
+  and road initiative.
+\newblock Political Geography, {\bf 78}:102127.
 
 \bibitem[{Berendes et~al.(2018)Berendes, Yang, Lai, Hu, and
   Brown}]{berendes_yang_lai_hu_brown_2018}
@@ -261,6 +256,11 @@ Bird, W. 2012.
 \newblock
   \urlprefix\url{https://e360.yale.edu/features/will_fish-loving_japan_embrace_sustainable_seafood}.
 
+\bibitem[{Birkeland et~al.(1984)}]{birkeland1984soils}
+Birkeland, P.~W. et~al. 1984.
+\newblock Soils and geomorphology.
+\newblock Oxford University Press.
+
 \bibitem[{Bodley(2014)}]{bodley2014victims}
 Bodley, J.~H. 2014.
 \newblock Victims of progress.
@@ -279,17 +279,6 @@ Bolt, J. and J.~L. van Zanden. 2020.
   2020 update.
 \newblock University of Groningen, Groningen Growth and Development Centre,
   Maddison Project Working Paper.
-=======
-\bibitem[{Bennett(2020)}]{bennett2020pixel}
-Bennett, M.~M. 2020.
-\newblock Is a pixel worth 1000 words? critical remote sensing and china's belt
-  and road initiative.
-\newblock Political Geography, {\bf 78}:102127.
-
-\bibitem[{Birkeland et~al.(1984)}]{birkeland1984soils}
-Birkeland, P.~W. et~al. 1984.
-\newblock Soils and geomorphology.
-\newblock Oxford University Press.
 
 \bibitem[{Borrelli et~al.(2017)Borrelli, Robinson, Fleischer, Lugato, Ballabio,
   Alewell, Meusburger, Modugno, Sch{\"u}tt, Ferro
@@ -299,7 +288,6 @@ Borrelli, P., D.~A. Robinson, L.~R. Fleischer, E.~Lugato, C.~Ballabio,
 \newblock An assessment of the global impact of 21st century land use change on
   soil erosion.
 \newblock Nature communications, {\bf 8}:1--13.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Bowen(2015)}]{bowen2015social}
 Bowen, T. 2015.
@@ -327,7 +315,6 @@ Brandl, S.~J., D.~B. Rasher, I.~M. Côté, J.~M. Casey, E.~S. Darling, J.~S.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.2088}.
 
-<<<<<<< HEAD
 \bibitem[{Braungart et~al.(2011)Braungart, McDonough, and
   Kroese}]{braungart_mcdonough_kroese_2011}
 Braungart, M., W.~McDonough, and H.~S. Kroese. 2011.
@@ -343,16 +330,15 @@ Brewer, T.~D., J.~E. Cinner, A.~Green, and R.~L. Pressey. 2013.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=87671764&site=ehost-live&scope=site&custid=s8438901}.
 
-\bibitem[{Brooker et~al.(2017)Brooker, Widmaier, Graham, and
-  Stiling}]{brooker_2017chapter}
-Brooker, R., E.~Widmaier, L.~Graham, and P.~Stiling. 2017.
-\newblock Chapter 60: Biodiversity and conservation biology.
-=======
 \bibitem[{Britannica(????)}]{britannicamissiles}
 Britannica, E. ????
 \newblock V-2 missile.
 \newblock \urlprefix\url{https://www.britannica.com/technology/V-2-missile}.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+
+\bibitem[{Brooker et~al.(2017)Brooker, Widmaier, Graham, and
+  Stiling}]{brooker_2017chapter}
+Brooker, R., E.~Widmaier, L.~Graham, and P.~Stiling. 2017.
+\newblock Chapter 60: Biodiversity and conservation biology.
 
 \bibitem[{Bruckner(2002)}]{AndrewWBruckner_1970}
 Bruckner, A.~W. 2002.
@@ -436,7 +422,12 @@ Chen, Y., Z.~Duan, J.~Yang, Y.~Deng, T.~Wu, and J.~Ou. 2021.
 \newblock Journal of Wind Engineering and Industrial Aerodynamics, {\bf
   208}:104415.
 
-<<<<<<< HEAD
+\bibitem[{Chen et~al.(2015)Chen, Wang, Lin, Shi, Song, and
+  He}]{chen2015balancing}
+Chen, Y., K.~Wang, Y.~Lin, W.~Shi, Y.~Song, and X.~He. 2015.
+\newblock Balancing green and grain trade.
+\newblock Nature Geoscience, {\bf 8}:739--741.
+
 \bibitem[{Chiu and Lui(2000)}]{chiu2000dynamics}
 Chiu, S. W.~K. and T.~L. Lui. 2000.
 \newblock The dynamics of social movements in Hong Kong: Real and financial
@@ -466,13 +457,6 @@ Cooke, F.~M., J.~Nordensvard, G.~B. Saat, F.~Urban, and G.~Siciliano. 2017.
 \newblock The limits of social protection: the case of hydropower dams and
   indigenous peoples' land.
 \newblock Asia \& the Pacific Policy Studies, {\bf 4}:437--450.
-=======
-\bibitem[{Chen et~al.(2015)Chen, Wang, Lin, Shi, Song, and
-  He}]{chen2015balancing}
-Chen, Y., K.~Wang, Y.~Lin, W.~Shi, Y.~Song, and X.~He. 2015.
-\newblock Balancing green and grain trade.
-\newblock Nature Geoscience, {\bf 8}:739--741.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{CORAL(2021)}]{coralreefalliance_2021}
 CORAL. 2021.
@@ -530,7 +514,6 @@ Davis, M. 2002.
   third world.
 \newblock Verso Books.
 
-<<<<<<< HEAD
 \bibitem[{Dean et~al.(2014)}]{dean2014principles}
 Dean, E. et~al. 2014.
 \newblock Principles of Microeconomics: Scarcity and Social Provisioning.
@@ -541,6 +524,13 @@ Demetriou, D. 2020.
 \newblock How the {J}apanese are putting an end to extreme work weeks.
 \newblock
   \urlprefix\url{https://www.bbc.com/worklife/article/20200114-how-the-japanese-are-putting-an-end-to-death-from-overwork}.
+
+\bibitem[{DenHoed(2018)}]{denhoed}
+DenHoed, A. 2018.
+\newblock The turn-of-the-century pigeons that photographed earth from above.
+\newblock The New Yorker.
+\newblock
+  \urlprefix\url{https://www.newyorker.com/culture/photo-booth/the-turn-of-the-century-pigeons-that-photographed-earth-from-above}.
 
 \bibitem[{Denyer(2019)}]{denyer2019}
 Denyer, S. 2019.
@@ -562,6 +552,20 @@ du~musee~de Shanghai, B. 1996.
   years: Innovation and transformation in the arts, ed. sherman e. lee, 55-68.
   new york: Solomon r. guggenheim museum, 1998.
 \newblock World Archaeology, {\bf 28}:209--19.
+
+\bibitem[{Dunbar(2017{\natexlab{{\em a\/}}})}]{dunbar2017}
+Dunbar, B. 2017{\natexlab{{\em a\/}}}.
+\newblock First picture of earth from 100 miles in space, 1947.
+\newblock NASA.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1298.html}.
+
+\bibitem[{Dunbar(2017{\natexlab{{\em b\/}}})}]{dunbartiros}
+Dunbar, B. 2017{\natexlab{{\em b\/}}}.
+\newblock Tiros, the nation's first weather satellite.
+\newblock NASA.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1627.html}.
 
 \bibitem[{Edelstein and Kleese(1995)}]{edelstein1995cultural}
 Edelstein, M.~R. and D.~A. Kleese. 1995.
@@ -589,28 +593,6 @@ Ekins, P., S.~Simon, L.~Deutsch, C.~Folke, and R.~De~Groot. 2003.
 \newblock A framework for the practical application of the concepts of critical
   natural capital and strong sustainability.
 \newblock Ecological economics, {\bf 44}:165--185.
-=======
-\bibitem[{DenHoed(2018)}]{denhoed}
-DenHoed, A. 2018.
-\newblock The turn-of-the-century pigeons that photographed earth from above.
-\newblock The New Yorker.
-\newblock
-  \urlprefix\url{https://www.newyorker.com/culture/photo-booth/the-turn-of-the-century-pigeons-that-photographed-earth-from-above}.
-
-\bibitem[{Dunbar(2017{\natexlab{{\em a\/}}})}]{dunbar2017}
-Dunbar, B. 2017{\natexlab{{\em a\/}}}.
-\newblock First picture of earth from 100 miles in space, 1947.
-\newblock NASA.
-\newblock
-  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1298.html}.
-
-\bibitem[{Dunbar(2017{\natexlab{{\em b\/}}})}]{dunbartiros}
-Dunbar, B. 2017{\natexlab{{\em b\/}}}.
-\newblock Tiros, the nation's first weather satellite.
-\newblock NASA.
-\newblock
-  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1627.html}.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Emanuel(2005)}]{emanuel2005increasing}
 Emanuel, K. 2005.
@@ -684,7 +666,6 @@ Fabinyi, M. 2010.
 \newblock Human Ecology, {\bf 38}:415--427.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
 
-<<<<<<< HEAD
 \bibitem[{Fan et~al.(2012)Fan, Lam, and Yu}]{fan2012differential}
 Fan, X., K.-c. Lam, and Q.~Yu. 2012.
 \newblock Differential exposure of the urban population to vehicular air
@@ -718,6 +699,12 @@ Fekete, B.~M., D.~Wisser, C.~Kroeze, E.~Mayorga, L.~Bouwman, W.~M. Wollheim,
   climate and hydrological alterations.
 \newblock Global Biogeochemical Cycles, {\bf 24}.
 
+\bibitem[{Feng et~al.(2017)Feng, Zhao, Fu, Ding, and Wang}]{feng2017ecosystem}
+Feng, Q., W.~Zhao, B.~Fu, J.~Ding, and S.~Wang. 2017.
+\newblock Ecosystem service trade-offs and their influencing factors: A case
+  study in the loess plateau of china.
+\newblock Science of the Total Environment, {\bf 607}:1250--1263.
+
 \bibitem[{Feynman et~al.(1965)Feynman, Leighton, and
   Sands}]{feynman1965feynman}
 Feynman, R.~P., R.~B. Leighton, and M.~Sands. 1965.
@@ -734,13 +721,6 @@ Folch, C. 2019.
 for Science~Education, C. ????
 \newblock Monsoons.
 \newblock \urlprefix\url{https://scied.ucar.edu/learning-zone/storms/monsoons}.
-=======
-\bibitem[{Feng et~al.(2017)Feng, Zhao, Fu, Ding, and Wang}]{feng2017ecosystem}
-Feng, Q., W.~Zhao, B.~Fu, J.~Ding, and S.~Wang. 2017.
-\newblock Ecosystem service trade-offs and their influencing factors: A case
-  study in the loess plateau of china.
-\newblock Science of the Total Environment, {\bf 607}:1250--1263.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Fox and
   Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
@@ -750,7 +730,11 @@ Fox, H.~E. and R.~L. Caldwell. 2006.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
 
-<<<<<<< HEAD
+\bibitem[{Fox and Vogler(2005)}]{fox2005land}
+Fox, J. and J.~B. Vogler. 2005.
+\newblock Land-use and land-cover change in montane mainland southeast asia.
+\newblock Environmental Management, {\bf 36}:394--403.
+
 \bibitem[{Frazier and Steffens(2019)}]{frazier2019thesnakes}
 Frazier, I. and G.~Steffens. 2019.
 \newblock The snakes that ate florida.
@@ -784,6 +768,12 @@ Fund, T. S. C.~C. 2009.
   vietnam.
 \newblock United Nations Development Program.
 
+\bibitem[{Fussell et~al.(1986)Fussell, RUNDQUIST, and
+  Harrington}]{fussell1986defining}
+Fussell, J., D.~RUNDQUIST, and J.~Harrington. 1986.
+\newblock On defining remote sensing.
+\newblock Photogrammetric Engineering and Remote Sensing, {\bf 52}:1507--1511.
+
 \bibitem[{Garschagen and Kraas(2011)}]{garschagen2011urban}
 Garschagen, M. and F.~Kraas. 2011.
 \newblock Urban climate change adaptation in the context of transformation:
@@ -796,6 +786,12 @@ Gilbert, J. 2007.
   the rights of indigenous peoples.
 \newblock International Journal on Minority and Group Rights, {\bf
   14}:207--230.
+
+\bibitem[{Gilley(2005)}]{gilley_erosion}
+Gilley, J. 2005.
+\newblock Erosion:water-induced.
+\newblock Encyclopedia of Soils in the Environment, pages 463--469.
+\newblock \urlprefix\url{https://doi.org/10.1016/B0-12-348530-4/00262-9}.
 
 \bibitem[{Glibert et~al.(2005)Glibert, Seitzinger, Heil, Burkholder, Parrow,
   Codispoti, and Kelly}]{glibert2005eutrophication}
@@ -814,6 +810,12 @@ GovHK. 2020{\natexlab{{\em b\/}}}.
 \newblock Hong kong geographic data (include area by district council).
 \newblock
   \urlprefix\url{https://www.landsd.gov.hk/en/resources/mapping-information/hk-geographic-data.html}.
+
+\bibitem[{Graham(1999)}]{graham_NASA}
+Graham, S. 1999.
+\newblock Remote sensing: Introduction and history.
+\newblock
+  \urlprefix\url{https://earthobservatory.nasa.gov/features/RemoteSensing}.
 
 \bibitem[{Greenpeace(2018)}]{greenpeace}
 Greenpeace, M. 2018.
@@ -843,6 +845,11 @@ Hagen, R.~V. and T.~Minter. 2020.
 \newblock Displacement in the name of development. how indigenous rights
   legislation fails to protect philippine hunter-gatherers.
 \newblock Society and Natural Resources, {\bf 33}:65–82.
+
+\bibitem[{Haraway(2016)}]{haraway2016staying}
+Haraway, D.~J. 2016.
+\newblock Staying with the trouble: Making kin in the Chthulucene.
+\newblock Duke University Press.
 
 \bibitem[{Harden(2008)}]{harden2008}
 Harden, B. 2008.
@@ -879,35 +886,6 @@ Higuchi, K. and M.~G. Norton. 2008.
 \newblock Japan’s eco-towns and innovation clusters-synergy towards
   sustainability.
 \newblock Global Environment, {\bf 1}:224--243.
-=======
-\bibitem[{Fox and Vogler(2005)}]{fox2005land}
-Fox, J. and J.~B. Vogler. 2005.
-\newblock Land-use and land-cover change in montane mainland southeast asia.
-\newblock Environmental Management, {\bf 36}:394--403.
-
-\bibitem[{Fussell et~al.(1986)Fussell, RUNDQUIST, and
-  Harrington}]{fussell1986defining}
-Fussell, J., D.~RUNDQUIST, and J.~Harrington. 1986.
-\newblock On defining remote sensing.
-\newblock Photogrammetric Engineering and Remote Sensing, {\bf 52}:1507--1511.
-
-\bibitem[{Gilley(2005)}]{gilley_erosion}
-Gilley, J. 2005.
-\newblock Erosion:water-induced.
-\newblock Encyclopedia of Soils in the Environment, pages 463--469.
-\newblock \urlprefix\url{https://doi.org/10.1016/B0-12-348530-4/00262-9}.
-
-\bibitem[{Graham(1999)}]{graham_NASA}
-Graham, S. 1999.
-\newblock Remote sensing: Introduction and history.
-\newblock
-  \urlprefix\url{https://earthobservatory.nasa.gov/features/RemoteSensing}.
-
-\bibitem[{Haraway(2016)}]{haraway2016staying}
-Haraway, D.~J. 2016.
-\newblock Staying with the trouble: Making kin in the Chthulucene.
-\newblock Duke University Press.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Hoogervorst(2012)}]{boatpeople}
 Hoogervorst, T.~G. 2012.
@@ -917,12 +895,24 @@ Hoogervorst, T.~G. 2012.
 \newblock
   \urlprefix\url{https://link.springer.com/article/10.1007%2Fs12685-012-0060-0}.
 
-<<<<<<< HEAD
+\bibitem[{Houghton et~al.(2012)Houghton, House, Pongratz, Werf
+  et~al.}]{houghton20122012}
+Houghton, R., J.~House, J.~Pongratz, G.~Werf, et~al. 2012.
+\newblock a. et al., 2012. carbon emissions from land use and land-cover
+  change.
+\newblock Biogeosciences, {\bf 9}:5125--5142.
+
 \bibitem[{Hoy(2018)}]{hoy}
 Hoy, S. 2018.
 \newblock Mottainai reduce reuse recycle - and respect.
 \newblock
   \urlprefix\url{https://www.gov-online.go.jp/pdf/hlj/20180701/28-29.pdf}.
+
+\bibitem[{Huadong(2013)}]{huadong2013earth}
+Huadong, G. 2013.
+\newblock Earth observation in china and the world: History and development in
+  50 years.
+\newblock Bulletin of the Chinese Academy of Sciences, {\bf 27}:96--98.
 
 \bibitem[{Hubbard et~al.(2014)Hubbard, Hynes, Erlandson, and
   Bailey}]{hubbard2014biochemistry}
@@ -967,26 +957,6 @@ Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. ????
 Index, H.~E. ????
 \newblock Hedley environmental index.
 \newblock \urlprefix\url{http://hedleyindex.sph.hku.hk/.}
-=======
-\bibitem[{Houghton et~al.(2012)Houghton, House, Pongratz, Werf
-  et~al.}]{houghton20122012}
-Houghton, R., J.~House, J.~Pongratz, G.~Werf, et~al. 2012.
-\newblock a. et al., 2012. carbon emissions from land use and land-cover
-  change.
-\newblock Biogeosciences, {\bf 9}:5125--5142.
-
-\bibitem[{Huadong(2013)}]{huadong2013earth}
-Huadong, G. 2013.
-\newblock Earth observation in china and the world: History and development in
-  50 years.
-\newblock Bulletin of the Chinese Academy of Sciences, {\bf 27}:96--98.
-
-\bibitem[{Imura et~al.(2005)Imura, Yedla, Shirakawa, and
-  Memon}]{imura2005urban}
-Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. 2005.
-\newblock Urban environmental issues and trends in asia-an overview.
-\newblock International review for environmental strategies, {\bf 5}:357.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Institute~of Botany(2021)}]{CAS2021researchers}
 Institute~of Botany, C. A. o.~S. 2021.
@@ -995,7 +965,6 @@ Institute~of Botany, C. A. o.~S. 2021.
 \newblock
   \urlprefix\url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
-<<<<<<< HEAD
 \bibitem[{IPEN(????)}]{ipen}
 IPEN. ????
 \newblock Pfas.
@@ -1042,12 +1011,29 @@ Jaramillo, J. 2020.
 \newblock
   \urlprefix\url{https://www.earthisland.org/journal/index.php/articles/entry/japans-high-recycling-rate-plastic/}.
 
+\bibitem[{Jenny(1994)}]{jenny1994factors}
+Jenny, H. 1994.
+\newblock Factors of soil formation: a system of quantitative pedology.
+\newblock Courier Corporation.
+
+\bibitem[{Jia et~al.(2017)Jia, Zhu, Luo et~al.}]{jia2017soil}
+Jia, X., Y.~Zhu, Y.~Luo, et~al. 2017.
+\newblock Soil moisture decline due to afforestation across the loess plateau,
+  china.
+\newblock Journal of Hydrology, {\bf 546}:113--122.
+
 \bibitem[{Jian et~al.(2000)Jian, Xueguang, Fasen, Song, and
   Song}]{jian2000study}
 Jian, L., G.~Xueguang, X.~Fasen, W.~Song, and L.~Song. 2000.
 \newblock Study on the development of snail habitat in three gorges reservoir
   area inundated temporarily by flood.
 \newblock Journal of Practical Parasitic Diseases, {\bf 3}.
+
+\bibitem[{Jian et~al.(2015)Jian, Zhao, Fang, and Yu}]{jian2015effects}
+Jian, S., C.~Zhao, S.~Fang, and K.~Yu. 2015.
+\newblock Effects of different vegetation restoration on soil water storage and
+  water balance in the chinese loess plateau.
+\newblock Agricultural and Forest Meteorology, {\bf 206}:85--96.
 
 \bibitem[{Jiang et~al.(2011)Jiang, Fischer, and Lu}]{jiang2011larger}
 Jiang, T., T.~Fischer, and X.~Lu. 2011.
@@ -1088,24 +1074,6 @@ Kaur, L. 2020.
 Keddy, P.~A. 2001.
 \newblock The Competition.
 \newblock Kluwer Academic Publishers.
-=======
-\bibitem[{Jenny(1994)}]{jenny1994factors}
-Jenny, H. 1994.
-\newblock Factors of soil formation: a system of quantitative pedology.
-\newblock Courier Corporation.
-
-\bibitem[{Jia et~al.(2017)Jia, Zhu, Luo et~al.}]{jia2017soil}
-Jia, X., Y.~Zhu, Y.~Luo, et~al. 2017.
-\newblock Soil moisture decline due to afforestation across the loess plateau,
-  china.
-\newblock Journal of Hydrology, {\bf 546}:113--122.
-
-\bibitem[{Jian et~al.(2015)Jian, Zhao, Fang, and Yu}]{jian2015effects}
-Jian, S., C.~Zhao, S.~Fang, and K.~Yu. 2015.
-\newblock Effects of different vegetation restoration on soil water storage and
-  water balance in the chinese loess plateau.
-\newblock Agricultural and Forest Meteorology, {\bf 206}:85--96.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
   Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
@@ -1117,7 +1085,12 @@ Keller, B., D.~Gleason, E.~Mcleod, C.~Woodley, S.~Airam{\'e}, B.~Causey,
   marine protected areas.
 \newblock Environmental Management, {\bf 44}:1069 -- 1088.
 
-<<<<<<< HEAD
+\bibitem[{Kelly(2012)}]{kelly2012yin}
+Kelly, B. 2012.
+\newblock The yin and yang of climate change: Chinese medicine and cultural
+  transformation.
+\newblock The Journal of Chinese Medicine, page~51.
+
 \bibitem[{Keong(2005)}]{keong2005energy}
 Keong, C.~Y. 2005.
 \newblock Energy demand, economic growth, and energy efficiency—the bakun
@@ -1135,13 +1108,6 @@ Kimmerer, R.~W. 2018.
   the good green earth.
 \newblock Nelson and Shilling, eds., Traditional Ecological Knowledge. Learning
   from Indigenous Practices for Environmental Sustainability, pages 27--56.
-=======
-\bibitem[{Kelly(2012)}]{kelly2012yin}
-Kelly, B. 2012.
-\newblock The yin and yang of climate change: Chinese medicine and cultural
-  transformation.
-\newblock The Journal of Chinese Medicine, page~51.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{King et~al.(2010)King, Davidson, and
   Anderson-Berry}]{king2010disaster}
@@ -1275,7 +1241,6 @@ Lirman and Schopmeyer. 2021.
 \newblock
   \urlprefix\url{https://reefresilience.org/restoration/coral-populations/coral-gardening/}.
 
-<<<<<<< HEAD
 \bibitem[{List(2017)}]{list_working_2017}
 List, B. v.~d. 2017.
 \newblock Working to death: the fatal consequences of {Japan}'s overtime
@@ -1291,6 +1256,17 @@ Liu, C. ????
 \newblock
   \urlprefix\url{https://www.newsecuritybeat.org/2016/05/innovative-sludge-to-energy-plant-breakthrough-china/}.
 
+\bibitem[{Liu and Liu(2020)}]{liu2020soil}
+Liu, J. and H.~Liu. 2020.
+\newblock Soil erosion changes during the last 30 years and contributions of
+  gully erosion to sediment yield in a small catchment, southern china.
+\newblock Geomorphology, {\bf 368}:107357.
+
+\bibitem[{Liu(2009)}]{liu_documentary}
+Liu, J.~D. 2009.
+\newblock Hope in a changing climate.
+\newblock \urlprefix\url{https://www.youtube.com/watch?v=bLdNhZ6kAzo}.
+
 \bibitem[{Liu et~al.(2012)Liu, Liu, Johnson, Yi, and Huang}]{liu2012effects}
 Liu, L., D.~Liu, D.~M. Johnson, Z.~Yi, and Y.~Huang. 2012.
 \newblock Effects of vertical mixing on phytoplankton blooms in xiangxi bay of
@@ -1302,6 +1278,21 @@ Liu, L., D.~Liu, D.~M. Johnson, Z.~Yi, and Y.~Huang. 2012.
 Liu, Q., Y.~Bai, N.~Cao, X.~Liu, X.~Ding, E.~Childs-Johnson, L.~v.
   Falkenhausen, T.~Jiao, Y.-K. Lee, Y.-t. Li, et~al. 2013.
 \newblock Chinese archaeology.
+
+\bibitem[{Liu et~al.(2015)Liu, Pan, Zhuang, Miralles, Teuling, Zhang, An, Dong,
+  Zhang, He et~al.}]{liu2015agriculture}
+Liu, Y., Z.~Pan, Q.~Zhuang, D.~G. Miralles, A.~J. Teuling, T.~Zhang, P.~An,
+  Z.~Dong, J.~Zhang, D.~He, et~al. 2015.
+\newblock Agriculture intensifies soil moisture decline in northern china.
+\newblock Scientific reports, {\bf 5}:1--9.
+
+\bibitem[{Liu et~al.(2016)Liu, Yang, Lin, Hubbard, Lv, and
+  Wang}]{liu2016narrowing}
+Liu, Z., X.~Yang, X.~Lin, K.~G. Hubbard, S.~Lv, and J.~Wang. 2016.
+\newblock Narrowing the agronomic yield gaps of maize by improved soil,
+  cultivar, and agricultural management practices in different climate zones of
+  northeast china.
+\newblock Earth Interactions, {\bf 20}:1--18.
 
 \bibitem[{Loh et~al.(????)Loh, Pillsbury, Lawson, and Kilburn}]{lohvision}
 Loh, C., M.~Pillsbury, A.~Lawson, and M.~Kilburn. ????
@@ -1321,38 +1312,6 @@ Lupton, C. 1965.
   history.
 \newblock Journal of the Hong Kong Branch of the Royal Asiatic Society, pages
   95--100.
-=======
-\bibitem[{Liu and Liu(2020)}]{liu2020soil}
-Liu, J. and H.~Liu. 2020.
-\newblock Soil erosion changes during the last 30 years and contributions of
-  gully erosion to sediment yield in a small catchment, southern china.
-\newblock Geomorphology, {\bf 368}:107357.
-
-\bibitem[{Liu(2009)}]{liu_documentary}
-Liu, J.~D. 2009.
-\newblock Hope in a changing climate.
-\newblock \urlprefix\url{https://www.youtube.com/watch?v=bLdNhZ6kAzo}.
-
-\bibitem[{Liu et~al.(2015)Liu, Pan, Zhuang, Miralles, Teuling, Zhang, An, Dong,
-  Zhang, He et~al.}]{liu2015agriculture}
-Liu, Y., Z.~Pan, Q.~Zhuang, D.~G. Miralles, A.~J. Teuling, T.~Zhang, P.~An,
-  Z.~Dong, J.~Zhang, D.~He, et~al. 2015.
-\newblock Agriculture intensifies soil moisture decline in northern china.
-\newblock Scientific reports, {\bf 5}:1--9.
-
-\bibitem[{Liu et~al.(2016)Liu, Yang, Lin, Hubbard, Lv, and
-  Wang}]{liu2016narrowing}
-Liu, Z., X.~Yang, X.~Lin, K.~G. Hubbard, S.~Lv, and J.~Wang. 2016.
-\newblock Narrowing the agronomic yield gaps of maize by improved soil,
-  cultivar, and agricultural management practices in different climate zones of
-  northeast china.
-\newblock Earth Interactions, {\bf 20}:1--18.
-
-\bibitem[{Los~Huertos(2018)}]{LosHuertos2017OverviewR}
-Los~Huertos, M. 2018.
-\newblock Overview of R.
-\newblock Pomona College.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{LuY et~al.(2013)}]{luy2013apolicy}
 LuY, F. et~al. 2013.
@@ -1439,7 +1398,12 @@ McClanahan, T.~R. and N.~A. Muthiga. 2016.
 \newblock
   \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/15-1492.1}.
 
-<<<<<<< HEAD
+\bibitem[{McCool and Williams(2008)}]{mccool_erosion}
+McCool, D. and J.~Williams. 2008.
+\newblock Soil erosion by water.
+\newblock Encyclopedia of Ecology, pages 3284--3290.
+\newblock \urlprefix\url{https://doi.org/10.1016/B978-008045405-4.00296-2}.
+
 \bibitem[{McCoy(2019)}]{mccoy2019}
 McCoy, T. 2019.
 \newblock In a world drowning in trash, these cities have slashed waste by 80
@@ -1485,6 +1449,11 @@ Misachi, J. 2018.
 \newblock
   \urlprefix\url{http://www.worldatlas.com/articles/what-percentage-of-the-earth-s-water-is-drinkable.html.}
 
+\bibitem[{Mitnik and Gade(2019)}]{mitnik2019historical}
+Mitnik, L.~M. and M.~Gade. 2019.
+\newblock A historical overview of remote sensing of the asian seas.
+\newblock In Remote Sensing of the Asian Seas, pages 39--59. Springer.
+
 \bibitem[{Miyake et~al.(2005)Miyake, Yura, Misaki, Ikeda, Usui, Iki, and
   Shimizu}]{miyake2005}
 Miyake, Y., A.~Yura, H.~Misaki, Y.~Ikeda, T.~Usui, M.~Iki, and T.~Shimizu.
@@ -1493,29 +1462,17 @@ Miyake, Y., A.~Yura, H.~Misaki, Y.~Ikeda, T.~Usui, M.~Iki, and T.~Shimizu.
   waste incineration plant and child health in {Japan}.
 \newblock European Journal of Epidemiology, {\bf 20}:1023--1029.
 
-\bibitem[{Mordor(????)}]{mordor}
-Mordor. ????
-\newblock Asia-pacific biopesticides market: Share: Analysis (2020 - 2025).
-\newblock
-  \urlprefix\url{https://www.mordorintelligence.com/industry-reports/asia-pacific-biopesticides-market-industry}.
-=======
-\bibitem[{McCool and Williams(2008)}]{mccool_erosion}
-McCool, D. and J.~Williams. 2008.
-\newblock Soil erosion by water.
-\newblock Encyclopedia of Ecology, pages 3284--3290.
-\newblock \urlprefix\url{https://doi.org/10.1016/B978-008045405-4.00296-2}.
-
-\bibitem[{Mitnik and Gade(2019)}]{mitnik2019historical}
-Mitnik, L.~M. and M.~Gade. 2019.
-\newblock A historical overview of remote sensing of the asian seas.
-\newblock In Remote Sensing of the Asian Seas, pages 39--59. Springer.
-
 \bibitem[{Moore(1979)}]{moore1979picture}
 Moore, G.~K. 1979.
 \newblock What is a picture worth? a history of remote sensing / what is the
   value of an image? an overview of t {\ 'e} l {\' e} {\ 'e} tection.
 \newblock Hydrological Sciences Bulletin, {\bf 24}:477--485.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+
+\bibitem[{Mordor(????)}]{mordor}
+Mordor. ????
+\newblock Asia-pacific biopesticides market: Share: Analysis (2020 - 2025).
+\newblock
+  \urlprefix\url{https://www.mordorintelligence.com/industry-reports/asia-pacific-biopesticides-market-industry}.
 
 \bibitem[{Morin(2014)}]{Morin_2014}
 Morin, R. 2014.
@@ -1524,11 +1481,16 @@ Morin, R. 2014.
 \newblock
   \urlprefix\url{https://www.nytimes.com/2014/11/25/science/a-lifesaving-transplant-for-coral-reefs.html}.
 
-<<<<<<< HEAD
 \bibitem[{Munn(2013)}]{munn2013anglo}
 Munn, C. 2013.
 \newblock Anglo-China: Chinese People and British Rule in Hong Kong, 1841-1880.
 \newblock Routledge.
+
+\bibitem[{Museum(????)}]{smithsonian}
+Museum, S.~N. ????
+\newblock Looking at earth: The sky spies.
+\newblock
+  \urlprefix\url{https://airandspace.si.edu/exhibitions/looking-at-earth/online/the-sky-spies/}.
 
 \bibitem[{Mustafa and Hayder(2020)}]{mustafa2020recent}
 Mustafa, H.~M. and G.~Hayder. 2020.
@@ -1609,13 +1571,6 @@ Nicolopoulou-Stamati, P., S.~Maipas, C.~Kotampasi, P.~Stamatis, and L.~Hens.
 \newblock Chemical pesticides and human health: the urgent need for a new
   concept in agriculture.
 \newblock Frontiers in public health, {\bf 4}:148.
-=======
-\bibitem[{Museum(????)}]{smithsonian}
-Museum, S.~N. ????
-\newblock Looking at earth: The sky spies.
-\newblock
-  \urlprefix\url{https://airandspace.si.edu/exhibitions/looking-at-earth/online/the-sky-spies/}.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{NOAA(????)}]{noaaclimate.gov}
 NOAA. ????
@@ -1635,7 +1590,6 @@ NOAA. 2019{\natexlab{{\em b\/}}}.
 \newblock
   \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
 
-<<<<<<< HEAD
 \bibitem[{Norberg-Hodge(2000)}]{norberg2000ancient}
 Norberg-Hodge, H. 2000.
 \newblock Ancient futures: learning from Ladakh.
@@ -1652,10 +1606,23 @@ NZDL. ????
 \newblock
   \urlprefix\url{http://www.nzdl.org/cgi-bin/library?e=d-00000-00---off-0cdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&cl=CL2.7&d=HASH01126ded49ea86cbd5af6b15.4.2.14%3E.}
 
+\bibitem[{of~Agriculture(2016)}]{USDA_USLE}
+of~Agriculture, U.~D. 2016.
+\newblock Usle history.
+\newblock Agriculture Research Service.
+\newblock
+  \urlprefix\url{https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/docs/usle-database/usle-history/#:~:text=USLE%20as%20a%20complete%20technology,in%20USDA%20Agriculture%20Handbook%20282.&text=The%20Revised%20Universal%20Soil%20Loss,for%20public%20use%20in%201992.}
+
 \bibitem[{of~Resources and Environment(2010)}]{monre2010climate}
 of~Resources, M. and Environment. 2010.
 \newblock Climate change and sea level rise scenarios for vietnam.
 \newblock Ministry of Natural resources and Environment. Hanoi, Vietnam.
+
+\bibitem[{of~the Johns Hopkins~University(1948)}]{remote_earth}
+of~the Johns Hopkins~University, A. S.~L. 1948.
+\newblock Small steps.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/sites/default/files/images/316209main_smallsteps-v2_full.jpg}.
 
 \bibitem[{Office(2009)}]{who2004report}
 Office, W. H. O. W. P.~R. 2009.
@@ -1681,20 +1648,6 @@ Ortiz, S. 2018.
 \newblock In Traditional Ecological Knowledge: Learning from Indigenous
   Practices for Environmental Sustainability, pages 85--94. Cambridge
   University Press.
-=======
-\bibitem[{of~Agriculture(2016)}]{USDA_USLE}
-of~Agriculture, U.~D. 2016.
-\newblock Usle history.
-\newblock Agriculture Research Service.
-\newblock
-  \urlprefix\url{https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/docs/usle-database/usle-history/#:~:text=USLE%20as%20a%20complete%20technology,in%20USDA%20Agriculture%20Handbook%20282.&text=The%20Revised%20Universal%20Soil%20Loss,for%20public%20use%20in%201992.}
-
-\bibitem[{of~the Johns Hopkins~University(1948)}]{remote_earth}
-of~the Johns Hopkins~University, A. S.~L. 1948.
-\newblock Small steps.
-\newblock
-  \urlprefix\url{https://www.nasa.gov/sites/default/files/images/316209main_smallsteps-v2_full.jpg}.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
   Matillano}]{coraltriangle}
@@ -1771,7 +1724,6 @@ Persoon, G.~A. and T.~Minter. 2020.
 \newblock
   \urlprefix\url{https://ideas.repec.org/a/gam/jsusta/v12y2020i19p7983-d420111.html}.
 
-<<<<<<< HEAD
 \bibitem[{Pimm(2020)}]{britannica2020conservation}
 Pimm, S.~L. 2020.
 \newblock Conservation.
@@ -1785,11 +1737,6 @@ Pink, R.~M. 2016.
 \newblock In Water Rights in Southeast Asia and India, pages 207--225.
   Springer.
 
-\bibitem[{PWMI(2019)}]{pwmi2019}
-PWMI, P. W. M.~I. 2019.
-\newblock An introduction to plastic recycling.
-\newblock \urlprefix\url{https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf}.
-=======
 \bibitem[{Poeplau et~al.(2011)Poeplau, Don, Vesterdal, Leifeld, Van~Wesemael,
   Schumacher, and Gensior}]{poeplau2011temporal}
 Poeplau, C., A.~Don, L.~Vesterdal, J.~Leifeld, B.~Van~Wesemael, J.~Schumacher,
@@ -1797,6 +1744,11 @@ Poeplau, C., A.~Don, L.~Vesterdal, J.~Leifeld, B.~Van~Wesemael, J.~Schumacher,
 \newblock Temporal dynamics of soil organic carbon after land-use change in the
   temperate zone--carbon response functions as a model approach.
 \newblock Global Change Biology, {\bf 17}:2415--2427.
+
+\bibitem[{PWMI(2019)}]{pwmi2019}
+PWMI, P. W. M.~I. 2019.
+\newblock An introduction to plastic recycling.
+\newblock \urlprefix\url{https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf}.
 
 \bibitem[{Qian et~al.(2016)Qian, Peng, Luo, Wu, and Du}]{qian2016urban}
 Qian, J., Y.~Peng, C.~Luo, C.~Wu, and Q.~Du. 2016.
@@ -1809,7 +1761,6 @@ Qiao, J., Y.~Zhu, X.~Jia, L.~Huang, and M.~Shao. 2018.
 \newblock Factors that influence the vertical distribution of soil water
   content in the critical zone on the loess plateau, china.
 \newblock Vadose Zone Journal, {\bf 17}:1--7.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
   Yang}]{Qineaau1218}
@@ -1845,7 +1796,6 @@ Renaud, C. 1997.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
 \bibitem[{Rodda and Savidge(2007)}]{rodda2007biology}
 Rodda, G.~H. and J.~A. Savidge. 2007.
 \newblock Biology and impacts of pacific island invasive species. 2. boiga
@@ -1867,17 +1817,16 @@ Saito, Y. 1999.
 \newblock \urlprefix\url{https://www.jstor.org/stable/432317}.
 \newblock Publisher: [Wiley, American Society for Aesthetics].
 
+\bibitem[{Salomonson(2015)}]{salomonson}
+Salomonson, V. 2015.
+\newblock Remote sensing, historical perspective.
+\newblock Encyclopedia of Remote Sensing.
+
 \bibitem[{San~Tam et~al.(2015)San~Tam, Wong, and Wong}]{san2015association}
 San~Tam, W.~W., T.~W. Wong, and A.~H. Wong. 2015.
 \newblock Association between air pollution and daily mortality and hospital
   admission due to ischaemic heart diseases in hong kong.
 \newblock Atmospheric Environment, {\bf 120}:360--368.
-=======
-\bibitem[{Salomonson(2015)}]{salomonson}
-Salomonson, V. 2015.
-\newblock Remote sensing, historical perspective.
-\newblock Encyclopedia of Remote Sensing.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Scott(2018)}]{areef}
 Scott, C. 2018.
@@ -1927,6 +1876,12 @@ Shi, Y.-e., C.-F. Jiang, J.-J. Han, Y.-L. Li, and A.~Ruppel. 1990.
   applicable in the field for water buffaloes.
 \newblock Experimental parasitology, {\bf 71}:100--106.
 
+\bibitem[{Shi et~al.(2012)Shi, Fang, Wu, Wang, Yue, and Wu}]{shi2012soil}
+Shi, Z., N.~Fang, F.~Wu, L.~Wang, B.~Yue, and G.~Wu. 2012.
+\newblock Soil erosion processes and sediment sorting associated with transport
+  mechanisms on steep slopes.
+\newblock Journal of Hydrology, {\bf 454}:123--130.
+
 \bibitem[{Sinay and Carter(2020)}]{Sinay_2020}
 Sinay, L. and R.~W.~B. Carter. 2020.
 \newblock Climate change adaptation options for coastal communities and local
@@ -1939,12 +1894,6 @@ Siniawer, E.~M. 2014.
 \newblock `` affluence of the heart'': Wastefulness and the search for meaning
   in millennial japan.
 \newblock The Journal of Asian Studies, pages 165--186.
-
-\bibitem[{Shi et~al.(2012)Shi, Fang, Wu, Wang, Yue, and Wu}]{shi2012soil}
-Shi, Z., N.~Fang, F.~Wu, L.~Wang, B.~Yue, and G.~Wu. 2012.
-\newblock Soil erosion processes and sediment sorting associated with transport
-  mechanisms on steep slopes.
-\newblock Journal of Hydrology, {\bf 454}:123--130.
 
 \bibitem[{Smith(2018)}]{Smith}
 Smith, K.~N. 2018.
@@ -2025,7 +1974,20 @@ Suggett, D.~J. and D.~J. Smith. 2020.
 \newblock
   \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
 
-<<<<<<< HEAD
+\bibitem[{Sun et~al.(2020)Sun, Shahrajabian, Khoshkharam, and
+  Cheng}]{sun2020adaptation}
+Sun, W., M.~H. Shahrajabian, M.~Khoshkharam, and Q.~Cheng. 2020.
+\newblock Adaptation of acupuncture and traditional chinese herbal medicines
+  models because of climate change.
+\newblock Journal of Stress Physiology \& Biochemistry, {\bf 16}.
+
+\bibitem[{Suong et~al.(2019)Suong, Chapuis, Leng, Tivet, De~Waele, Nguyen~Thi,
+  and Bellafiore}]{suong2019impact}
+Suong, M., E.~Chapuis, V.~Leng, F.~Tivet, D.~De~Waele, H.~Nguyen~Thi, and
+  S.~Bellafiore. 2019.
+\newblock Impact of a conservation agriculture system on soil characteristics,
+  rice yield, and root-parasitic nematodes in a cambodian lowland rice field.
+
 \bibitem[{Supeck(2019)}]{supeck_2019}
 Supeck. 2019.
 \newblock The history of the septic system.
@@ -2060,21 +2022,6 @@ Thao, N. T.~T., D.~N. Khoi, T.~T. Xuan, and B.~Tychon. 2019.
 \newblock Assessment of livelihood vulnerability to drought: A case study in
   dak nong province, vietnam.
 \newblock International Journal of Disaster Risk Science, {\bf 10}:604--615.
-=======
-\bibitem[{Sun et~al.(2020)Sun, Shahrajabian, Khoshkharam, and
-  Cheng}]{sun2020adaptation}
-Sun, W., M.~H. Shahrajabian, M.~Khoshkharam, and Q.~Cheng. 2020.
-\newblock Adaptation of acupuncture and traditional chinese herbal medicines
-  models because of climate change.
-\newblock Journal of Stress Physiology \& Biochemistry, {\bf 16}.
-
-\bibitem[{Suong et~al.(2019)Suong, Chapuis, Leng, Tivet, De~Waele, Nguyen~Thi,
-  and Bellafiore}]{suong2019impact}
-Suong, M., E.~Chapuis, V.~Leng, F.~Tivet, D.~De~Waele, H.~Nguyen~Thi, and
-  S.~Bellafiore. 2019.
-\newblock Impact of a conservation agriculture system on soil characteristics,
-  rice yield, and root-parasitic nematodes in a cambodian lowland rice field.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Thompson(2018)}]{Thompson}
 Thompson, A. 2018.
@@ -2083,7 +2030,13 @@ Thompson, A. 2018.
 \newblock
   \urlprefix\url{https://www.scientificamerican.com/article/where-plastic-goes-coral-disease-follows/}.
 
-<<<<<<< HEAD
+\bibitem[{Thompson and Goyne(2012)}]{thompsonsorption}
+Thompson, A. and K.~Goyne. 2012.
+\newblock Introduction to the sorption of chemical constituents in soils.
+\newblock The Nature Education, {\bf 4}.
+\newblock
+  \urlprefix\url{https://www.nature.com/scitable/knowledge/library/introduction-to-the-sorption-of-chemical-constituents-94841002/}.
+
 \bibitem[{Thorin(2014)}]{thorin2014basics}
 Thorin, E. 2014.
 \newblock Basics of energy.
@@ -2095,14 +2048,6 @@ Thuy, P.~T., S.~Van~Geluwe, V.-A. Nguyen, and B.~Van~der Bruggen. 2012.
   management challenges for sustainable use of pesticides for tropical crops in
   (south-east) asia to avoid environmental pollution.
 \newblock Journal of Material Cycles and Waste Management, {\bf 14}:379--387.
-=======
-\bibitem[{Thompson and Goyne(2012)}]{thompsonsorption}
-Thompson, A. and K.~Goyne. 2012.
-\newblock Introduction to the sorption of chemical constituents in soils.
-\newblock The Nature Education, {\bf 4}.
-\newblock
-  \urlprefix\url{https://www.nature.com/scitable/knowledge/library/introduction-to-the-sorption-of-chemical-constituents-94841002/}.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Todd et~al.(2010)Todd, Xueyuan, and Loke~Ming}]{4884777420100401}
 Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
@@ -2111,7 +2056,6 @@ Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
 \newblock
   \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48847774&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
 \bibitem[{Trang(2004)}]{trang2004local}
 Trang, T. T.~T. 2004.
 \newblock Local politics and democracy in a muong ethnic community.
@@ -2135,6 +2079,22 @@ Tseng, Y.-J., S.-K. Wang, and C.-Y. Duh. 2013.
 \newblock Marine Drugs, {\bf 11}:3288–3296.
 \newblock \urlprefix\url{http://dx.doi.org/10.3390/md11093288}.
 
+\bibitem[{Tuo et~al.(2018{\natexlab{{\em a\/}}})Tuo, Gao, Chang, Li, Ma, Wang,
+  Wang, and Fu}]{tuo2018effects}
+Tuo, D., G.~Gao, R.~Chang, Z.~Li, Y.~Ma, S.~Wang, C.~Wang, and B.~Fu.
+  2018{\natexlab{{\em a\/}}}.
+\newblock Effects of revegetation and precipitation gradient on soil carbon and
+  nitrogen variations in deep profiles on the loess plateau of china.
+\newblock Science of the Total Environment, {\bf 626}:399--411.
+
+\bibitem[{Tuo et~al.(2018{\natexlab{{\em b\/}}})Tuo, Xu, and
+  Gao}]{tuo2018relative}
+Tuo, D., M.~Xu, and G.~Gao. 2018{\natexlab{{\em b\/}}}.
+\newblock Relative contributions of wind and water erosion to total soil loss
+  and its effect on soil properties in sloping croplands of the chinese loess
+  plateau.
+\newblock Science of the total environment, {\bf 633}:1032--1040.
+
 \bibitem[{UN(????{\natexlab{{\em a\/}}})}]{un}
 UN. ????{\natexlab{{\em a\/}}}.
 \newblock The dublin principles on water and the environment.
@@ -2153,37 +2113,8 @@ UN. ????{\natexlab{{\em c\/}}}.
 \newblock
   \urlprefix\url{https://www.unwater.org/water-facts/quality-and-wastewater/#:~:text=Challenges%20and%20opportunities&amp;text=The%20availability%20of%20safe%20and,water%20resources%20around%20the%20world.}
 
-\bibitem[{University(????)}]{purdue}
-University, P. ????
-\newblock On-site wastewater disposal and public health.
-
-\bibitem[{US~EPA(2017{\natexlab{{\em a\/}}})}]{epa}
-US~EPA, a. 2017{\natexlab{{\em a\/}}}.
-\newblock What is endocrine disruption.
-\newblock
-  \urlprefix\url{file:///Users/eleanordunn/Zotero/storage/PZW8MWRE/what-endocrine-disruption.html}.
-
-\bibitem[{US~EPA(2017{\natexlab{{\em b\/}}})}]{USEPA_2017}
-US~EPA, O. 2017{\natexlab{{\em b\/}}}.
-=======
-\bibitem[{Tuo et~al.(2018{\natexlab{{\em a\/}}})Tuo, Gao, Chang, Li, Ma, Wang,
-  Wang, and Fu}]{tuo2018effects}
-Tuo, D., G.~Gao, R.~Chang, Z.~Li, Y.~Ma, S.~Wang, C.~Wang, and B.~Fu.
-  2018{\natexlab{{\em a\/}}}.
-\newblock Effects of revegetation and precipitation gradient on soil carbon and
-  nitrogen variations in deep profiles on the loess plateau of china.
-\newblock Science of the Total Environment, {\bf 626}:399--411.
-
-\bibitem[{Tuo et~al.(2018{\natexlab{{\em b\/}}})Tuo, Xu, and
-  Gao}]{tuo2018relative}
-Tuo, D., M.~Xu, and G.~Gao. 2018{\natexlab{{\em b\/}}}.
-\newblock Relative contributions of wind and water erosion to total soil loss
-  and its effect on soil properties in sloping croplands of the chinese loess
-  plateau.
-\newblock Science of the total environment, {\bf 633}:1032--1040.
-
-\bibitem[{University(????)}]{cornell_soils}
-University, C. ????
+\bibitem[{University(????{\natexlab{{\em a\/}}})}]{cornell_soils}
+University, C. ????{\natexlab{{\em a\/}}}.
 \newblock Soil forming processes vs. factors.
 \newblock Crop and Soil Sciences Department.
 \newblock
@@ -2196,9 +2127,18 @@ University, H.~S. 2019.
   \urlprefix\url{http://gis.humboldt.edu/OLM/Courses/GSP_216_Online/lesson1-1/history.html#:
   :text=Aerial%20photography%20is%20the%20earliest,by%20French%20inventor%20Nic%C3%A9phore%20Ni%C3%A9pce.}
 
-\bibitem[{US~EPA(2017)}]{USEPA_2017}
-US~EPA, O. 2017.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
+\bibitem[{University(????{\natexlab{{\em b\/}}})}]{purdue}
+University, P. ????{\natexlab{{\em b\/}}}.
+\newblock On-site wastewater disposal and public health.
+
+\bibitem[{US~EPA(2017{\natexlab{{\em a\/}}})}]{epa}
+US~EPA, a. 2017{\natexlab{{\em a\/}}}.
+\newblock What is endocrine disruption.
+\newblock
+  \urlprefix\url{file:///Users/eleanordunn/Zotero/storage/PZW8MWRE/what-endocrine-disruption.html}.
+
+\bibitem[{US~EPA(2017{\natexlab{{\em b\/}}})}]{USEPA_2017}
+US~EPA, O. 2017{\natexlab{{\em b\/}}}.
 \newblock Threats to coral reefs.
 \newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
 
@@ -2243,7 +2183,6 @@ Ventura, T. 2016.
   reform in the american colonial philippines, 1900--1916.
 \newblock Agricultural History, {\bf 90}:459--483.
 
-<<<<<<< HEAD
 \bibitem[{Verjee(2019)}]{verjee2019schistosomiasis}
 Verjee, M.~A. 2019.
 \newblock Schistosomiasis: Still a cause of significant morbidity and
@@ -2285,14 +2224,13 @@ Waldstein, A. 1997.
 Wang, R. and S.~Bryant. 2003.
 \newblock The three gorges dam.
 \newblock Water environment \& technology, {\bf 15}:28--33.
-=======
+
 \bibitem[{Wang et~al.(2016)Wang, Fu, Piao, L{\"u}, Ciais, Feng, and
   Wang}]{wang2016reduced}
 Wang, S., B.~Fu, S.~Piao, Y.~L{\"u}, P.~Ciais, X.~Feng, and Y.~Wang. 2016.
 \newblock Reduced sediment transport in the yellow river due to anthropogenic
   changes.
 \newblock Nature Geoscience, {\bf 9}:38--41.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Warren(2018)}]{warren2018typhoons}
 Warren, J.~F. 2018.
@@ -2327,13 +2265,19 @@ Weeks, R., G.~R. Russ, A.~C. Alcala, and A.~T. White. 2010.
 \newblock Conservation Biology, {\bf 24}:531--540.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40603378}.
 
-<<<<<<< HEAD
 \bibitem[{Wei et~al.(1989)Wei, Wang, Xingjian, Liu, Yi, and
   Zheng}]{wei1989investigation}
 Wei, F., R.~Wang, X.~Xingjian, J.~Liu, F.~Yi, and J.~Zheng. 1989.
 \newblock Investigation on import way of schistosomiasis and oncomelania snails
   in three gorges reservoir areas.
 \newblock Chinese Journal of Schistosomiasis Control.
+
+\bibitem[{Wei et~al.(2009)Wei, Shao, Fu, Horton, Li, and
+  Zhang}]{wei2009distribution}
+Wei, X., M.~Shao, X.~Fu, R.~Horton, Y.~Li, and X.~Zhang. 2009.
+\newblock Distribution of soil organic c, n and p in three adjacent land use
+  patterns in the northern loess plateau, china.
+\newblock Biogeochemistry, {\bf 96}:149--162.
 
 \bibitem[{Wenxiang et~al.(2006)Wenxiang, Zhijie, Yibiao, Jianlin, Yingjie, and
   Qingwu}]{wenxiang2006index}
@@ -2342,14 +2286,6 @@ Wenxiang, P., Z.~Zhijie, Z.~Yibiao, Z.~Jianlin, Z.~Yingjie, and J.~Qingwu.
 \newblock Index of air temperature for predicting the distribution of
   oncomelania snails [j].
 \newblock Chinese Journal of Schistosomiasis Control, {\bf 3}.
-=======
-\bibitem[{Wei et~al.(2009)Wei, Shao, Fu, Horton, Li, and
-  Zhang}]{wei2009distribution}
-Wei, X., M.~Shao, X.~Fu, R.~Horton, Y.~Li, and X.~Zhang. 2009.
-\newblock Distribution of soil organic c, n and p in three adjacent land use
-  patterns in the northern loess plateau, china.
-\newblock Biogeochemistry, {\bf 96}:149--162.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Westoby et~al.(2020)Westoby, Becken, Laria, and
   Prieto}]{14551496520201201}
@@ -2359,7 +2295,6 @@ Westoby, R., S.~Becken, A.~Laria, and Prieto. 2020.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
 
-<<<<<<< HEAD
 \bibitem[{Wetlands(2019)}]{wetlands_2019}
 Wetlands. 2019.
 \newblock Floating villages and the handypod.
@@ -2380,6 +2315,12 @@ WHO. ????
 \newblock
   \urlprefix\url{https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation}.
 
+\bibitem[{Whyte(2018)}]{whyte2018indigenous}
+Whyte, K.~P. 2018.
+\newblock Indigenous science (fiction) for the anthropocene: Ancestral
+  dystopias and fantasies of climate change crises.
+\newblock Environment and Planning E: Nature and Space, {\bf 1}:224--242.
+
 \bibitem[{wilkie(????)}]{wilkie}
 wilkie. ????
 \newblock Frequently asked questions (biogas faq).
@@ -2389,13 +2330,6 @@ wilkie. ????
 Williams, J.~H. and N.~K. Dubash. 2004.
 \newblock Asian electricity reform in historical perspective.
 \newblock Pacific Affairs, pages 411--436.
-=======
-\bibitem[{Whyte(2018)}]{whyte2018indigenous}
-Whyte, K.~P. 2018.
-\newblock Indigenous science (fiction) for the anthropocene: Ancestral
-  dystopias and fantasies of climate change crises.
-\newblock Environment and Planning E: Nature and Space, {\bf 1}:224--242.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Williams et~al.(2007)Williams, Coles, and
   Primavera}]{williams2007lesson}
@@ -2404,7 +2338,6 @@ Williams, M.~J., R.~Coles, and J.~H. Primavera. 2007.
   coastal planning.
 \newblock Estuarine, Coastal and Shelf Science, {\bf 71}:364--367.
 
-<<<<<<< HEAD
 \bibitem[{Wilmsen(2018)}]{wilmsen2018damming}
 Wilmsen, B. 2018.
 \newblock Damming china’s rivers to expand its cities: the urban livelihoods
@@ -2474,6 +2407,14 @@ Xia, L. and Y.~Shao. 2005.
   to hong kong island.
 \newblock Environmental Modelling and Software, {\bf 20}:1175--1188.
 
+\bibitem[{Xiao et~al.(2019)Xiao, Chevallier, Gomez, Guanter, Hicke, Huete,
+  Ichii, Ni, Pang, Rahman et~al.}]{xiao2019remote}
+Xiao, J., F.~Chevallier, C.~Gomez, L.~Guanter, J.~A. Hicke, A.~R. Huete,
+  K.~Ichii, W.~Ni, Y.~Pang, A.~F. Rahman, et~al. 2019.
+\newblock Remote sensing of the terrestrial carbon cycle: A review of advances
+  over 50 years.
+\newblock Remote Sensing of Environment, {\bf 233}:111383.
+
 \bibitem[{Xu et~al.(2011)Xu, Tan, Yang, Li, and Su}]{xu2011impacts}
 Xu, X., Y.~Tan, G.~Yang, H.~Li, and W.~Su. 2011.
 \newblock Impacts of china's three gorges dam project on net primary
@@ -2507,21 +2448,6 @@ Yiu, P. 2017.
   nears.
 \newblock
   \urlprefix\url{https://www.reuters.com/article/us-hongkong-anniversary-wealth-gap/hong-kong-wealth-gap-at-its-widest-in-decades-as-handover-anniversary-nears-idUSKBN19I1E2}.
-=======
-\bibitem[{Xiao et~al.(2019)Xiao, Chevallier, Gomez, Guanter, Hicke, Huete,
-  Ichii, Ni, Pang, Rahman et~al.}]{xiao2019remote}
-Xiao, J., F.~Chevallier, C.~Gomez, L.~Guanter, J.~A. Hicke, A.~R. Huete,
-  K.~Ichii, W.~Ni, Y.~Pang, A.~F. Rahman, et~al. 2019.
-\newblock Remote sensing of the terrestrial carbon cycle: A review of advances
-  over 50 years.
-\newblock Remote Sensing of Environment, {\bf 233}:111383.
-
-\bibitem[{Xie(2021)}]{knitr}
-Xie, Y. 2021.
-\newblock knitr: A General-Purpose Package for Dynamic Report Generation in R.
-\newblock \urlprefix\url{https://yihui.org/knitr/}.
-\newblock R package version 1.31.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \bibitem[{Zhang et~al.(2017)Zhang, Karnauskas, Donnelly, and
   Emanuel}]{zhang2017response}
@@ -2530,7 +2456,20 @@ Zhang, L., K.~B. Karnauskas, J.~P. Donnelly, and K.~Emanuel. 2017.
   warming: Application of dynamical downscaling to cmip5 models.
 \newblock Journal of Climate, {\bf 30}:1233--1243.
 
-<<<<<<< HEAD
+\bibitem[{Zhang et~al.(2021)Zhang, Gregory, Whalley, Ren, and
+  Gao}]{zhang2021characteristics}
+Zhang, W., A.~S. Gregory, W.~R. Whalley, T.~Ren, and W.~Gao. 2021.
+\newblock Characteristics of soil organic matter within an erosional landscape
+  under agriculture in northeast china: stock, source, and thermal stability.
+\newblock Soil and Tillage Research, {\bf 209}:104927.
+
+\bibitem[{Zhao et~al.(2015)Zhao, Klik, Mu, Wang, Gao, and
+  Sun}]{zhao2015sediment}
+Zhao, G., A.~Klik, X.~Mu, F.~Wang, P.~Gao, and W.~Sun. 2015.
+\newblock Sediment yield estimation in a small watershed on the northern loess
+  plateau, china.
+\newblock Geomorphology, {\bf 241}:343--352.
+
 \bibitem[{Zhao and Zhang(2005)}]{zhao2005economic}
 Zhao, S.~X. and L.~Zhang. 2005.
 \newblock Economic growth and income inequality in hong kong: Trends and
@@ -2550,20 +2489,5 @@ Zhu, H.-M., S.~Xiang, K.~Yang, X.-H. Wu, and X.-N. Zhou. 2008.
 \newblock Three gorges dam and its impact on the potential transmission of
   schistosomiasis in regions along the yangtze river.
 \newblock Ecohealth, {\bf 5}:137--148.
-=======
-\bibitem[{Zhang et~al.(2021)Zhang, Gregory, Whalley, Ren, and
-  Gao}]{zhang2021characteristics}
-Zhang, W., A.~S. Gregory, W.~R. Whalley, T.~Ren, and W.~Gao. 2021.
-\newblock Characteristics of soil organic matter within an erosional landscape
-  under agriculture in northeast china: stock, source, and thermal stability.
-\newblock Soil and Tillage Research, {\bf 209}:104927.
-
-\bibitem[{Zhao et~al.(2015)Zhao, Klik, Mu, Wang, Gao, and
-  Sun}]{zhao2015sediment}
-Zhao, G., A.~Klik, X.~Mu, F.~Wang, P.~Gao, and W.~Sun. 2015.
-\newblock Sediment yield estimation in a small watershed on the northern loess
-  plateau, china.
-\newblock Geomorphology, {\bf 241}:343--352.
->>>>>>> 75e4fe66b10036a8ac7dc70ac98b1968275c921c
 
 \end{thebibliography}

@@ -16,6 +16,14 @@ I, \rule{3in}{0.4pt}, give permission for other collaborators to edit my text to
 
 \bigskip
 
+$\square$ I give permission to have my chapter posted online with the rest of the text.
+
+\bigskip
+
+$\square$ I give permission to have my chapter posted online with the rest of the text with additional editing.
+
+\medskip
+
 $\square$ I give permission for others to edit my chapter without contacting me.
 
 \medskip
