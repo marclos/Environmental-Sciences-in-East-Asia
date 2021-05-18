@@ -5,38 +5,16 @@ The style file: ecology.bst
 Reallocated field_info (elt_size=4) to 15032 items from 5000.
 Database file #1: References.bib
 Warning--entry type for "liu_documentary" isn't style-file defined
---line 1418 of file References.bib
+--line 1542 of file References.bib
+Warning--entry type for "Macan-Maker.2008" isn't style-file defined
+--line 1583 of file References.bib
 Warning--entry type for "remote_earth" isn't style-file defined
---line 1527 of file References.bib
+--line 1667 of file References.bib
+Warning--entry type for "Goldman.2019" isn't style-file defined
+--line 4720 of file References.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: marctest.bib
-Warning--I didn't find a database entry for "Goldman.2019"
-Warning--I didn't find a database entry for "brakenridge2017design"
-Warning--I didn't find a database entry for "hlaing2019chronic"
-Warning--I didn't find a database entry for "elkharouf2019grassroot"
-Warning--I didn't find a database entry for "sinnarong2019estimating"
-Warning--I didn't find a database entry for "furuya2014impacts"
-Warning--I didn't find a database entry for "peng2004rice"
-Warning--I didn't find a database entry for "karim1997heat"
-Warning--I didn't find a database entry for "oh2007effects"
-Warning--I didn't find a database entry for "xiong2017meta"
-Warning--I didn't find a database entry for "chen2012climate"
-Warning--I didn't find a database entry for "myint2018myanmar"
-Warning--I didn't find a database entry for "kravtsova2009hydrological"
-Warning--I didn't find a database entry for "furuichi2009discharge"
-Warning--I didn't find a database entry for "hajek2014river"
-Warning--I didn't find a database entry for "gupta2012role"
-Warning--I didn't find a database entry for "syvitski2009sinking"
-Warning--I didn't find a database entry for "bayazit2015nonstationarity"
-Warning--I didn't find a database entry for "seekins2009state"
-Warning--I didn't find a database entry for "Macan-Maker.2008"
-Warning--I didn't find a database entry for "omori2020assessment"
-Warning--I didn't find a database entry for "siok2012rice"
-Warning--I didn't find a database entry for "fujita2016agriculture"
-Warning--I didn't find a database entry for "smith1991burma"
-Warning--I didn't find a database entry for "aung2013history"
 Warning--I didn't find a database entry for "emanuel2006hurricane"
-Warning--I didn't find a database entry for "2615280620070801"
 Warning--to sort, need author, editor, or key in cabi2021
 Warning--to sort, need author or key in theeconomist
 Warning--to sort, need author or key in stockholmresiliencecentre
@@ -77,6 +55,7 @@ Warning--empty year in hedleyenvind; set to ????
 Warning--empty journal in hedleyenvind
 Warning--empty year in ipen; set to ????
 Warning--empty publisher in isderion_2013
+Warning--empty journal in karim1997heat
 Warning--empty year in kulkari; set to ????
 Warning--empty year in liu; set to ????
 Warning--empty journal in liu2013chinese
@@ -111,45 +90,45 @@ Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
 Warning--empty journal in wong2018
 Warning--empty journal in yiu2017
-You've used 391 entries,
+You've used 417 entries,
             2710 wiz_defined-function locations,
-            2639 strings with 80928 characters,
-and the built_in function-call counts, 186066 in all, are:
-= -- 17441
-> -- 10332
-< -- 278
-+ -- 3568
-- -- 3067
-* -- 14250
-:= -- 34766
-add.period$ -- 1607
-call.type$ -- 391
-change.case$ -- 2955
-chr.to.int$ -- 383
-cite$ -- 479
-duplicate$ -- 8338
-empty$ -- 12421
-format.name$ -- 3937
-if$ -- 36564
+            2741 strings with 85634 characters,
+and the built_in function-call counts, 199921 in all, are:
+= -- 18729
+> -- 11166
+< -- 291
++ -- 3849
+- -- 3316
+* -- 15396
+:= -- 37296
+add.period$ -- 1712
+call.type$ -- 417
+change.case$ -- 3166
+chr.to.int$ -- 409
+cite$ -- 506
+duplicate$ -- 8918
+empty$ -- 13331
+format.name$ -- 4254
+if$ -- 39290
 int.to.chr$ -- 9
 int.to.str$ -- 1
-missing$ -- 332
-newline$ -- 1995
-num.names$ -- 1538
-pop$ -- 3830
+missing$ -- 359
+newline$ -- 2125
+num.names$ -- 1642
+pop$ -- 4105
 preamble$ -- 1
-purify$ -- 2568
+purify$ -- 2754
 quote$ -- 0
-skip$ -- 5130
+skip$ -- 5474
 stack$ -- 0
-substring$ -- 9036
-swap$ -- 824
-text.length$ -- 29
+substring$ -- 9813
+swap$ -- 890
+text.length$ -- 31
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3417
-warning$ -- 74
-while$ -- 1524
+type$ -- 3642
+warning$ -- 75
+while$ -- 1641
 width$ -- 0
-write$ -- 4981
-(There were 103 warnings)
+write$ -- 5313
+(There were 80 warnings)

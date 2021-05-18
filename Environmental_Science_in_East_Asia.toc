@@ -129,11 +129,11 @@
 \contentsline {section}{\numberline {9.3}Agricultural Production and Food Insecurity}{110}{section.9.3}
 \contentsline {section}{\numberline {9.4}Implications of Climate Change on Rice Production}{110}{section.9.4}
 \contentsline {subsection}{\numberline {9.4.1}Increasing Temperatures}{112}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Sea Level Rise}{112}{subsection.9.4.2}
-\contentsline {subsection}{\numberline {9.4.3}Precipitation and flooding}{115}{subsection.9.4.3}
+\contentsline {subsection}{\numberline {9.4.2}Sea Level Rise}{113}{subsection.9.4.2}
+\contentsline {subsection}{\numberline {9.4.3}Precipitation and flooding}{113}{subsection.9.4.3}
 \contentsline {section}{\numberline {9.5}Cyclone Nargis}{117}{section.9.5}
-\contentsline {section}{\numberline {9.6}The Modern History of Rice Production in Myanmar}{121}{section.9.6}
-\contentsline {subsection}{\numberline {9.6.1}The 19th Century--The Industrialization of Rice}{121}{subsection.9.6.1}
+\contentsline {section}{\numberline {9.6}The Modern History of Rice Production in Myanmar}{120}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}The 19th Century--The Industrialization of Rice}{120}{subsection.9.6.1}
 \contentsline {subsection}{\numberline {9.6.2}The 20th Century--Rice Production in an Era of Political Transition}{121}{subsection.9.6.2}
 \contentsline {subsection}{\numberline {9.6.3}The 21st Century-The Slow Process of Liberalization}{123}{subsection.9.6.3}
 \contentsline {section}{\numberline {9.7}Conclusion}{123}{section.9.7}

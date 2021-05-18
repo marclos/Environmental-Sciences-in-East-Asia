@@ -59,7 +59,7 @@ One effect of climate change that has a significant impact on rice production is
 High heat stresses rice crop during the most vulnerable periods of the plant's production cycle. The growth rate of rice increases linearly as temperatures increase from 22\degree C to 31\degree C, and then decreases significantly beyond that point (\citep{wassmann2004sea}). In the vegetative stage, the period of growth between germination and flowering, temperatures hotter than 35\degree C have an extremely negative affect on photosynthetic carbon fixation. At high temperatures kinetic energy increases and bonds within cellular membranes loosen which creates a reorganization of thylakoid stacks, or grana \citep{karim1997heat}. This heat-induced reaction can reduce photosynthesis by over 35\% \citep{oh2007effects}.
 
 \begin{figure}
-\includegraphics[width=\linewidth]{images/myanmar/Image4.jpg}
+\includegraphics[width=.7\linewidth]{images/myanmar/Image4.jpg}
 \caption{Comparison of an undisturbed (stacked) chloroplast and the swelling of the grana that is induced by heat}
 \end{figure}
 
@@ -172,4 +172,3 @@ In his book "The Myanmar Economy" Koichi Fujita utilizes the term "rice trauma."
 As the onset of the climate crisis continues over the next century, scientists have stated that agriculture needs to change. Evidence shows that crops will need to become more resilient and agricultural practices must strive to be increasingly sustainable as the world begins to deal with extreme weather and increased temperatures. While alterations to established agricultural processes may be relatively easily to implement in countries with extensive resources and stable economies, a developing Southeast Asian country such as Myanmar will struggle to build upon weak infrastructure and will face strong opposition in the form of corruption and political instability. 
 
 The 2021 coup is evidence that while it is easy to highlight the agricultural technologies and reform that is needed, Myanmar's complicated political history and continued political instability will hinder its ability to adapt in the face of the climate crisis. However, if a democratic government is successfully established in Myanmar, other Southeast Asian countries may look to Myanmar to lead the way as the country can set a precedent by sustainably developing the large intact landscapes that show economic and ecological promise throughout the country. 
-
