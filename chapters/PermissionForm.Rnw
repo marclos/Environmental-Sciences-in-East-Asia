@@ -4,11 +4,9 @@
 
 Congratulations, you have done a steller job describing environmental issues in East Asia and create a valuable resources for others. 
 
-As a goal of the course, the content can continue to evolve and even improve with new research and contributions. Thus, the text you have written could be revised in the future, should you give permission. For example, I'd like to add a glossary and an index of topics -- more than we had time to do. I should also fix citation issues at some point. 
+As a goal of the course, the content can continue to evolve and even improve with new research and contributions. Thus, the text you have written could be revised in the future, should you give permission. For example, I'd like to add a glossary and an index of topics -- more than we had time to do. At some point, I might fix citation issues, improve clarity, and perhaps add or move content. 
 
-I have purposely given you the option after grades were submitted to ensure that how you proceed will have no bearing on the your course outcome.
-
-However, you may appreciate others going over and possibly improving your text with time and adding their names as contributors or co-authors iftheWhether or not you decide to give permission has no bearing on your grade.
+I have purposely given you the option after grades were submitted to ensure that how you proceed will have no bearing on the your course outcome. You may appreciate others going over and possibly improving your text with time and adding their names as contributors or co-authors as appropriate. Whether or not you decide to give permission has no bearing on your grade.
 
 \section*{Form}
 
@@ -16,11 +14,15 @@ I, \rule{3in}{0.4pt}, give permission for other collaborators to edit my text to
 
 \bigskip
 
+$\square$ I do not give permission to have my chapter posted online with the rest of the text.
+
+\bigskip
+
 $\square$ I give permission to have my chapter posted online with the rest of the text.
 
 \bigskip
 
-$\square$ I give permission to have my chapter posted online with the rest of the text with additional editing.
+$\square$ I give permission to have my chapter posted online with the rest of the text only with additional editing.
 
 \medskip
 

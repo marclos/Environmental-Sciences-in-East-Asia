@@ -1,10 +1,10 @@
 \chapter{Critical Zone}\label{ch:critical-zone}
 
-\chapterauthor{Marc Los Huertos}\footnote{The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter.}
+\chapterauthor{Marc Los Huertos\footnote{The chapter was first drafted by Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter.}}
 
 \section{What is the Critical Zone}
 
-The crticical zone refers the the portion of the Earth's skin where the zone where rock meets life. The Critical Zone supports all terrestrial life.
+The crticical zone refers the the portion of the Earth's skin or where rock meets life. The Critical Zone supports all terrestrial life.
 
 The critical zone includes the following:
 
@@ -21,7 +21,7 @@ Its complex interactions regulate the natural habitat and determine the availabi
 These are but two of the many benefits or services provided by the Critical Zone. Such `Critical-Zone Services' expand upon the benefits provided by ecosystems to also include the coupled hydrologic, geochemical, and geomorphic processes that underpin those ecosystems.
 
 \begin{figure}
-\includegraphics[width=\textwidth]{images/critical-zone/criticalzone.jpg}
+\includegraphics[width=.8\textwidth]{images/critical-zone/criticalzone.jpg}
 \caption{The Critical Zone is an interdisciplinary field of research exploring the interactions among the land surface, vegetation, and water bodies, and extends through the pedosphere, unsaturated vadose zone, and saturated groundwater zone. Critical Zone science is the integration of Earth surface processes (such as landscape evolution, weathering, hydrology, geochemistry, and ecology) at multiple spatial and temporal scales and across anthropogenic gradients. These processes impact mass and energy exchange necessary for biomass productivity, chemical cycling, and water storage.}
 \label{fig:criticalzone}
 \end{figure}
@@ -32,13 +32,29 @@ The critical zone as a concept and as a material space pushes us to think of the
 
 \section{Hydrologic Aspects}
 
+\subsection{Permeability and the Water Cycle}
+
+Except for a neglible fraction, all water on the planet is stable, thus the total amount is constant. But water can move between various ``pools'', for example between the oceans and atmosphere, via evaporation and precipitation. On land, water might evaporate from surface waters or the soil or transpired from plant surfaces. Evapotranspiration is the sum of soil evaporation and plant transpiration. Thus, the soil and plant surfaces are permeable surfaces. Water can infiltrate into soils, which is called infiltration, which can move move further downward through the soil and beyond or percolation. Thus, below the soil and below is also permeable. Water that does not infiltrate flows across the Earth's surface as runoff and is discharged into the ocean or lakes that have not outlet. 
+
+The rate that water flows through the water cycle varies dramatically. For example, permeability surfaces slow the rate of water movement. A terminal lake or sink may fill up with discharge with spring runoff, only to evaporate in the late summer. Thus, the water cycle a set of overlapping rate limiting steps, which to me makes it more interesting than the water cycle that just identifies the processes of evaporation, transpiration, precipation, discharge, and infiltration. 
+
+The travel time $\tau$ within a compartment or pool can be measured, about when it enters ($t_{in}$) and exits ($t_{out}$):
+
+\begin{equation}
+\tau = t_{out} - t_{in}
+\end{equation}
+
+\noindent but why is knowing these important?  
+
+\red{Add: June 2021}
+
 \subsection{Subsurface Hydrology}
 
-As water percolates into the soil or flows in the pour space below the surface waters it becomes part of the ground water. The study of this water might be called subsurface hydrology or ground water hydrology or hydrogeology. 
+As water infiltrates into the soil or flows in the pour space below the surface waters as it becomes part of the ground water. The study of this water might be called subsurface hydrology or ground water hydrology or hydrogeology. 
 
 There are two main areas of subsurface waters: saturated zone and unsaturated zone (Figure~\ref{fig:groundwater}).
 
-The saturated zone is the region where all the spaces between the particles are filled by water. The surface of the saturated zone is the water table. 
+The saturated zone is the region where all the spaces between the particles or rocks are filled by water. The surface of the saturated zone is the water table. 
 
 The unsaturated zone is also called the vadose zone has some percentage of the pour spaces have air. The vadose zone also includes an area called the capillary fringe. Because of the surface tension of water, water is found in between particles above the water table and this zone is referred to as the capillary fringe. 
 

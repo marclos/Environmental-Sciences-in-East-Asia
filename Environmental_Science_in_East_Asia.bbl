@@ -1,4 +1,4 @@
-\begin{thebibliography}{390}
+\begin{thebibliography}{391}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
@@ -501,6 +501,13 @@ Dao, N. 2010.
 \newblock Dam development in vietnam: The evolution of dam-induced resettlement
   policy.
 \newblock Water Alternatives, {\bf 3}:324.
+
+\bibitem[{Dasgupta et~al.(2009)Dasgupta, Laplante, Murray, and
+  Wheeler}]{dasgupta2009sea}
+Dasgupta, S., B.~Laplante, S.~Murray, and D.~Wheeler. 2009.
+\newblock Sea-level rise and storm surges: A comparative analysis of impacts in
+  developing countries.
+\newblock jounral name is missing.
 
 \bibitem[{Dasgupta et~al.(2002)Dasgupta, Laplante, Wang, and
   Wheeler}]{dasgupta2002confronting}

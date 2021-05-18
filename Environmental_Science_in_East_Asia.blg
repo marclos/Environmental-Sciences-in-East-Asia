@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
 The style file: ecology.bst
-Reallocated field_info (elt_size=4) to 14432 items from 5000.
+Reallocated field_info (elt_size=4) to 15032 items from 5000.
 Database file #1: References.bib
 Warning--entry type for "liu_documentary" isn't style-file defined
 --line 1418 of file References.bib
@@ -10,7 +10,31 @@ Warning--entry type for "remote_earth" isn't style-file defined
 --line 1527 of file References.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: marctest.bib
+Warning--I didn't find a database entry for "Goldman.2019"
+Warning--I didn't find a database entry for "brakenridge2017design"
+Warning--I didn't find a database entry for "hlaing2019chronic"
+Warning--I didn't find a database entry for "elkharouf2019grassroot"
+Warning--I didn't find a database entry for "sinnarong2019estimating"
+Warning--I didn't find a database entry for "furuya2014impacts"
+Warning--I didn't find a database entry for "peng2004rice"
+Warning--I didn't find a database entry for "karim1997heat"
+Warning--I didn't find a database entry for "oh2007effects"
+Warning--I didn't find a database entry for "xiong2017meta"
+Warning--I didn't find a database entry for "chen2012climate"
+Warning--I didn't find a database entry for "myint2018myanmar"
+Warning--I didn't find a database entry for "kravtsova2009hydrological"
+Warning--I didn't find a database entry for "furuichi2009discharge"
+Warning--I didn't find a database entry for "hajek2014river"
+Warning--I didn't find a database entry for "gupta2012role"
+Warning--I didn't find a database entry for "syvitski2009sinking"
+Warning--I didn't find a database entry for "bayazit2015nonstationarity"
 Warning--I didn't find a database entry for "seekins2009state"
+Warning--I didn't find a database entry for "Macan-Maker.2008"
+Warning--I didn't find a database entry for "omori2020assessment"
+Warning--I didn't find a database entry for "siok2012rice"
+Warning--I didn't find a database entry for "fujita2016agriculture"
+Warning--I didn't find a database entry for "smith1991burma"
+Warning--I didn't find a database entry for "aung2013history"
 Warning--I didn't find a database entry for "emanuel2006hurricane"
 Warning--I didn't find a database entry for "2615280620070801"
 Warning--to sort, need author, editor, or key in cabi2021
@@ -87,45 +111,45 @@ Warning--empty year in who; set to ????
 Warning--empty year in wilkie; set to ????
 Warning--empty journal in wong2018
 Warning--empty journal in yiu2017
-You've used 390 entries,
+You've used 391 entries,
             2710 wiz_defined-function locations,
-            2609 strings with 80286 characters,
-and the built_in function-call counts, 185562 in all, are:
-= -- 17398
-> -- 10292
+            2639 strings with 80928 characters,
+and the built_in function-call counts, 186066 in all, are:
+= -- 17441
+> -- 10332
 < -- 278
-+ -- 3555
-- -- 3055
-* -- 14208
-:= -- 34669
-add.period$ -- 1603
-call.type$ -- 390
-change.case$ -- 2946
-chr.to.int$ -- 382
-cite$ -- 478
-duplicate$ -- 8316
-empty$ -- 12394
-format.name$ -- 3922
-if$ -- 36468
++ -- 3568
+- -- 3067
+* -- 14250
+:= -- 34766
+add.period$ -- 1607
+call.type$ -- 391
+change.case$ -- 2955
+chr.to.int$ -- 383
+cite$ -- 479
+duplicate$ -- 8338
+empty$ -- 12421
+format.name$ -- 3937
+if$ -- 36564
 int.to.chr$ -- 9
 int.to.str$ -- 1
-missing$ -- 331
-newline$ -- 1990
-num.names$ -- 1534
-pop$ -- 3816
+missing$ -- 332
+newline$ -- 1995
+num.names$ -- 1538
+pop$ -- 3830
 preamble$ -- 1
-purify$ -- 2560
+purify$ -- 2568
 quote$ -- 0
-skip$ -- 5118
+skip$ -- 5130
 stack$ -- 0
-substring$ -- 9025
-swap$ -- 822
+substring$ -- 9036
+swap$ -- 824
 text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3408
+type$ -- 3417
 warning$ -- 74
-while$ -- 1521
+while$ -- 1524
 width$ -- 0
-write$ -- 4969
-(There were 79 warnings)
+write$ -- 4981
+(There were 103 warnings)

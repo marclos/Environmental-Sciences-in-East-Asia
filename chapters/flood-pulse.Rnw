@@ -1,6 +1,6 @@
 \chapter{Flood Pulse System of the Mekong River and Tonle Sap}\label{ch:floodpulse}
 
-\chapterauthor{Kristin Gabriel}
+\chapterauthor{Kristin Gabriel and Marc Los Huertos\footnote{Gabriel initiated the research and early drafts of the chapter. Los Huertos will be adding content, references, and figures over the summer of 2021.}}
 
 \section{Introducing the Mekong and Tonle Sap}
 
@@ -10,7 +10,7 @@ The Mekong River and Tonle Sap Lake function as one of the most important river-
 
 \begin{figure}
 \includegraphics[width=\linewidth]{images/floodpulse/TonleSapMap}
-\caption{Map of Tonle Sap (Source: Wikicommons}
+\caption{Map of Tonle Sap (Source: Wikicommons).}
 \label{fig:tonlesap}
 \end{figure}
 
