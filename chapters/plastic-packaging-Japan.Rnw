@@ -36,6 +36,7 @@ To this end, anthropologist Gavin Whitelaw decided to only consume food from kon
 
 
 \begin{figure}[h]
+\centering
 %\includegraphics[width=\linewidth]{images/JapanPlastics/groceries.png}
 \includegraphics{images/JapanPlastics/groceries.png}
 \caption{Here are plastic wrapped fruits that you could find in konbini or other grocery stores in Japan. Source: \citep{denyer2019}.}
